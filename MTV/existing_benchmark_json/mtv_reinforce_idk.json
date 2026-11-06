@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "idk_reinforce_0",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000526401.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What turn can you make according to the sign?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_1",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000273579.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What animal is the woman holding?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_2",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000244160.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>How many red tiles on this building?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_3",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000183715.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What flavor is the cake?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_4",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000289194.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>The catcher 'goose' the batter?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_5",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000546760.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is this machine?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_6",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000449660.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where are the cats attention focused?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_7",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000015968.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What pattern is on the wall?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_8",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000127092.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What city is this in?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_9",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000477500.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the name of the store?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_10",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000579666.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What brand of laptops are in front of the men?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_11",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000030067.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What brand of tennis racket is in this photo?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_12",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000314907.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is this singles or doubles?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_13",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000079357.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What does the red sign say?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_14",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000382350.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What clothing emblem is featured on the wall in front of the crowd?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_15",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000478621.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Can he walk on that stick?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_16",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000327315.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What kind of candy is on the cake?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_17",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000073450.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is the plane full of people?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_18",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000362714.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is parked on the side of the street?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_19",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000190907.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What job were the men in the picture performing?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_20",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000334222.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is the skater going to fall?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_21",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000132042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the man watching?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_22",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000053956.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Why is the image inside of a circle?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_23",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000122549.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>How many scars does the man have on his face?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_24",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000233527.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Why is a bicycle on the front of the bus?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_25",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000055694.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>How many eyelashes does the cow have?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_26",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000136141.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What color are the bananas?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_27",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000565341.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the name of this dog?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_28",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000536366.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What does the left sign tell you not to do?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_29",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000187901.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>How tall is the building on the right?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_30",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000125051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What are the words on the right side of the photo?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_31",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000078260.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What plants are in this kitchen?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_32",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000441292.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What word can be seen on the back of the bus?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_33",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000087677.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What type of product did the truck carry when operable?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_34",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000160393.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Whose photograph is in the picture frame on the side table?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_35",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000279838.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What game is she Playing?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_36",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000492075.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What types of food are made from these animals?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_37",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000297578.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What website is displayed on the photo?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_38",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000476597.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What movie are the costumed characters from?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_39",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000095959.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What beach is this?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_40",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000022208.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What brand of TV is this?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_41",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000134231.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Why is the cauliflower orange?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_42",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000106794.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is the horse happy?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_43",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000471226.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What type of hood is this?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_44",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000481159.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which horse will win?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_45",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000370388.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Do you think this scene is in a 3rd world country?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_46",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000174103.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where are the skis?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_47",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000350860.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Why are there two doors on either side of the main door?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_48",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000440895.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is that a real horse?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_49",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000233527.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Why is a bicycle on the front of the bus?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_50",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000271864.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is this a bedroom in a castle?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_51",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000218494.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Whose desk is that?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_52",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000490225.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What month, day, and year was this photo taken?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_53",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000071284.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What language is shown in this scene?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_54",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000316666.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are the shelves brightly lit?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_55",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000267951.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Do the lines on the zebras forehead appear to move similarly to water when a stone hits it?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_56",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000337619.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What shades are here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_57",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000278601.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the age of the truck?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_58",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000230119.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where did you buy the curtains?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_59",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000030067.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What brand of tennis racket is in this photo?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_60",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000483135.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the sexuality of the two men on the couch?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_61",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000514200.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is the clock going to fall?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_62",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000574145.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What type of closer does the shower have?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_63",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000542694.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What vegetables are in the cage?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_64",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000464018.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where are these bears from?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_65",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000286907.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What game is depicted by the painted tiles?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_66",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000386553.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Isn't this Elvis's favorite sandwich?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_67",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000461030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Do they wash dishes by hand?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_68",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000129659.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is that tomato soup?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_69",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000108758.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are the toothbrush for sale?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_70",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000399998.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What does the display on the front top of the bus say?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_71",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000365642.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the woman sitting on?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_72",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000137993.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What kind of bridge is this?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_73",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000024053.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What color is the brick wall?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_74",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000056821.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What kind of trees are these?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_75",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000306889.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What type of  'cream' does it say on the cookie wrapper?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_76",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000525542.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where is the bus going?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_77",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000519046.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>How tall is this animal?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_78",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000092187.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What does the meter say on it?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_79",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000262347.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there a beehive in the garden?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_80",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000450098.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What fast food restaurant is in the distance?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_81",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000125062.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Who is the manufacturer of these teddy bears?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_82",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000477705.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What country is the source of this picture?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_83",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000086442.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What kind of horses are these?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_84",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000489159.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What kind of vegetable is this?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_85",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000016593.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are these people related?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_86",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000563083.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is this a current phone?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_87",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000190227.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is this in an airplane?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_88",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000266176.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What color is the envelope?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unanswerable"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_89",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000455267.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>How could the broccoli taste with that kind of meat?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_90",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000492323.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What brand of shoes are the athletes wearing?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_91",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000368294.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What room is this?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "not sure"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_92",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000179317.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What seems to be the search question on the Samsung phone?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_93",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000061418.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>In what year was this picture taken?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_94",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000107661.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What material is the fence?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_95",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000095583.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where are the stripes?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_96",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000455275.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What kind of flowers are these?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "don't know"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_97",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000177101.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What does the red sign say?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_98",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000009007.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What pattern shirt is the man wearing?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "none"
+      }
+    ]
+  },
+  {
+    "id": "idk_reinforce_99",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "idk",
+    "image": [
+      "data/coco/val2014/COCO_val2014_000000155671.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Does this street go to downtown?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "unknown"
+      }
+    ]
+  }
+]

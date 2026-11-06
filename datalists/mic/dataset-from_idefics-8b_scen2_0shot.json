@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 289,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "289",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000352985.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a group of people standing on the floor. in that a man is holding a laptop. in the background we can see a wall, door, [IDN], [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a group of men talk to one another in a bright office space."
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "757",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000279308.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a brown and white dog is running with a stick in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a brown dog running with a long stick in his mouth."
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "837",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000214266.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in a tan jacket looks through a telescope [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a brown coat looks into a telescope with others in the background do the same."
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "840",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000085948.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a little boy jumps in the air in front of a couch in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "young boy wearing a yellow shirt jumps onto the brown couch."
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "866",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000568572.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see two persons standing on the snow. in the background we can [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two young people engage in a friendly snowball fight."
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "253",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000512295.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see a few people. there are a few objects on the table. there are a few lights and boards. there are a few objects on the shelves. there are a few objects on the left side of the image. there are a [IDN] the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two boys from a boys club are filling orange bags in a store"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "688",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000112807.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a group of soldiers in red uniforms and black boots march down [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a military marching band of soldiers in formal uniform with red coats and fuzzy black hats march by, led by the saxophonist."
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "232",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000257149.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two dogs are playing in the woods. the dog on the left is golden retriever and the dog on the right is a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two dogs playing near the woods."
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "529",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000229574.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men in a white jersey with the number 24 and a red logo that says pick mizo are playing [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "there is a large crowd of people watching a soccer game with one team having a mostly black uniform and the other team a mostly white uniform."
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "206",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000335747.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see a person in the water and we can see another person. in the background, there [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young man in a bodysuit is taking part in a water sports activity."
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "637",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000198557.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in a black jacket and blue jeans is walking down the sidewalk in front of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man wearing a black jacket walks down a sidewalk in the winter in the city."
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "187",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000505058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a john deere tractor is spreading fertilizer in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a tractor is driving in a field."
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "598",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000355111.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a lady with a blue skirt is standing in front of a light in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "woman in heels and skirt looking at products."
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "373",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000332691.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the narrow alleyway is filled with a vendor selling drinks and a customer interacting with the vendor while a llama stands nearby. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a llama is standing on the side of the street."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "32",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000357812.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two young boys are sitting in front of a piece of wood with writing on it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two children display a stone with dialect on it while people in the background are reading."
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "847",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000391351.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: rodeo riders are wrestling with a bull that just got bucked off. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "these men are participating in a rodeo."
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "147",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000326723.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two cyclists in blue and white uniforms are riding in a street in front of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two bicyclists race against each other."
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "515",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000046543.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we see a man standing in what appears to be a market or a butcher shop. the man is wearing a light-colored, long-sleeved shirt and has a serious expression on his face. his hair is short and dark. he is looking down, possibly at the items in front of him. in front of the man, there are several items hanging from hooks. these items appear to be pieces of meat, likely cuts of beef or pork, given their texture and color. the meat is hanging from metal hooks, which are attached to a metal rod or a beam. the lighting in the image is dim, with the light source coming from above, casting shadows on the man's face and the meat. the background of the image is blurred, but it seems to be a continuation of the market or butcher shop. there are more items hanging, possibly more meat, and some greenery visible, suggesting that the shop might be outdoors or have an outdoor section. the overall atmosphere of [IDN] somewhat somber [IDN], with [IDN] to [IDN]. [IDN] not contain [IDN] would provide [IDN]. [IDN] primarily on [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "chinese man preparing food."
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "298",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000387706.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a young girl is sitting in a folding chair reading a book titled diary of a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young girl is sitting in a purple fold up chair reading a book."
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "145",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000114459.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two children are in bed with a dog. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two girls lie in bed in the presence of dogs."
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "169",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000153666.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a group of people. in that a man is standing and other people are sitting on the sand. in the background we can [IDN], [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a group of men and children play in the sand while a wave hits."
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "127",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000142822.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a young man is standing at a counter top, smiling at the camera, cutting a red vegetable with [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a white shirt cutting food with a knife."
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "226",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000188589.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a small child is standing in a grass covered area next to a tree. the child is wearing a white shirt and dark pants. the child is holding [IDN] his [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a child plays frisbee in a park."
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "309",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000272588.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman in a brown dress and red hat is carrying [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "an older woman carrying two pails on a sunny day."
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "962",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000339639.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman is presenting a program to a group of people in a room at [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "this group is doing their best to try and enjoy the new hospital orientation."
+      }
+    ]
+  },
+  {
+    "id": 919,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "919",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000381795.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see three women standing on the floor. in that a woman is sitting on the chair. in front of them there are tables and chairs. on the table there are bottles, books and other objects. in the background there [IDN], [IDN], [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two girls are standing behind another girl."
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "214",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000342019.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a bearded man with sunglasses is playing a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a heavyset young man in a blue t-shirt and heavy black-rimmed glasses is playing the guitar on the street."
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "574",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000093298.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man with a dolly full of tennis balls is on the court with [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "girl and a boy, playing tennis."
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "523",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000322101.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a person engaged in white-water rafting, navigating a kayak through a turbulent river. the individual is seated in a blue kayak, which appears to be designed for such activities, equipped with a spray skirt around the waist to keep water out. the kayak is being propelled by the person using a paddle, which is held in both hands. the person is wearing a helmet, a life jacket, and a wetsuit, indicating safety precautions for the activity. the wetsuit is orange, and the helmet is black, both of which are essential for protection against the rough water and potential collisions. the river water is visibly turbulent, with waves and rapids creating a dynamic and challenging environment. the water appears to be brown, likely due to the natural sediment and minerals present in the river. the person's body language and the positioning of the kayak suggest they are actively maneuvering through the rapids, possibly trying to avoid obstacles or maintain balance. the background of the image is blurred, focusing attention on the person and [IDN]. the [IDN] one [IDN], capturing [IDN], a [IDN] involves navigating through rough, [IDN]. in summary, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a kayaker almost turns over."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "72",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000004180.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in a light colored jacket and dark pants stands on a rock in front of some tall, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man dressed in long sleeves and pants is standing in front of snow covered mountains with a thick layer of fog."
+      }
+    ]
+  },
+  {
+    "id": 894,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "894",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000363252.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man is fishing from a folding chair on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man sits on a folding chair on big block of ice, holding on to a rope."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "1",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000030188.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men are selling produce in front of a store and there is a tree to the left of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two people tend their vegetable stand on the sidewalk in front of an open doorway."
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "447",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000337877.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a person is walking in the crosswalk while people are standing on the sidewalk near [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man crosses the street next to a light rail station."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "114",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000048032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two dogs are in a field. one is tan and the other is black and brown. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a yellow and black dog looking in the same direction standing in some brush."
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "397",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000419410.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a baby that has sauce on its bib. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "an adult hods a baby wearing a bib, the baby has food around its mouth."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "4",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000419056.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two young girls are looking at a bunch of barbie dolls on a shelf at [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two young girls looking at barbie dolls."
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "590",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000440310.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man with glasses and a baseball hat is wearing a t-shirt that says come [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man with glasses is wearing a shirt that says to go downtown."
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "956",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000501094.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the man is doing a trick on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "man boogie boarding on wave."
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "180",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000080168.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a serene waterfront scene, likely taken during the day, given the natural lighting and the presence of shadows. the primary focus of the image is a concrete walkway that runs parallel to a body of water, possibly a river or a lake. the walkway is bordered by a low stone wall on the left side, which appears to be wet, suggesting proximity to the water. on the right side, there is a grassy area with a few trees and some benches, indicating a park-like setting. several people are visible in the image. on the left side of the walkway, a man is standing, possibly fishing, as he is holding a fishing rod. he is dressed in casual attire, including a white shirt and shorts. to his right, another man is seated on the edge of the walkway, also engaged in fishing. this man is wearing a white shirt and shorts, and he appears to be focused on his fishing activity. further down the walkway, there are more people, some seated and [IDN], all engaged in [IDN]. [IDN] sitting on [IDN], [IDN] simply enjoying [IDN]. [IDN] casually dressed, indicating [IDN] leisurely atmosphere. in [IDN], Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "people are sitting on step along the water and fishing."
+      }
+    ]
+  },
+  {
+    "id": 995,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "995",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000024132.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three people are standing outside of a store [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "the two men and one woman wearing jackets are standing in front of a white and blue building."
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "718",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000423363.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a young boy wearing an orange t shirt and black pants is sitting on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a child is sitting on some rocks outside."
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "146",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000168963.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a dog is jumping up to catch a stream of water that is being sprayed from [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a dog is hosed as it jumps into a kiddie pool."
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "443",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000277729.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a boy is doing a kick in the air in front of a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a child kicks the air outside at a sporting event."
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "500",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000217113.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man wearing a white shirt and blue jeans is working with a pair of scissors in his right hand and a wrench in his left hand. he is standing in front of a white wall with a door on the left. there is a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man is using tools to make a repair."
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "663",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000037502.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts an outdoor scene featuring a group of people engaged in various activities. the primary focus is on a man seated on a chair, who appears to be an artist. he is positioned in front of an easel, which holds a large canvas. the canvas is partially visible, and it seems to be a painting in progress. the artist is wearing a dark jacket and a hat, and he is intently focused on his work. in the background, there are several other people, some of whom are also engaged in artistic activities. one person is standing near a table, possibly displaying or selling artwork. another individual is holding a paintbrush, suggesting they might be an artist as well. there are multiple easels and paintings scattered around, indicating that this is likely an outdoor art market or a street art event. the setting appears to be an urban area, as evidenced by the stone buildings and the cobblestone pavement. the architecture of the buildings suggests a historical or classical style, with large columns and arched doorways. [IDN] natural, indicating that [IDN] taken during [IDN]. the [IDN] lively and bustling, [IDN] about and engaging with [IDN]. [IDN] surrounded by [IDN], and [IDN] multiple Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "on a gray bricked street, a man in a vest sits and paints among his other works while a woman and 3 men talk."
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "219",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000016483.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: people are walking in a park with [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "image is of a group of people walking on a wide walkway with multistory buildings in the background."
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "553",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000221787.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a runner has the number 129 written on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "man running with no shirt wearing number 129 on his shorts."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "121",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000366414.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a group of people standing on the road. in that a man is jumping. in the background we can see [IDN], [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a blue outfit decides to grab his private areas in the middle of a protest."
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "505",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000480634.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a group of people with red books are singing outside. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a choir sings outside together."
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "139",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000260381.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman with blonde hair and a black tank top is walking and smoking a cigarette while carrying a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman wearing brown shorts, black tank top, &amp; brown purse is walking and smoking."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "109",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000267815.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a child is rolling in the snow and making a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young child coming down a snowy hill with snow flying around him near tiretracks."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "84",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000310061.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a person with a blue visor and sunglasses is holding five [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a person collecting beer bottles, at what looks like a pro fight, while wearing a british flag."
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "337",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000119540.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the man and the woman are wearing the same type [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "the couple are wearing glasses intended for 3d movies."
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "715",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000287265.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a woman seated in what appears to be a casual, indoor setting. she is positioned in the foreground, facing slightly to her right, and is captured mid-conversation, as indicated by her open mouth and smiling expression. her hair is short and styled in a bob, with bangs that are slightly tousled. she is wearing a light-colored blouse with a patterned design, featuring green and white elements. the blouse has a loose, flowing style, and she is also wearing a bracelet on her right wrist. the background of the image shows a wall painted in a light, neutral color, possibly beige or light brown. there is a framed piece of art or a photograph hanging on the wall, which is partially visible. the frame is rectangular and has a light-colored border, and the artwork inside the frame appears to be abstract or minimalist in style, with lines and shapes that are not easily discernible from the image. the woman is seated on a wooden chair, which is partially visible in the image. [IDN] a [IDN] a [IDN] a [IDN]. [IDN] warm and soft, creating [IDN]. the [IDN] relaxed and friendly, suggesting a social or [IDN]. in Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman in short hair is raising her hand."
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "604",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000409050.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman in a red dress is dancing with a man in a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "woman in a red dress dancing with a man in a red polo shirt."
+      }
+    ]
+  },
+  {
+    "id": 850,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "850",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000392394.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men are dressed in white, with black hats [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two men wearing black top hats and fake orange noses are pointing and smiling."
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "371",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000329753.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a little girl jumps in the air in the middle of a room with a [IDN] her. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "girl jumps from couch to couch."
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "445",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000310193.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man is wearing a t-shirt that has a speech bubble on it that asks if people can smile for [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a black shirt has a white towel covering his face"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "352",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000253467.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man is standing in the shallow water with a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man holding a fishing pole and tackle box walking in from the ocean."
+      }
+    ]
+  },
+  {
+    "id": 912,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "912",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000174632.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a speed boat with four people in it is moving across [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "three rescue workers in an orange boat racing to an emergency."
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "200",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000117205.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman in a green dress holds a bald baby in her arms as they sit in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "the mother is buttoning up the shirt of her baby boy, while the dad looks on."
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "813",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000528937.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three people are standing in a waiting room with a playpen in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "four adults look at posters on the wall of a waiting room."
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "713",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000542881.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man with a basketball jersey that says 6 on it is sitting behind [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sweaty drummer in a celtics jersey playing the drums."
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "953",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000254562.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in the image, a man is seen walking on a sidewalk in front of a building. he is dressed in casual attire, wearing a striped shirt and jeans. the man is holding a collection of metal carts, which appear to be shopping carts, in both hands. the carts are stacked on top of each other and are connected by metal bars. the carts have multiple wheels, indicating they are designed for mobility and likely used for transporting goods. the man is walking towards the left side of the image, away from the camera. his posture suggests he is in motion, possibly heading towards a store or a parking area. the background of the image shows a green van parked on the street, which is partially visible. the van is parked in front of a building with a glass door and a sign that is not clearly legible from this angle. the building has a modern design with a flat facade and a few windows. in the background, there is a metal fence, which appears to be part of a barrier or a security measure. there are also a [IDN] in [IDN], standing near [IDN]. they are not the [IDN] are blurred, indicating they are not the [IDN]. [IDN] paved and appears to be clean, Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "an asian man wearing a striped shirt is pushing carts next to a van."
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "266",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000272228.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a group of people standing on the ground. in the background we can see buildings, lights, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a crowd, including a police officer, watches as two women have a pillow fight."
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "438",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000296489.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three men are standing around a tree stump wearing hard hats and one of them is holding a piece of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two men a chopping lumber."
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "272",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000522946.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in yellow and white is riding a bike off road in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a dirt bike rider riding through the woods over logs."
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "166",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000233588.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a large park with people sitting on benches and a tall building in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a city park in fall with a pathway lined with several park benches and several people sitting and walking."
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "857",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000013121.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: people are standing around with a tv that has the word amanda on it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "checking out computers at a technology store."
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "420",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000297517.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a scene of two individuals engaged in a high-altitude construction or maintenance activity. the setting appears to be an indoor environment, likely within a large building or a structure with a glass ceiling. the individuals are suspended from a metal framework, which is supported by a series of vertical and horizontal beams. the beams are made of metal and are painted white, providing a stark contrast against the blue sky visible through the glass ceiling above. the two workers are secured to the framework with safety harnesses and ropes, indicating that they are performing a task that requires them to be suspended in mid-air. they are wearing hard hats, which are yellow, and their attire suggests they are dressed in protective gear, typical for such high-risk activities. the workers are positioned in a way that they are facing each other, with one worker slightly above the other. the ropes and harnesses are visible, and they are attached to the metal framework, ensuring the workers' safety. the glass ceiling above is divided into multiple panes, [IDN] the [IDN], giving [IDN] an open, [IDN]. [IDN] include some [IDN], which might be from the [IDN]. the [IDN] that Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man is suspended in the air on cables while doing some work on a building."
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "151",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000441903.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a blur of a brown and black dog running in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a black and gray dog runs in a field with its tongue hanging out."
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "983",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000334995.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a person playing an electric guitar while singing into a microphone. the individual is positioned in the center of the image, standing and holding the guitar with both hands. the person has short, light-colored hair and is wearing a dark-colored shirt. the guitar has a shiny, metallic body and a black neck. the person is also wearing a red and black striped skirt, which is partially visible. the background of the image is dark, with a spotlight illuminating the person, creating a dramatic effect. the lighting highlights the person's face and the guitar, making them stand out against the darker backdrop. the stage lighting is focused on the performer, casting a warm glow around them. the microphone is positioned in front of the person, and it is connected to a stand that is partially visible on the left side of the image. the person's facial expression is not clearly visible due to the angle and lighting, but their mouth is open, suggesting they are singing. the overall atmosphere of [IDN] one of a [IDN], likely at [IDN]. [IDN] that they [IDN], and [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "singer playing guitar on stage."
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "662",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000001580.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man with a mustache is working with some yarn in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a plaid jacket is cutting fabric with several colorful strands of fabric behind him."
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "227",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000465701.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three people are standing in the snow wearing backpacks and some are wearing [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two people in skis, wearing blue jackets, with backpacks are standing in the snow on a mountain near a marker."
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "823",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000129672.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two small children in matching red coats and black hats stand in front of a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young child in red and black winter clothing stands near a stationary train."
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "167",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000176282.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a small kitten is standing on top of a dog cage and looking into the cage at a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a tawny cat is playing with a basket while a black dog watches."
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "615",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000219041.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a flock of pigeons are walking on the sidewalk with a sign in the background that says [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pigeons scouring for food on sidewalk"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "508",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000297363.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman in a black jacket and hat is riding a white horse that is jumping over a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a horse, ridden by a jockey, is completing a jump over a fence."
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "313",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000334758.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a man is standing on the rock. he is holding a rope. in the background, we can [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man rock climbing in a forest with a long rope."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "129",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000500622.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two birds are kissing each other. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two colorful birds facing each other."
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "284",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000444670.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see a man sitting on the rock and holding a stick. in the background, we can [IDN], [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a forest setting looks through a hollow piece of wood."
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "464",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000209246.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a small boy in red pants and a white t-shirt is walking in a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a small child wearing a white t-shirt and red pants is walking."
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "537",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000085211.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a lively street scene in what appears to be a european city, likely during the day, given the bright lighting and shadows. the focal point of the image is a group of people walking on a cobblestone street. the individuals are dressed in casual attire, suggesting a relaxed atmosphere. the group consists of three people: two men and one woman. the man on the left is wearing a dark jacket and jeans, the man on the right is wearing a light-colored shirt and dark pants, and the woman in the middle is wearing a dark jacket and jeans. they appear to be engaged in conversation, possibly discussing something of interest. in the background, there is a multi-story building with a brick facade and large windows. the building has a classic architectural style, with ornate details and a variety of windows, some of which are open, allowing a glimpse into the interior. the building's ground floor has a large glass door, and there is a red awning above the door, which is partially visible. [IDN], and [IDN] framed with [IDN]. to [IDN], there is [IDN] against [IDN], indicating that [IDN] pedestrian-friendly and possibly bike-friendly as well. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "people are pulling something out of a second story window"
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000256539.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in a yellow shirt that says crew on it is holding [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man with blond-hair and glasses pulls on a big rope."
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "325",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000325583.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man with a hat and backpack is standing on a log in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man stands on a long in a body of water."
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "389",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000566911.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a protest scene outside a building, likely a school or an educational institution, given the context of the signs and the presence of a child. the building has a classical architectural style, characterized by large windows and a stone facade. the entrance to the building is a double-door setup, with a sign above the door that reads \"matla gsamba 20.\" the doors are flanked by windows, and there is a small balcony above the entrance. in front of the building, there is a metal fence adorned with numerous posters and flyers. the posters are predominantly white with red and blue text, and they appear to be advocating for a cause related to education. the text on the posters includes phrases such as \"our children, our future,\" \"fight for education,\" and \"stop cuts.\" the posters are arranged in a somewhat haphazard manner, with some leaning against the fence and others hanging from it. a man is walking in the foreground of the image, dressed in a dark jacket and jeans. he appears to be in mid-stride, possibly [IDN] away from [IDN]. his [IDN] neutral, and he is not interacting [IDN]. in the lower [IDN], there is [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man walks by a building with many signs outside."
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "677",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000354616.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a baby is playing with the arm of the person holding them. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a baby is sitting in his highchair between a person's arms."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "7",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000535282.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a bustling street scene in what appears to be an urban area. the street is lined with buildings on both sides, and the sky above is partly cloudy, suggesting it might be a typical day with some overcast weather. the buildings are multi-story structures, with the one on the right side being a bit taller and having a modern architectural style. the building on the left side has a more traditional look, with a flat roof and a few windows visible. the street is filled with people, indicating a busy and active environment. the crowd is diverse, with people of various ages and attire. some individuals are walking in groups, while others are walking alone. the people are dressed in a variety of clothing, including jackets, coats, and hats, suggesting cooler weather. there are also a few people carrying bags, which could indicate they are either shopping or commuting. on the left side of the street, there is a row of shops with closed shutters, which might be closed for the day or out [IDN]. [IDN] is paved [IDN], adding to the [IDN]. there are also [IDN], which are typical [IDN]. in [IDN], there [IDN], some of which [IDN], indicating Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "the people are marching through the street."
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "905",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000031979.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men are working outside on a building. one man is standing on the ground and the other is climbing [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two guys climbing a red ladder putting letters on a brown building."
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "381",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000565500.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman playing volleyball in front of a sign that [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman, dressed in a yellow blouse and black panties, is playing beach volleyball."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "111",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000287434.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a group of people gathered on a wooden deck, likely outside a building. the deck appears to be part of a larger structure, possibly a community center or a recreational facility, given the presence of several picnic tables and benches. the building in the background has a white exterior with horizontal siding, and it has a large overhang or awning above the deck area, providing shade. the sky is clear, suggesting it is a sunny day. in the foreground, there are two individuals standing. one individual is wearing a light-colored shirt and a blue backpack, and the other is wearing a dark shirt. the person in the light-colored shirt is facing away from the camera, while the person in the dark shirt is facing the camera but their face is not clearly visible. there are several other people seated at the picnic tables. one person is seated at a table to the left, wearing a dark shirt with a logo on the back. another person is seated at a table to the right, wearing a light-colored shirt. there is also [IDN], positioned near [IDN], and [IDN] a [IDN] is standing near [IDN]. [IDN] made of [IDN] has a [IDN]. there [IDN] on Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "people are sitting outside on a deck at tables."
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "317",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000244082.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a lively outdoor scene set in what appears to be a bustling street market or a small café area. the setting is characterized by a mix of people engaged in various activities, suggesting a casual and social atmosphere. in the foreground, there are several individuals seated on blue plastic stools. the person on the left is a woman with dark hair, wearing a blue shirt, who is holding a bowl and appears to be eating. next to her, a man with a striped shirt is seated, possibly engaged in conversation or waiting for food. to the right of this man, another woman with dark hair and a yellow shirt is seated, also holding a bowl, indicating she might be eating or preparing food. in the background, there is a man with a red shirt who is standing and appears to be serving food or drinks to the seated individuals. he is holding a tray with a bowl on it, which he is likely using to serve food. behind him, there is a wooden structure with glass doors, possibly a shop or [IDN], which adds to the [IDN]. [IDN] paved [IDN], and there are [IDN] around, [IDN], [IDN], and [IDN], which contribute to the casual and [IDN]. the overall Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a group of adults eats something while seated on very small patio furniture."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "55",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000431555.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a soccer field has players wearing white jerseys and the number 19 on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "soccer players warm up by kicking the soccer ball around while the crowd waits."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "83",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000233319.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men are sitting in front of computers on a table with lots of electronics around them. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two people working on computers."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "78",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000500233.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a young child sitting on a red cushioned surface, possibly a couch or a chair. the child is wearing a yellow long-sleeved shirt with a design on the front. the shirt has a white logo or text on it, which appears to be \"old navy\" with a small \"us\" above it, indicating the brand. the child is also wearing camouflage-patterned pants, which have a mix of brown and beige colors. the pants have a relaxed fit and appear to be made of a soft, comfortable material. the child is holding a small object in their right hand, which seems to be a toy or a small electronic device, possibly a tablet or a handheld game console. the child's left hand is resting on their lap. the child's hair is short and dark, and they are looking down at the object they are holding, engrossed in whatever activity they are engaged in. the background of the image is a solid red color, which contrasts sharply with the child's yellow shirt and [IDN]. the [IDN] to be smooth and slightly shiny, suggesting it might be made [IDN] a [IDN]. [IDN] soft and even, casting [IDN] the [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young child plays on an electronic device with a stylus"
+      }
+    ]
+  },
+  {
+    "id": 575,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "575",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000123172.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a man is standing and holding some vegetables in his hands. in the background, we can see [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man carrying bags of vegetables in one hand and a tray of vegetables in the other."
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "460",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000067085.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men are in a small green and white boat on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2 boys in a boat, one is paddling and the other is sitting at front on the lake."
+      }
+    ]
+  },
+  {
+    "id": 869,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "869",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000343204.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a red vehicle with the number 4 on it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two men in a black in red vehicle on the beach."
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "799",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000384093.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: this image depicts a scene of a person washing a baby in a white, oval-shaped baby bathtub. the baby is lying on a blue, textured mat inside the tub, which is filled with water. the person washing the baby is wearing a red long-sleeved shirt and has long hair tied back. they are holding a green cloth in their right hand, which appears to be used for cleaning the baby. the baby's face is turned towards the person washing them, and the baby's eyes are open, looking up at the person. the baby's skin is visible, and the scene suggests that the baby is being bathed in a warm, soapy environment, as indicated by the suds visible in the water. the background of the image includes a kitchen counter with various items. on the counter, there are several potted plants, including a small cactus and another plant with green leaves. there is also a bottle, a cup, and a small container, which are placed on the counter. the kitchen counter is made of a [IDN], [IDN], and there is [IDN] in [IDN]. [IDN] soft, likely from a [IDN] is not directly visible in Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "woman washing a infant with wash cloth and water."
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "939",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000122263.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two dogs with long black and gray fur are running in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a little black dog chases another little black dog through thick snow."
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "582",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000371511.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts the entrance of a building with the word \"grace\" prominently displayed above the entrance. the building facade is made of light-colored stone or concrete, with a clean and modern design. the entrance consists of a set of double glass doors, which are currently open, revealing the interior of the building. the doors are framed by a black border, and there are several reflective panels on the left side of the entrance. in front of the building, there is a man walking towards the camera. he is dressed in a dark suit, white shirt, and a tie, suggesting a formal or professional setting. the man appears to be in mid-stride, with his right foot forward and his left foot slightly behind. his posture is upright, and he is looking straight ahead, giving a neutral expression. the sidewalk in front of the building is made of large, rectangular tiles, arranged in a grid pattern. the tiles are a combination of light and dark shades, creating a contrast that adds texture to the scene. there are also a few [IDN] on the [IDN], indicating that [IDN] situated in an [IDN]. [IDN] not visible in [IDN], but the lighting suggests it is daytime, likely Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a bald man in a black suit is standing in front a building called grace."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "77",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000374873.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image i can see a group of people are sitting on the chairs in front of the tables. on the tables i can see monitors, keyboards, mice, papers, cups, bottles and some other objects. in the background i can see [IDN], [IDN], [IDN] some [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man working on a computer at work."
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "822",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000322892.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in a white shirt is sitting on a bench with a bike next to him. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man sitting on a bench next to his bike."
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "836",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000203098.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a group of people are dressed up as cartoon characters. one of them is dressed as a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "young women and men dressed in costumes sitting and standing."
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "454",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000560158.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a little girl is standing on a blue box in front of a screen that has [IDN] it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "there are three children watching something on a screen."
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "418",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000055484.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see people. in the background we can see trees, fence, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "six men are pushing a large wooden wheel along the ground in front of an audience."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "90",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000011025.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman weaves on a loom in a rustic room with [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "an elderly women is sitting in a chair with a cane in her hand."
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "403",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000324823.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a man standing and holding a guitar in his hand. in the background we can see a curtain, window, photo frame on the wall, few people sitting on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a standing man plays the guitar while another, seated behind him, smiles and watches."
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "162",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000418620.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a group of people standing on a snowy mountain slope. the primary focus is on a person in the foreground who is wearing a dark blue jacket with the brand \"columbia\" visible on the left sleeve. this individual is also wearing a helmet and goggles, indicating that they are engaged in a winter sport, likely skiing or snowboarding. the person is standing with their hands clasped in front of them, possibly holding ski poles or a snowboard. in the background, there are several other individuals dressed in similar winter gear, including helmets and goggles, suggesting that they are also participating in winter sports. the group appears to be waiting or taking a break, as they are stationary and not actively skiing or snowboarding. the snow on the ground is thick, indicating that it has recently snowed or that the area is a high-altitude location where snow persists. the background features a mountainous landscape with snow-covered trees and hills, extending into the distance. the sky is overcast, with a light gray [IDN], which is typical for a cold, [IDN]. the [IDN] cold [IDN], with the [IDN]. [IDN], highlighting [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "three people in ski gear standing on a mountain."
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "832",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000508429.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see two dogs on the ground. in the background there [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two large dogs are running together through the grass."
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "327",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000110484.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman is working at a computer that has the word \"dell\" on it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a blond lady wearing a brown coat working on a computer."
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "806",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000105888.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a baby with food all over its face is making a fist with its [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a baby with blue eyes and a dirty face is pointing at his left eye."
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "572",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000407949.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man with a tshirt that says gcll in white letters and emergency in red letters stands in front of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man wearing a blue t-shirt and smoking a cigarette is walking along the street."
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "563",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000072792.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a lively outdoor musical performance. the focal point of the image is a woman playing a violin. she is positioned in the center of the image, standing on a stage or a raised platform. she is dressed in a black long-sleeved top and a plaid skirt, which adds a touch of color and pattern to her outfit. her hair is styled in loose waves, and she is wearing a necklace. she is holding the violin with both hands, her right hand positioned near the neck of the instrument and her left hand on the fingerboard. her facial expression suggests she is deeply engaged in the performance, with her mouth open and eyes closed, possibly in the midst of playing a musical note. in the background, there are several other musicians. to the left of the woman, there is a man playing a guitar. he is wearing a red t-shirt and a plaid shirt over it, and he appears to be focused on his instrument. his hair is short and dark. to the right of [IDN], there is [IDN], [IDN]. [IDN] wearing a [IDN] is also deeply engaged in [IDN]. [IDN] to be an [IDN], possibly a Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman in a plaid skirt is playing a violin in a park-like setting with other band members."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "105",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000137824.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman wears sunglasses and a heart necklace as she sits in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman with sunglasses and a white shirt on sits in a blue chair."
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "517",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000271473.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the man in the white shirt is singing into [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a white shirt is singing."
+      }
+    ]
+  },
+  {
+    "id": 904,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "904",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000405361.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a live music performance on a stage. the focal point of the image is a man standing in the center, who appears to be the lead singer and guitarist. he is wearing a black t-shirt, dark pants, and a black hat. he is holding a guitar in his right hand and is playing it while singing into a microphone. the microphone is positioned in front of him, and there is a stand with a light source above it, illuminating the performer and the stage. the man's expression suggests he is deeply engaged in the performance, and his mouth is open, indicating that he is singing. the guitar he is playing is a red electric guitar, and he is using a strap to hold it securely. his left hand is positioned on the fretboard, and his right hand is strumming the strings. in the background, there is another person, also a musician, who is partially visible. this person is seated and appears to be playing a keyboard or a similar instrument. the stage is equipped with [IDN], [IDN], [IDN], and other [IDN], which are essential for [IDN]. [IDN], with [IDN], which is typical in [IDN] create a [IDN]. the overall Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "man in a black hat on stage singing."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "67",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000476431.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a young boy is looking through a microscope in front of a piece of paper [IDN] it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man is looking in a microscope at a slide."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "59",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000143030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a girl in a pink jacket is on a swing with a friend in a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "the young girl enjoys the swing at the carnival."
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "784",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000098232.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the man is wearing an orange shirt and is working [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man wearing an orange shirt with tans shorts and a baseball cap is bent over in a small pit, scooping up pale mud with his hands."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "6",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000411603.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a dimly lit indoor setting, likely a pub or a bar, characterized by warm lighting and a cozy atmosphere. the focal point of the image is two men seated on a green upholstered bench, facing each other. both men are engaged in conversation, smiling, and appear to be enjoying themselves. the man on the left is wearing a gray t-shirt with a design on the front, and he has short hair and glasses. he is holding a drink in his right hand, which is resting on his lap. the man on the right is wearing a black t-shirt and has short hair. he is also holding a drink in his right hand, which is resting on his lap. both men are wearing watches on their left wrists. the background of the image features a wall with a large window that has dark, possibly wooden, frames. the window is covered with dark curtains, which are partially drawn, allowing some light to filter through. the curtains have a decorative pattern and are tied back with tassels. above [IDN], there is a [IDN], which is partially visible. [IDN] adorned with [IDN], adding to [IDN]. [IDN] covered with [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two men sitting on chairs and talking."
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "602",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000448077.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a guy is skateboarding on a ramp in a graffiti [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man does a jump on a skateboard, surrounded by graffiti."
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "707",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000154911.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man and a little girl are walking down a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "little girl and older male, holding hands and walking on train tracks."
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "929",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000045446.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: number 3 from the orange team is talking to [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two basketball players in white jersey's are guarding a player from the other team."
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "424",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000165350.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three people are posing for a picture. the man in the middle is wearing a red shirt with [IDN] it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a guy and two girls are smiling at the camera."
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "449",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000387153.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a young woman is painting on the grass in an apron [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "girl with long brown hair sitting on grassy field, painting picture on canvas."
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "413",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000104621.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two women are sitting next to each other and wearing tshirts with the logo puma on it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two young ladies looking to their right."
+      }
+    ]
+  },
+  {
+    "id": 884,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "884",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000154329.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man is jumping over a bike in a field and wearing a shirt that says \"if you have to ask the price you can't afford it\". Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "on lightly cloudy day, a bicyclist rides through an outdoor course while several onlookers watch."
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "656",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000249983.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a crowd of people are behind a man in a black shirt that [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a group of people holding their hands in the air, shouting, with a black banner in front of them."
+      }
+    ]
+  },
+  {
+    "id": 852,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "852",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000264741.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a boy with a mohawk plays a violin. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a boy with a purple, spiky mohawk plays violin."
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "431",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000573476.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see people running on the road. in the background, there are people and we can [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3 women run in a marathon with the crowd in the background, one with the label galina and another the label inga, and the 3rd running close behind them in blue."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "42",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000572663.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a young boy in safety glasses is hammering on a piece of metal with [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young boy wearing a green and gray jacket is about to hammer an object."
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "589",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000556838.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: four dogs are running in an open area [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "four dogs play together on a grassy and leafy ground."
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "353",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000021260.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two young girls are bouncing around in an inflatable bounce house. the girl in the foreground has her arms out to the sides and is wearing a light blue shirt and pink shorts. the girl in the background is wearing a pink shirt and jean shorts and is lying down. there are several other people visible through the mesh walls of the bounce house, including [IDN] a [IDN] a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "children jump in bouncy gym."
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "181",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000581018.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man is working with a hide in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a red shirt and boots leans over brown cloth, surrounded by small, square pools of dirty water."
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "194",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000539072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in a colorful shirt is riding a board in the water with a kite flying above him. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young blond person in a colorful outfit is hanging from a cable and riding a board."
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "510",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000036828.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a little girl with blonde hair is sitting on the ground in the woods. she is wearing pink pants with white [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young girl is exploring the woods."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "19",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000392408.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a high-altitude mountainous landscape, likely taken from a vantage point near the summit of a mountain. the foreground is dominated by a snow-covered slope, with the snow appearing to be freshly fallen and uneven, creating a textured surface. the snow is interspersed with patches of dark rock, indicating the rocky terrain beneath. the slope is steep and appears to be quite challenging, suggesting that it is part of a high-altitude climb. in the mid-ground, there is a figure of a person, possibly a mountaineer, dressed in dark clothing, including a jacket and pants, which are typical for high-altitude climbing. the figure is positioned towards the left side of the image, walking up the slope. the person appears to be wearing crampons, which are essential for climbing on snow and ice, and a backpack, indicating they are prepared for a long and potentially arduous climb. in the background, the sky is clear, with the sun setting or rising, casting a golden glow over the landscape. [IDN] low on [IDN], creating a [IDN]. [IDN], transitioning to a [IDN], suggesting [IDN] either [IDN] late Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "the person is high on a mountain during sunset."
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "455",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000241076.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a dog is jumping over a blue [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a white dog jumping in the air to catch a frisbee"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "375",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000247700.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman is standing at a bus stop holding a cell phone to her ear and a coffee in her [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a lady with a brown bag and coffee talking on the phone."
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "198",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000493983.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the woman in the image is carving a pattern onto a piece of fabric with a wooden block. the fabric is blue and has a white pattern of circles. the woman has long black hair and is wearing a black top with gold accents. she is also wearing [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman is painting with a stencil."
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "202",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000516866.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see people, vehicles, poles, trees, buildings and boards. in the background we can see [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a red delivery truck is talking to someone is a black coat."
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "178",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000533396.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two older women are playing saxophone in front of a woodstove and [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two white-haired women, both wearing hats, play saxophones while standing in front of a pair of landscape paintings."
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "490",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000107331.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a collie dog with brown and white fur is mid stride above a red and white [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a dog in a competition jumps over a hurdle."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "81",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000075516.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in a blue shirt is grilling some meat on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man with a red hat, blue shirt, and glasses is grilling meat and asparagus."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "86",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000087465.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman is sitting on a chair with her arms outstretched in front of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two people are sitting outside the restaurant talking."
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "243",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000505421.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a street scene in what appears to be an urban area, likely in a developing country. the central focus of the image is a man who is pushing a bicycle loaded with a large quantity of turnips. the man is dressed in a blue jacket, black pants, and a wide-brimmed hat, which suggests that he is a vendor or a farmer. he is walking along a cobblestone street, which is lined with various small shops and stalls. the street is bustling with activity, indicating that it is a busy market area. the bicycle is equipped with a large wooden cart, which is filled to the brim with turnips. the turnips are of varying sizes, and they are piled high, suggesting that the man is selling them. the bicycle is simple and functional, typical of those used in urban areas for transporting goods. to the left of the man, there is a small shop with a sign that is partially visible. the sign appears to be in a non-english language, indicating that [IDN] likely in a [IDN]. [IDN] it, which is a [IDN] both [IDN]. in [IDN], there are several [IDN], Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a tan hat and blue shirt walks a bike loaded with produce."
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "731",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000511271.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see a woman and a man standing on the road. in the background, there are buildings and we can [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman in a violet shirt stands facing a young man."
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "540",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000071714.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men are jumping in the air while holding hands in a room that has a couch, a lamp, a book shelf, and [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two guys jumping up in the air with joy in their living room."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "47",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000237550.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a little girl with blond hair is hugging a black woman who is sitting in a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a girl hugging a woman sitting in a chair."
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "977",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000044741.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a girl wearing a red shirt is swinging a bat at a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a young girl swings a bat at a softball during a game."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "97",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000121785.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts an outdoor scene in what appears to be a courtyard or a small plaza. the focal point of the image is a brick building with a large, arched doorway. the door is painted in a muted green color and has a small sign with a yellow background and black text, though the text is not legible from this distance. the building is covered in ivy, which climbs up the walls and partially obscures the windows. the windows are tall and rectangular, with some of them having green frames. in front of the building, there is a paved area with a few benches. a man is seated on one of the benches, leaning forward slightly with his elbows on his knees. he is wearing a dark jacket and glasses, and he appears to be reading or looking at something in his hands. another person is seated on the steps leading up to the building, also engaged in an activity that is not immediately clear. the courtyard is bordered by a low brick wall with a few small plants growing along it. [IDN] paved with [IDN], and there is [IDN] on [IDN]. [IDN] not visible, but the lighting suggests it might be either [IDN]. [IDN] a modern [IDN], Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man sits and reads on a brick planter, while a woman sits at the base of a spiral staircase."
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "734",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000300758.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man with a beard is pointing his finger as a woman in a yellow shirt looks on. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "an older man with a white beard making a gesture with his hand."
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "950",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000074534.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three men are standing in a fast [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two old men stand near a table in a mcdonalds."
+      }
+    ]
+  },
+  {
+    "id": 896,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "896",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000409731.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see a group of people. there is a person standing and holding a mic. there is a person standing and holding a cake. there is a person standing and holding a guitar. there is a person standing and holding a mic. there is [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a well dressed man in front of a microphone is attacked by a dragon pinata and a lady."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "128",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000171380.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the man in the blue shirt with glasses is holding a piece of paper and a pen, and he looks very happy. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "guy with blue shirt and glasses, frantically with arms outstretched communicates."
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "751",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000250808.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three people are playing a game of cards at [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "there are three woman in a yellow painted room, sitting at a table, having fun playing a card game."
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "189",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000115917.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see a man walking on the footpath. in the background, we can see a building, wall, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a gray shirt going up a step."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "20",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000293066.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a crowd of people are gathered at night on a street corner with a bank of america branch to [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a group of people singing at night on a crowded street."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "110",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000022086.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the man is wearing a yellow and black jersey that [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a cyclist is on his bicycle in a rural setting."
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "644",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000182444.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a pelican with a long orange beak and white feathers is flying over a body [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "white gull flying over ocean"
+      }
+    ]
+  },
+  {
+    "id": 872,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "872",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000251032.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a chef is cooking in a commercial kitchen with a lot [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a chef cooks in a steamy industrial kitchen."
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "610",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000550133.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: as the rodeo rider flies through the air, the crowd in the background looks on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "there is a man on a bucking horse holding on tightly while the crowd watches at a rodeo."
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "467",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000061072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman with glasses and a green hat is posing next to a three tiered wooden shelf with baskets on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman in a black jacket kneeling and pointing."
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "513",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000408981.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a group of cyclists are racing down a street and the second person in the line is wearing a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a group of people ride bicycles around a curve on a racetrack."
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "164",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000158428.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: people are standing outside an entertainment venue called the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "three women are standing in front of a sign for the coldtowne theater."
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "581",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000172051.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a person sitting on a couch, with a brown dog lying beside them. the person is holding a small white plate with a piece of food on it, which appears to be a pastry or a dessert. the dog is looking towards the food with a hopeful expression, indicating that it might be seeking a treat. the person is wearing a black t-shirt with a graphic design on the front, which is partially visible. the t-shirt has a large, bold word \"stella\" written in red letters, and the rest of the text is less legible. the person is also wearing blue jeans, and the couch is covered with a blue blanket. there is a laptop and a book on the couch, suggesting that the person might be studying or working. the background of the image shows a [IDN], which adds [IDN] to [IDN]. the [IDN] relaxed and casual, with [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "the brown dog with the red collar is staring at the plate of food."
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "152",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000240695.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the woman in the white dress is singing into a microphone while playing [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman in a white dress is singing"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "428",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000374248.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man is holding a crab that he just killed with a hammer while standing in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a bald man is about to cook some kind of fish."
+      }
+    ]
+  },
+  {
+    "id": 943,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "943",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000096881.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the person in the middle is playing [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "violinist plays with the band as the yellow light sets the mood."
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "543",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000301602.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image, we can see two kids are standing and holding a broomstick. in the background, there are trees, wall, dustbin, bottles and some objects. at [IDN], there is [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two girls, one in a white shirt and the other in a pink shirt, are cleaning up outside."
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "300",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000493072.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a little girl with long hair is standing on a colorful, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a girl bouncing on a colorful sheet."
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "660",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000509740.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a scene inside what appears to be an office or a similar indoor setting. the focal point of the image is a large, white wall with a colorful mural painted on it. the mural features a tree with a bird perched on a branch. the tree is drawn in a simple, cartoonish style with black lines and a few shades of blue and red. the bird is depicted with a red body, blue head, and yellow beak, and it appears to be perched on a branch of the tree. the tree has a few leaves and a trunk that is also outlined in black. in the foreground of the image, there are two individuals. the person on the left is a woman with short, dark hair. she is wearing a blue shirt and beige pants. she is standing and appears to be engaged in a conversation with the person on the right. the person on the right is a woman with long, dark hair and glasses. she is kneeling on the floor, pointing at the mural with her [IDN]. she is holding [IDN], which she is using to take [IDN]. [IDN] smiling, indicating a [IDN]. [IDN] a [IDN] a [IDN]. the Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a hefty man in a blue shirt painting on a wall."
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "580",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000243361.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the player who just dunked the basketball wears a number [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two men jump up for the ball near the hoop in a basketball game."
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "719",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000562876.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see people in the water. they are holding paddles in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two different kayaking reams come into contact."
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "603",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000225473.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a group of people standing on the ground. in that a man is holding a stick. in the background we can [IDN], [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a boy in a blue shirt looks away from the camera as a girl in a pink and orange bathing suit stares into the camera in front of an rv."
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "963",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000189810.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the brick building has several windows that have been boarded up. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "three people walk past a red brick building."
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "706",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000551316.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a street vendor standing on a busy street. the vendor is positioned in the center of the image, standing behind a small, white cart. the cart is equipped with a large, round, metallic container on top, which appears to be a type of food vendor. the container is placed on a wooden platform, and the cart has a handlebar for the vendor to push it around. the cart is branded with the words \"arta yasa\" painted in red and black letters on its side. the vendor is holding a large, striped umbrella, which is open and positioned above the cart to provide shade. the vendor is wearing a white t-shirt and dark pants. he is smiling and appears to be engaged in conversation with someone off-camera. the background of the image shows a street scene with a few other people walking or standing. there are trees and buildings visible, indicating that the location is likely an urban or semi-urban area. the street is paved and appears to be a main road, with a few [IDN] in [IDN]. [IDN] clear, suggesting [IDN]. [IDN], highlighting the [IDN] passersby. [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man is standing with a street cart with an umbrella."
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "535",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000020853.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a woman seated in front of a microphone, singing. she is positioned in a dimly lit setting, with a red background that contrasts with the dark tones of her attire and the surrounding environment. the woman has short, dark hair styled in a layered bob, and she is wearing a black dress with a patterned scarf draped around her neck. the scarf features a light-colored, possibly beige or cream, pattern that includes small, intricate designs. she is also wearing a red bracelet on her right wrist. in front of her, there is a microphone stand with a silver microphone, which she is using to amplify her voice. the microphone is positioned to her right, slightly in front of her, and it is directed towards her mouth. the woman appears to be in the midst of singing, as her lips are slightly parted and her eyes are closed, suggesting she is focused on her performance. the background of the image is dark, with a red gradient that adds a dramatic effect to the scene. the lighting is focused on [IDN], highlighting her and [IDN], while [IDN] relatively dark, emphasizing her as the [IDN]. [IDN] relaxed, with her [IDN], Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman with a black jacket sitting down while playing a piano."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "62",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000178181.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men are standing on the steps talking. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in an ampitheater talking to a boy."
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "415",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000341087.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a scene on a wet, possibly rainy day. the primary focus is on a man walking along a sidewalk. he is dressed in a beige trench coat, blue jeans, and white shoes. the man is holding an open black umbrella, which is partially open, suggesting that he is either walking against the wind or the umbrella is not fully extended. his posture indicates he is looking down, possibly at the ground or something in front of him. in the background, there is a white building with a textured, possibly stucco or plaster, exterior wall. the wall has a window with a dark frame, which is partially visible through the man's umbrella. the window appears to be closed, and the reflection of the man and the umbrella can be seen on its surface, indicating that it is made of glass. to the right of the man, there is a yellow traffic or parking meter. the meter has a blue and black top, with a yellow pole extending from it. the meter is positioned on the sidewalk, and [IDN] slightly elevated, possibly to prevent it from being pushed over [IDN]. [IDN], reflecting [IDN], and there is a [IDN] the [IDN]. the [IDN] the Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a tan trench coat and blue jeans walks with a black umbrella open over his head."
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "791",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000225399.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a group of five women are posing in front of a car with the letter b on it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "five women in red halter tops and short black skirts stand in front of a sports car."
+      }
+    ]
+  },
+  {
+    "id": 989,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "989",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000182863.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a group of people are sitting in a living room and one of the men is wearing [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "four people in a room sitting down while a woman in blue talks to another woman sitting behind her."
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "776",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000469082.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the bride is hugging the groom. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman in bridal wear embraces an individual."
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "274",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000455459.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a group of people. some are sitting on the chairs and some are standing. in the background we can see the books in the racks. we can see [IDN], [IDN], [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man with a backpack sits and reads a book to a young child in a library as other parents and children look at books in the background."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "14",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000321011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man with a hat and sunglasses is playing a guitar in front of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man with a hat is playing the guitar."
+      }
+    ]
+  },
+  {
+    "id": 875,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "875",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000445607.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man is punching a wave brand [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man punches a heavy bag in a gym with wood floors."
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "216",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000300011.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a little girl with a blue skirt and a long sleeve shirt with an e on it is standing on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a girl wearing pink shoes jumps off a swing in a park"
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "916",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000421024.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a weimaraner dog is standing on top of a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "dog sniffing recently cut tree stump."
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "887",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000297242.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a person standing in a religious setting, likely a church or cathedral, given the ornate and traditional decor. the individual is dressed in casual clothing, including a dark jacket and jeans, which contrasts with the formal and elaborate environment. the person is bent over, with their head and upper body facing downwards, suggesting they might be praying or performing a ritualistic action. in the background, there is a large, ornate altar or tabernacle, which is a central feature in many religious settings. the altar is adorned with intricate carvings and gold accents, and it is positioned against a wall that is also richly decorated with religious iconography and possibly mosaics. above the altar, there are several candles in golden candlesticks, each with multiple red candles, which are lit, casting a warm glow over the scene. the lighting in the room is dim, with the primary light source coming from the candles, which adds to the solemn and reverent atmosphere. the floor is tiled, and there [IDN] up to [IDN], indicating a [IDN]. the [IDN] one [IDN], typical of [IDN]. [IDN], Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man bows in prayer over a very ornate coffin in a cathedral."
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "629",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000051630.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a cozy indoor setting, likely a living room, characterized by a warm and intimate atmosphere. the focal point of the image is a woman seated at a wooden coffee table, engaged in eating. she is wearing a black and white patterned dress and has short, reddish-brown hair. she is holding a spoon in her right hand, which she is using to eat from a plate in front of her. the plate contains food, possibly a meal, and there is a glass of water beside it. the coffee table is adorned with several items. on the left side of the table, there is a candle holder with four candles, each with a red base, arranged in a square formation. the candles are lit, casting a soft, warm glow that adds to the ambiance of the scene. next to the candle holder, there is a small tray with a few pieces of food, possibly bread or crackers, and a bowl or plate with more food. to the right of the woman, there is a [IDN] a [IDN]. [IDN] positioned against [IDN] has a [IDN], which adds [IDN]. [IDN] dark green with [IDN], and it partially covers a Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "dog watches woman eating alone."
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "275",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000067347.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two men are standing outside talking while a woman in a pink shirt looks on. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "an overweight man and a woman are outside listening to a thinner man read from a book on a partly cloudy day."
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "259",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000576700.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: in this image we can see a woman standing and holding an object. in the background we can see the sky, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a tan woman is wearing a yellow, black, and red shawl holding a long piece of wood under an incomplete hut."
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "933",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000100581.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: man holding two long poles in front of a sign that [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "guy in black shirt and jeans jumping with wood pieces in front of a building called stomp"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "283",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000557405.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a woman in a red dress is standing in front of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman with a red dress is standing outside with her eyes closed."
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "843",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000553671.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a superior walls ad is on a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man wearing a hard hat is working on a construction site atop a wall."
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "312",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000546037.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man in a chair next to a horse drawn carriage is doing a drawing of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man selling hand-drawn portraits by the street."
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "934",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000340038.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: a man is doing a trick with his skateboard over a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a man in his skateboard jumping over a grocery cart as his friends in the back watch."
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "435",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000522862.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the image depicts a woman standing outdoors in a natural setting. she is positioned on a grassy hillside, with a backdrop of lush greenery and a distant view of a hillside with trees and possibly a small village. the woman is wearing a pink long-sleeved shirt, blue jeans, and a light-colored jacket draped over her shoulder. she has a small bag slung over her shoulder, which appears to be a cross-body bag. her hair is tied back, and she is wearing glasses. the woman is standing in a relaxed posture, with her left hand holding a small object, possibly a leaf or a piece of paper, which she is examining closely. her right hand is holding the jacket, which is draped over her shoulder. the background features a variety of plants and trees, including some that appear to be grapevines, suggesting that the location might be a vineyard or a similar agricultural area. the sky is overcast, indicating a cloudy day. the overall composition of the image suggests a serene and [IDN], with [IDN] enjoying [IDN]. the [IDN] her relaxed [IDN]. [IDN], highlighting [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a woman walking through the meadow."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "88",
+    "image": [
+      "data/coco/train2014/COCO_train2014_000000190667.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: people are walking down the street with umbrellas. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "a crowd of people holding umbrellas go about their every-day business."
+      }
+    ]
+  }
+]

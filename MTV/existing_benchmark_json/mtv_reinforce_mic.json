@@ -1,0 +1,902 @@
+[
+  {
+    "id": "mic_reinforce_0",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "flickr",
+    "image": [
+      "./data/flickr/flickr/flickr30k-images/4792816378.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image0. Based on the image0, describe what is contained in this photo. Your caption should be no more than a few sentences and should be grammatically correct and free of spelling errors."
+      },
+      {
+        "from": "gpt",
+        "value": "Chinese students dressed in blue shirts on a field trip."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_1",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "iconqa",
+    "image": [
+      "./data/iconqa/iconqa/iconqa/train/choose_txt/91513/image.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image5. Given the image5, select the option that provides the most accurate and complete answer to the question from the available answer choices. Question: How many cars are there? Options: option 1: 5. option 2: 3. option 3: 1. option 4: 4. option 5: 2. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "option 4: 4"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_2",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "gqa",
+    "image": [
+      "./data/gqa/gqa/images/989.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image6. Consider all of the information in image6  when answering the question: Is there either a toothbrush or a flag that is blue?"
+      },
+      {
+        "from": "gpt",
+        "value": "yes"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_3",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "stvqa",
+    "image": [
+      "./data/stvqa/stvqa/coco-text/COCO_train2014_000000510976.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Answer each question based on the information presented in image4. Given the picture image4, what is the answer to the question: What is the time given on the right mobile? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1:59"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_4",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "vqa",
+    "image": [
+      "./data/vqa/vqa/train2014/COCO_train2014_000000577240.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image2. Questions is related to image2. Please analyze the image and provide the correct answer for the question: What kind of music is she listening to?"
+      },
+      {
+        "from": "gpt",
+        "value": "country"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_5",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "flickr",
+    "image": [
+      "./data/flickr/flickr/flickr30k-images/515797344.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image6. Use clear and concise language that accurately describes the content of image6."
+      },
+      {
+        "from": "gpt",
+        "value": "Three men cross the street in front of a yellow truck."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_6",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "coco",
+    "image": [
+      "./data/coco/train2014/COCO_train2014_000000306222.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Give a caption about this image. Avoid using overly complex language or jargon in your caption of image4 that might confuse the viewer."
+      },
+      {
+        "from": "gpt",
+        "value": "a bear on the side of a road in the grass"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_7",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "iconqa",
+    "image": [
+      "./data/iconqa/iconqa/iconqa/train/choose_txt/65165/image.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image0. Based on the image0, choose the option that provides the most accurate and complete answer to the question. Question: Ella is riding the bus to school in the morning. The clock shows the time. What time is it? Options: option 1: 7:00 A.M.. option 2: 7:00 P.M.. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "option 1: 7:00 A.M."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_8",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "stvqa",
+    "image": [
+      "./data/stvqa/stvqa/coco-text/COCO_train2014_000000561735.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image0. The image0 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What do the signs say? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Regardez or REGARDEZ A GAUCHE"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_9",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "okvqa",
+    "image": [
+      "./data/vqa/vqa/train2014/COCO_train2014_000000298711.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Consider all of the information in image4  when answering the question: What food is in the foreground?"
+      },
+      {
+        "from": "gpt",
+        "value": "orange"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_10",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "miniimage",
+    "image": [
+      "./data/miniimage/miniimage/train/n03220513/n0322051300000466.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image3. Identify the object or concept that best describes what is depicted in image3."
+      },
+      {
+        "from": "gpt",
+        "value": "dome"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_11",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "vqa",
+    "image": [
+      "./data/vqa/vqa/val2014/COCO_val2014_000000345456.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Read the question carefully and look at image4 . Use your intuition and common sense when answering the question: What color is the train?"
+      },
+      {
+        "from": "gpt",
+        "value": "yellow"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_12",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textvqa",
+    "image": [
+      "./data/textvqa/textvqa/train_images/78483f3dfb7bcd98.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image2. Use the image2 as a visual aid to help you understand the context and answer the questions accurately. Question:what brand is this runner's shorts? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is addidas or adidas or adidas"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_13",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "miniimage",
+    "image": [
+      "./data/miniimage/miniimage/train/n13054560/n1305456000000102.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image0. Identify the category or class to which image0 belongs."
+      },
+      {
+        "from": "gpt",
+        "value": "bolete"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_14",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "vqa",
+    "image": [
+      "./data/vqa/vqa/train2014/COCO_train2014_000000564982.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What is green on this pizza? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pepper"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_15",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "okvqa",
+    "image": [
+      "./data/vqa/vqa/train2014/COCO_train2014_000000307729.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image2. Read the question carefully and look at image2 . Use your intuition and common sense when answering the question: What is dispensed here?"
+      },
+      {
+        "from": "gpt",
+        "value": "money"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_16",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "vqa",
+    "image": [
+      "./data/vqa/vqa/val2014/COCO_val2014_000000516798.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image7. For the question, carefully examine the image and use your knowledge to determine the correct answer. Question: How many trucks in this scene are extended cab? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_17",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "nlvr2",
+    "image": [
+      "./data/nlvr2/nlvr2/features/train/78/train-6986-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Given the picture image4, answer the following question: Right image shows a dog standing on grass, with its body turned rightward. Is this correct? True or False. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_18",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textvqa",
+    "image": [
+      "./data/textvqa/textvqa/train_images/49dfca5eebf84f9d.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image1. Answer the question as accurately as possible using the information provided in the image1, and any OCR text associated with it. Question:what brand of whiskey is this? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is crown royal"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_19",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "coco",
+    "image": [
+      "./data/coco/train2014/COCO_train2014_000000558291.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image3. Carefully analyze image3 to generate a concise and accurate description that accurately represents the objects, people, and scenery present."
+      },
+      {
+        "from": "gpt",
+        "value": "A skier stops to pose for a picture before going up a mountain."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_20",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "miniimage",
+    "image": [
+      "./data/miniimage/miniimage/train/n03527444/n0352744400000647.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image7. Identify the object or concept that best describes what is depicted in image7."
+      },
+      {
+        "from": "gpt",
+        "value": "holster"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_21",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "nlvr2",
+    "image": [
+      "./data/nlvr2/nlvr2/features/train/68/train-10302-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image0. Remember to consider both the question and the information presented in image0 when answering the True or False question: At least one of the buses' stop signs is visible."
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_22",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textvqa",
+    "image": [
+      "./data/textvqa/textvqa/train_images/cc0e1154f179b38c.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Use the image4 as a visual aid to help you understand the context and answer the questions accurately. Question:what city is up ahead? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is rodovia  or terra de luiz gonzaga or rodovia asa branca  or rodovia or exu or unanswerable"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_23",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "gqa",
+    "image": [
+      "./data/gqa/gqa/images/2409931.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Consider all of the information in image4  when answering the question: On which side of the image is the sink faucet?"
+      },
+      {
+        "from": "gpt",
+        "value": "left"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_24",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textvqa",
+    "image": [
+      "./data/textvqa/textvqa/train_images/f1bb89a7d7bf3aa9.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image0. Please ensure that you are answering the question based on the information presented in the image0.Question:who makes the food? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is jose andres  or jose andres or jaleo or chipotle or no"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_25",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "nlvr2",
+    "image": [
+      "./data/nlvr2/nlvr2/features/train/40/train-4130-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image7. Remember to consider both the question and the information presented in image7 when answering the True or False question: In one image, a single drinking water bottle has a blue cap and no label."
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_26",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "stvqa",
+    "image": [
+      "./data/stvqa/stvqa/imageNet/n03291819_459.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:Who is the character? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Hello Kitty"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_27",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "flickr",
+    "image": [
+      "./data/flickr/flickr/flickr30k-images/73987570.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image2. Use clear and concise language that accurately describes the content of image2."
+      },
+      {
+        "from": "gpt",
+        "value": "The workers began to repair the railroad tracks."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_28",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "vqa",
+    "image": [
+      "./data/vqa/vqa/val2014/COCO_val2014_000000557916.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image7. Please refer to image7 when answering the following questions: What is the breed of animal laying on the bed? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "teddy bear"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_29",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "iconqa",
+    "image": [
+      "./data/iconqa/iconqa/iconqa/train/choose_txt/104454/image.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Given the options below, based on the photo image4, select the most suitable answer for the following question: How many triangles are there?. Options: {option}. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "option 3: 8"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_30",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "coco",
+    "image": [
+      "./data/coco/train2014/COCO_train2014_000000083931.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image5. Be creative in your approach to captioning image5 and try to convey a unique perspective or story."
+      },
+      {
+        "from": "gpt",
+        "value": "a classic red auto-show worthy Ford truck and other automobile sitting on display."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_31",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "coco",
+    "image": [
+      "./data/coco/train2014/COCO_train2014_000000403644.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image5. Be creative in your approach to captioning image5 and try to convey a unique perspective or story."
+      },
+      {
+        "from": "gpt",
+        "value": "a white plate with some mashed potatoes cauliflower and some meat"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_32",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "miniimage",
+    "image": [
+      "./data/miniimage/miniimage/train/n04509417/n0450941700001140.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image0. Can you recognize and name the primary element shown in image0?"
+      },
+      {
+        "from": "gpt",
+        "value": "unicycle or monocycle"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_33",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "gqa",
+    "image": [
+      "./data/gqa/gqa/images/2364413.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image0. Consider all of the information in image0 labeled image0 when answering question. Look at objects, colors, shapes, and other details that may be relevant to question: Do you see a laptop to the right of the keyboard? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_34",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "flickr",
+    "image": [
+      "./data/flickr/flickr/flickr30k-images/4931722021.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Be creative in your approach to captioning image4 and try to convey a unique perspective or story."
+      },
+      {
+        "from": "gpt",
+        "value": "Men covered in red paste playing chess."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_35",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "flickr",
+    "image": [
+      "./data/flickr/flickr/flickr30k-images/1449163823.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. Your caption should provide sufficient information about image4 so that someone who has not seen the image can understand it."
+      },
+      {
+        "from": "gpt",
+        "value": "A woman in a blue shirt making pottery."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_36",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "iconqa",
+    "image": [
+      "./data/iconqa/iconqa/iconqa/train/choose_txt/88035/image.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image2. Given the image2, select the option that provides the most accurate and complete answer to the question from the available answer choices. Question: Matt is going to school this morning. The clock shows the time. What time is it? Options: option 1: 8:00 A.M.. option 2: 8:00 P.M.. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "option 1: 8:00 A.M."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_37",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textvqa",
+    "image": [
+      "./data/textvqa/textvqa/train_images/965ca00381a397a0.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image3. Please refer to image3 when answering the following questions: is this picture at 100%? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The answer is yes or answering does not require reading text in the image"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_38",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "nlvr2",
+    "image": [
+      "./data/nlvr2/nlvr2/features/train/43/train-2108-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image1. Remember to consider both the question and the information presented in image1 when answering the True or False question: An image shows two pandas who appear to be playfully wrestling."
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_39",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "nlvr2",
+    "image": [
+      "./data/nlvr2/nlvr2/features/train/19/train-3999-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4."
+      },
+      {
+        "from": "gpt",
+        "value": "Remember to consider both the question and the information presented in image4 when answering the True or False question: wine bottles with a white background True"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_40",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "iconqa",
+    "image": [
+      "./data/iconqa/iconqa/iconqa/train/choose_txt/54951/image.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image2. Given the options below, based on the photo image2, select the most suitable answer for the following question: How many squares are there?. Options: {option}. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "option 2: 95"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_41",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "stvqa",
+    "image": [
+      "./data/stvqa/stvqa/VisualGenome/2/2406592.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image3. Answer the question as accurately as possible using the information provided in the image3, and any OCR text associated with it. Question:What is written on the red sign? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "STOP"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_42",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "okvqa",
+    "image": [
+      "./data/vqa/vqa/train2014/COCO_train2014_000000008592.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image1. Carefully examine image1  before answering the question. Question:What type of exercises can you do to work out this portion of the body? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "dips tricep pushdowns"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_43",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "coco",
+    "image": [
+      "./data/coco/train2014/COCO_train2014_000000229544.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image1. Based on the image1, describe what is contained in this photo. Your caption should be no more than a few sentences and should be grammatically correct and free of spelling errors."
+      },
+      {
+        "from": "gpt",
+        "value": "A man and women who are underneath a purple umbrella."
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_44",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "okvqa",
+    "image": [
+      "./data/vqa/vqa/train2014/COCO_train2014_000000240057.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image3. Look at image3  carefully and read question: What language is sign?. Try to understand what is being asked before selecting an answer."
+      },
+      {
+        "from": "gpt",
+        "value": "japanese"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_45",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "gqa",
+    "image": [
+      "./data/gqa/gqa/images/2409957.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image4. The image4 is the primary source of information for answering the questions. Please refer to it carefully when answering question: Which kind of device is on the wall? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "monitor"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_46",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "gqa",
+    "image": [
+      "./data/gqa/gqa/images/2318262.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image5. Do not provide answers based on assumptions or personal opinions; only use the information presented in the image5 and the question. Question:What kind of food is on the plate? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "dessert"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_47",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "okvqa",
+    "image": [
+      "./data/vqa/vqa/train2014/COCO_train2014_000000171339.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image6. Please refer to image6 when answering the following questions: What city is that? Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "beijing"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_48",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "miniimage",
+    "image": [
+      "./data/miniimage/miniimage/train/n04258138/n0425813800000629.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image5. Can you recognize and label the object shown in image5?"
+      },
+      {
+        "from": "gpt",
+        "value": "solar dish or solar collector or solar furnace"
+      }
+    ]
+  },
+  {
+    "id": "mic_reinforce_49",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "stvqa",
+    "image": [
+      "./data/stvqa/stvqa/VisualGenome/1/2316721.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>is image3. Answer each question based on the information presented in image3. Given the picture image3, what is the answer to the question: fruit name on the packing Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "apple or APPLES"
+      }
+    ]
+  }
+]

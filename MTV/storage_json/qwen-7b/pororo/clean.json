@@ -1,0 +1,122 @@
+[
+    {
+        "question_id": 0,
+        "target": "There are Mia and Isabella, both standing on a land covered by snow",
+        "prediction": "\"Two animated characters, one with orange hair and goggles and the other a green frog, stand together against a bright blue sky backdrop.\"",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 1,
+        "target": "Isabella and Charlotte suddenly appears among trees.",
+        "prediction": "\"Two animated characters, one resembling a frog and the other a rabbit, share a joyful moment against a snowy backdrop.\"",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 2,
+        "target": "Mia and Charlotte face each other holding sticks.",
+        "prediction": "\"Two animated characters, one resembling a fox and the other an owl, stand side by side against a snowy landscape under a bright blue sky.\"",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 3,
+        "target": "Charlotte closes his eyes in the snow.\n",
+        "prediction": "A cute, animated fox character stands with its eyes closed, seemingly enjoying a peaceful moment under a bright blue sky dotted with fluffy white clouds.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 4,
+        "target": "Mia wraps an arm around Isabella with both laughing.\n",
+        "prediction": "A cheerful frog character is hugging a person wearing a winter jacket and goggles, set against a snowy landscape with trees and mountains in the background.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 5,
+        "target": "James and Lucas are standing by each other.\n",
+        "prediction": "A friendly polar bear stands next to a small pink creature in a snowy landscape, creating a heartwarming scene of companionship.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 6,
+        "target": "Isabella, James, Mia, Lucas, and Charlotte stand together.\n",
+        "prediction": "\"Four animated characters stand together in a snowy landscape, with a polar bear looking up at them, creating a heartwarming scene of friendship and adventure.\"",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 7,
+        "target": "Lucas smiles, while sitting at the table",
+        "prediction": "A cute, animated bear sits at a wooden table, holding a pink cup with a straw, seemingly enjoying a drink in a cozy indoor setting.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 8,
+        "target": "Isabella looks forward inside a wooden house.",
+        "prediction": "A cheerful green frog with large expressive eyes sits inside a cozy wooden house, looking directly at the camera with a friendly expression.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 9,
+        "target": "Lucas stands along next to the castle made by snow",
+        "prediction": "A cute pink dog stands in front of a snowy landscape, with ice structures and evergreen trees in the background, creating a whimsical winter scene.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 10,
+        "target": "Lucas stares infront in the snow with trees",
+        "prediction": "A cheerful cartoon bear stands in front of a snowy mountain backdrop, surrounded by evergreen trees, exuding a warm and friendly vibe.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 11,
+        "target": "Mia and James are staring at each other\n",
+        "prediction": "A polar bear and a penguin stand together on a wooden platform, seemingly engaged in a conversation or observing something off-screen. The backdrop features a rustic, possibly abandoned building with broken windows and a cloudy sky, adding a sense of adventure or mystery to the scene.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 12,
+        "target": "James rushes out his house",
+        "prediction": "A cozy, snowy scene featuring a plush polar bear character with a wide, friendly smile, nestled under a blanket, suggesting warmth and comfort amidst the cold winter setting.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 13,
+        "target": "James looks away and continues to fish with his fishing rod",
+        "prediction": "A cheerful polar bear is fishing in a snowy landscape, holding a fishing rod with a smile on its face.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 14,
+        "target": "Mia lowers his head with a guilty look, quietly apologizing in the snowy field.",
+        "prediction": "A cheerful cartoon bear stands in a snowy landscape, holding a small object in its hand, surrounded by evergreen trees and a clear blue sky.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 15,
+        "target": "Isabella walks away from Mia with an angry face.\n",
+        "prediction": "A cheerful green turtle with a friendly expression is sitting on a wooden floor inside a cozy room, surrounded by various household items like a bed and a toy box. The scene exudes a warm and inviting atmosphere.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 16,
+        "target": "Charlotte, Mia, and Isabella stand near a red car inside the room\n",
+        "prediction": "\"Three animated characters gather around a red car in a cozy, rustic room filled with books and furniture.\"",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 17,
+        "target": "Isabella and Charlotte stand next to each other staring at something.",
+        "prediction": "\"Two animated characters, a frog and a fox, stand together in front of a chalkboard, seemingly engaged in a friendly conversation or lesson.\"",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 18,
+        "target": "Mia is riding the red car.",
+        "prediction": "A snowy winter scene features a character dressed in a red jacket and black pants, standing in front of a snow-covered landscape with evergreen trees and a clear blue sky.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 19,
+        "target": "Lucas continues to make a snowman",
+        "prediction": "A cheerful pig stands beside a snowman in a snowy landscape, enjoying the winter wonderland.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    }
+]

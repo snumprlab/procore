@@ -1,0 +1,3446 @@
+[
+    {
+        "id": 0,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/181.png",
+            "./data/SMMILE/180.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nWhat is shown in this image?\nAnswer: Plasma cells.\n\n<image>\nWhat is shown in this image?\nAnswer: Blast cells.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/169.png",
+            "./data/SMMILE/162.png",
+            "./data/SMMILE/163.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is shown in this image?\nAnswer: Renal oncocytoma.\n\n<image>\nIs this a malignancy?\nAnswer: Yes.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma.\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "34f7d1cc-7328-457b-b9d3-5e983c6496d1",
+        "image": [
+            "./data/SMMILE/117.png",
+            "./data/SMMILE/115.png",
+            "./data/SMMILE/118.png",
+            "./data/SMMILE/119.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown?\nAnswer: petechiae\n\n<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "petechiae"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "5d954983-45e2-4853-b94a-19f21492884c",
+        "image": [
+            "./data/SMMILE/230.png",
+            "./data/SMMILE/232.png",
+            "./data/SMMILE/228.png",
+            "./data/SMMILE/227.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich bone or bones are fractured?\nAnswer: Ulna\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Radius and Ulna\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Radius\n\n<image>\nWhich bone or bones are fractured? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Radius"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/297.png",
+            "./data/SMMILE/298.png",
+            "./data/SMMILE/300.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Tinea Corporis\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/417.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "aa9e1c00-8519-465d-9e18-0861b353c138",
+        "image": [
+            "./data/SMMILE/317.png",
+            "./data/SMMILE/316.png",
+            "./data/SMMILE/319.png",
+            "./data/SMMILE/315.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Pneumothorax but not tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: No pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax but not tension pneumothorax"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/96.png",
+            "./data/SMMILE/94.png",
+            "./data/SMMILE/98.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in distal esophagus\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, in airway\n\n<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/349.png",
+            "./data/SMMILE/353.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: left lower lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/351.png",
+            "./data/SMMILE/355.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: middle lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: left upper lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "63338bb8-841b-4420-86fe-78e1963625d0",
+        "image": [
+            "./data/SMMILE/236.png",
+            "./data/SMMILE/239.png",
+            "./data/SMMILE/233.png",
+            "./data/SMMILE/234.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading melanoma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cherry angioma"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/164.png",
+            "./data/SMMILE/167.png",
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/168.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this a malignancy?\nAnswer: No.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Squamous cell carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "edb2f37b-0fa0-4b82-abf5-eb81c548f8ab",
+        "image": [
+            "./data/SMMILE/482.png",
+            "./data/SMMILE/480.png",
+            "./data/SMMILE/484.png",
+            "./data/SMMILE/483.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, right\n\n<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, right\n\n<image>\nIs there a visible pathology?\nAnswer: Normal chest xray\n\n<image>\nIs there a visible pathology? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax, left"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "96fd679e-4619-4c7a-9d7b-dd46eaa8b26e",
+        "image": [
+            "./data/SMMILE/282.png",
+            "./data/SMMILE/285.png",
+            "./data/SMMILE/286.png",
+            "./data/SMMILE/287.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a fracture and if so, what kind?\nAnswer: Transverse fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: Comminuted fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: No fracture\n\n<image>\nIs there a fracture and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No fracture"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "e65f6b06-1b9e-473d-b1ef-2a029432e553",
+        "image": [
+            "./data/SMMILE/463.png",
+            "./data/SMMILE/461.png",
+            "./data/SMMILE/464.png",
+            "./data/SMMILE/466.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Normal epidermis and dermis.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Normal epidermis and dermis."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/130.png",
+            "./data/SMMILE/133.png",
+            "./data/SMMILE/127.png",
+            "./data/SMMILE/132.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: High suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: High suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Very high suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e",
+        "image": [
+            "./data/SMMILE/325.png",
+            "./data/SMMILE/323.png",
+            "./data/SMMILE/324.png",
+            "./data/SMMILE/322.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: No intracerebral hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Subdural hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Subarachnoid hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No intracerebral hemorrhage"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "cae3a3c3-4917-421d-b4a5-360767f459cd",
+        "image": [
+            "./data/SMMILE/424.png",
+            "./data/SMMILE/423.png",
+            "./data/SMMILE/427.png",
+            "./data/SMMILE/425.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: ventricular tachycardia\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "supraventricular tachycardia with aberrancy"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "eb4248fd-adf3-4682-b738-5d69d0248511",
+        "image": [
+            "./data/SMMILE/474.png",
+            "./data/SMMILE/475.png",
+            "./data/SMMILE/476.png",
+            "./data/SMMILE/479.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Left lower lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Left upper lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right upper lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Right middle lobe and right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/170.png",
+            "./data/SMMILE/180.png",
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/171.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the cytologic diagnosis?\nAnswer: Low-grade squamous intraepithelial lesion (LSIL).\n\n<image>\nWhat is shown in this image?\nAnswer: Blast cells.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Papillary thyroid carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/125.png",
+            "./data/SMMILE/124.png",
+            "./data/SMMILE/126.png",
+            "./data/SMMILE/128.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: No suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indeterminate suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/411.png",
+            "./data/SMMILE/409.png",
+            "./data/SMMILE/412.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Suspicious"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "6d0aec94-e009-46ea-8c93-2f2de47ef800",
+        "image": [
+            "./data/SMMILE/266.png",
+            "./data/SMMILE/262.png",
+            "./data/SMMILE/264.png",
+            "./data/SMMILE/265.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast without Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Basophil\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Basophil\n\n<image>\nWhat type of cell is present among the erythrocytes? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Myeloblast without Auer rods"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/173.png",
+            "./data/SMMILE/167.png",
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fungal infection.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/173.png",
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/170.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fungal infection.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nWhat is the cytologic diagnosis?\nAnswer: Low-grade squamous intraepithelial lesion (LSIL).\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "34f7d1cc-7328-457b-b9d3-5e983c6496d1",
+        "image": [
+            "./data/SMMILE/118.png",
+            "./data/SMMILE/116.png",
+            "./data/SMMILE/120.png",
+            "./data/SMMILE/119.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown?\nAnswer: petechiae\n\n<image>\nWhich skin condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "petechiae"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "5d954983-45e2-4853-b94a-19f21492884c",
+        "image": [
+            "./data/SMMILE/230.png",
+            "./data/SMMILE/229.png",
+            "./data/SMMILE/232.png",
+            "./data/SMMILE/227.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich bone or bones are fractured?\nAnswer: Ulna\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Radius\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Radius and Ulna\n\n<image>\nWhich bone or bones are fractured? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Radius"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/301.png",
+            "./data/SMMILE/297.png",
+            "./data/SMMILE/302.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Erythema multiforme\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Tinea Corporis\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/417.png",
+            "./data/SMMILE/411.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "aa9e1c00-8519-465d-9e18-0861b353c138",
+        "image": [
+            "./data/SMMILE/319.png",
+            "./data/SMMILE/317.png",
+            "./data/SMMILE/316.png",
+            "./data/SMMILE/315.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: No pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Pneumothorax but not tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax but not tension pneumothorax"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/97.png",
+            "./data/SMMILE/94.png",
+            "./data/SMMILE/93.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in right lower lobe\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, in airway\n\n<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/355.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: left upper lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/353.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: left lower lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "63338bb8-841b-4420-86fe-78e1963625d0",
+        "image": [
+            "./data/SMMILE/235.png",
+            "./data/SMMILE/239.png",
+            "./data/SMMILE/238.png",
+            "./data/SMMILE/234.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading Melanoma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cherry angioma"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/165.png",
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/179.png",
+            "./data/SMMILE/168.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Tubular adenoma.\n\n<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Acute inflammation.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Squamous cell carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "edb2f37b-0fa0-4b82-abf5-eb81c548f8ab",
+        "image": [
+            "./data/SMMILE/480.png",
+            "./data/SMMILE/484.png",
+            "./data/SMMILE/485.png",
+            "./data/SMMILE/483.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, right\n\n<image>\nIs there a visible pathology?\nAnswer: Normal chest xray\n\n<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, left\n\n<image>\nIs there a visible pathology? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax, left"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "96fd679e-4619-4c7a-9d7b-dd46eaa8b26e",
+        "image": [
+            "./data/SMMILE/285.png",
+            "./data/SMMILE/283.png",
+            "./data/SMMILE/282.png",
+            "./data/SMMILE/287.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a fracture and if so, what kind?\nAnswer: Comminuted fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: Oblique fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: Transverse fracture\n\n<image>\nIs there a fracture and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No fracture"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "e65f6b06-1b9e-473d-b1ef-2a029432e553",
+        "image": [
+            "./data/SMMILE/464.png",
+            "./data/SMMILE/463.png",
+            "./data/SMMILE/465.png",
+            "./data/SMMILE/466.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Normal epidermis and dermis.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Normal epidermis and dermis."
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/124.png",
+            "./data/SMMILE/133.png",
+            "./data/SMMILE/127.png",
+            "./data/SMMILE/132.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: No suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: High suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Very high suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e",
+        "image": [
+            "./data/SMMILE/323.png",
+            "./data/SMMILE/321.png",
+            "./data/SMMILE/320.png",
+            "./data/SMMILE/322.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Subdural hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Epidural hematoma\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: No intracerebral hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No intracerebral hemorrhage"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "cae3a3c3-4917-421d-b4a5-360767f459cd",
+        "image": [
+            "./data/SMMILE/424.png",
+            "./data/SMMILE/423.png",
+            "./data/SMMILE/426.png",
+            "./data/SMMILE/425.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: ventricular tachycardia\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "supraventricular tachycardia with aberrancy"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "eb4248fd-adf3-4682-b738-5d69d0248511",
+        "image": [
+            "./data/SMMILE/476.png",
+            "./data/SMMILE/477.png",
+            "./data/SMMILE/478.png",
+            "./data/SMMILE/479.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right upper lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right middle lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right lower lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Right middle lobe and right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/181.png",
+            "./data/SMMILE/165.png",
+            "./data/SMMILE/167.png",
+            "./data/SMMILE/171.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is shown in this image?\nAnswer: Plasma cells.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Tubular adenoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Papillary thyroid carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/129.png",
+            "./data/SMMILE/124.png",
+            "./data/SMMILE/128.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Indeterminate suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: No suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indeterminate suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/409.png",
+            "./data/SMMILE/417.png",
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/412.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Suspicious"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "6d0aec94-e009-46ea-8c93-2f2de47ef800",
+        "image": [
+            "./data/SMMILE/261.png",
+            "./data/SMMILE/266.png",
+            "./data/SMMILE/264.png",
+            "./data/SMMILE/265.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast without Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Basophil\n\n<image>\nWhat type of cell is present among the erythrocytes? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Myeloblast without Auer rods"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/165.png",
+            "./data/SMMILE/170.png",
+            "./data/SMMILE/164.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Tubular adenoma.\n\n<image>\nWhat is the cytologic diagnosis?\nAnswer: Low-grade squamous intraepithelial lesion (LSIL).\n\n<image>\nIs this a malignancy?\nAnswer: No.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/162.png",
+            "./data/SMMILE/169.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nIs this a malignancy?\nAnswer: Yes.\n\n<image>\nWhat is shown in this image?\nAnswer: Renal oncocytoma.\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "34f7d1cc-7328-457b-b9d3-5e983c6496d1",
+        "image": [
+            "./data/SMMILE/118.png",
+            "./data/SMMILE/117.png",
+            "./data/SMMILE/115.png",
+            "./data/SMMILE/119.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown?\nAnswer: petechiae\n\n<image>\nWhich skin condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "petechiae"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "5d954983-45e2-4853-b94a-19f21492884c",
+        "image": [
+            "./data/SMMILE/229.png",
+            "./data/SMMILE/232.png",
+            "./data/SMMILE/231.png",
+            "./data/SMMILE/227.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich bone or bones are fractured?\nAnswer: Radius\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Radius and Ulna\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Ulna\n\n<image>\nWhich bone or bones are fractured? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Radius"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/301.png",
+            "./data/SMMILE/300.png",
+            "./data/SMMILE/298.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Erythema multiforme\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Tinea Corporis\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/410.png",
+            "./data/SMMILE/417.png",
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Suspicious\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "aa9e1c00-8519-465d-9e18-0861b353c138",
+        "image": [
+            "./data/SMMILE/316.png",
+            "./data/SMMILE/319.png",
+            "./data/SMMILE/314.png",
+            "./data/SMMILE/315.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Pneumothorax but not tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: No pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Pneumothorax but not tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax but not tension pneumothorax"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/94.png",
+            "./data/SMMILE/98.png",
+            "./data/SMMILE/95.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: No, in airway\n\n<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, coiled in upper airway\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/355.png",
+            "./data/SMMILE/351.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: left upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: middle lobe and lingula\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "63338bb8-841b-4420-86fe-78e1963625d0",
+        "image": [
+            "./data/SMMILE/235.png",
+            "./data/SMMILE/236.png",
+            "./data/SMMILE/239.png",
+            "./data/SMMILE/234.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading Melanoma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading melanoma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cherry angioma"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/173.png",
+            "./data/SMMILE/166.png",
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/168.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fungal infection.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fat necrosis.\n\n<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Squamous cell carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "edb2f37b-0fa0-4b82-abf5-eb81c548f8ab",
+        "image": [
+            "./data/SMMILE/485.png",
+            "./data/SMMILE/480.png",
+            "./data/SMMILE/482.png",
+            "./data/SMMILE/483.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, left\n\n<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, right\n\n<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, right\n\n<image>\nIs there a visible pathology? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax, left"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "96fd679e-4619-4c7a-9d7b-dd46eaa8b26e",
+        "image": [
+            "./data/SMMILE/282.png",
+            "./data/SMMILE/284.png",
+            "./data/SMMILE/286.png",
+            "./data/SMMILE/287.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a fracture and if so, what kind?\nAnswer: Transverse fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: Spiral fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: No fracture\n\n<image>\nIs there a fracture and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No fracture"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "e65f6b06-1b9e-473d-b1ef-2a029432e553",
+        "image": [
+            "./data/SMMILE/463.png",
+            "./data/SMMILE/465.png",
+            "./data/SMMILE/461.png",
+            "./data/SMMILE/466.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Normal epidermis and dermis."
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/126.png",
+            "./data/SMMILE/129.png",
+            "./data/SMMILE/133.png",
+            "./data/SMMILE/132.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Indeterminate suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: High suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Very high suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e",
+        "image": [
+            "./data/SMMILE/320.png",
+            "./data/SMMILE/325.png",
+            "./data/SMMILE/323.png",
+            "./data/SMMILE/322.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: No intracerebral hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: No intracerebral hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Subdural hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No intracerebral hemorrhage"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "cae3a3c3-4917-421d-b4a5-360767f459cd",
+        "image": [
+            "./data/SMMILE/428.png",
+            "./data/SMMILE/426.png",
+            "./data/SMMILE/424.png",
+            "./data/SMMILE/425.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: ventricular tachycardia\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "supraventricular tachycardia with aberrancy"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "eb4248fd-adf3-4682-b738-5d69d0248511",
+        "image": [
+            "./data/SMMILE/476.png",
+            "./data/SMMILE/475.png",
+            "./data/SMMILE/478.png",
+            "./data/SMMILE/479.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right upper lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Left upper lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right lower lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Right middle lobe and right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/163.png",
+            "./data/SMMILE/170.png",
+            "./data/SMMILE/180.png",
+            "./data/SMMILE/171.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma.\n\n<image>\nWhat is the cytologic diagnosis?\nAnswer: Low-grade squamous intraepithelial lesion (LSIL).\n\n<image>\nWhat is shown in this image?\nAnswer: Blast cells.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Papillary thyroid carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/127.png",
+            "./data/SMMILE/130.png",
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/128.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: High suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indeterminate suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/417.png",
+            "./data/SMMILE/411.png",
+            "./data/SMMILE/416.png",
+            "./data/SMMILE/412.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Negative\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Suspicious"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "6d0aec94-e009-46ea-8c93-2f2de47ef800",
+        "image": [
+            "./data/SMMILE/267.png",
+            "./data/SMMILE/264.png",
+            "./data/SMMILE/263.png",
+            "./data/SMMILE/265.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Basophil\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Myeloblast without Auer rods"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/166.png",
+            "./data/SMMILE/165.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fat necrosis.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Tubular adenoma.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/179.png",
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Acute inflammation.\n\n<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "34f7d1cc-7328-457b-b9d3-5e983c6496d1",
+        "image": [
+            "./data/SMMILE/120.png",
+            "./data/SMMILE/117.png",
+            "./data/SMMILE/116.png",
+            "./data/SMMILE/119.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin condition is shown?\nAnswer: petechiae\n\n<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "petechiae"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "5d954983-45e2-4853-b94a-19f21492884c",
+        "image": [
+            "./data/SMMILE/231.png",
+            "./data/SMMILE/230.png",
+            "./data/SMMILE/228.png",
+            "./data/SMMILE/227.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich bone or bones are fractured?\nAnswer: Ulna\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Ulna\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Radius\n\n<image>\nWhich bone or bones are fractured? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Radius"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/301.png",
+            "./data/SMMILE/298.png",
+            "./data/SMMILE/303.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Erythema multiforme\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/410.png",
+            "./data/SMMILE/409.png",
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Suspicious\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "aa9e1c00-8519-465d-9e18-0861b353c138",
+        "image": [
+            "./data/SMMILE/318.png",
+            "./data/SMMILE/319.png",
+            "./data/SMMILE/317.png",
+            "./data/SMMILE/315.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: No pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: No pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax but not tension pneumothorax"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/98.png",
+            "./data/SMMILE/94.png",
+            "./data/SMMILE/95.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, in airway\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, coiled in upper airway\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/349.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/355.png",
+            "./data/SMMILE/349.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: left upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "63338bb8-841b-4420-86fe-78e1963625d0",
+        "image": [
+            "./data/SMMILE/238.png",
+            "./data/SMMILE/235.png",
+            "./data/SMMILE/239.png",
+            "./data/SMMILE/234.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading Melanoma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cherry angioma"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/167.png",
+            "./data/SMMILE/166.png",
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/168.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fat necrosis.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Squamous cell carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "edb2f37b-0fa0-4b82-abf5-eb81c548f8ab",
+        "image": [
+            "./data/SMMILE/482.png",
+            "./data/SMMILE/481.png",
+            "./data/SMMILE/480.png",
+            "./data/SMMILE/483.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, right\n\n<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, bilateral\n\n<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, right\n\n<image>\nIs there a visible pathology? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax, left"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "96fd679e-4619-4c7a-9d7b-dd46eaa8b26e",
+        "image": [
+            "./data/SMMILE/282.png",
+            "./data/SMMILE/284.png",
+            "./data/SMMILE/286.png",
+            "./data/SMMILE/287.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a fracture and if so, what kind?\nAnswer: Transverse fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: Spiral fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: No fracture\n\n<image>\nIs there a fracture and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No fracture"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "e65f6b06-1b9e-473d-b1ef-2a029432e553",
+        "image": [
+            "./data/SMMILE/464.png",
+            "./data/SMMILE/461.png",
+            "./data/SMMILE/465.png",
+            "./data/SMMILE/466.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Normal epidermis and dermis.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Normal epidermis and dermis."
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/126.png",
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/125.png",
+            "./data/SMMILE/132.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Very high suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e",
+        "image": [
+            "./data/SMMILE/324.png",
+            "./data/SMMILE/321.png",
+            "./data/SMMILE/325.png",
+            "./data/SMMILE/322.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Subarachnoid hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Epidural hematoma\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: No intracerebral hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No intracerebral hemorrhage"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "cae3a3c3-4917-421d-b4a5-360767f459cd",
+        "image": [
+            "./data/SMMILE/427.png",
+            "./data/SMMILE/423.png",
+            "./data/SMMILE/428.png",
+            "./data/SMMILE/425.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: ventricular tachycardia\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: ventricular tachycardia\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "supraventricular tachycardia with aberrancy"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "eb4248fd-adf3-4682-b738-5d69d0248511",
+        "image": [
+            "./data/SMMILE/476.png",
+            "./data/SMMILE/478.png",
+            "./data/SMMILE/475.png",
+            "./data/SMMILE/479.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right upper lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right lower lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Left upper lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Right middle lobe and right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/180.png",
+            "./data/SMMILE/166.png",
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/171.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is shown in this image?\nAnswer: Blast cells.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fat necrosis.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Papillary thyroid carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/129.png",
+            "./data/SMMILE/125.png",
+            "./data/SMMILE/124.png",
+            "./data/SMMILE/128.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Indeterminate suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: No suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indeterminate suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/410.png",
+            "./data/SMMILE/412.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Suspicious\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Suspicious"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "6d0aec94-e009-46ea-8c93-2f2de47ef800",
+        "image": [
+            "./data/SMMILE/266.png",
+            "./data/SMMILE/261.png",
+            "./data/SMMILE/263.png",
+            "./data/SMMILE/265.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast without Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Myeloblast without Auer rods"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/164.png",
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/176.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this a malignancy?\nAnswer: No.\n\n<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Membranous.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/180.png",
+            "./data/SMMILE/170.png",
+            "./data/SMMILE/169.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is shown in this image?\nAnswer: Blast cells.\n\n<image>\nWhat is the cytologic diagnosis?\nAnswer: Low-grade squamous intraepithelial lesion (LSIL).\n\n<image>\nWhat is shown in this image?\nAnswer: Renal oncocytoma.\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "34f7d1cc-7328-457b-b9d3-5e983c6496d1",
+        "image": [
+            "./data/SMMILE/115.png",
+            "./data/SMMILE/116.png",
+            "./data/SMMILE/120.png",
+            "./data/SMMILE/119.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin condition is shown?\nAnswer: petechiae\n\n<image>\nWhich skin condition is shown?\nAnswer: angioma\n\n<image>\nWhich skin condition is shown?\nAnswer: petechiae\n\n<image>\nWhich skin condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "petechiae"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "5d954983-45e2-4853-b94a-19f21492884c",
+        "image": [
+            "./data/SMMILE/232.png",
+            "./data/SMMILE/228.png",
+            "./data/SMMILE/229.png",
+            "./data/SMMILE/227.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich bone or bones are fractured?\nAnswer: Radius and Ulna\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Radius\n\n<image>\nWhich bone or bones are fractured?\nAnswer: Radius\n\n<image>\nWhich bone or bones are fractured? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Radius"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/302.png",
+            "./data/SMMILE/303.png",
+            "./data/SMMILE/297.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Tinea Corporis\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/416.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Negative\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "aa9e1c00-8519-465d-9e18-0861b353c138",
+        "image": [
+            "./data/SMMILE/314.png",
+            "./data/SMMILE/317.png",
+            "./data/SMMILE/316.png",
+            "./data/SMMILE/315.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Pneumothorax but not tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer: Pneumothorax but not tension pneumothorax\n\n<image>\nIs there a pneumothorax and if so, is it a tension pneumothorax? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax but not tension pneumothorax"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/97.png",
+            "./data/SMMILE/94.png",
+            "./data/SMMILE/98.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in right lower lobe\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, in airway\n\n<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/351.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: middle lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "63338bb8-841b-4420-86fe-78e1963625d0",
+        "image": [
+            "./data/SMMILE/233.png",
+            "./data/SMMILE/239.png",
+            "./data/SMMILE/238.png",
+            "./data/SMMILE/234.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cherry angioma"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/162.png",
+            "./data/SMMILE/166.png",
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/168.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this a malignancy?\nAnswer: Yes.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fat necrosis.\n\n<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Squamous cell carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "edb2f37b-0fa0-4b82-abf5-eb81c548f8ab",
+        "image": [
+            "./data/SMMILE/484.png",
+            "./data/SMMILE/481.png",
+            "./data/SMMILE/485.png",
+            "./data/SMMILE/483.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a visible pathology?\nAnswer: Normal chest xray\n\n<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, bilateral\n\n<image>\nIs there a visible pathology?\nAnswer: Pneumothorax, left\n\n<image>\nIs there a visible pathology? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pneumothorax, left"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "96fd679e-4619-4c7a-9d7b-dd46eaa8b26e",
+        "image": [
+            "./data/SMMILE/284.png",
+            "./data/SMMILE/283.png",
+            "./data/SMMILE/285.png",
+            "./data/SMMILE/287.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there a fracture and if so, what kind?\nAnswer: Spiral fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: Oblique fracture\n\n<image>\nIs there a fracture and if so, what kind?\nAnswer: Comminuted fracture\n\n<image>\nIs there a fracture and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No fracture"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "e65f6b06-1b9e-473d-b1ef-2a029432e553",
+        "image": [
+            "./data/SMMILE/461.png",
+            "./data/SMMILE/464.png",
+            "./data/SMMILE/462.png",
+            "./data/SMMILE/466.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Normal epidermis and dermis.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Normal epidermis and dermis, with benign intradermal nevus.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Normal epidermis and dermis."
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/127.png",
+            "./data/SMMILE/129.png",
+            "./data/SMMILE/132.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Indeterminate suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Very high suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "ab57d2cb-e14d-43e8-9f4d-ecd2a211ba7e",
+        "image": [
+            "./data/SMMILE/321.png",
+            "./data/SMMILE/325.png",
+            "./data/SMMILE/323.png",
+            "./data/SMMILE/322.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Epidural hematoma\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: No intracerebral hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer: Subdural hemorrhage\n\n<image>\nIs there an intracerebral hemorrhage in this image and if so, what kind? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No intracerebral hemorrhage"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "cae3a3c3-4917-421d-b4a5-360767f459cd",
+        "image": [
+            "./data/SMMILE/427.png",
+            "./data/SMMILE/424.png",
+            "./data/SMMILE/426.png",
+            "./data/SMMILE/425.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer: supraventricular tachycardia with aberrancy\n\n<image>\nDoes this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "supraventricular tachycardia with aberrancy"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "eb4248fd-adf3-4682-b738-5d69d0248511",
+        "image": [
+            "./data/SMMILE/477.png",
+            "./data/SMMILE/474.png",
+            "./data/SMMILE/478.png",
+            "./data/SMMILE/479.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right middle lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Left lower lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within?\nAnswer: Right lower lobe\n\n<image>\nWhich lung lobe(s) is the atelectasis within? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Right middle lobe and right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/163.png",
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/171.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Papillary thyroid carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/133.png",
+            "./data/SMMILE/124.png",
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/128.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: High suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: No suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indeterminate suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/416.png",
+            "./data/SMMILE/412.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Negative\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Suspicious"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "6d0aec94-e009-46ea-8c93-2f2de47ef800",
+        "image": [
+            "./data/SMMILE/266.png",
+            "./data/SMMILE/267.png",
+            "./data/SMMILE/261.png",
+            "./data/SMMILE/265.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast without Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Myeloblast without Auer rods"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/169.png",
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/167.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is shown in this image?\nAnswer: Renal oncocytoma.\n\n<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/165.png",
+            "./data/SMMILE/170.png",
+            "./data/SMMILE/169.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Tubular adenoma.\n\n<image>\nWhat is the cytologic diagnosis?\nAnswer: Low-grade squamous intraepithelial lesion (LSIL).\n\n<image>\nWhat is shown in this image?\nAnswer: Renal oncocytoma.\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/300.png",
+            "./data/SMMILE/298.png",
+            "./data/SMMILE/297.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Tinea Corporis\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/410.png",
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/417.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Suspicious\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/97.png",
+            "./data/SMMILE/98.png",
+            "./data/SMMILE/93.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in right lower lobe\n\n<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/355.png",
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: left upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/353.png",
+            "./data/SMMILE/351.png",
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: left lower lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: middle lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "63338bb8-841b-4420-86fe-78e1963625d0",
+        "image": [
+            "./data/SMMILE/233.png",
+            "./data/SMMILE/236.png",
+            "./data/SMMILE/238.png",
+            "./data/SMMILE/234.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading melanoma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cherry angioma"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/167.png",
+            "./data/SMMILE/179.png",
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/168.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Acute inflammation.\n\n<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Squamous cell carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/129.png",
+            "./data/SMMILE/125.png",
+            "./data/SMMILE/127.png",
+            "./data/SMMILE/132.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Indeterminate suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Very high suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/179.png",
+            "./data/SMMILE/173.png",
+            "./data/SMMILE/171.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Acute inflammation.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fungal infection.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Papillary thyroid carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/125.png",
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/126.png",
+            "./data/SMMILE/128.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indeterminate suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/413.png",
+            "./data/SMMILE/412.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Suspicious"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "6d0aec94-e009-46ea-8c93-2f2de47ef800",
+        "image": [
+            "./data/SMMILE/263.png",
+            "./data/SMMILE/261.png",
+            "./data/SMMILE/267.png",
+            "./data/SMMILE/265.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Myeloblast without Auer rods"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/179.png",
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Acute inflammation.\n\n<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/173.png",
+            "./data/SMMILE/179.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fungal infection.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Acute inflammation.\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/297.png",
+            "./data/SMMILE/301.png",
+            "./data/SMMILE/302.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema multiforme\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Tinea Corporis\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/416.png",
+            "./data/SMMILE/409.png",
+            "./data/SMMILE/414.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Negative\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/93.png",
+            "./data/SMMILE/96.png",
+            "./data/SMMILE/94.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in distal esophagus\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, in airway\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/355.png",
+            "./data/SMMILE/351.png",
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: left upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: middle lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/351.png",
+            "./data/SMMILE/349.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: middle lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "63338bb8-841b-4420-86fe-78e1963625d0",
+        "image": [
+            "./data/SMMILE/237.png",
+            "./data/SMMILE/236.png",
+            "./data/SMMILE/239.png",
+            "./data/SMMILE/234.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin-condition is shown?\nAnswer: Cherry angioma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading melanoma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cherry angioma"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/166.png",
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/168.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fat necrosis.\n\n<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Squamous cell carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/125.png",
+            "./data/SMMILE/124.png",
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/132.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: No suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Very high suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/166.png",
+            "./data/SMMILE/162.png",
+            "./data/SMMILE/170.png",
+            "./data/SMMILE/171.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fat necrosis.\n\n<image>\nIs this a malignancy?\nAnswer: Yes.\n\n<image>\nWhat is the cytologic diagnosis?\nAnswer: Low-grade squamous intraepithelial lesion (LSIL).\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Papillary thyroid carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/130.png",
+            "./data/SMMILE/129.png",
+            "./data/SMMILE/126.png",
+            "./data/SMMILE/128.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: High suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Indeterminate suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indeterminate suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/410.png",
+            "./data/SMMILE/416.png",
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/412.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Suspicious\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Negative\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Suspicious"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "6d0aec94-e009-46ea-8c93-2f2de47ef800",
+        "image": [
+            "./data/SMMILE/263.png",
+            "./data/SMMILE/266.png",
+            "./data/SMMILE/262.png",
+            "./data/SMMILE/265.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast without Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Basophil\n\n<image>\nWhat type of cell is present among the erythrocytes? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Myeloblast without Auer rods"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/162.png",
+            "./data/SMMILE/167.png",
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs this a malignancy?\nAnswer: Yes.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/165.png",
+            "./data/SMMILE/176.png",
+            "./data/SMMILE/180.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Tubular adenoma.\n\n<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Membranous.\n\n<image>\nWhat is shown in this image?\nAnswer: Blast cells.\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/298.png",
+            "./data/SMMILE/300.png",
+            "./data/SMMILE/297.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Tinea Corporis\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/416.png",
+            "./data/SMMILE/410.png",
+            "./data/SMMILE/411.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Negative\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Suspicious\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/96.png",
+            "./data/SMMILE/93.png",
+            "./data/SMMILE/97.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in distal esophagus\n\n<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in right lower lobe\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/355.png",
+            "./data/SMMILE/353.png",
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: left upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: left lower lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/354.png",
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "63338bb8-841b-4420-86fe-78e1963625d0",
+        "image": [
+            "./data/SMMILE/236.png",
+            "./data/SMMILE/239.png",
+            "./data/SMMILE/235.png",
+            "./data/SMMILE/234.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading melanoma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Spider angioma\n\n<image>\nWhich skin-condition is shown?\nAnswer: Superficial spreading Melanoma\n\n<image>\nWhich skin-condition is shown? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cherry angioma"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/170.png",
+            "./data/SMMILE/166.png",
+            "./data/SMMILE/168.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the cytologic diagnosis?\nAnswer: Low-grade squamous intraepithelial lesion (LSIL).\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Fat necrosis.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Squamous cell carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/127.png",
+            "./data/SMMILE/126.png",
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/132.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Very high suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/174.png",
+            "./data/SMMILE/164.png",
+            "./data/SMMILE/167.png",
+            "./data/SMMILE/171.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the histopathologic diagnosis?\nAnswer: Adenocarcinoma, metastatic to lymph node.\n\n<image>\nIs this a malignancy?\nAnswer: No.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Basal cell carcinoma.\n\n<image>\nWhat is the histopathologic diagnosis? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Papillary thyroid carcinoma."
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "3833ca0c-82cd-4545-b1de-93ed42e4d6e2",
+        "image": [
+            "./data/SMMILE/131.png",
+            "./data/SMMILE/129.png",
+            "./data/SMMILE/126.png",
+            "./data/SMMILE/128.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Very high suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Indeterminate suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer: Low suspicion for COVID-19 infection\n\n<image>\nWhat is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indeterminate suspicion for COVID-19 infection"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/416.png",
+            "./data/SMMILE/411.png",
+            "./data/SMMILE/413.png",
+            "./data/SMMILE/412.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Negative\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Suspicious"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "6d0aec94-e009-46ea-8c93-2f2de47ef800",
+        "image": [
+            "./data/SMMILE/261.png",
+            "./data/SMMILE/264.png",
+            "./data/SMMILE/262.png",
+            "./data/SMMILE/265.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Myeloblast with Auer rods\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Basophil\n\n<image>\nWhat type of cell is present among the erythrocytes?\nAnswer: Basophil\n\n<image>\nWhat type of cell is present among the erythrocytes? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Myeloblast without Auer rods"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/172.png",
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/179.png",
+            "./data/SMMILE/175.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is shown in this image?\nAnswer: Ovarian teratoma.\n\n<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nWhat is the histopathologic diagnosis?\nAnswer: Acute inflammation.\n\n<image>\nWhat is the immunohistochemical stain result? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Positive for H. Pylori."
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "44c46ae9-37d5-43b0-afab-162db2096c2c",
+        "image": [
+            "./data/SMMILE/178.png",
+            "./data/SMMILE/164.png",
+            "./data/SMMILE/162.png",
+            "./data/SMMILE/177.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the immunohistochemical staining pattern?\nAnswer: Nuclear.\n\n<image>\nIs this a malignancy?\nAnswer: No.\n\n<image>\nIs this a malignancy?\nAnswer: Yes.\n\n<image>\nWhat is the immunohistochemical staining pattern? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cytoplasmic."
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "a0111520-e2e0-406c-9bf0-5139d8a2f30d",
+        "image": [
+            "./data/SMMILE/303.png",
+            "./data/SMMILE/297.png",
+            "./data/SMMILE/301.png",
+            "./data/SMMILE/299.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema migrans\n\n<image>\nWhat pathology is shown in this image?\nAnswer: Erythema multiforme\n\n<image>\nWhat pathology is shown in this image? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erythema multiforme"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "c8270afe-324e-4bdf-af7d-a95d1f7d2155",
+        "image": [
+            "./data/SMMILE/409.png",
+            "./data/SMMILE/415.png",
+            "./data/SMMILE/413.png",
+            "./data/SMMILE/408.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Probably benign\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer: Highly suggestive of malignancy\n\n<image>\nWhat is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Negative"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "2d679738-2da1-45da-b83b-aa39a86f6bcb",
+        "image": [
+            "./data/SMMILE/97.png",
+            "./data/SMMILE/93.png",
+            "./data/SMMILE/96.png",
+            "./data/SMMILE/99.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in right lower lobe\n\n<image>\nIs the NG tube well-positioned?\nAnswer: Yes\n\n<image>\nIs the NG tube well-positioned?\nAnswer: No, terminates in distal esophagus\n\n<image>\nIs the NG tube well-positioned? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "No, in left lung"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/349.png",
+            "./data/SMMILE/355.png",
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/350.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: left upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "left lower lobe"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "b25c0453-eaf9-481c-9dbe-bc8924905668",
+        "image": [
+            "./data/SMMILE/351.png",
+            "./data/SMMILE/347.png",
+            "./data/SMMILE/352.png",
+            "./data/SMMILE/348.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nWhere is the pneumonia located?\nAnswer: middle lobe and lingula\n\n<image>\nWhere is the pneumonia located?\nAnswer: Right upper lobe\n\n<image>\nWhere is the pneumonia located?\nAnswer: right lower lobe\n\n<image>\nWhere is the pneumonia located? Learn from the previous images and captions.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "right lower lobe"
+            }
+        ]
+    }
+]

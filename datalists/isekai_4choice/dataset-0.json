@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 0,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/pos-pineapple house/macavity6328_A_house_made_of_pineapple_3e9f4594-68d8-4aba-9d8c-ede2e8a1f60b_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapplepalace"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/pos-cactus boxer/macavity6328_A_boxer_has_a_cactus_head_3053a1af-7db8-4943-8c70-6a4469124981_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided information, what do you assume to be the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "thornbrawlers"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_25ec3e5c-e505-464e-ad8c-9f4b9683b412_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the context clues, what singular item do you think dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_b55744c1-8a40-4f12-bc80-b14a7e0948ce_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, what do you predict the primary subject representing the theme or message of the image  is? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_bd8bba6d-a45b-45c0-b110-a4d15dbe702c_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think is the most visually striking in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_by_the_creek_c0675132-d534-4f34-95c6-5f00e10ddc4b_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, can you speculate about any object that might appear out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_c339b2ea-723a-479d-b593-febc6d5bd27f_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is your best estimate of the key item captured in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_a075da1a-25b7-4724-a875-77fce38449ef_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, which specific object do you think draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_cd0e352f-3316-4f51-8194-57bf9486fe8f_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information provided, what stands out to you as the most visually striking object in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_232361e7-8b5d-4457-b4a2-f627e2ca66e8_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, which specific object do you think holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_big_mushroom_in_the_forest_6ecfffec-74c9-42a2-b8c8-2437d6e875de_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, what single item do you think occupies the largest area in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_bdb59b1e-67f9-49b6-8933-10da94f0457b_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_4eb9ba26-112c-4cff-899e-7571a63f9d6f_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the previous examples, what do you assume is the primary object in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_50849909-5635-454d-8e34-e1efba1eb166_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object would you predict to be the central focus in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_c825d0a2-36cd-4a19-bdc6-6e32df1f105c_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the provided information, what is your best guess about the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_sheep_with_long_ears._dbcc690c-9ca2-479b-ae7c-611de6236690_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, what do you imagine to be the singular item that dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_long_eared_sheep_e6634a3e-4a82-44c3-ac67-ec10eba4ae68_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, can you take a guess about any object that might seem out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_4f28c59e-7b62-4d09-b2e9-95d28551334a_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided information, what do you assume to be the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_6afd0f75-9380-49e0-9de2-59c7ecb1a1ca_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, can you take a guess about any object that might seem out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_1764ffbf-9cbe-4a38-9113-4837d2b8d358_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the information provided, can you take a guess at the possible story of the image  based on the single object captured within it? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_7f2e9907-069b-4a76-8787-b308828dcb3a_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, what do you imagine to be the singular item that dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_a4df6f95-1fa5-4538-b69e-d97165ac4996_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, can you make an educated guess about what's in the foreground of the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_d682c3ac-3a23-468e-80df-21902d77f43b_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat specific object, based on the context, do you believe draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_sheep_with_long_ears._7100ba09-da8a-4d38-88ac-eb4b413d0aa9_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided information, what do you assume to be the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_67a6564a-0a58-41b3-bfda-33c9a38a9e45_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the information provided, can you take a guess at the story of the image  based on the single object captured within it? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_a_sheep_5e6990d2-6e4c-4776-ad79-4b67e045f217_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided information, what do you assume to be the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_6016e165-c56b-403e-b401-5ae547113f5b_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the provided information, what do you predict the primary subject representing the message of the image  is? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_8f409ba1-3653-4eba-8cb9-f43cfdcaf4fd_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think you would remember the most after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_0de8dff0-901b-4754-8ad4-1d0c1272e43c_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, which specific object do you think stands out the most in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_48494da0-fa0c-4759-99bc-33755f4d4f02_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the previous examples, what do you think is in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_426e2e59-73a1-46ce-b54d-648779e7aab2_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided information, what do you assume to be the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_A_zebra_in_front_of_the_curtain_f4250cf9-8b79-4e87-97e8-ff229d8a9c08_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the provided information, what is your best guess about the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_401fb3cb-930c-464a-937e-9e41e4dbf5c1_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information provided, what stands out to you as the most visually striking object in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_a_sheep_bba3937e-2930-45ae-9f10-55f920808dd8_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_6ee1fd0b-2c32-4d2b-82d8-82ebb541f6ca_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think you would remember the most after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_544320d6-fbc3-4aaa-a10f-a9f5a615b74f_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_a9425883-bc4a-41ef-937c-ff96d070f718_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_722e88c0-7472-4bd7-88a8-8d99ac719605_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_b518dd70-a649-45fe-b925-8727a48f002f_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the previous examples, what do you assume is the primary object in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_55f57d4d-c791-4e50-98dd-69359011918b_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the provided information, what is your best guess about the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_bd8bba6d-a45b-45c0-b110-a4d15dbe702c_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the information provided, what object do you speculate is present in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_a4453fac-a92c-4f83-9b57-356d0cf61d5f_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_on_the_street_a74e922d-035a-4678-8c98-9f228cb61a8f_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object would you predict to be the central focus in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_d473828a-7ea4-4558-af74-894cb7742847_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is your best estimate of the most prominent item captured in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_a_sheep_7724db3d-c22f-454c-98e0-34380e7b7180_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, which specific object do you think stands out the most in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_6ff82840-3f6c-423f-b173-0eed03872141_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you make an educated guess about the main subject based on the questions provided for the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_e60e6526-9072-49f8-87ac-0ba92ff17b84_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided information, what do you assume to be the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_dd5de019-d963-4665-83da-a7b6c298fdd8_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the available context, can you infer what single object might be in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_d031e61d-7c06-4a5d-b790-c4039ac40af5_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you think best symbolizes the setting or context of the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_116c6c00-6b43-4fb7-9035-db4f215f2305_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you think best symbolizes the setting or context of the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_A_zebra_in_front_of_the_curtain_e96c9b29-5215-4f0a-a0e6-4ad39fe7d8d3_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object would you predict to be the central focus in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_rock_in_field_448dc1a9-0efa-4739-87c4-82408714da16_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_d9c86ad7-89df-4a35-a3a6-89a215ffe295_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, what do you imagine to be the singular item that dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_long_eared_sheep_c9baedba-08cb-4de7-a119-c3c51371c450_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_1e281f4d-3fed-4470-9018-12cfc738a276_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you believe best symbolizes the theme or context of the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_rock_in_field_1e3611f3-d163-4d2f-9092-bbe329bdcc07_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the given context, what object would you surmise to be the central focus of the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_07f1bde5-28e5-437a-8381-39f7581428e7_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the previous examples, what do you think is in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_d682c3ac-3a23-468e-80df-21902d77f43b_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the provided information, what is your best guess about the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_b55744c1-8a40-4f12-bc80-b14a7e0948ce_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, what do you imagine to be the singular item that dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_fb3247d7-64b9-4648-b6c1-d13158106ce1_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you hypothesize the main object is, using the examples given, in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_9ed0aa71-04eb-4a04-a962-d2cee18feb2c_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think you would remember the most after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_a4453fac-a92c-4f83-9b57-356d0cf61d5f_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat is your best estimate of the key item captured in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_1ad3fcf2-e109-4fdc-ac59-c2ad8ef9e385_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_d9c86ad7-89df-4a35-a3a6-89a215ffe295_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, can you make an inference about the most prominent item present in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_sheep_with_long_ears._1dd09fa7-78fd-45f5-9784-c5a33b48ce36_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_caff8d18-3799-4625-841b-90d62f110d26_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the given context, what object would you surmise to be the central focus of the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_rock_in_field_448dc1a9-0efa-4739-87c4-82408714da16_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_a9425883-bc4a-41ef-937c-ff96d070f718_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, what do you predict the primary subject representing the theme or message of the image  is? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_d682c3ac-3a23-468e-80df-21902d77f43b_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information provided, what stands out to you as the most visually striking object in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_d4f14ac8-02a7-4cb4-80b0-81b33762d73c_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat specific object, based on the context, do you believe draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_e3a94f8e-62bf-4791-991a-1cc2ccff113a_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, can you make an educated guess about what's in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_77b2bfcf-102c-4146-8cdd-1e06762f65ff_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, what do you imagine to be the singular item that dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_rock_in_field_49459242-5800-434d-9fde-7e921000fa9d_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the previous examples, what do you assume is the primary object in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_a075da1a-25b7-4724-a875-77fce38449ef_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the context clues, what singular item do you think dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_7a73e00a-6d50-4e95-b3e4-a0448ee47cb7_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, can you make an educated guess about what's in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_cd25d855-fff1-4199-9852-eea810ddd9d0_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the context clues, what singular item do you think dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_d031e61d-7c06-4a5d-b790-c4039ac40af5_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, can you take a guess about any object that might seem out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_caff8d18-3799-4625-841b-90d62f110d26_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you believe best symbolizes the theme or context of the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_1b681df3-84ee-4ce4-a0aa-f1483f437ce2_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, which specific object do you think stands out the most in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_06c74079-a1f5-450c-a9d0-1e21372f40db_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, which specific object do you think holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_rock_in_field_49459242-5800-434d-9fde-7e921000fa9d_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you believe best symbolizes the theme or context of the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_7cc06297-8250-4bcd-9fad-1d01d1aaa791_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object would you predict to be the central focus in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_b55744c1-8a40-4f12-bc80-b14a7e0948ce_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, can you speculate about any object that might appear out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_71f58901-89d8-4ac7-bcc6-c6961dc30105_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the given context, what object would you surmise to be the central focus of the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_by_the_creek_9d3046af-c411-4941-b67f-c895c7f5cf55_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, which specific object do you believe holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_af3ab52f-dd82-443d-a304-f5a89b346cf4_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_b55744c1-8a40-4f12-bc80-b14a7e0948ce_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you think best symbolizes the setting or context of the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_e84c0b7a-b2e3-43a8-8433-4197fda2ef42_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, can you take a guess about any object that might seem out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_0d71d764-3264-4771-abca-aaf3708397ab_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information provided, what stands out to you as the most visually striking object in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_7f2e9907-069b-4a76-8787-b308828dcb3a_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_sheep_with_long_ears._4342f1ac-534f-4f5a-aada-c6a48e908b64_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_A_zebra_in_front_of_the_curtain_e96c9b29-5215-4f0a-a0e6-4ad39fe7d8d3_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_cbc54a4f-c921-4e9b-bb02-75d922a90c6a_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, take a guess at the main subject of the image . Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_A_zebra_in_front_of_the_curtain_4cf5f6a1-c107-49bf-be19-2ccc4332664f_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the information provided, what object do you speculate is present in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_232361e7-8b5d-4457-b4a2-f627e2ca66e8_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the available context, can you infer what single object might be in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_a_sheep_bba3937e-2930-45ae-9f10-55f920808dd8_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the previous examples, what do you assume is the primary object in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_2a4763dd-da72-443d-99f0-a0f326800cda_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, which specific object do you think draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_a4453fac-a92c-4f83-9b57-356d0cf61d5f_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, which specific object do you think holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_192ed3da-2a85-455c-a066-2262090ccf7b_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information provided, what stands out to you as the most visually striking object in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_rock_in_field_49459242-5800-434d-9fde-7e921000fa9d_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, can you take a guess about any object that might seem out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_long_eared_sheep_c9baedba-08cb-4de7-a119-c3c51371c450_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, can you make an educated guess about what's in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_black_orange_snake_on_black_soil_44f833d8-47d3-4c07-b897-33772d140fd9_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, which specific object do you think holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_b518dd70-a649-45fe-b925-8727a48f002f_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information provided, what stands out to you as the most visually striking object in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_sheep_00571ff1-1327-40cb-b0a4-63da2a971d16_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_sheep_with_long_ears._dbcc690c-9ca2-479b-ae7c-611de6236690_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, can you make an inference about the most prominent item present in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_5cc126f5-72c4-4444-8e13-077a1641b1f1_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided information, what do you assume to be the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_67a6564a-0a58-41b3-bfda-33c9a38a9e45_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information provided, what stands out to you as the most visually striking object in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_c6f86bd2-e909-4d24-b71c-4a12407d5de2_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_06c74079-a1f5-450c-a9d0-1e21372f40db_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you think best symbolizes the setting or context of the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_6f18ed0d-95f2-44e9-932c-69c1e6ea078b_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, can you form an educated guess about what might be in the foreground of the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_a9425883-bc4a-41ef-937c-ff96d070f718_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_0de8dff0-901b-4754-8ad4-1d0c1272e43c_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the available context, can you infer what single object might be in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_0de8dff0-901b-4754-8ad4-1d0c1272e43c_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, can you speculate about any object that might appear out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_a0e037e0-7e2d-46d1-83d6-52e68dbce86a_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat specific object, based on the context, do you believe draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_6832f97c-0b3b-4ff7-b0d0-5407d82c46e2_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_de8b46b3-0b98-4ad2-9e49-dac713ca81d4_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you believe best symbolizes the theme or context of the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_A_zebra_in_front_of_the_curtain_4cf5f6a1-c107-49bf-be19-2ccc4332664f_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the information provided, what object do you speculate is present in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_7a73e00a-6d50-4e95-b3e4-a0448ee47cb7_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the given context, what object would you surmise to be the central focus of the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_huge_rock_96395256-3d92-4283-a168-3cffd312fe0e_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you think best symbolizes the setting or context of the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_b55744c1-8a40-4f12-bc80-b14a7e0948ce_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the previous examples, what do you assume is the primary object in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_941a01e5-fc81-4659-af88-f706f6347e9a_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, can you make an educated guess about what's in the foreground of the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_116c6c00-6b43-4fb7-9035-db4f215f2305_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think is the most visually striking in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_35655e7e-386e-4303-9d4b-c977e47134d7_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, what do you predict the primary subject representing the theme or message of the image  is? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_91de8afb-030d-49ca-a40b-573cdd49e034_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, what single item do you think occupies the largest area in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_sheep_with_long_ears._dbcc690c-9ca2-479b-ae7c-611de6236690_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat specific object, based on the context, do you believe draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_huge_rock_96395256-3d92-4283-a168-3cffd312fe0e_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided information, what do you assume to be the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_a_sheep_7724db3d-c22f-454c-98e0-34380e7b7180_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think you would remember the most after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_0d71d764-3264-4771-abca-aaf3708397ab_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_A_large_pineapple_on_the_beach_5ebcf905-f7fd-464d-ad69-bfae3c359127_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_edd66abd-7ed9-4523-a773-870cac094ac1_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat specific object, based on the context, do you believe draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_50849909-5635-454d-8e34-e1efba1eb166_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the given context, what object would you surmise to be the central focus of the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_67a6564a-0a58-41b3-bfda-33c9a38a9e45_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_77b2bfcf-102c-4146-8cdd-1e06762f65ff_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think you would remember the most after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_caff8d18-3799-4625-841b-90d62f110d26_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_1ad3fcf2-e109-4fdc-ac59-c2ad8ef9e385_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat specific object, based on the context, do you believe draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_cd25d855-fff1-4199-9852-eea810ddd9d0_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the questions provided, what is your best guess about the most prominent item captured in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_af3ab52f-dd82-443d-a304-f5a89b346cf4_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_9be5ef8d-2f48-405a-8259-9982864633e3_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, can you speculate about any object that might appear out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_tiger_indoors_f8e397e4-bd5f-457c-af69-2988332606e8_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you hypothesize the main object is, using the examples given, in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_07f1bde5-28e5-437a-8381-39f7581428e7_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat specific object, based on the context, do you believe draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_544320d6-fbc3-4aaa-a10f-a9f5a615b74f_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, which specific object do you believe holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_48494da0-fa0c-4759-99bc-33755f4d4f02_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, which specific object do you think stands out the most in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_6832f97c-0b3b-4ff7-b0d0-5407d82c46e2_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the available context, can you infer what single object might be in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_dc83fa88-de27-4368-bfb9-147355f00283_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, can you speculate about any object that might appear out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_12d21feb-2119-47fb-b61c-2ade22f2dc16_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, can you speculate about any object that might appear out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_af3ab52f-dd82-443d-a304-f5a89b346cf4_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the information provided, can you take a guess at the story of the image  based on the single object captured within it? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_6afd0f75-9380-49e0-9de2-59c7ecb1a1ca_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you make an educated guess about the main subject based on the questions provided for the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_52e28730-a971-46a8-858e-d7915609e1ff_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat do you hypothesize the main object is, using the examples given, in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_6f18ed0d-95f2-44e9-932c-69c1e6ea078b_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat specific object, based on the context, do you believe draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_15d81e6d-048e-4dc8-88cc-17e56a96e559_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, what do you predict the primary subject representing the theme or message of the image  is? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_caff8d18-3799-4625-841b-90d62f110d26_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_c1d189ed-5d0c-4099-9d70-45dac212cd74_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, which specific object do you think draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_35655e7e-386e-4303-9d4b-c977e47134d7_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you think best symbolizes the setting or context of the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_4eb9ba26-112c-4cff-899e-7571a63f9d6f_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you predict to be the main feature in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_bc6d8055-f679-4993-b01d-230bc8ff77f5_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think is the most visually striking in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_a952e54d-0f42-4ede-96fb-a1ccd34cb3aa_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nGiven the information provided, what object do you speculate is present in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_by_the_creek_8d08037b-6fd6-4802-ae44-a1741f047cf9_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context clues, which specific object do you think draws immediate attention in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_fb188059-3dfa-4e4c-9279-e743594783ac_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the available context, can you infer what single object might be in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_by_the_creek_8d08037b-6fd6-4802-ae44-a1741f047cf9_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nCan you make an educated guess about the main subject based on the questions provided for the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_6016e165-c56b-403e-b401-5ae547113f5b_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_0d71d764-3264-4771-abca-aaf3708397ab_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the clues given, what is your hypothesis about the main object in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_A_zebra_in_front_of_the_curtain_e96c9b29-5215-4f0a-a0e6-4ad39fe7d8d3_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object would you predict to be the central focus in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_1b2bb0a8-1d96-4d25-96f0-53d6491abee1_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the questions provided, what is your best guess about the most prominent item captured in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_sheep_with_long_ears._1dd09fa7-78fd-45f5-9784-c5a33b48ce36_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think is the most visually striking in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_A_large_pineapple_on_the_beach_f6157aed-da1a-4649-813e-f2d42475ac59_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, can you make an inference about the most prominent item present in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_a_big_pineapple_6832f97c-0b3b-4ff7-b0d0-5407d82c46e2_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, what do you imagine to be the singular item that dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_c1d189ed-5d0c-4099-9d70-45dac212cd74_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, take a guess at the main subject of the image . Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_snake_on_black_soil_6f18ed0d-95f2-44e9-932c-69c1e6ea078b_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the provided information, what is your best guess about the most important element for understanding the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_a_sheep_5e6990d2-6e4c-4776-ad79-4b67e045f217_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context, what object would you speculate occupies the largest area in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_77b2bfcf-102c-4146-8cdd-1e06762f65ff_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, can you speculate about any object that might appear out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_sheep_00571ff1-1327-40cb-b0a4-63da2a971d16_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, which specific object do you think holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_72a3d932-ad69-4ff8-897b-a98e9214aff7_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the previous examples, what do you assume is the primary object in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_848c60d2-9213-4820-924d-c05b7705a6fc_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, can you make an inference about the most prominent item present in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_sheep_33e14fe1-3a12-47f0-b4cc-b28c9cfbd273_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, which specific object do you think holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, stripehopper, zebra].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_by_the_creek_9d3046af-c411-4941-b67f-c895c7f5cf55_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, can you make an inference about the most prominent item present in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_9de3b7fa-4f62-4723-a22d-8c934e751781_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you believe best symbolizes the theme or context of the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, thornbrawlers, cactus].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/zebra striped rabbit/neg-zebra/macavity6328_a_zebra_a8fb2e85-aee2-4645-b9ac-3ad68c977a45_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, can you make an inference about the most prominent item present in the image ? Choose from the options provided for each question and output ONLY the answer: [stripehopper, zebra, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "zebra"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_c339b2ea-723a-479d-b593-febc6d5bd27f_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat object do you think would leave a lasting impression after viewing the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_rock_in_field_49459242-5800-434d-9fde-7e921000fa9d_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_544320d6-fbc3-4aaa-a10f-a9f5a615b74f_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, pineapplepalace, pineapple].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_29849cd8-ce9e-4fdc-bab7-ea4cf8f0c90c_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the previous examples, what do you assume is the primary object in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_running_tiger_b55744c1-8a40-4f12-bc80-b14a7e0948ce_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, what do you imagine to be the singular item that dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/suspended rock/neg-rok/macavity6328_A_large_cubic_rock_50849909-5635-454d-8e34-e1efba1eb166_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, can you take a guess about any object that might seem out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [airstone, stone, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "stone"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_544320d6-fbc3-4aaa-a10f-a9f5a615b74f_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information provided, what stands out to you as the most visually striking object in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/Ice cream microphone/neg-Ice cream/macavity6328_Ice_Cream_Cone_1ad3fcf2-e109-4fdc-ac59-c2ad8ef9e385_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, does a solitary item appear to be interacting with other elements in the image ? Choose from the options provided for each question and output ONLY the answer: [icemic, ice cream, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ice cream"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_a5a500ae-38a9-4cb1-8877-970bddc96d0e_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the provided information, what do you predict the primary subject representing the message of the image  is? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_A_large_pineapple_on_the_beach_f6157aed-da1a-4649-813e-f2d42475ac59_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_a9425883-bc4a-41ef-937c-ff96d070f718_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, can you make an inference about the most prominent item present in the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/mushroom house/neg-mushroom/macavity6328_a_mushroom_in_the_forest_9ed0aa71-04eb-4a04-a962-d2cee18feb2c_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, which specific object do you believe holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [mushroomhaven, mushroom, brawnger, tiger].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mushroom"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/magma snake/neg-snake/macavity6328_A_black_orange_snake_on_black_soil_7f60ab9b-bba0-4809-90e8-a76946e4943b_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, does a solitary item appear to be interacting with other elements in the image ? Choose from the options provided for each question and output ONLY the answer: [lavasnake, snake, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "snake"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_a_sheep_bba3937e-2930-45ae-9f10-55f920808dd8_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, can you form an educated guess about what might be in the foreground of the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_curly_haired_sheep_with_long_ears._dbcc690c-9ca2-479b-ae7c-611de6236690_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat single object do you think best symbolizes the setting or context of the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/muscle tiger/neg-tiger/macavity6328_A_lying_tiger_a0e037e0-7e2d-46d1-83d6-52e68dbce86a_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, what do you imagine to be the singular item that dominates the composition of the image ? Choose from the options provided for each question and output ONLY the answer: [brawnger, tiger, cactihog, hedgehog].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tiger"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_722e88c0-7472-4bd7-88a8-8d99ac719605_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, can you take a guess about any object that might seem out of place or unusual in the scene depicted in the image ? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, rockflock, sheep].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_a075da1a-25b7-4724-a875-77fce38449ef_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the context, can you make an educated guess about what's in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, lavasnake, snake].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/rock sheep/neg-sheep/macavity6328_A_sheep_efbb7f4e-e588-4249-b056-285aeed384e3_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the context clues, does a solitary item appear to be interacting with other elements in the image ? Choose from the options provided for each question and output ONLY the answer: [rockflock, sheep, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "sheep"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus boxer/neg-cactus/macavity6328_a_cactus_c6f86bd2-e909-4d24-b71c-4a12407d5de2_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nFrom the information provided, can you take a guess at the possible story of the image  based on the single object captured within it? Choose from the options provided for each question and output ONLY the answer: [thornbrawlers, cactus, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "cactus"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_1e281f4d-3fed-4470-9018-12cfc738a276_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWith the information given, what do you speculate is the primary element that captures the viewer's eye in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, icemic, ice cream].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/cactus hedgehog/neg-hedgehog cactuses/macavity6328_A_hedgehog_by_green_cactuses_bdb59b1e-67f9-49b6-8933-10da94f0457b_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the context, which specific object do you think holds the most emotional or aesthetic significance in the image ? Choose from the options provided for each question and output ONLY the answer: [cactihog, hedgehog, airstone, stone].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "hedgehog"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "./data/ISEKAI-10/pineapple house/neg-pineapple/macavity6328_A_large_pineapple_17bfd433-e7c7-4214-a4c4-560e490afa9b_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nUsing the provided questions, can you make an inference about the most prominent item present in the image ? Choose from the options provided for each question and output ONLY the answer: [pineapplepalace, pineapple, mushroomhaven, mushroom].\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "pineapple"
+      }
+    ]
+  }
+]

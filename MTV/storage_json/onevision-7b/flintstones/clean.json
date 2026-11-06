@@ -1,0 +1,122 @@
+[
+    {
+        "question_id": 0,
+        "target": "Ethan is in a room talking on the phone.  She has her left elbow resting on the telephone table.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nWilma is talking on the phone.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 1,
+        "target": "Benjamin is standing at the doorway.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nBarney is standing in the doorway.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 2,
+        "target": "Benjamin is looking for Charlotte out the window.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nBarney is looking out the window.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 3,
+        "target": "Benjamin and Charlotte are talking in a pool hall. Benjamin is sitting on a pool table and Charlotte is leaning on it.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nFred and Barney are in a room. Fred is talking to Barney.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 4,
+        "target": "Charlotte is lying on the floor and Benjamin runs up to him while speaking and gesturing with his hands.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nFred is laying on the floor in the living room while Barney is standing over him.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 5,
+        "target": "William is at the office. He is upset.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nA man with a mustache and bow tie is standing in a doorway.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 6,
+        "target": "James and Benjamin are standing in a room while James looks at a James on her finger.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nBetty is talking to Barney who is wrapped in a towel.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 7,
+        "target": "Benjamin is in a room sitting on a bench carving words into a stone tablet as he looks onto the right and talks to someone.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nBarney is carving into a stone tablet in the living room.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 8,
+        "target": "Benjamin is standing behind Charlotte in the yard while he is pulling something in front of him. Charlotte is speaking to him angrily.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nFred and Barney are pulling on opposite sides of a rope.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 9,
+        "target": "Ethan looks around the doorway.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nWilma is looking out the window.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 10,
+        "target": "Charlotte is yelling while wearing a fake mustache in his room.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nFred is shocked by something he sees.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 11,
+        "target": "James talks to Benjamin while he reads something in the living room.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nBarney is sitting on a bench reading a newspaper while Betty stands next to him.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 12,
+        "target": "Benjamin raises his club in the air.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nBarney is playing golf in the yard.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 13,
+        "target": "Ethan is standing in a room. She is talking on the phone.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nWilma is talking on the phone.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 14,
+        "target": "Charlotte is singing into a microphone and throws his arms wide and leans back as he sings.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nFred is singing on stage.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 15,
+        "target": "Ethan sits in the living room. She talks on the phone.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nWilma is sitting in the living room talking on the phone.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 16,
+        "target": "Benjamin is in the backyard. He is carrying a bucket of water.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nBarney is outside carrying a bucket.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 17,
+        "target": "Ethan is standing in a room. She is talking. She doesn't look happy.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nWilma is standing in a room, talking to someone off camera right.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 18,
+        "target": "Charlotte is in a room. He is mad with a bottle in his hand.",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nFred is holding a bottle of cream and looking angry.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 19,
+        "target": "Charlotte is disguised in a dino costume in the living room",
+        "prediction": "user \n\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:assistant\nFred is in a dinosaur costume.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    }
+]

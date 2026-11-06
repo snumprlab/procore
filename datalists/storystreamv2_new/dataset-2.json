@@ -1,0 +1,3302 @@
+[
+  {
+    "id": 0,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_1/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_1/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_1/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Cameron is at the entrance of a blue door, looking curiously with a camera strap hanging around his neck. The background features a green bush and a glimpse of a yellow wall.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Jaden stands in front of a house featuring a blue door and window, holding a brown paper bag filled with green leaves. The background includes a tree and a cloudy sky.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Jaden, Cameron]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Cameron"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_1",
+      "query_subjects": [
+        "Jaden",
+        "Cameron"
+      ],
+      "shot": 2,
+      "query_global_id": 0,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Cameron"
+    }
+  },
+  {
+    "id": 1,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "2",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_3/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_3/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_3/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant city park, Toby stands with a cheerful expression, wearing his signature yellow outfit and wide-brimmed hat. The background features colorful buildings and lush greenery, creating a lively atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Greer stands cheerfully in front of a door, with a playful expression on his face. To his left, a partially eaten apple rests on the ledge, adding a touch of mischief to the scene. The door behind him is slightly ajar, hinting at an inviting space beyond.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Greer, Toby]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Toby"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_3",
+      "query_subjects": [
+        "Greer",
+        "Toby"
+      ],
+      "shot": 2,
+      "query_global_id": 2,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Toby"
+    }
+  },
+  {
+    "id": 2,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "3",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_4/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_4/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_4/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Payton stands with a concerned expression, looking up at the evening sky. In the background, a circus tent is visible, along with a faded flag fluttering gently, suggesting the remnants of a festive day.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright kitchen, Sam is sitting on the floor, gazing up at Payton, who stands by the door wearing a yellow outfit. The kitchen features a white stove and a refrigerator adorned with colorful magnets. A towel hangs from the stove, and the floor is tiled in a light blue color.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sam, Payton]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sam"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_4",
+      "query_subjects": [
+        "Sam",
+        "Payton"
+      ],
+      "shot": 2,
+      "query_global_id": 3,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Sam"
+    }
+  },
+  {
+    "id": 3,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "5",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_6/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_6/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_6/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Logan stands at the bathroom door, his hand raised to his hat, revealing a surprised expression. The bathroom features a blue door, a white sink with various toiletries, and a toilet nearby. A yellow towel hangs on the wall, and a hand is visible behind the tub, adding to the unexpected scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright bathroom, Logan stands next to a bubble-filled bathtub, facing Teagan, who is sitting in the tub with a surprised expression. The walls are light-colored, and the bathtub has a blue surround, creating a cheerful atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Logan, Teagan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Teagan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_6",
+      "query_subjects": [
+        "Logan",
+        "Teagan"
+      ],
+      "shot": 2,
+      "query_global_id": 5,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Teagan"
+    }
+  },
+  {
+    "id": 4,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "10",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_11/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_11/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_11/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the room, Lior is holding a book and looking puzzled. A table nearby holds a fruit bowl, and a vase with a flower sits next to it. On the wall, there is a painting of a boat, and a door is open, revealing a glimpse of the outside.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the kitchen, Campbell stands with a smile, his hand resting on a bright blue countertop. Several bananas are arranged on plates nearby, while a toy train sits on the floor, contributing to the cheerful ambiance. The walls are adorned with a banana-patterned curtain, and various kitchen appliances are visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Campbell, Lior]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lior"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_11",
+      "query_subjects": [
+        "Campbell",
+        "Lior"
+      ],
+      "shot": 2,
+      "query_global_id": 10,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Lior"
+    }
+  },
+  {
+    "id": 5,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "12",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_13/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_13/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_13/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a forest cavern, Skyler walks among large rocks and green foliage. The cavern walls rise high around him, and the entrance reveals a bright, open landscape filled with trees.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a living room, Blake is sprawled on a green couch, partially covered by a blanket. Clothes are scattered around, and a laundry basket sits nearby, adding to the disarray of the scene. A framed picture hangs on the wall, providing a glimpse of the room's decor.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Skyler, Blake]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Skyler"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_13",
+      "query_subjects": [
+        "Skyler",
+        "Blake"
+      ],
+      "shot": 2,
+      "query_global_id": 12,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Skyler"
+    }
+  },
+  {
+    "id": 6,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "13",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_14/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_14/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_14/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Riley stands with a friendly expression, extending his arm outward as if sharing important details. The bright blue background contrasts with his vibrant yellow outfit, creating a cheerful atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Riley held Frankie, who waved happily while clutching a toy with a star on it. They stood against a light blue background, showcasing their close bond.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Riley, Frankie]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Frankie"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_14",
+      "query_subjects": [
+        "Riley",
+        "Frankie"
+      ],
+      "shot": 2,
+      "query_global_id": 13,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Frankie"
+    }
+  },
+  {
+    "id": 7,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "14",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_15/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_15/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_15/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the kitchen, Kendall is reaching into the oven, seemingly searching for something. An oven mitt hangs from the handle, while various utensils and bananas are scattered across the tiled floor. The stove is prominently displayed, with a yellow towel draped over it, and colorful containers are arranged on the countertop.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Perry is perched on a red raft that is floating on a river, surrounded by a lush green landscape. Trees line the riverbank, and a few buildings are visible in the background. The water is a bright blue, reflecting the clear sky above. Perry appears to be enjoying the serene environment as he sits on the raft.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Perry, Kendall]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Perry"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_15",
+      "query_subjects": [
+        "Perry",
+        "Kendall"
+      ],
+      "shot": 2,
+      "query_global_id": 14,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Perry"
+    }
+  },
+  {
+    "id": 8,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "15",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_16/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_16/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_16/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Riley is standing in front of a toy store window, pressing his hands against the glass while looking at a stuffed bear and a toy train inside. Cameron, dressed in a bright yellow outfit, stands nearby, shielding his eyes as he gazes upward. The street features a building with a blue door and a striped awning in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Riley is seen smiling with his eyes closed, wearing a green baseball cap and an orange vest. He is positioned in front of a wooden structure, with a hint of water visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Riley, Cameron]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Cameron"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_16",
+      "query_subjects": [
+        "Riley",
+        "Cameron"
+      ],
+      "shot": 2,
+      "query_global_id": 15,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Cameron"
+    }
+  },
+  {
+    "id": 9,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "16",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_17/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_17/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_17/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Reagan, dressed in a yellow outfit and a straw hat, is holding red sticks while gesturing towards the roller coaster structure in the background. He appears to be explaining something, with a focused expression on his face. The roller coaster's intricate design can be seen clearly, surrounded by green trees and a blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a colorful room filled with toys, Finley is on a green rug, surrounded by scattered blocks, a toy train, and various instruments. A yellow slide is visible in the corner, and a bed with a blue floral blanket is positioned nearby. The walls are adorned with playful decorations, and sunlight streams through the windows, illuminating the cheerful chaos of the space.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Reagan, Finley]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Finley"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_17",
+      "query_subjects": [
+        "Reagan",
+        "Finley"
+      ],
+      "shot": 2,
+      "query_global_id": 16,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Finley"
+    }
+  },
+  {
+    "id": 10,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "18",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_19/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_19/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_19/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Perched on a sturdy branch, Darcy is focused on his drawing, with a piece of paper in hand. His yellow backpack rests against the tree trunk, while a vibrant landscape stretches out below, featuring green hills and a clear blue sky dotted with fluffy clouds.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sawyer stands with a cheerful expression beneath a clear blue sky, wearing a bright yellow outfit and a matching wide-brimmed hat. His arm is positioned akimbo, adding to his relaxed demeanor. Fluffy white clouds drift in the background, enhancing the sunny atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sawyer, Darcy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Darcy"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_19",
+      "query_subjects": [
+        "Sawyer",
+        "Darcy"
+      ],
+      "shot": 2,
+      "query_global_id": 18,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Darcy"
+    }
+  },
+  {
+    "id": 11,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "19",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_20/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_20/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_20/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly colored room, Ellis stood with a purple item in his hand, gazing curiously at a large pile of oranges stacked on a table nearby. The sunlight streamed through the window, illuminating the scene and highlighting the vibrant colors of the fruit.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright room, Ren holds a sandwich in one hand while showing a small blue item in the other. Ellis, sitting nearby, reaches out with curiosity, eager to see what Ren has prepared. The background features light-colored walls and a green chair, creating a cheerful atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ren, Ellis]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ren"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_20",
+      "query_subjects": [
+        "Ren",
+        "Ellis"
+      ],
+      "shot": 2,
+      "query_global_id": 19,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Ren"
+    }
+  },
+  {
+    "id": 12,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "27",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_28/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_28/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_28/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: True walks ahead on a path, with Emery following closely behind him. A blue-covered table stands next to a tree, while a large number 10 is visible on a backdrop in the background. Various buildings can be seen further back, adding to the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: A long-faced man wearing yellow clothes stands against a green background, displaying a friendly smile that invites interaction. The setting includes a hint of architecture in the background, with windows visible, enhancing the scene's charm. True's approachable demeanor adds to the overall inviting atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [True, Emery]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Emery"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_28",
+      "query_subjects": [
+        "True",
+        "Emery"
+      ],
+      "shot": 2,
+      "query_global_id": 27,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Emery"
+    }
+  },
+  {
+    "id": 13,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "30",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_31/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_31/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_31/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Skyler stands outside, his expression one of surprise and confusion as he gazes upward. Balloons in various colors drift into the sky, creating a stark contrast against the muted background of buildings. The scene captures a moment of unexpected wonder amidst his bewilderment.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant setting, True is positioned on a green surface, facing the viewer. His arms are raised, and his large, expressive eyes convey a sense of excitement and playful curiosity. Behind him, colorful blocks add to the lively atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [True, Skyler]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_31",
+      "query_subjects": [
+        "True",
+        "Skyler"
+      ],
+      "shot": 2,
+      "query_global_id": 30,
+      "query_label": [
+        "george"
+      ],
+      "answer": "True"
+    }
+  },
+  {
+    "id": 14,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "32",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_33/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_33/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_33/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the kitchen, Harley displayed a look of surprise while standing near a wall-mounted cabinet. Above him, a yellow range hood is visible, and various dishes are neatly arranged on the shelves behind him.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly lit room, Teagan stands on a carpet scattered with various toys and objects. A red chair is positioned nearby, and a dresser with decorative items sits against the wall. Sunlight streams through a window, highlighting the playful disarray around him.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Teagan, Harley]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Teagan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_33",
+      "query_subjects": [
+        "Teagan",
+        "Harley"
+      ],
+      "shot": 2,
+      "query_global_id": 32,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Teagan"
+    }
+  },
+  {
+    "id": 15,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "33",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_34/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_34/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_34/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the attic, Cleo stood beside a chair stacked with books, looking towards a small window. Sage, dressed in yellow, was seated nearby, examining a notebook. Various items were scattered around, including a broom, hat, buckets, and a ladder leading down. A green object rested on the floor next to a blue chair.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sage stands in front of a vibrant backdrop filled with green foliage and a tree. The scene features a colorful environment, with a glimpse of a building and a tire swing visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Cleo, Sage]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Cleo"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_34",
+      "query_subjects": [
+        "Cleo",
+        "Sage"
+      ],
+      "shot": 2,
+      "query_global_id": 33,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Cleo"
+    }
+  },
+  {
+    "id": 16,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "36",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_37/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_37/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_37/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the room, Campbell stands with a green leaf in his hand, displaying a look of surprise. The background features a staircase and furniture, while Shawn and his friends are positioned nearby, turning their attention toward Campbell's unexpected discovery.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Shawn is on the floor, focused on a collection of toys and colorful objects scattered around him. Nearby, a red armchair stands prominently, and a shelf filled with pig plushies is visible in the background. Sunlight streams through a window with curtains, illuminating the cozy room.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Campbell, Shawn]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Shawn"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_37",
+      "query_subjects": [
+        "Campbell",
+        "Shawn"
+      ],
+      "shot": 2,
+      "query_global_id": 36,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Shawn"
+    }
+  },
+  {
+    "id": 17,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "37",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_38/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_38/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_38/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cluttered attic, Ryan crouches with a surprised expression, looking at the scattered nuts on the floor. Nearby, Zephyr sits on the ground, seemingly unaware of the mess he caused. Various tools and items are visible in the background, adding to the scene's chaotic atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Zephyr is positioned in front of a tall building, displaying a curious expression. His hand is raised, and the architecture behind him features multiple windows and a storefront with an awning. The scene is set in a city environment, adding to the overall atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ryan, Zephyr]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ryan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_38",
+      "query_subjects": [
+        "Ryan",
+        "Zephyr"
+      ],
+      "shot": 2,
+      "query_global_id": 37,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Ryan"
+    }
+  },
+  {
+    "id": 18,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "38",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_39/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_39/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_39/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Nico stands with a concerned look, glancing upwards. Behind him, two bell jars rest on a wooden shelf against a blue wall.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright office setting, Hayden stands at a desk, smiling as he looks towards a gear mechanism mounted on the wall. The room features light blue accents, including a window with a circular design and curtains. A plate is placed on the desk, adding to the scene's casual atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Hayden, Nico]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Nico"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_39",
+      "query_subjects": [
+        "Hayden",
+        "Nico"
+      ],
+      "shot": 2,
+      "query_global_id": 38,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Nico"
+    }
+  },
+  {
+    "id": 19,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "42",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_43/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_43/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_43/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a colorful room, Kendall is happily holding a black cassette player. Above him, a human hand is extending a yellow and red ball. The background features a wall adorned with pictures of various people, alongside a curtain and a door.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Rory stands in a brightly colored room, wearing a yellow outfit and a matching hat. He appears thoughtful, with a finger on his chin. On the wall behind him, there are two framed pieces of art, one featuring a green saxophone. The room has a light green hue, adding to its vibrant atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Rory, Kendall]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Rory"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_43",
+      "query_subjects": [
+        "Rory",
+        "Kendall"
+      ],
+      "shot": 2,
+      "query_global_id": 42,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Rory"
+    }
+  },
+  {
+    "id": 20,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "43",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_44/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_44/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_44/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Onyx is positioned near a collection of toys on the sidewalk, while Sage stands beside him, wearing yellow clothes. A yellow car is parked nearby, and there is a puddle on the street. The storefront in the background features striped awnings and a door marked with the number 2.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant forest, Onyx stands on a winding path, holding a shovel. He appears surprised, looking off to the side as he observes his surroundings. Lush green trees and bushes frame the scene, creating a lively backdrop. The path curves gently, leading deeper into the forest.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Onyx, Sage]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sage"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_44",
+      "query_subjects": [
+        "Onyx",
+        "Sage"
+      ],
+      "shot": 2,
+      "query_global_id": 43,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Sage"
+    }
+  },
+  {
+    "id": 21,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "44",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_45/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_45/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_45/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: A man in a yellow shirt and hat stands in front of a green door, smiling. He wears a black tie and is positioned with his back partially turned. Behind him, a window reveals a bright, sunny day, contrasting with the falling snowflakes in the scene. The character Nico is clearly visible, showcasing his distinctive outfit.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a playful scene, Campbell is hanging from a curtain rod, with a cheerful expression. The background features a window with a grid pattern and blue accents, while the curtains are drawn to the side, adding to the lively atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Campbell, Nico]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Campbell"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_45",
+      "query_subjects": [
+        "Campbell",
+        "Nico"
+      ],
+      "shot": 2,
+      "query_global_id": 44,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Campbell"
+    }
+  },
+  {
+    "id": 22,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "45",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_46/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_46/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_46/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright kitchen, Alex is reaching for a paper bag while Sage stands nearby, preparing something on the green counter. An apple rests on the counter, and various kitchen items are visible in the background, creating a warm and inviting scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alex stands in front of a dense, green forest, surrounded by tall grass and various plants. His expression shows surprise as he gazes into the distance, with a clear blue sky and fluffy clouds above. The vibrant greenery creates a lively backdrop for his curious demeanor.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Alex, Sage]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sage"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_46",
+      "query_subjects": [
+        "Alex",
+        "Sage"
+      ],
+      "shot": 2,
+      "query_global_id": 45,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Sage"
+    }
+  },
+  {
+    "id": 23,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "46",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_47/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_47/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_47/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Rowan is lying on the floor, trapped under a green chair that has tipped over. He looks up with a worried expression, gazing at the city buildings visible through the balcony's railing. The background features a clear sky and a few structures, adding context to his predicament.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Morgan stands next to a door, holding a camera and looking confused. A window with flowery curtains is visible behind him, and a green table nearby holds a pitcher. An umbrella stand can be seen in the corner of the room. The walls are painted a light color, contributing to the overall atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Rowan, Morgan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Rowan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_47",
+      "query_subjects": [
+        "Rowan",
+        "Morgan"
+      ],
+      "shot": 2,
+      "query_global_id": 46,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Rowan"
+    }
+  },
+  {
+    "id": 24,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "47",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_48/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_48/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_48/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ellis is suspended upside down from gymnastics rings, with a bright blue sky and a few fluffy clouds in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant outdoor setting, Perry crouches down with a friendly expression, engaging with Ellis, who looks up with curiosity. The background features a bright yellow house and green foliage, creating a cheerful atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Perry, Ellis]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Perry"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_48",
+      "query_subjects": [
+        "Perry",
+        "Ellis"
+      ],
+      "shot": 2,
+      "query_global_id": 47,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Perry"
+    }
+  },
+  {
+    "id": 25,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "51",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_52/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_52/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_52/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a chaotic bathroom, Lior stands with a shocked expression, holding Noel, who appears messy and covered in dirt. The bathtub is overflowing with bubbles, and water has created puddles on the floor. Toiletries are strewn about, adding to the disarray of the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a room adorned with various airplane pictures, Lior sits beside a toy airplane, looking concerned. A green airplane is prominently displayed behind him, while a small helicopter hangs from the ceiling. The walls are painted a soft yellow, creating a bright atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Lior, Noel]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Noel"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_52",
+      "query_subjects": [
+        "Lior",
+        "Noel"
+      ],
+      "shot": 2,
+      "query_global_id": 51,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Noel"
+    }
+  },
+  {
+    "id": 26,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "52",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_53/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_53/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_53/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the bathroom, Jaden is enjoying his time in the bathtub, surrounded by bubbles. He is holding a green toy frog and has a big smile on his face. The walls are decorated with blue tiles, and a window with a light curtain allows sunlight to brighten the space.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emery stands in front of a blue building, wearing a bright yellow suit and a matching hat. The suit features button details, and the background includes windows that complement the building's color.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Jaden, Emery]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Jaden"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_53",
+      "query_subjects": [
+        "Jaden",
+        "Emery"
+      ],
+      "shot": 2,
+      "query_global_id": 52,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Jaden"
+    }
+  },
+  {
+    "id": 27,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "54",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_55/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_55/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_55/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant setting filled with colorful shapes, Eden stands with his hand covering his mouth, his wide eyes reflecting a sense of wonder. The background features a bright sun and playful patterns, enhancing the atmosphere of curiosity and excitement.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the room, Rowan stands beside a desk, holding a piece of paper while looking thoughtfully at it. A staircase leads upward in the background, and a framed painting of fruit hangs on the wall, adding a splash of color to the space. A blue book and a green book are stacked on the desk, indicating a workspace filled with materials.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Eden, Rowan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Rowan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_55",
+      "query_subjects": [
+        "Eden",
+        "Rowan"
+      ],
+      "shot": 2,
+      "query_global_id": 54,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Rowan"
+    }
+  },
+  {
+    "id": 28,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "60",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_61/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_61/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_61/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant landscape, Parker is holding a banana, looking up in surprise as a large hand with a crayon descends from above, poised to draw on the fruit. The background features lush greenery and a serene body of water, enhancing the whimsical scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Marley smiles while holding a children's book featuring colorful illustrations. The bed is adorned with a bright floral blanket, and a small green bird figurine sits on the headboard. The walls are decorated with playful patterns, adding to the cheerful atmosphere of the reading session.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Parker, Marley]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Parker"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_61",
+      "query_subjects": [
+        "Parker",
+        "Marley"
+      ],
+      "shot": 2,
+      "query_global_id": 60,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Parker"
+    }
+  },
+  {
+    "id": 29,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "61",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_62/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_62/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_62/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Jamie is positioned next to a red toy wagon, a yellow toy car, and a drum. The background features a door, and the floor is green. Jamie's expression conveys eagerness for playtime with the toys nearby.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a colorful room filled with various gadgets, Jamie is seen interacting with a banana while Blake, dressed in a space suit with a yellow hat, appears to be pondering something thoughtfully. Behind them, there are buttons and controls on the wall, adding to the scene's playful atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Blake, Jamie]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Blake"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_62",
+      "query_subjects": [
+        "Blake",
+        "Jamie"
+      ],
+      "shot": 2,
+      "query_global_id": 61,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Blake"
+    }
+  },
+  {
+    "id": 30,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "63",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_64/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_64/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_64/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: On a stage with red curtains, Rory stands behind a podium, smiling. Jaden is positioned next to him, with his arm raised in excitement as he watches the performance. The backdrop features colorful elements, enhancing the lively atmosphere of the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In an urban setting, Jaden is seen smiling while holding a stick. He wears an apron and a green bag slung across his shoulder. The background features buildings and a playground area, with a large satellite dish visible on the left.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Jaden, Rory]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Rory"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_64",
+      "query_subjects": [
+        "Jaden",
+        "Rory"
+      ],
+      "shot": 2,
+      "query_global_id": 63,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Rory"
+    }
+  },
+  {
+    "id": 31,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "64",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_65/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_65/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_65/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lux is positioned on the doorstep, with his back turned to a brightly colored door. The entrance is framed by green plants, and the interior features a glimpse of a green object and a white statue visible through the open door.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly lit indoor space, Drew stands with a surprised expression. A yellow lampshade hangs above him, and a wooden bedpost is visible to the side. A banana peel floats above his head, adding to the unusual atmosphere of the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Drew, Lux]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lux"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_65",
+      "query_subjects": [
+        "Drew",
+        "Lux"
+      ],
+      "shot": 2,
+      "query_global_id": 64,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Lux"
+    }
+  },
+  {
+    "id": 32,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "65",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_66/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_66/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_66/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Under a starry sky, Cedar stands in front of a train carriage, his expression one of surprise. He grips the train's handle with one hand, while the other is raised, as if reacting to something unexpected. The train carriage behind him is illuminated, contrasting with the darkening sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a room featuring a green sofa and a red armchair, Greer is positioned next to Cedar, who is dressed in yellow. A framed picture of a beach hangs on the wall, and a table is situated in front of the sofa. The door is painted blue, adding to the room's decor.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Cedar, Greer]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Greer"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_66",
+      "query_subjects": [
+        "Cedar",
+        "Greer"
+      ],
+      "shot": 2,
+      "query_global_id": 65,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Greer"
+    }
+  },
+  {
+    "id": 33,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "66",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_67/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_67/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_67/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Spencer is depicted with a playful expression, his eyes closed and a slight smile on his face. He is positioned in front of a colorful background, which includes stacks of vibrant books and shelves. The scene conveys a sense of curiosity and joy, reflecting his love for learning and imagination.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In front of a colorful building, Palmer stands with a friendly expression, gesturing as if he has important information. The background features a green garden area with a potted plant and a stone wall, under a clear blue sky with a few clouds.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Palmer, Spencer]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Palmer"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_67",
+      "query_subjects": [
+        "Palmer",
+        "Spencer"
+      ],
+      "shot": 2,
+      "query_global_id": 66,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Palmer"
+    }
+  },
+  {
+    "id": 34,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "69",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_70/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_70/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_70/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lake is using binoculars while standing on a railing, focused on something in the distance. Beside him, Campbell leans forward with a smile, dressed in bright yellow clothing, and observing Lake's activity. The background features a building with large windows and a distinct architectural style.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lake stands near the riverbank, gazing thoughtfully at the water. The landscape features green grass and a few trees in the background. The river flows calmly beside him, reflecting the clear sky above.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Lake, Campbell]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Campbell"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_70",
+      "query_subjects": [
+        "Lake",
+        "Campbell"
+      ],
+      "shot": 2,
+      "query_global_id": 69,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Campbell"
+    }
+  },
+  {
+    "id": 35,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "72",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_73/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_73/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_73/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Inside the room, Joss stood with a worried expression. Behind him, a red cap featuring a yellow fruit sticker was visible on the wall. The room's background included a blue door and a white appliance nearby.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant forest setting, Alex is crouched on a dirt path, closely inspecting a small white egg nestled among the grass. Surrounding him are lush green plants and trees, creating a lively backdrop. A stick lies nearby, adding to the scene's natural elements.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Alex, Joss]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Joss"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_73",
+      "query_subjects": [
+        "Alex",
+        "Joss"
+      ],
+      "shot": 2,
+      "query_global_id": 72,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Joss"
+    }
+  },
+  {
+    "id": 36,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "73",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_74/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_74/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_74/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lux stands on the sidewalk, looking up at Finley, who is dressed in bright yellow clothing and a wide-brimmed hat. Behind them, a colorful pizza restaurant features cartoon images of a chef and various dishes on its exterior. A red fire hydrant is positioned nearby, and the street is lined with light poles.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant outdoor setting, Lux stands in front of a colorful house, gripping a piece of string in his hand. He gazes upward, clearly focused on the sky, with a look of anticipation on his face. The house features bright yellow walls and blue shutters, while a green lawn surrounds the area.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Finley, Lux]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Finley"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_74",
+      "query_subjects": [
+        "Finley",
+        "Lux"
+      ],
+      "shot": 2,
+      "query_global_id": 73,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Finley"
+    }
+  },
+  {
+    "id": 37,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "76",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_77/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_77/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_77/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the underwater scene, Zephyr is swimming with blue flippers and a yellow diving mask. He is positioned horizontally, propelling himself forward, while bubbles rise around him. His green life jacket is visible, and he appears focused as he moves through the water. The background features a gradient of blue, suggesting depth in the aquatic environment.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Marlowe stands with a cheerful expression, wearing a yellow outfit and a wide-brimmed hat. In the background, there are green trees and a wooden post with a hook. A beach ball is resting nearby, adding to the outdoor scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Zephyr, Marlowe]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Zephyr"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_77",
+      "query_subjects": [
+        "Zephyr",
+        "Marlowe"
+      ],
+      "shot": 2,
+      "query_global_id": 76,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Zephyr"
+    }
+  },
+  {
+    "id": 38,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "78",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_79/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_79/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_79/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oakley stands in front of a mural featuring a golden dragon, which is positioned above a bookshelf filled with colorful books. The bookshelf also displays an illustration of a castle, while a painting of a bird is visible on the wall nearby.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the kitchen, Reese was holding a book and smiling while reading. Above him, a small grey cat sat on top of the cabinets, and various kitchen items, including a basket and decorative plates, were visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oakley, Reese]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Reese"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_79",
+      "query_subjects": [
+        "Oakley",
+        "Reese"
+      ],
+      "shot": 2,
+      "query_global_id": 78,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Reese"
+    }
+  },
+  {
+    "id": 39,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "79",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_80/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_80/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_80/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy interior, Greer stands near a green kitchen counter, holding a book. The room features a staircase leading to an upper level, comfortable furniture, and a table adorned with a vase of flowers. Natural light filters through the patterned curtains, illuminating the space.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Harley stands beside Greer, who is dressed in a yellow outfit and hat. They are positioned in front of a scientist, who is holding a stethoscope and facing away from them. The background features green structures and a night sky.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Greer, Harley]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Harley"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_80",
+      "query_subjects": [
+        "Greer",
+        "Harley"
+      ],
+      "shot": 2,
+      "query_global_id": 79,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Harley"
+    }
+  },
+  {
+    "id": 40,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "80",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_81/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_81/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_81/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the car, Indy is seated with a measuring tape in his hands, looking at it with curiosity. The vibrant green trees and clear sky are visible outside the vehicle, creating a cheerful backdrop. The interior features a red seat and wooden elements, enhancing the playful atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In an orchard, Hollis smiles as he examines a large sack filled with bright red apples. Nearby, a tree shows more apples, some falling gently to the ground, under a clear blue sky.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Hollis, Indy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Indy"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_81",
+      "query_subjects": [
+        "Hollis",
+        "Indy"
+      ],
+      "shot": 2,
+      "query_global_id": 80,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Indy"
+    }
+  },
+  {
+    "id": 41,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "83",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_84/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_84/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_84/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sawyer, wearing a camouflage poncho, stood in front of a plain wall, looking up with a curious expression. Nearby, a green bottle and a yellow funnel rested on the ground, alongside other colorful containers. A large potted plant was visible in the background, adding a touch of greenery to the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Joss is positioned next to a stack of ice blocks, working on building an igloo. Nearby, Sawyer watches from a short distance, while a red flag flutters on a pole attached to an icy structure behind them. The scene captures a moment of exploration and teamwork amidst the falling snow.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Joss, Sawyer]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Joss"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_84",
+      "query_subjects": [
+        "Joss",
+        "Sawyer"
+      ],
+      "shot": 2,
+      "query_global_id": 83,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Joss"
+    }
+  },
+  {
+    "id": 42,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "84",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_85/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_85/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_85/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Rory stood near a pair of blue doors. A yellow jacket was hanging on a hook beside him. A coat stand was positioned nearby, and a green shelf displayed a bowl and a book. The wooden floor added to the inviting atmosphere of the space.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Ever sits on his bed with an open book in his hands, looking thoughtfully upward. The walls are adorned with illustrations, and a bedpost with a decorative knob is visible beside him. A window reveals a nighttime scene with glowing lights outside.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Rory, Ever]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ever"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_85",
+      "query_subjects": [
+        "Rory",
+        "Ever"
+      ],
+      "shot": 2,
+      "query_global_id": 84,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Ever"
+    }
+  },
+  {
+    "id": 43,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "85",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_86/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_86/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_86/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Cleo is looking up with a cheerful expression, standing on a gray surface. The wall behind him is painted blue with a few darker bricks. His fur is marked with splashes of brown, indicating he has been playing. Small stones are scattered around his feet, adding to the playful scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Inside a green structure, Cleo gazes eagerly at Lennon, who is smiling and holding a lever. The background features vertical green panels and bright overhead lights, creating a lively atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Cleo, Lennon]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lennon"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_86",
+      "query_subjects": [
+        "Cleo",
+        "Lennon"
+      ],
+      "shot": 2,
+      "query_global_id": 85,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Lennon"
+    }
+  },
+  {
+    "id": 44,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "95",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_96/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_96/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_96/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a compartment with blue seats, Ever, wearing a yellow hooded jacket, sits across from Robin, who is dressed in a red outfit. Between them on the table are two orange suitcases. A porthole window with anchor-patterned curtains can be seen in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Robin is smiling, wearing yellow goggles on his head. The background features a clear blue sky with a few clouds, and there are green trees visible nearby.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ever, Robin]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ever"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_96",
+      "query_subjects": [
+        "Ever",
+        "Robin"
+      ],
+      "shot": 2,
+      "query_global_id": 95,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Ever"
+    }
+  },
+  {
+    "id": 45,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "100",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_101/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_101/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_101/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the room, Indy stood with a thoughtful expression, dressed in a bright yellow suit and hat. A green wall behind him features a framed artwork of a musical note. Eden observed Indy from a distance, curious about his thoughts.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cheerful kitchen setting, Eden stands in front of a counter filled with a blender and various fruits, including grapes and citrus. The background features a colorful wall and a friendly bear character nearby, creating a lively atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Eden, Indy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Indy"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_101",
+      "query_subjects": [
+        "Eden",
+        "Indy"
+      ],
+      "shot": 2,
+      "query_global_id": 100,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Indy"
+    }
+  },
+  {
+    "id": 46,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "101",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_102/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_102/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_102/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a lively street scene, Jordan gazes up at Payton, who is smiling and dressed in bright yellow attire. In the background, two other characters are engaged in conversation, adding to the cheerful atmosphere of the setting. The buildings around them feature large windows, enhancing the vibrant environment.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Jordan is on the floor, surrounded by a colorful array of toys and art supplies. He wears a light green top featuring a cityscape design and blue gloves. Nearby, a dresser showcases a collection of piggy banks, while a window allows natural light to fill the room. Various items are scattered around him, indicating a lively creative session.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Jordan, Payton]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Payton"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_102",
+      "query_subjects": [
+        "Jordan",
+        "Payton"
+      ],
+      "shot": 2,
+      "query_global_id": 101,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Payton"
+    }
+  },
+  {
+    "id": 47,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "102",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_103/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_103/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_103/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly colored room featuring a yellow chandelier, Wren sits cross-legged on a bed, holding a drink. Surrounding him are several white goats, including one wearing spectacles, all gathered around the floor. The walls are adorned with light green accents, and a window with patterned curtains allows natural light to fill the space.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Bellamy stood on a sandy surface, looking up with a surprised expression while pointing towards something off-screen. The background features a hint of water and a sandy area, emphasizing the outdoor setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Bellamy, Wren]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bellamy"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_103",
+      "query_subjects": [
+        "Bellamy",
+        "Wren"
+      ],
+      "shot": 2,
+      "query_global_id": 102,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Bellamy"
+    }
+  },
+  {
+    "id": 48,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "103",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_104/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_104/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_104/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Inside a dark cave, Jordan stands on bare feet, exploring his surroundings. The cave walls are textured and green, creating a mysterious atmosphere. He appears surprised, with his hand resting on a rock formation as he looks around.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Jordan is seated in the arms of Adair, who is wearing a yellow shirt and has a concerned expression. Jordan is holding a red star ball, and they are positioned against a simple background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Adair, Jordan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Adair"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_104",
+      "query_subjects": [
+        "Adair",
+        "Jordan"
+      ],
+      "shot": 2,
+      "query_global_id": 103,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Adair"
+    }
+  },
+  {
+    "id": 49,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "104",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_105/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_105/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_105/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright kitchen, Devon smiles while holding a wide-brimmed yellow hat. The countertop is cluttered with banana peels, and a pot is bubbling over on the stove. The window features a curtain decorated with banana patterns, adding to the playful atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Noel stands in a grassy area, holding a yellow shovel. Behind him is a colorful doghouse with a red roof and yellow walls. Nearby, there is a circular lifebuoy with red and white stripes, and a blue structure in the background. The scene is bright and cheerful, with a few trees visible in the distance.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Noel, Devon]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Noel"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_105",
+      "query_subjects": [
+        "Noel",
+        "Devon"
+      ],
+      "shot": 2,
+      "query_global_id": 104,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Noel"
+    }
+  },
+  {
+    "id": 50,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "105",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_106/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_106/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_106/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a green-walled room, Carson is positioned near a closed door, reaching out to open it. A window with checkered curtains allows light to filter in, illuminating the space. An unmade bed with a checkered blanket is visible in the background, adding to the room's casual atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Cedar holds a stopwatch while observing Carson swim in the pond. Carson is wearing a bright yellow outfit and is creating ripples in the water as he moves. The background features green trees and a clear blue sky, enhancing the outdoor setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Cedar, Carson]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Cedar"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_106",
+      "query_subjects": [
+        "Cedar",
+        "Carson"
+      ],
+      "shot": 2,
+      "query_global_id": 105,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Cedar"
+    }
+  },
+  {
+    "id": 51,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "106",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_107/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_107/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_107/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the kitchen, Murphy stands near a door featuring a keyhole. The refrigerator is visible beside him, along with several cabinets. A green bowl sits atop the refrigerator, and a few utensils hang from the wall above.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Skyler is lying on a green hillside, resting with a metal bucket on his head. Nearby, a garden hose is coiled on the ground, and the sky above is clear with a few clouds.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Skyler, Murphy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Skyler"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_107",
+      "query_subjects": [
+        "Skyler",
+        "Murphy"
+      ],
+      "shot": 2,
+      "query_global_id": 106,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Skyler"
+    }
+  },
+  {
+    "id": 52,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "109",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_110/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_110/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_110/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright kitchen, Cedar stood beside a dining chair, looking up at Bellamy, who wore a yellow shirt and appeared slightly puzzled. Cedar reached out, holding a piece of fabric, while Bellamy sat down, seemingly engaged in conversation. The window behind them was adorned with a curtain featuring banana patterns, and a green kettle was visible on the counter.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a kitchen filled with hanging utensils, Cedar is seen leaping over a bucket. The floor is blue, and there are several other buckets scattered around. A human hand can be seen reaching out from behind a counter, suggesting interaction as Cedar concludes his playful antics.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Cedar, Bellamy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bellamy"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_110",
+      "query_subjects": [
+        "Cedar",
+        "Bellamy"
+      ],
+      "shot": 2,
+      "query_global_id": 109,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Bellamy"
+    }
+  },
+  {
+    "id": 53,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "110",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_111/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_111/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_111/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly colored room, Perry stands near a pink door, holding a camera and smiling. The walls are painted a light green, and a framed picture featuring colorful shapes hangs above a green table. A coat rack with umbrellas is visible beside a window adorned with patterned curtains.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Lux is positioned near a window, holding a container with a pencil above his head. A green garden rake leans against a wall beside him, while the background features a bright, colorful setting with visible windows and a hint of outdoor scenery.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Perry, Lux]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lux"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_111",
+      "query_subjects": [
+        "Perry",
+        "Lux"
+      ],
+      "shot": 2,
+      "query_global_id": 110,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Lux"
+    }
+  },
+  {
+    "id": 54,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "111",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_112/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_112/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_112/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright room, Zephyr is positioned in front of a wooden crate with a playful look. Behind him, a table holds a bowl filled with oranges, and a window reveals lush green trees outside, adding a vibrant backdrop to the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a dimly lit room, Zephyr stands in the foreground, looking towards Bailey, who is lying in bed. Bailey is wearing yellow pajamas and appears to be sleeping, while the room is filled with calmness, highlighted by a vase on a nearby table and a neatly made bed.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Zephyr, Bailey]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bailey"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_112",
+      "query_subjects": [
+        "Zephyr",
+        "Bailey"
+      ],
+      "shot": 2,
+      "query_global_id": 111,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Bailey"
+    }
+  },
+  {
+    "id": 55,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "112",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_113/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_113/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_113/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Palmer stands with a smile, his hand resting on his hip. Behind him, a door is ajar, revealing a window adorned with curtains, a coat rack, a camera placed on a table, and a decorative vase positioned nearby.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a space-themed setting, Kit sits in a cockpit, wearing an orange suit. He has a cheerful expression as he looks forward, seemingly excited about the adventure ahead. The background features a starry sky, enhancing the sense of exploration.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Kit, Palmer]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Kit"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_113",
+      "query_subjects": [
+        "Kit",
+        "Palmer"
+      ],
+      "shot": 2,
+      "query_global_id": 112,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Kit"
+    }
+  },
+  {
+    "id": 56,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "113",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_114/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_114/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_114/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly colored room, multiple white goats are gathered around, with one jumping on a blue sofa. Justice sits calmly in the center, wearing yellow clothes and holding a picnic basket. A green lamp hangs above, and a painting of a fruit bowl is visible on the wall.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy living room, Aspen joyfully raises a banana while sitting next to Justice, who is wearing bright yellow clothing and holding a snack. A pink piggy bank sits on the floor nearby, hinting at their recent fun together. The kitchen can be seen in the background, adding to the homey atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Aspen, Justice]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Aspen"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_114",
+      "query_subjects": [
+        "Aspen",
+        "Justice"
+      ],
+      "shot": 2,
+      "query_global_id": 113,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Aspen"
+    }
+  },
+  {
+    "id": 57,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "115",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_116/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_116/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_116/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: A hand is holding a camera directed at Sage, who has a cheerful expression. Behind him, there are several photographs displayed on the wall, featuring people with various hairstyles and outfits. The background is painted in a light blue color, creating a bright atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In an open-top vehicle, Joss smiles as he sits beside Sage, who is holding a colorful parrot. Below them, a vibrant cityscape unfolds, featuring a roller coaster and winding rivers.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sage, Joss]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Joss"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_116",
+      "query_subjects": [
+        "Sage",
+        "Joss"
+      ],
+      "shot": 2,
+      "query_global_id": 115,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Joss"
+    }
+  },
+  {
+    "id": 58,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "118",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_119/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_119/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_119/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a colorful bedroom, Emery is grinning as he examines a yellow card with bite marks. The bed behind him features a bright blue blanket adorned with balloons in various colors, and a decorative yellow headboard frames the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Murphy stands with a worried expression, his yellow shirt marked with dirt spots. Behind him, a refrigerator features a red magnet holding a banana, while a coat rack is visible to the side. The scene suggests a moment of concern, possibly linked to the bananas.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Emery, Murphy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Murphy"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_119",
+      "query_subjects": [
+        "Emery",
+        "Murphy"
+      ],
+      "shot": 2,
+      "query_global_id": 118,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Murphy"
+    }
+  },
+  {
+    "id": 59,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "121",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_122/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_122/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_122/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Under a night sky, Ellis, dressed in a bright yellow suit, stands holding onto a handle of a green train carriage. His expression shows surprise as he looks off to the side, seemingly reacting to something unexpected. The train carriage features a glowing window behind him, adding to the scene's atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Ellis, wearing a bright yellow hat and outfit, embraces River, who is dressed in a red snowsuit. The icy backdrop features jagged ice formations, and snowflakes are gently falling around them. Ellis appears cheerful, while River looks slightly serious, creating a contrast in their expressions.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [River, Ellis]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "River"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_122",
+      "query_subjects": [
+        "River",
+        "Ellis"
+      ],
+      "shot": 2,
+      "query_global_id": 121,
+      "query_label": [
+        "george"
+      ],
+      "answer": "River"
+    }
+  },
+  {
+    "id": 60,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "122",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_123/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_123/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_123/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Kieran is suspended from a zip line, wearing a bright yellow jacket and a red hat. He is smiling widely, looking forward with excitement. The background features a snowy landscape, enhancing the adventurous atmosphere of the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Blake stands with his back to the viewer, positioned next to an elevator. The elevator door is closed, and a button with an upward arrow is visible on the wall beside him. The background features a green wall and a potted plant, adding to the scene's simplicity.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Blake, Kieran]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Kieran"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_123",
+      "query_subjects": [
+        "Blake",
+        "Kieran"
+      ],
+      "shot": 2,
+      "query_global_id": 122,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Kieran"
+    }
+  },
+  {
+    "id": 61,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "123",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_124/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_124/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_124/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Bellamy is wearing a yellow hard hat adorned with taped papers. He is positioned in front of a frame and a boat steering wheel, displaying a cheerful expression. The background features a light-colored wall, enhancing the focus on Bellamy and his unique headgear.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: On a lively street, Taylor held a piece of paper, looking confused as he glanced around. Bellamy stood beside him, holding onto his hand and looking curiously at the paper, both of them surrounded by colorful buildings and market stalls.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Taylor, Bellamy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Taylor"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_124",
+      "query_subjects": [
+        "Taylor",
+        "Bellamy"
+      ],
+      "shot": 2,
+      "query_global_id": 123,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Taylor"
+    }
+  },
+  {
+    "id": 62,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "125",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_126/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_126/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_126/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly colored room, Campbell is seated in a green vehicle, looking intently at Cleo, who stands nearby holding the steering wheel. The background features a blue structure and a yellow floor, adding to the playful atmosphere of the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Cleo stands in front of a building featuring blue windows, wearing a bright yellow shirt and a matching hat. The architecture behind him includes light-colored walls and decorative elements, enhancing the cheerful atmosphere of the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Campbell, Cleo]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Campbell"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_126",
+      "query_subjects": [
+        "Campbell",
+        "Cleo"
+      ],
+      "shot": 2,
+      "query_global_id": 125,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Campbell"
+    }
+  },
+  {
+    "id": 63,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "126",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_127/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_127/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_127/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cluttered room, Kai is holding a small saw, inspecting it with interest. Nearby, a blue box lies open, revealing a yellow object inside. Scattered around are various items, including a green boot, red dice, and a toolbox, contributing to the playful chaos of the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a room with light blue flooring, Hollis looks up with a puzzled expression. He is dressed in a bright yellow shirt and a matching wide-brimmed hat. Behind him, there is a blue object, possibly furniture, and some greenery visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Kai, Hollis]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Kai"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_127",
+      "query_subjects": [
+        "Kai",
+        "Hollis"
+      ],
+      "shot": 2,
+      "query_global_id": 126,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Kai"
+    }
+  },
+  {
+    "id": 64,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "128",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_129/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_129/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_129/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Blake stands near a set of lockers, his expression reflecting surprise. His eyes are wide, and he appears to be taken aback by something in his surroundings. The background features a simple, muted color palette with hints of gray and blue.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Milan stands beside a large wooden door, looking back with a startled expression. In the background, cacti and desert scenery create a wild atmosphere, enhancing the setting. The door features prominent handles, and the ground is sandy, indicating a dry environment.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Blake, Milan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Milan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_129",
+      "query_subjects": [
+        "Blake",
+        "Milan"
+      ],
+      "shot": 2,
+      "query_global_id": 128,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Milan"
+    }
+  },
+  {
+    "id": 65,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "130",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_131/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_131/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_131/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Teagan stood in the kitchen, holding a piece of paper while looking at the open cabinet. Inside the cabinet, a basket, cleaning products, plates, and a yellow pitcher were visible. A white vase with colorful flowers sat on the counter, adding a touch of brightness to the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Onyx is wearing yellow goggles and has a cheerful expression. He is positioned in front of a silver wall, with a prominent red object visible nearby. The scene suggests a playful and adventurous atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Teagan, Onyx]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Teagan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_131",
+      "query_subjects": [
+        "Teagan",
+        "Onyx"
+      ],
+      "shot": 2,
+      "query_global_id": 130,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Teagan"
+    }
+  },
+  {
+    "id": 66,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "133",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_134/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_134/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_134/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a festive room adorned with colorful lights, Indy hangs playfully from a string, clutching a star. Hollis, dressed in a bright yellow shirt, beams at him with a smile. A mirror in the background reflects a scene featuring a birthday cake on a table, adding to the celebratory atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Indy stands in front of a white door framed in red, with a thoughtful expression. He has one finger on his chin, indicating he is deep in thought. The background features a green landscape with rolling hills and a blue sky dotted with clouds.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Hollis, Indy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Hollis"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_134",
+      "query_subjects": [
+        "Hollis",
+        "Indy"
+      ],
+      "shot": 2,
+      "query_global_id": 133,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Hollis"
+    }
+  },
+  {
+    "id": 67,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "135",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_136/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_136/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_136/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Aspen leaned on a railing while Riley focused intently through binoculars. In the background, a large building with tall windows loomed over the scene, adding depth to their exploration.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly colored room adorned with sketches, Aspen, dressed in a yellow shirt, smiles warmly. The walls feature various drawings, adding to the creative atmosphere. The overall setting feels inviting, suggesting a space filled with inspiration and excitement.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Riley, Aspen]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Riley"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_136",
+      "query_subjects": [
+        "Riley",
+        "Aspen"
+      ],
+      "shot": 2,
+      "query_global_id": 135,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Riley"
+    }
+  },
+  {
+    "id": 68,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "136",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_137/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_137/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_137/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant green park, Shawn stands beside a lamppost, waving cheerfully with one hand while holding a yellow ball in the other. A blue ladder leans against the lamppost, indicating a task nearby. The scene is filled with patches of grass and a few trees in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Noel is standing in front of a pink building, holding a beige hat in his hand. He appears to be looking for Shawn, with a concerned expression on his face. The background features a window with blue panes and a white column beside him.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Noel, Shawn]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Noel"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_137",
+      "query_subjects": [
+        "Noel",
+        "Shawn"
+      ],
+      "shot": 2,
+      "query_global_id": 136,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Noel"
+    }
+  },
+  {
+    "id": 69,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "140",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_141/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_141/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_141/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Joss is seated on a yellow surface, gazing up at a cup with a straw positioned on a table. Behind him, a book and a lamp are visible, along with a large object that resembles a machine. His expression reflects curiosity and surprise as he focuses on the cup.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Cedar is seated with his legs crossed, positioned in front of a large window adorned with light blue curtains. He appears deep in thought, with a serious expression on his face. The background features a light-colored wall, enhancing the focus on him.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Joss, Cedar]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Joss"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_141",
+      "query_subjects": [
+        "Joss",
+        "Cedar"
+      ],
+      "shot": 2,
+      "query_global_id": 140,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Joss"
+    }
+  },
+  {
+    "id": 70,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "142",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_143/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_143/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_143/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly colored room filled with cat trees, Jaden walks across the floor, noticing a water spill nearby. The walls are adorned with large windows, allowing light to illuminate the playful setup of vibrant structures.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a room filled with cardboard boxes of various sizes, Bailey strides confidently past a green plant and a blue chair. The walls are painted a warm yellow, and an elevator door is visible nearby. A sense of transition is evident with the clutter of moving supplies scattered throughout the space.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Bailey, Jaden]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Jaden"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_143",
+      "query_subjects": [
+        "Bailey",
+        "Jaden"
+      ],
+      "shot": 2,
+      "query_global_id": 142,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Jaden"
+    }
+  },
+  {
+    "id": 71,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "144",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_145/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_145/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_145/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a kitchen setting, Toby stands with a worried expression, wearing a yellow shirt that has stains. A banana peel rests on a shelf above him, and a circular cavity is visible on the wall, indicating that an object is absent. The refrigerator is nearby, and a coat rack is positioned to the side.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Charlie stands on a wooden floor, holding a camera and gazing out of a window. On the green table beside him, an open children's book featuring a green dinosaur captures attention. The window reveals a winding path and lush greenery outside, while a yellow vase and a painting are visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Toby, Charlie]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Charlie"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_145",
+      "query_subjects": [
+        "Toby",
+        "Charlie"
+      ],
+      "shot": 2,
+      "query_global_id": 144,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Charlie"
+    }
+  },
+  {
+    "id": 72,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "145",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_146/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_146/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_146/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Parker is inside the spacecraft, wearing a helmet and floating with his arms and legs spread out. He is surrounded by various gadgets and instruments, with a control panel featuring green and blue elements visible in the background. A phone is held in one of his hands, and there are small details like dials and switches around him.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: On a stage with red curtains in the background, Parker stands beside Tatum, who is positioned behind a podium. The podium has a blue surface, and both characters appear engaged in the moment.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Tatum, Parker]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Tatum"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_146",
+      "query_subjects": [
+        "Tatum",
+        "Parker"
+      ],
+      "shot": 2,
+      "query_global_id": 145,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Tatum"
+    }
+  },
+  {
+    "id": 73,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "146",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_147/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_147/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_147/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room with green walls and wooden floors, Monroe is seated at a wooden desk, focused on writing. The space features brightly colored furniture, including a green armchair and a blue table. A staircase leads to an upper level, and a framed painting of fruit hangs on the wall, adding to the cheerful atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cluttered room with a water-logged floor, Devon is focused on a pipe that is leaking water. Various household items, including a green couch and a blue television set, are visible in the background. Tools and containers are scattered around him, adding to the chaotic scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Devon, Monroe]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Monroe"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_147",
+      "query_subjects": [
+        "Devon",
+        "Monroe"
+      ],
+      "shot": 2,
+      "query_global_id": 146,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Monroe"
+    }
+  },
+  {
+    "id": 74,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "148",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_149/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_149/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_149/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Joss is reaching out towards a banana sticker that is positioned on a bookshelf. The bookshelf is filled with colorful books, and there is a drawing of a castle on the surface above the books. The sticker appears to be sliding off, suggesting movement in the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly lit space, Blake stands near large aquariums filled with water, showcasing various sea creatures. The background features a vibrant blue mural depicting underwater life, enhancing the aquatic theme of the setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Blake, Joss]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Joss"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_149",
+      "query_subjects": [
+        "Blake",
+        "Joss"
+      ],
+      "shot": 2,
+      "query_global_id": 148,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Joss"
+    }
+  },
+  {
+    "id": 75,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "153",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_154/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_154/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_154/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a backyard setting, True stands with a surprised expression, wearing a yellow hoodie and blue shorts. Nearby, Frankie appears worried, positioned close to a gardening cart filled with sticks. An adult in a wide-brimmed hat gestures towards Frankie, while a colorful door and a table with a red apple sign are visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a grassy field, True holds a banana peel with a smile, wearing a yellow hoodie and blue shorts. Nearby, a figure in overalls stands, partially obscured, suggesting another person's presence. The scene captures a playful moment in a bright, cheerful environment.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [True, Frankie]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Frankie"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_154",
+      "query_subjects": [
+        "True",
+        "Frankie"
+      ],
+      "shot": 2,
+      "query_global_id": 153,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Frankie"
+    }
+  },
+  {
+    "id": 76,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "155",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_156/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_156/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_156/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a wooden interior, Hollis, with orange curly hair styled in two buns and wearing glasses, looks surprised or concerned. The background features green and red accents, along with various wooden structures.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Hollis and Zephyr sat on the steps in front of a yellow house. Hollis held a bundle of blue yarn in her lap, while Zephyr animatedly gestured with his hands. The house features a bright blue door and white window frames, and colorful flowers are planted nearby.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Hollis, Zephyr]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Zephyr"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_156",
+      "query_subjects": [
+        "Hollis",
+        "Zephyr"
+      ],
+      "shot": 2,
+      "query_global_id": 155,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Zephyr"
+    }
+  },
+  {
+    "id": 77,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "156",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_157/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_157/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_157/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Lux is focused on fixing a wooden piece near a door, using a hammer with a determined expression. He is dressed in bright yellow clothing, including a hat, and is wearing brown gloves. A tool belt equipped with various screwdrivers is secured around his waist, and the background features a blue window and yellow walls.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Remy was sitting on a blue mat, holding a pencil in one hand while reaching toward a television with the other. A green chair and a blue chair are visible in the background, adding to the room's atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Lux, Remy]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lux"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_157",
+      "query_subjects": [
+        "Lux",
+        "Remy"
+      ],
+      "shot": 2,
+      "query_global_id": 156,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Lux"
+    }
+  },
+  {
+    "id": 78,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "158",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_159/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_159/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_159/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Ren smiles while sitting in front of a desk. A blue clock and a pot of colored pencils are visible on the desk, and a green armchair is positioned nearby. The cheerful atmosphere reflects her enjoyment of the moment.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bubbly bathtub, Honor is sitting in the water with a surprised expression. Bottles are placed on the edge of the tub, and the background features square tiles along the wall, with a light blue panel behind him.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ren, Honor]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ren"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_159",
+      "query_subjects": [
+        "Ren",
+        "Honor"
+      ],
+      "shot": 2,
+      "query_global_id": 158,
+      "query_label": [
+        "allie"
+      ],
+      "answer": "Ren"
+    }
+  },
+  {
+    "id": 79,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "159",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_160/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_160/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_160/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a dental office, Frankie is holding a water syringe while standing near a dental sink. Various dental tools are visible on the counter, and a dental chair is positioned in the background. The walls are painted a soft green, creating a bright and inviting atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Blaine is kneeling on the ground, smiling as she looks at a golf ball resting on a small patch of grass. Frankie stands beside her, looking curiously at the ball. In the background, there are green hills and additional grass, creating a vibrant outdoor scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Frankie, Blaine]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Blaine"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_160",
+      "query_subjects": [
+        "Frankie",
+        "Blaine"
+      ],
+      "shot": 2,
+      "query_global_id": 159,
+      "query_label": [
+        "allie"
+      ],
+      "answer": "Blaine"
+    }
+  },
+  {
+    "id": 80,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "160",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_161/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_161/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_161/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: A figure in a yellow suit leaned over a green balcony railing, looking down. Behind him, a door with glass panes and a bright blue frame is visible, along with curtains that hang in the background. The scene is set indoors, suggesting a lively atmosphere. Jules is positioned prominently in the foreground, engaged with his surroundings.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant setting with a pink wall, Monroe is holding a pair of red chopsticks. His expression shows curiosity as he looks up, seemingly pondering their purpose. The ground around him has a few scattered stones, adding to the playful atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Monroe, Jules]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Monroe"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_161",
+      "query_subjects": [
+        "Monroe",
+        "Jules"
+      ],
+      "shot": 2,
+      "query_global_id": 160,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Monroe"
+    }
+  },
+  {
+    "id": 81,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "161",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_162/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_162/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_162/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a rustic setting, Finley held a clear bottle filled with a blue liquid, while Sam, wearing a yellow sweater, held a jug. They sat together on a cozy hay sofa, both smiling as they planned their next adventure.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sam is sitting outside near a bright yellow house, glancing curiously at an umbrella resting against a blue door. The scene features green grass and a blue window, adding to the vibrant atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sam, Finley]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Finley"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_162",
+      "query_subjects": [
+        "Sam",
+        "Finley"
+      ],
+      "shot": 2,
+      "query_global_id": 161,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Finley"
+    }
+  },
+  {
+    "id": 82,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "162",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_163/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_163/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_163/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Blake walks through a corridor with blue doors, following a trail. A table with a yellow vase is positioned against a wall, and a framed picture of a mountain landscape hangs above it. The carpet features a pattern with various shapes, and there are two doorways visible on either side of the hallway.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a kitchen setting, Perry stands on the wooden floor, looking disappointed. Behind him, a stove and a clock are visible, along with a table that holds a vase filled with colorful flowers. A green rug lies on the floor, adding a touch of color to the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Blake, Perry]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Perry"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_163",
+      "query_subjects": [
+        "Blake",
+        "Perry"
+      ],
+      "shot": 2,
+      "query_global_id": 162,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Perry"
+    }
+  },
+  {
+    "id": 83,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "165",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_166/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_166/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_166/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Blaine and Briar are positioned near a wooden banister, gazing cautiously downward. The background features a wall adorned with a framed painting and a small greenish-blue square frame. Blaine is dressed in a bright yellow shirt, while Briar is nestled in his arms, looking curious.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Blaine stands in front of a blue door, smiling as he looks out. A picture of a sailboat is taped to the wall beside him, adding a touch of color to the scene. The room appears tidy, with a roll of paper visible nearby.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Blaine, Briar]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Briar"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_166",
+      "query_subjects": [
+        "Blaine",
+        "Briar"
+      ],
+      "shot": 2,
+      "query_global_id": 165,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Briar"
+    }
+  },
+  {
+    "id": 84,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "167",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_168/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_168/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_168/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a room with wooden floors, Wren sat in front of a teal-colored dresser, wearing a light green shirt. His eyes were wide, and his mouth was slightly open, conveying a sense of surprise or confusion.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In front of a vibrant farmhouse, Wren holds a tangled object while Phoenix looks at him with a puzzled expression. The colorful house features a red roof and blue door, surrounded by greenery and a wooden fence.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Wren, Phoenix]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoenix"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_168",
+      "query_subjects": [
+        "Wren",
+        "Phoenix"
+      ],
+      "shot": 2,
+      "query_global_id": 167,
+      "query_label": [
+        "allie"
+      ],
+      "answer": "Phoenix"
+    }
+  },
+  {
+    "id": 85,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "170",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_171/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_171/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_171/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sage is seen running up a grassy hill, gripping a blue bucket. Water is splashing out of the bucket as he moves, and a small cloud of dust is rising behind him. The sky is clear with a few clouds, and trees are visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Inside a vehicle, Lux is smiling while holding a steering wheel. She is wearing a yellow hoodie and has orange curly hair. The background features a simple, light-colored wall with a hint of red on one side.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sage, Lux]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sage"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_171",
+      "query_subjects": [
+        "Sage",
+        "Lux"
+      ],
+      "shot": 2,
+      "query_global_id": 170,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Sage"
+    }
+  },
+  {
+    "id": 86,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "171",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_172/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_172/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_172/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Winter walks along a country road wearing a yellow shirt, while Reagan carries a teddy bear. The scene features a lush green landscape with a barn and a windmill visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Winter is smiling while holding a piece of a sponge with brown spots. She is wearing a yellow striped shirt and a white hairband. Surrounding her are various colorful sponges, including yellow ones, on a table. The background features a blue door and bright green walls.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Winter, Reagan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Reagan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_172",
+      "query_subjects": [
+        "Winter",
+        "Reagan"
+      ],
+      "shot": 2,
+      "query_global_id": 171,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Reagan"
+    }
+  },
+  {
+    "id": 87,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "172",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_173/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_173/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_173/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Harley is wearing a bright yellow coat and a red hat with a long scarf trailing behind him. He appears focused and slightly worried as he examines a green object in his hands. The background features a light-colored surface, suggesting a snowy or icy environment.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Onyx appears concerned as he stands in the airplane's cabin. The interior features a microwave and hanging cups, suggesting a kitchen-like environment. His expression reflects anxiety, particularly as he looks towards the ceiling where oxygen masks are stored, indicating a potential emergency situation.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Onyx, Harley]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Harley"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_173",
+      "query_subjects": [
+        "Onyx",
+        "Harley"
+      ],
+      "shot": 2,
+      "query_global_id": 172,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Harley"
+    }
+  },
+  {
+    "id": 88,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "175",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_176/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_176/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_176/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Inside a brightly colored room, Ash stands with a water bottle in hand, wearing red glasses. Next to him, Teagan, sporting sunglasses and a red cap, has a backpack and is smiling. The window behind them reveals a green landscape, and a curtain drapes beside it, adding to the cozy indoor setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Teagan stands in an indoor space, wearing a red hat and green sunglasses. She holds onto a green suitcase with both hands and wears a yellow shirt paired with blue overalls. A wooden chair is positioned behind her, and a window reveals a clear sky outside. The room features a rug on the floor and a few decorative items nearby.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ash, Teagan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ash"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_176",
+      "query_subjects": [
+        "Ash",
+        "Teagan"
+      ],
+      "shot": 2,
+      "query_global_id": 175,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Ash"
+    }
+  },
+  {
+    "id": 89,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "176",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_177/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_177/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_177/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a colorful library setting, Devon stands on a red book, pointing excitedly at something beyond the frame. Surrounding him are shelves filled with a variety of books in bright colors. On the floor, a yellow book lies next to a blue one. A whimsical mural featuring a dragon and a castle decorates the wall above the shelves.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lennon, dressed in a bright yellow outfit, stands in front of a green backdrop featuring a window. The scene captures his surprised expression, highlighting the contrast between his attire and the surrounding colors.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Lennon, Devon]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Devon"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_177",
+      "query_subjects": [
+        "Lennon",
+        "Devon"
+      ],
+      "shot": 2,
+      "query_global_id": 176,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Devon"
+    }
+  },
+  {
+    "id": 90,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "177",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_178/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_178/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_178/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a vibrant outdoor setting, Taylor stands beside a wheelbarrow filled with autumn leaves, holding a stick. Sunny, wearing a yellow hoodie and blue shorts, faces him, engaged in conversation. A tree and a fence are visible in the background, adding to the scene's charm.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sunny is gripping a large black wheel mounted on the wall, focusing intently as she turns it. Behind her, several large pipes are visible, along with a green workbench and large containers in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Taylor, Sunny]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Taylor"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_178",
+      "query_subjects": [
+        "Taylor",
+        "Sunny"
+      ],
+      "shot": 2,
+      "query_global_id": 177,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Taylor"
+    }
+  },
+  {
+    "id": 91,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "179",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_180/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_180/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_180/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Kieran is smiling while wearing a yellow bucket on his head. A sponge is hanging nearby, and cabinet doors can be seen in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room illuminated by a green lamp, Kieran is holding a small cup while looking up at Finley, who is smiling and holding a glass. The background features a window with curtains and a kettle on the counter, creating a warm atmosphere for their evening together.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Kieran, Finley]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Finley"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_180",
+      "query_subjects": [
+        "Kieran",
+        "Finley"
+      ],
+      "shot": 2,
+      "query_global_id": 179,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Finley"
+    }
+  },
+  {
+    "id": 92,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "184",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_185/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_185/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_185/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: On the green kitchen floor, Darcy is focused on picking up various fruits, including a lemon and an orange. Nearby, a toy car is flipped over, and two cans are rolling away from the scene. The kitchen features a stove and cabinets with green doors in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a brightly colored room with blue accents, Marlowe is kneeling on the floor, closely inspecting a puddle and the wet footprints leading away from it. The walls are adorned with light blue trim, and a coat rack with a yellow hat stands nearby. Two doors are visible in the background, adding to the room's depth.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Darcy, Marlowe]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Marlowe"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_185",
+      "query_subjects": [
+        "Darcy",
+        "Marlowe"
+      ],
+      "shot": 2,
+      "query_global_id": 184,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Marlowe"
+    }
+  },
+  {
+    "id": 93,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "186",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_187/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_187/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_187/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the kitchen, Rory is holding a green hose attachment, looking concerned as she stands near a sink filled with dirty dishes. The background features blue and yellow walls, adding a colorful touch to the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Milan is lying in bed, tucked under a colorful blanket with patterns. He has a thoughtful look on his face as he gazes up at the wall of his room. The bed has a decorative headboard, and a green rug is visible on the floor beside it.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Rory, Milan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Milan"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_187",
+      "query_subjects": [
+        "Rory",
+        "Milan"
+      ],
+      "shot": 2,
+      "query_global_id": 186,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Milan"
+    }
+  },
+  {
+    "id": 94,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "187",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_188/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_188/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_188/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a bright room with yellow walls, Monroe stands on his hind legs, reaching out with one hand to catch a floating ball. His expression is joyful, and he appears to be focused on the ball above him. The background features large windows that let in light, enhancing the cheerful atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Monroe is focused on a colorful toy train placed on a blue and white patterned table. He is leaning forward, clearly enjoying his playtime. In the background, Justice watches with a smile, standing near a green door that opens to a vibrant outdoor scene. The room features a green sofa and a lamp, contributing to a cheerful atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Justice, Monroe]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Justice"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_188",
+      "query_subjects": [
+        "Justice",
+        "Monroe"
+      ],
+      "shot": 2,
+      "query_global_id": 187,
+      "query_label": [
+        "ted"
+      ],
+      "answer": "Justice"
+    }
+  },
+  {
+    "id": 95,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "192",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_193/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_193/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_193/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Fable stands with a surprised expression, looking sideways. A clock is visible on the wall above a wooden cabinet in the background, indicating the time. The setting features a blue wall and a doorway behind him.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Robin is drawing on a piece of paper with a red crayon, creating an image of a person with a ponytail and arms outstretched. The background features green grass and a tree, providing a lively outdoor setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Robin, Fable]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Robin"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_193",
+      "query_subjects": [
+        "Robin",
+        "Fable"
+      ],
+      "shot": 2,
+      "query_global_id": 192,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Robin"
+    }
+  },
+  {
+    "id": 96,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "193",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_194/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_194/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_194/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Reese, with her orange curly hair tied back, is smiling while holding a green garden hose. In the background, a blue dish rack is visible through the kitchen window, alongside a white mop. The walls are painted in bright colors, adding a cheerful atmosphere to the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the park, Reese is extending a cup of ice cream towards Joss, who appears eager to receive the treat. Behind them, a wheelbarrow filled with leaves is visible, surrounded by green grass and trees under a clear blue sky.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Joss, Reese]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Joss"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_194",
+      "query_subjects": [
+        "Joss",
+        "Reese"
+      ],
+      "shot": 2,
+      "query_global_id": 193,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Joss"
+    }
+  },
+  {
+    "id": 97,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "194",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_195/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_195/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_195/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Hollis stands on a patch of mud in a vibrant park, looking to the right with a surprised expression. The background features tall buildings and lush green trees, creating a lively urban atmosphere. The ground around Hollis is marked with muddy footprints, indicating recent movement.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a colorful room, Onyx examines a toy boat while sitting on a blue rug surrounded by various scattered items, including keys, a magnifying glass, a rubber duck, and a blueprint. A red couch and a dresser with drawers are visible in the background, and sunlight streams through a window with turquoise curtains.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Onyx, Hollis]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Onyx"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_195",
+      "query_subjects": [
+        "Onyx",
+        "Hollis"
+      ],
+      "shot": 2,
+      "query_global_id": 194,
+      "query_label": [
+        "george"
+      ],
+      "answer": "Onyx"
+    }
+  },
+  {
+    "id": 98,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "195",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_196/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_196/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_196/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the room, Rory stood next to True, who was reaching up toward a white banner featuring a drawing of a red car. Nearby, two tables covered with checkered tablecloths displayed various dishes and drinks. Colorful decorations hung from the walls, adding a festive atmosphere to the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Rory is positioned in front of a set of blue double doors, holding a camera up to her face with a smile. She is wearing a blue shirt and light blue pants. In the background, a red and gold rope is draped over a door handle, adding a pop of color to the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Rory, True]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_196",
+      "query_subjects": [
+        "Rory",
+        "True"
+      ],
+      "shot": 2,
+      "query_global_id": 195,
+      "query_label": [
+        "george"
+      ],
+      "answer": "True"
+    }
+  },
+  {
+    "id": 99,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "196",
+    "image": [
+      "data/StoryStreamv2_new/2-shot/sample_197/000.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_197/001.jpg",
+      "data/StoryStreamv2_new/2-shot/sample_197/002.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Aspen stands with her arms wide open, wearing a bright yellow long-sleeve shirt. She has a big smile on her face, and her curly orange hair is styled with a ponytail. In the background, there is a green tree and a clear blue sky, creating a cheerful atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Taylor is standing on a ladder leading into a swimming pool filled with green water. He is holding a yellow sheet of paper, looking curiously at it. In the background, a colorful house with green shutters and a chimney is visible, along with a couple of trees under a bright blue sky dotted with clouds.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Aspen, Taylor]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Aspen"
+      }
+    ],
+    "meta": {
+      "query_sample": "sample_197",
+      "query_subjects": [
+        "Aspen",
+        "Taylor"
+      ],
+      "shot": 2,
+      "query_global_id": 196,
+      "query_label": [
+        "allie"
+      ],
+      "answer": "Aspen"
+    }
+  }
+]

@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 289,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "289",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000649.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: red sphere Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "757",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000591.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "837",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009612.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [{\"bbox_3d\": [0.14, 0.07, 0.95, 0.06, 0.09, 0.06, 0.17, -0.27, -0.13], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "840",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001006.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue sphere, red cube, green sphere, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "866",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006048.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a metal material are: the large gold cylinder, the small red cylinder, the large blue cylinder, the small purple cylinder, and the small [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "253",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013325.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: green cube, red cube, yellow cube, gold sphere, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "688",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005301.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the small yellow cylinder - the small purple cube - the small purple sphere - the small green cube these four objects are the only ones that can be reasonably described as \"small\" relative to the other objects in the scene (like the large gold cube, large [IDN], and large [IDN]. therefore, [IDN] small: 4 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "232",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004549.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 4] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "529",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006515.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "206",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006458.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "637",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004619.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 3 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "187",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009016.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "598",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000433.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow cylinder, cyan cylinder (front), [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "373",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006903.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: green cylinder, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "32",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012800.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "847",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004164.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "147",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008886.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [<red cube>, <green cube>, <yellow sphere>] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "515",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013203.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "298",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012093.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "145",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_010563.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 4] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "169",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000216.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: green cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "127",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011604.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the large objects in the image are: - the red cylinder - the silver cube - the yellow cylinder - the purple sphere these four objects are the largest in [IDN]. [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "226",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003377.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 3] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "309",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011366.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 object Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "962",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002093.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 5] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 919,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "919",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013699.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a metal material are: the large shiny cyan sphere, the small cyan cylinder, the small green cube, and the large [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "214",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006748.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "574",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000680.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 3] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "523",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009172.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "72",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005767.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 894,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "894",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003739.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "1",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000453.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a metal material are: the small red cylinder, the small gray cylinder, the large yellow cylinder, the large red cylinder, and the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "447",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004406.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 object Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "114",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005020.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "397",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014148.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the gray sphere and the brown cube are the only objects that appear to have a matte, non-reflective surface consistent with a rubber material. the other objects (purple cylinder, gold cylinder, green cylinder, silver cube, and gold sphere) have shiny, metallic surfaces. therefore, the objects with rubber material are [IDN] the [IDN]. [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "4",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004402.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: all Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "590",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008087.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "956",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011711.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "180",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013255.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 995,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "995",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003843.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 2, 3, 4] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "718",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013871.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: the green cube, the small red cylinder, and [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "146",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013572.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "443",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005180.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "500",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014771.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 7 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "663",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012121.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "219",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005467.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a metal material are: the small cyan sphere, the small yellow sphere, and the two small [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "553",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007009.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "121",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002667.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "505",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012132.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the small gold sphere - the small cyan cylinder - the small green cube - the small silver cube these four objects are the only ones that can be reasonably described as \"small\" in comparison to the larger spheres and the large blue cube. therefore, the answer is: [IDN], [IDN], small [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "139",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009804.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 2, 3, 4, 5, 6, 7, 8] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "109",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012596.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 3, 4, 5, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "84",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012623.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "337",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002314.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the small cyan cylinder on the left. - the small blue cylinder on the right. - the small purple sphere near the front. therefore, the answer is: [IDN], small [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "715",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001211.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "604",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004613.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 850,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "850",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006208.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "371",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004095.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 2, 3, 4, 5] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "445",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007564.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue sphere, gold sphere, yellow sphere, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "352",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013868.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [cube] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 912,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "912",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009687.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "200",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007405.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the small purple cylinder (in front of the green cube) - the small cyan cube (behind the green cube) - the small purple cylinder (in the background, behind the green sphere) these are the only objects that can be reasonably considered \"small\" compared to the larger cylinders [IDN]. therefore, [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "813",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013917.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [3, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "713",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001249.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 2, 3, 4] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "953",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009737.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the large objects in the image are: - the green metallic cube - the gray matte cube - the purple cylinder - the cyan metallic cube - the gray sphere these are the objects that satisfy the condition \"size: large\". the final answer is: green metallic cube, [IDN], [IDN], [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "266",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004132.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small object in the image is the tiny gold sphere located behind the large purple sphere. therefore, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "438",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011267.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "272",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009503.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with rubber material are: the large yellow cylinder, the small yellow cube, and the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "166",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002883.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "857",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007653.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "420",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008057.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0.33, 0.33, 0.33] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "151",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007644.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "983",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014884.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [{\"bbox_3d\": [0.0, 0.14, 1.25, 0.14, 0.14, 0.14, 0.12, -0.26, -0.09], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "662",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011226.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 2, 3, 4] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "227",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000439.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "823",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008223.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "167",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009019.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "615",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000389.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a rubber material are: the large cyan cylinder, the small purple cube, the small red cube, and the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "508",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006002.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "313",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001436.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 5] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "129",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000071.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [3, 4, 5] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "284",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006365.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 5] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "464",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006419.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "537",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008396.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 2, 3, 4] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002994.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [\"yellow cylinder\", \"yellow sphere\"] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "325",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009327.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "389",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_010933.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: red cylinder, brown cylinder, purple cylinder, cyan cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "677",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002923.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "7",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003875.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 2, 3, 4, 5, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "905",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012067.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the cyan cylinder - the gray cylinder - the small green sphere - the purple cube these four objects are the only ones that can be reasonably considered \"small\" in comparison to the large brown cylinder and the large red and green spheres. therefore, the answer is: [IDN], [IDN], [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "381",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012442.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "111",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013144.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "317",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007001.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "55",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007274.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "83",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005543.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 3] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "78",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004127.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 3] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 575,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "575",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000268.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a metal material are: the small gold sphere, the large green cylinder, and [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "460",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012361.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with rubber material are: the large gray cube, the small cyan cube, the small brown sphere, the small brown cylinder, the small yellow cylinder, and the large [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": 869,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "869",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006989.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [3, 5, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "799",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008882.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 3] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "939",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003409.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "582",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005101.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: two Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "77",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011093.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 3] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "822",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012739.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: cylinder, cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "836",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004944.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 2, 3, 4, 5, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "454",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006105.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [3, 4] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "418",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006584.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "90",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013930.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "403",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014726.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 2, 3, 4, 5, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "162",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_009935.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "832",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012357.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, blue cylinder, brown cylinder, green cylinder, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "327",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007862.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 3] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "806",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007668.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [3, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "572",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000242.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 3 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "563",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003585.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 3 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "105",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002105.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects in the image that are brown are the small sphere and the cube. therefore, the answer is: [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "517",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014340.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 904,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "904",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004618.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: green cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "67",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012139.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 5] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "59",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007905.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: red sphere Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "784",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011502.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 2, 4, 5] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "6",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004414.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 3 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "602",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002520.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, blue cylinder, blue sphere Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "707",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007418.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [cube] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "929",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006688.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 7] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "424",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005295.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [small gold sphere, green sphere] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "449",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005597.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "413",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001779.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [1] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 884,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "884",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011700.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "656",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003070.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 4 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 852,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "852",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012402.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the small red cube - the small gold sphere - the small cyan sphere - the small green sphere these are the objects that satisfy the condition \"size: small\". therefore, the answer is: small red cube, [IDN], [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "431",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004845.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "42",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002024.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: red cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "589",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011372.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "353",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013482.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "181",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005326.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "194",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000106.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "510",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001289.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "19",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006575.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow cube, red sphere, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "455",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004151.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects are: the red sphere, the yellow sphere, the small blue cylinder, and [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "375",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011500.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: gray sphere Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "198",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011230.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are the red sphere and the yellow sphere. therefore, the answer is: [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "202",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014640.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "178",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006717.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "490",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012625.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 2] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "81",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003803.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 3 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "86",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012377.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a rubber material are: the small gray cube, the purple cube, and the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "243",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014701.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "731",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014272.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a metal material are: the large gold cylinder, the small gold cube, and the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "540",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014995.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with the material \"metal\" are: - the large cyan cylinder on the left. - the blue sphere in the center. therefore, [IDN] 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "47",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_010192.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "977",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008649.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "97",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005551.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [red cube] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "734",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_011574.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [<cube>] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "950",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012270.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 896,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "896",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002396.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "128",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004395.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the cyan sphere - the gray sphere - the purple sphere these three objects are the only ones that can be reasonably described as \"small\" in comparison to the larger objects like the blue cube, the green cylinder, and the large brown sphere. therefore, [IDN], [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "751",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006172.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a rubber material are: the small red cylinder, the small blue sphere, the small blue cube, the large purple cube, and the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "189",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000681.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [3, 4, 5] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "20",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001151.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "110",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004966.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects are: the gold cylinder, the red cylinder, and the two [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "644",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003905.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 object Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 872,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "872",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_013294.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "610",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000329.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "467",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000722.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [{\"bbox_3d\": [-0.04, 0.24, 1.08, 0.14, 0.14, 0.14, 0.87, 0.26, 0.9], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "513",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_010326.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the objects with a metal material are: the cyan cylinder, the green cylinder, the small purple cube, the small gold sphere, and the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "164",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012675.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the small red cylinder - the small cyan sphere - the small brown cylinder - the small gold sphere these are the objects that satisfy the condition \"size: small\". the answer is: small red cylinder, [IDN], small [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "581",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001268.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 object Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "152",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003104.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the gray cylinder - the green sphere - the purple cylinder these three objects are smaller in size compared to the large gold cylinder and the large cyan sphere. therefore, [IDN], green sphere, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "428",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002143.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 943,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "943",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004763.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "543",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008606.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: the small brown cube, the small yellow cube, the small gray sphere, and the small brown cylinder. therefore, the answer is: small brown cube, small yellow cube, [IDN], small [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "300",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_008326.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "660",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014229.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cube, purple cube, brown cylinder, [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "580",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014058.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1, 3, 4] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "719",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001607.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "603",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006125.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "963",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_004907.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the large objects in the image are: - the yellow cylinder - the blue cube therefore, the answer is: [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "706",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007358.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small object in the image is the gold cube. therefore, the answer [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "535",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000901.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 object Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "62",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005479.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: green cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "415",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_005393.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "791",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000137.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: blue sphere Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 989,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "989",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002475.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "776",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006777.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the red cylinder Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "274",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002575.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "14",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014482.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 875,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "875",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000278.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 6] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "216",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_001937.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: cylinder, cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "916",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_012043.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [0, 1] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "887",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003581.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 1 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "629",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002804.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: three Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "275",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014503.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: the small objects in the image are: - the brown cube - the red cylinder - the green sphere - the yellow cube - the cyan sphere these five objects are all smaller than the large green cylinder and the large purple cube. **answer:** brown cube, [IDN], green sphere, [IDN], [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "259",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_003457.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: brown cube Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "933",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007953.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "283",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014517.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: yellow sphere Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "843",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_014432.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: 2 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "312",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_002005.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: green sphere Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "934",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_000696.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [2, 3] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "435",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_007789.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: there are no objects in the image that are explicitly labeled as \"large\" in the question. however, based on visual inspection, all objects appear to be of similar size relative to each other, and none are significantly larger than the others. therefore, no object satisfies [IDN] as defined by [IDN]. [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "88",
+    "image": [
+      "data/vlicl/clevr/query/CLEVR_val_006965.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nAccording to the picture, remove the information that does not exist in the following description: [1] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  }
+]

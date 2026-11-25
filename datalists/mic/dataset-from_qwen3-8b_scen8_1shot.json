@@ -1,0 +1,3802 @@
+[
+  {
+    "id": 289,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "289",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000489735.jpg",
+      "data/stvqa/stvqa/icdar/img_532.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the sign visible in the image, the type of train is a **dinosaur train**. the sign on the left clearly displays the title [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Dinosaur Train or Dinosaur"
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "757",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n03938244_12269.JPEG",
+      "data/stvqa/stvqa/IIIT_text/img_000868.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the visual evidence in the image, the event is promoting the **nokia lumia**. here's the analysis: 1. **prominent text:** the most direct evidence is the large, illuminated text on the stage backdrop which clearly reads \"nokia lumia\". 2. **stage design:** the stage is designed with large, colorful blocks that resemble the windows phone interface, which was the operating system for nokia lumia devices at the time. this visual theme strongly associates the event with the lumia brand. 3. **event context:** the image shows a large, energetic stage performance with multiple performers and a live audience, which is typical for [IDN] major [IDN]. therefore, [IDN] a [IDN] the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Nokia Lumia"
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "837",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2355334.jpg",
+      "data/stvqa/stvqa/imageNet/n02085782_1148.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text overlaid on the image, the photograph was taken in **2007**. the text reads: \"copyright (c) 2007 tom [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2007"
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "840",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000049713.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/1159679.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the license plate number of the car [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "HK53 YXN"
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "866",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2405007.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000456522.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: photography Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "photography"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "253",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02701002_13584.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2334870.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the provided image, the color of the skier's pants is blue. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "blue"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "688",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/8549.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2400257.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the blue street sign visible in the image, the street is **pine street**. the sign clearly [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "PINE or PINE  ST"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "232",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04086273_25905.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2339199.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the person is wearing a red t-shirt with the words \"other team\" printed in white on the back. therefore, the kind [IDN] the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Street"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "529",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000359139.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2336343.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the name in the lower right corner [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Jordi Verdugo"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "206",
+    "image": [
+      "data/stvqa/stvqa/icdar/test_img_443.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000070363.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no red train visible. the image shows a train station with two trains: one is blue and white, and the other is silver. neither train is red, and therefore, there is no platform number for a red train to identify a [IDN]. therefore, [IDN] be answered from [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "637",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2371944.jpg",
+      "data/stvqa/stvqa/icdar/test_img_170.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the sign visible in the image, godiva is from **belgium**. the sign clearly states [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Belgium"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "187",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000353483.jpg",
+      "data/stvqa/stvqa/IIIT_text/img_000168.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the visual information in the image, the store having a sale is **bata**. the large red banner clearly displays \"bata irresistible sale\" in the center, and the store's name \"bata\" is also prominently featured in red letters on the sign below the banner. [IDN] \"upto 50% off\". Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bata"
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "598",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000250268.jpg",
+      "data/stvqa/stvqa/imageNet/n04204238_4763.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: basket Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Basket"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "373",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02028035_26926.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000130394.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: 23 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "32",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000051106.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2405163.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the information visible in the image, the date of the photo is **2010/02/02**. this date is clearly printed in the bottom [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2010/02/02"
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "847",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04131690_8780.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000442988.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: flaunt Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Flaunt"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "147",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000563511.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2328914.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the sign instructs you not to feed the zombies. the sign is a white poster with a red circle and a slash through it, depicting a figure that looks like a zombie. below the graphic, [IDN] reads: \"do not feed [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The Zombies"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "515",
+    "image": [
+      "data/stvqa/stvqa/icdar/img_540.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000486630.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: don't stop believing Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Don't stop believing"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "298",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2371365.jpg",
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000015995.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the bottle in the image, the instructions state: \"no use. shampoo and condition. spray. do not rinse out. blow dry and style.\" the phrase \"no use\" is likely a typo or misprint, and the intended instruction is to use the product *after* shampooing and conditioning. therefore, prior to using [IDN], you [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Shampoo and condition. or SHAMPOO AND CONDITION"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "145",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000266618.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000303708.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no visible text or label that identifies the name of the mustard bottle. the image shows a pizza with various toppings on a foil-lined surface, surrounded by other food items and condiments. while there are several bottles on the table, including what appears to be a yellow mustard bottle, none of them have their labels clearly visible or readable. therefore, it is not possible to determine [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Frenchs or Frenche's"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "169",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000424429.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2365683.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the sign indicates **works access**. the red triangular sign with a white cross and the accompanying red rectangular sign both clearly state \"works access\". this is a standard warning sign used to indicate that the area is designated for construction, maintenance, or [IDN], and [IDN] be cautious. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "WORKS or WORKS ACCESS"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "127",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02105641_4692.JPEG",
+      "data/stvqa/stvqa/imageNet/n03095699_10925.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the large word written in white letters on the front (bow) of the ship is **proficiency**. the full name visible on the ship's bow is \"mol proficiency\". the word \"proficiency\" is the largest and most [IDN], written in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mol Proficiency MAJURO"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "226",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n03032252_36442.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2322732.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: restroom Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "restroom"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "309",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04243546_6357.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000434894.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the year on the wine bottle is **2008**. the label on the bottle clearly shows the text \"2008\" just below [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2012"
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "962",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2366022.jpg",
+      "data/stvqa/stvqa/imageNet/n03133878_2777.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the pot is a **crock-pot**. the brand name \"crock-pot\" is clearly embossed on the lid of the appliance in the main, larger image. the inset image shows a similar black pot, which is also a crock-pot, sitting inside a refrigerator. therefore, [IDN] a [IDN], specifically [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Crock Pot"
+      }
+    ]
+  },
+  {
+    "id": 919,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "919",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04380533_5172.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2368663.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the text written in capital letters on the banner on the side of the bus is: **head south** this text is also visible on the front of [IDN] on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "HEAD SOUTH"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "214",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n01440764_10740.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000010581.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the trash can in the image, it belongs to **new york city**. the ocr text on the can clearly reads: [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "New York City"
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "574",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000426853.jpg",
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000012651.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the bottle in image8, the brand name is **sundown naturals**. the name \"sundown\" is printed in a dark brown font, and \"naturals\" is printed in an orange font directly below it, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sundown Naturals or Sundown"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "523",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2350922.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000014764.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the text on the top line of the computer slide [IDN] visual\"** Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Let's Get Visual"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "72",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2371579.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000559857.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the watermark visible in the bottom right corner of the image, the photographer [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mark O'lean"
+      }
+    ]
+  },
+  {
+    "id": 894,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "894",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000109640.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/150492.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, there are four large stadium lights visible. they are positioned around the baseball field: - one on the far left. - one on the far right. - two in the center, behind the scoreboard. each light is illuminated and has a distinct colored ring around it (white, green, red, and white, respectively). therefore, there are [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "four or {}"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "1",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/img_000459.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2317087.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: when you look at the red stop sign in the image, the letters are reversed. reading them from left to right, they spell out: **\"stop\"** so, the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "STOP"
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "447",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2338284.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2407116.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the word printed on the white container in the refrigerator [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Drink"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "114",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2365194.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/498274.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text on the side of the van in the image, the name of the food company is **icedgems**. the name is prominently displayed in a large, pink, cursive font inside a circular logo on the side of the vehicle. the text below the logo also reads [IDN]... [IDN] which further identifies [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ICEDGEMS"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "397",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2358033.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2411441.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the street sign prominently displayed in the image, the name of the street [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Dominion St"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "4",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2337628.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000160298.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no visible price tag or any other information indicating the cost of the clock radio. therefore, it is not possible to determine [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "75c"
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "590",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/1198.jpg",
+      "data/stvqa/stvqa/icdar/test_img_380.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the establishment on the level below is named **epicentre**. its name is clearly visible in white lettering on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "epicentre"
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "956",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2362437.jpg",
+      "data/stvqa/stvqa/icdar/img_328.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: bega Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bega"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "180",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000335804.jpg",
+      "data/stvqa/stvqa/imageNet/n03670208_3720.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no blue bar visible. the image shows a heavily modified black pickup truck, which appears to be a limousine-style vehicle. at the top of the image, there is a white banner with the text \"ultimate extensions\" in black letters. there is [IDN] displayed within a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ULTIMATE EXTENSIONS"
+      }
+    ]
+  },
+  {
+    "id": 995,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "995",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2326233.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000431357.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no word written on the parking meter that is also a male's name. the meter has a digital display, but the text visible on it appears to be numerical (likely the time remaining or a code), not a word. there is no discernible text that matches the description of a male's name. therefore, [IDN] there is no [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Duncan"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "718",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2337665.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000257874.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: 25 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "146",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000561735.jpg",
+      "data/stvqa/stvqa/icdar/img_909.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is a large, red, circular sign in the store window that clearly advertises a sale. the sign displays the word \"sale\" and the number \"70%\" below it. therefore, [IDN] **70%** off. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "70% or 70"
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "443",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000055947.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2372306.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text on the man's t-shirt in the image, the country referred to is **france**. the shirt clearly displays the words \"de tour france\". \"tour de france\" is the world-famous multi-stage bicycle race held annually in france. the phrase \"de [IDN] the [IDN] saying \"tour [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "france"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "500",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2349394.jpg",
+      "data/stvqa/stvqa/imageNet/n03450230_24648.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: new concept Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "New Concept"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "663",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000042960.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2349472.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the street sign clearly shows [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "GRAND or GRAND BLVD"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "219",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2412304.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000108321.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the provided image, the white car is not visible. the vehicle directly in front of the viewer is a large, dark green military truck with a canvas cover. behind it, there is a white bus and a smaller white car, but the license plate on that car is not legible or clear enough to be read from the image. therefore, [IDN] the [IDN] be determined from [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "15-3144"
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "553",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2411247.jpg",
+      "data/stvqa/stvqa/imageNet/n07749582_12963.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: lemon Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "LEMON"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "121",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2338217.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2347973.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, there is no visible sign or text indicating a specific weight limit for trucks. the signs present are for a freeway entrance, a stop sign, and a no left turn sign. there is [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Over 3 Tons"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "505",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2321275.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000522708.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the motorcycle is a red and black harley-davidson. it is parked on the sidewalk next to a building, and [IDN] sitting on it. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "harley"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "139",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000427150.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2331015.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the name written on the front of the train is **jordi verdugo**. this appears to be the name of the photographer, as it is written in a stylized font in the bottom right corner of the image, just below the [IDN]. it is not [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Jordi Verdugo"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "109",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000515315.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2324776.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the sign visible in the image, the phone number for the veterinary clinic is **454-5557**. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "454-5557"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "84",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000064896.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000459819.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the box is for the nintendo wii console. the box does not show any specific game included with the console. the image only displays the wii console box and a hand holding a wii remote controller. the box itself does not have any visible game titles or game cases. therefore, based on the visual information in image8, it is not possible to determine what game is included in [IDN]. [IDN] contains [IDN], but no [IDN] shown. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Wii Sports"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "337",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000541374.jpg",
+      "data/stvqa/stvqa/imageNet/n02988304_9199.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the device with the yellow disk (a cd) on top is a cd player. the digital display on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "715",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000169722.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2341612.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: 10 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "604",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2338722.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000383564.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the letter inside the store with lights is **\"s\"**. it is visible in the illuminated sign inside the storefront, positioned above the entrance. the sign appears to read \"st. ali\", and the \"s\" is the [IDN] \"st.\" Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ST"
+      }
+    ]
+  },
+  {
+    "id": 850,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "850",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000531096.jpg",
+      "data/stvqa/stvqa/IIIT_text/2874.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the side of the bus in the image, the fun fair is open daily. the sign on [IDN] \"open daily\". Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Open daily"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "371",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n03764736_5249.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000402297.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the information visible in the image, the bus number is **2303**. this number is displayed on the digital sign above the windshield, which is clearly legible in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2303"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "445",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000457519.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2359496.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the brand of the laptop is **acer**. this is clearly visible as the \"acer\" logo is displayed in the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "acer"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "352",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2324962.jpg",
+      "data/stvqa/stvqa/imageNet/n06785654_7140.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the provided image of the crossword puzzle, the answer to clue \"13 down\" is: **lark** this is found by looking at the vertical word starting at the intersection of the \"13\" clue and the \"d\" in \"down\". [IDN] spelled l-a-r-k. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tee"
+      }
+    ]
+  },
+  {
+    "id": 912,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "912",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02823428_8929.JPEG",
+      "data/stvqa/stvqa/imageNet/n07920052_15897.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the coffee cup in the image, they bought the coffee at **lebkov & sons**. the logo on the cup clearly reads \"lebkov [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lebkov & Sons Good Food or LEBKOV"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "200",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000378586.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000442308.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the shorter appliance is a **refrigerator**. it is the white, tall appliance on the right side of the room. the appliance next to it, which is shorter and has a gray top, is a **freezer** or a **refrigerated cabinet**. therefore, the brand of the shorter appliance is **not clearly visible** in the image. [IDN] the [IDN] too blurry to read. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "REVCO"
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "813",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000080475.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000169211.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the second word on top of the bus is **\"express\"**. the text on the front of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ROOST"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "713",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000550655.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000219654.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the number on the back of the bus is **100**. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "953",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000580974.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000301042.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: the person in the photograph is surfing. he is riding a wave on a surfboard, crouched low to maintain balance as [IDN] him. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Surfing"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "266",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02999410_10104.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000408537.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, there is no city name shown at the bottom of the street sign. the street sign visible in the image reads \"cannon street\" and \"london\". the word \"london\" is located at the top of the sign, not at the bottom. there is no other text [IDN] at [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "WESTMINSTER"
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "438",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2368802.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2359671.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the sign shown directly below the \"j f kennedy bl\" street sign is a **\"one way\"** sign. it is a rectangular, black sign with white text and an arrow pointing to the right, indicating [IDN] proceed in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "One Way"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "272",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/4957.jpg",
+      "data/stvqa/stvqa/IIIT_text/img_001221.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the brand of the watch is **titan**. this is clearly visible on the black watch box and on the accompanying \"certificate of warranty\" card, both of which feature [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "TITAN"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "166",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2375607.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000102288.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text in the image, the event was on **february 2009**. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "FEVRIER 2009"
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "857",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000050470.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2343056.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the side of the red train in the image, the advertisement is for **kauhaus**. the word \"kauhaus\" is prominently displayed in large, white letters along the side of the train car. below it, [IDN] \"wipptal, [IDN] indicating [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bauhaus"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "420",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2343691.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000473818.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no clearly visible blue sign on the building that has legible text. the building in the image has several signs, but they appear to be: * a red sign with white text that says \"hotel\". * a blue sign with white text that says \"hotel\" (this is the one you're asking about, but it's not clearly visible in the image). * a blue sign with white text that says \"hotel\" (this is the one you're asking about, but it's not clearly visible in the image). the most prominent sign on [IDN] the [IDN]. there are [IDN], but they are not clearly visible or legible in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "CAFE"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "151",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2368012.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000101467.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: cathay pacific Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Cathay Pacific"
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "983",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n03196217_3903.JPEG",
+      "data/stvqa/stvqa/icdar/img_116.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: k Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "K"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "662",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n03857828_65083.JPEG",
+      "data/stvqa/stvqa/imageNet/n03841143_11480.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the information presented in the image, the mileage is **130,000 miles**. this is clearly displayed in the digital readout located below the speedometer needle. the [IDN] confirms [IDN] \"130000 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "130000"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "227",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/3430.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000088754.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the number written on the back of the boy on the [IDN] **3**. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "823",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04037443_14038.JPEG",
+      "data/stvqa/stvqa/imageNet/n03337140_19448.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, there are four cabinets visible. - two cabinets are on the left side of the central divider. - two cabinets are on the right side of the central divider. therefore, the [IDN] 4. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Four"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "167",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000472549.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2346930.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the catcher is wearing a white uniform with the number **19** visible on the back of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "19"
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "615",
+    "image": [
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000000937.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000554138.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the event is sponsored by the u.s. army. this is evident from the large, white banner with the text \"u.s. army\" visible on the left side of [IDN], behind [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "army Army or U.S.ARMY"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "508",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000359695.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000029116.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on a close examination of the image, the smallest text is located in the top right corner. it reads: **almadena** this appears to be a watermark or credit for [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "images"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "313",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2362372.jpg",
+      "data/stvqa/stvqa/imageNet/n04149813_2351.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the information presented in the image, the number of wickets is **9**. this is shown in the \"total\" column on the right side of the scoreboard, directly under [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "129",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2322721.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000007758.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there are five people visible. they are jockeys riding horses on a racetrack. each jockey is clearly visible on their respective horse, positioned in a line. therefore, the [IDN] 5. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "I can see 5 people. or {}"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "284",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000149892.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2401448.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the plane's identification number is **c-gmrr**. this number is visible on the rear of the aircraft's fuselage, just [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "C-GMWJ"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "464",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000055121.jpg",
+      "data/stvqa/stvqa/IIIT_text/3034.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided (image8), the company name written in yellow font on a red background is **gallery 85**. this name is visible on the storefront sign on the right side of the image, located above [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Gallery 85"
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "537",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2367437.jpg",
+      "data/stvqa/stvqa/imageNet/n03197337_4275.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the information presented in the image, the date shown on the watch is **8-24**. this is visible on the digital display, located directly below the day of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "8-24 or FR  8-24"
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04562935_6780.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2375509.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text displayed on the bus's electronic sign in the image, the bus number is **346**. the sign clearly [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "346"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "325",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000557771.jpg",
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000007389.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the information displayed on the cisco ip phone in image8, the date is not shown. the screen displays a time, which reads \"08:01:13\", but there is no [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "08/01/13"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "389",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n03991062_7066.JPEG",
+      "data/stvqa/stvqa/VisualGenome/2/2408450.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: ryan taylor Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ryan Taylor"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "677",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2356429.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2359126.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the word that appears on the front half of the plane is **american**. this is visible in red lettering on the fuselage, just behind the cockpit windows. the airline's logo, which includes [IDN], is located on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "American"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "7",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000430396.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000484065.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the green street sign shown in image8, the name of the street [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Erskine St. or ERSKINE"
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "905",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2406333.jpg",
+      "data/stvqa/stvqa/imageNet/n03935335_15487.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the bill is a united states one-dollar bill. the number **1** is clearly visible on the bill, printed in large font on the front, to the left of the portrait of george washington. therefore, [IDN] **1**. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "20"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "381",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000423052.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000100140.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: stop Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "111",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2338895.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000554104.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the brand at the bottom right is **pushar**. it is written in a stylized, lowercase font within a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tushar"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "317",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/img_000200.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000032522.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible in the top right corner of the image, the research company that took this photo [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Chukchi Sea Research"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "55",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02690373_7740.JPEG",
+      "data/stvqa/stvqa/imageNet/n04204238_7126.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the label visible on the wine bottle in the shopping cart, the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Prado"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "83",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2416761.jpg",
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000005449.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: cooking Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Cooking"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "78",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n09835506_4745.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000107013.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the text at the bottom of the blue sticker is a url: http://skydrive.com Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "HTTP://SKYDRIVE"
+      }
+    ]
+  },
+  {
+    "id": 575,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "575",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000245733.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2376787.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the watermark visible in the bottom right corner of the image, the picture was taken [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Jordi Verdugo"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "460",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2359538.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2404433.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: bananas Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bananas"
+      }
+    ]
+  },
+  {
+    "id": 869,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "869",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2321018.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000276267.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the sign with the camera on it is for **grace street**. the camera is mounted on the pole above the street sign that reads \"grace st\". [IDN] it reads [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "greenwich"
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "799",
+    "image": [
+      "data/stvqa/stvqa/icdar/test_img_275.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2360860.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the timestamp visible in the bottom right corner of the image, the date and time are: **date:** december 15, [IDN] (8:40 am) Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2012.12.15 08:40"
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "939",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/4253.jpg",
+      "data/stvqa/stvqa/IIIT_text/img_000868.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the visual evidence in the image, this event is for the **nokia lumia** product launch or promotional campaign. here's the reasoning: 1. **prominent branding:** the most significant clue is the large, illuminated text \"nokia lumia\" projected onto the stage backdrop. this is the name of the product line being advertised. 2. **stage design:** the stage is designed with large, colorful blocks that resemble the classic windows logo, which was a key part of microsoft's branding at the time. nokia had a partnership with microsoft, and the lumia phones ran on the windows phone operating system. 3. **performance:** the presence of numerous performers on a large, elaborate stage with professional lighting and smoke effects indicates a major, high-profile event, typical of a product launch or a large-scale marketing campaign. 4. **audience:** [IDN] a [IDN], likely [IDN] a [IDN]. therefore, [IDN] a promotional [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Nokia Lumia"
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "582",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000478031.jpg",
+      "data/stvqa/stvqa/imageNet/n07584110_2514.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: keropok.com Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "keropok.com"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "77",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000573513.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2318689.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the name of the shop is **monsoon**. this name is visible in white text on a blue sign hanging above [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Monsoo"
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "822",
+    "image": [
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000008222.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000504147.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the watermark visible in the lower-left corner of the image, the image was provided [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Dave Lundy"
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "836",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000095659.jpg",
+      "data/stvqa/stvqa/imageNet/n04116512_10421.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text printed on the erasers in image8, they are made of **vinyl eraser**. the label on each eraser clearly states [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Vinyl"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "454",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000045543.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000160423.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the line number on the red bus is **101**. this number is clearly visible on the yellow banner displayed across the front of the bus, which reads: [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "418",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2367680.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2361350.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the front of the bus in image8, it is running **linea 102**. the text \"linea 102\" is clearly written in white letters on the black upper section of the bus's front. additionally, the destination \"san juan\" is displayed on [IDN], indicating [IDN] taking. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Linea 102"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "90",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n03769881_1379.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/713345.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the visible number and letter combo on the plane is **5x-**. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5X"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "403",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/2042.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2353298.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the street sign clearly displays the name \"college dr\". therefore, the street is [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "COLLEGE DR"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "162",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000140736.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2334770.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the street names are: * titans way [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "TITANS WAY VICOTRY AVE"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "832",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/2431.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000497274.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the vehicle is a white mitsubishi truck. the brand name \"mitsubishi\" is clearly visible on the front grille. therefore, the name of the car (or more accurately, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mitsubishi"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "327",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000186562.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000303430.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on image8, the table is brown. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Brown"
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "806",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2417455.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000286233.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the traffic sign visible in the image, the restriction for not turning left ends at **6:00 pm**. the sign clearly states: * **\"no turn left\"** * **\"6:00 pm - 6:00 am\"** this indicates that the \"no turn left\" rule is in effect from 6:00 pm until 6:00 am the [IDN]. therefore, [IDN] at 6:00 pm. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "7:00 PM"
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "572",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2404051.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000043016.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image and the provided ocr text, the plane's id number is not visible. the ocr text identifies the aircraft as an \"airbus a320\" and includes the text \"© 2008 by airplane-photos.com\". however, there is no visible registration number (like \"c-gxxx\" or \"n-xxx\") on the aircraft in the image, which is the standard identifier for [IDN]. therefore, [IDN] be determined from [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "C-GAQZ"
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "563",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000209533.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2371304.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the street sign visible in the image, the name of the street [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Brandon or Brandon St"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "105",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2371375.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000366146.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the number farthest to the right is **10**. this number is visible on the bib of the skier standing in the front row, positioned on the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "517",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000163591.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2408185.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the visual evidence in the image, the man is playing tennis. here's the reasoning: - he is holding a tennis racket in one hand and a tennis ball in the other. - he is wearing athletic attire suitable for tennis (a sleeveless shirt, shorts, and a headband). - he is standing on a green court, which is characteristic of a hard court used for tennis. - in the background, there are spectators and advertising boards typical of a professional tennis tournament. - [IDN] visible on the [IDN] him. therefore, [IDN] playing [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "tennis"
+      }
+    ]
+  },
+  {
+    "id": 904,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "904",
+    "image": [
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000015143.jpg",
+      "data/stvqa/stvqa/imageNet/n07717410_11533.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the sign visible in the image, this is **burris farm market**. the sign clearly reads \"burris farm market\" at the top, above [IDN] the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Burris Farm Market"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "67",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000474614.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000432742.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the first word visible on the projector screen [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "BATTING"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "59",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2377028.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2361284.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the letters on the tail of the plane are **vx**. the tail fin has a large, dark blue section with the letters \"vx\" written in white. this is part of the aircraft's identification code, [IDN], which is also visible on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "VL"
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "784",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000525039.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2343933.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the white banner in the background of the image, [IDN] aps.com Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "aps.com"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "6",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n07718472_29620.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000473642.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no visible code listed on the side of the toy train. the side of the train is primarily red with yellow accents, and while there is some text, it appears to be part of the decorative design or branding, not a specific code like a model number or serial number. the text is not legible enough to be identified as [IDN]. therefore, [IDN] be determined from [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "M525"
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "602",
+    "image": [
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000016003.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2342372.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: cat Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Cat"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "707",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000322197.jpg",
+      "data/stvqa/stvqa/imageNet/n02939185_54592.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible in the image, the photo is copyrighted to [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Harry Huang Photography or harry huang"
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "929",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2326921.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2347113.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: white Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "White"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "424",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2323325.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2338700.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the question written on the orange door is: **\"did you check [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "did you check your lipstick?"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "449",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02363005_14407.JPEG",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000009045.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the name of the batter is **becerra**. this name is visible on the back of his jersey, above [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "MACHADO"
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "413",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2372432.jpg",
+      "data/stvqa/stvqa/imageNet/n02769748_5039.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the book is about dinosaurs. the title \"dinosaurs\" is clearly visible on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Dinosaurs"
+      }
+    ]
+  },
+  {
+    "id": 884,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "884",
+    "image": [
+      "data/stvqa/stvqa/icdar/img_224.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2331348.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: 16 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "16"
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "656",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2340821.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2416030.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no name visible at the bottom of the face on the sticker. the sticker on the traffic pole features a cartoonish face with a wide, toothy grin. below the face, there is a small, circular emblem or logo, but it is too indistinct to be read or identified as a name. therefore, there is no [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Obi"
+      }
+    ]
+  },
+  {
+    "id": 852,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "852",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000452909.jpg",
+      "data/stvqa/stvqa/imageNet/n02786058_8045.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, there are two band-aid boxes shown, each with a different primary color: - the box on the left, featuring the character blue's clues, is primarily **blue**. - the box on the right, featuring the character spongebob squarepants, is primarily **green**. therefore, the [IDN] green. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "blue and green. or 1 blue and 1 green"
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "431",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2363387.jpg",
+      "data/stvqa/stvqa/IIIT_text/4694.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the watermark visible in the bottom center of the image, the picture is from the website: **www.versaci.fr** the watermark also includes [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "WWW.VERSACI.FR"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "42",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2333297.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000388376.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the letters written to the left of the large blue \"sm\" are \"nysda\". Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "NYSDA"
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "589",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2370304.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000573125.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the name listed in the bottom right corner is \"steven varco\". therefore, the first name of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "steven"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "353",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2409497.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000197069.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the name on the back of the baseball player's jersey is **martin**. the number on [IDN] 2. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "RAMIREZ"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "181",
+    "image": [
+      "data/stvqa/stvqa/icdar/img_973.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000356154.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the text written on the store board is: journal [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A:Journaux, Magazines or JOURNAUX, MAGAZINES"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "194",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/img_001068.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/713221.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: 110 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "110"
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "510",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000512152.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000209813.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no visible text written on the boat. the boat is white with a blue stripe along the bottom, but any writing or lettering on its side is not legible or present in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ISLAND PARK NY"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "19",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2334687.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2347421.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: bulger mill rd Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bulger Mill or BULGER MILL RD"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "455",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04131690_424.JPEG",
+      "data/stvqa/stvqa/imageNet/n03425413_14612.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: unleaded Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Unleaded"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "375",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2407077.jpg",
+      "data/stvqa/stvqa/imageNet/n03976467_1170.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the manufacturer of this camera is **polaroid**. this can be determined by observing the brand name \"polaroid\" clearly engraved on the front of the camera, just below the lens. the camera is a polaroid land camera, specifically a model from the 1950s or 1960s, known for its [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Polaroid"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "198",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/638.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000499353.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the plaque on the pillar reads: **\"the honorable james a. hartman\"** below that, it appears to say: **\"judge of the court of appeals\"** and further down: **\"1987 - 1994\"** therefore, the plaque commemorates james a. hartman, who served as [IDN] 1987 to 1994. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "SEATTLE HARDWARE COMPANY"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "202",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2331103.jpg",
+      "data/stvqa/stvqa/imageNet/n04467665_44771.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no bus visible. the image shows a large, silver scania semi-truck with custom artwork on its cab. the name \"joker\" is visible on the side of the truck, but this is [IDN], not [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "SEBUS"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "178",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02692877_34838.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2356377.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the side of the train in the image, the name of the type of train is **skyfall 007**. this is written in a black rectangular box on the front of the train's carriage. the number \"91007\" is also visible below it, which is likely [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "SKYFALL"
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "490",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000093262.jpg",
+      "data/stvqa/stvqa/IIIT_text/img_000193.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the sign in the image, the establishment is an **indian restaurant**. the sign clearly displays the name \"bawarchi\" and, in smaller text below it, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Indian Restaurant or Indian"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "81",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02823428_2600.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2345662.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: 2027 Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "20.27"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "86",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/3717.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000159069.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the woman is wearing a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Pink"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "243",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000368956.jpg",
+      "data/stvqa/stvqa/imageNet/n07697313_2066.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text written on the green cake board, the cake is addressed to **joe**. the message on the cake reads: [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Joe"
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "731",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02865351_12156.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2356649.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there are two men in the picture. they are both in the foreground, smiling at [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "two"
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "540",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n02869837_31219.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2346141.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the green street sign reads: **greenspring ave** this is visible above the red [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Greenspring AVE or GREENSPRING"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "47",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000398229.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000242926.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text in the image, william henry schofield's wife was **mary [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "mary lyon cheney schofield"
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "977",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000497202.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000580906.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the text written in white on the blue section of the sign is: **go** this is part of the larger \"go\" bus sign, which is mounted on the side of the yellow bus. the blue section also contains [IDN] and [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Civic Center Kelburn or CIVIC CENTRE KELBURN"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "97",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000119909.jpg",
+      "data/stvqa/stvqa/imageNet/n03393912_6082.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no boy depicted. the image shows a chalk drawing on a blue surface that resembles a stylized face or creature with one large, central eye. therefore, the number of eyes the boy has is zero, as there is [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "one"
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "734",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04041544_61768.JPEG",
+      "data/stvqa/stvqa/icdar/test_img_97.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the name of the first store to the right [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "GEOX"
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "950",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n04243546_5623.JPEG",
+      "data/stvqa/stvqa/VisualGenome/1/2336226.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: the roman numeral that depicts 12 on the clock [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "XII"
+      }
+    ]
+  },
+  {
+    "id": 896,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "896",
+    "image": [
+      "data/stvqa/stvqa/vizwiz/VizWiz_val_000000030694.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000428029.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the numbers on the train are **6000**. they are visible in white on the side of the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "9214"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "128",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000262673.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000181316.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the brand mentioned behind the girl is **lipton**. this is visible on the green box of what appears to be lipton iced tea, located on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Citrus Drop"
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "751",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n06359193_29955.JPEG",
+      "data/stvqa/stvqa/imageNet/n03937543_6768.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the far right bottle has a label that reads \"ext. seca corn:\". the second word on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "seca"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "189",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2338692.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2351119.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: chamonix Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Chamonix"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "20",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/img_001215.jpg",
+      "data/stvqa/stvqa/imageNet/n04409515_6015.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the name printed on the machine is [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Silent Partner"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "110",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2325274.jpg",
+      "data/stvqa/stvqa/IIIT_text/1239.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: generali Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "generali"
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "644",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000167354.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000160459.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the woman is holding a white disposable cup with a black lid and sleeve. the sleeve has the word \"coffee\" printed on it in black capital letters. therefore, [IDN] is holding [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "gelato"
+      }
+    ]
+  },
+  {
+    "id": 872,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "872",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000486630.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000401229.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the green street sign visible in the upper right portion of the image, the name of [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Union St or UNION"
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "610",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2415917.jpg",
+      "data/stvqa/stvqa/imageNet/n03598930_1282.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: japanese garden Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Japanese Garden"
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "467",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2363513.jpg",
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000013472.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text in the image, this flyer is for the **sidney holiday party**. the flyer explicitly states: \"please join us for delicious... festive fun at the sidney holiday party!\" and provides details for the event, including [IDN], [IDN], [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sidney Holiday Party"
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "513",
+    "image": [
+      "data/stvqa/stvqa/icdar/img_474.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2348331.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: american Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "American"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "164",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2368997.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000168903.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the license plate on the grey bmw sedan is not legible. the characters are too blurry and indistinct to be read clearly. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "HR 210"
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "581",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000054149.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2324368.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the signs in the image, the fine for blocking the box is **+2 points**. the signs clearly state: \"don't block the box\" and below it, [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2 points or FINE + 2 POINTS"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "152",
+    "image": [
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000002716.jpg",
+      "data/stvqa/stvqa/IIIT_text/img_000200.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the visual information in the image, the name of the company is **bawarchi**. this is clearly displayed in large, stylized lettering at the top of the signboard. the sign also indicates that it is a \"family restro + fast food chain + banquet hall + [IDN], specializing in \"indian + chinese [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Bawarchi"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "428",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000111998.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2372471.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: fifth ave Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "fifth ave"
+      }
+    ]
+  },
+  {
+    "id": 943,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "943",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000462589.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2366243.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the number on the right side of the white bus is **6035**. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6035"
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "543",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2337393.jpg",
+      "data/stvqa/stvqa/icdar/test_img_366.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible in the shop window in the image, the retail offer being advertised is a **sale**. the word \"sale\" is repeated multiple times on the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "SALE"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "300",
+    "image": [
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000009871.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2321741.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the word written on the magazine by the window [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Dwell"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "660",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000337585.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2408647.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the packaging in the image, the name of this candy is **rain gums**. the brand name, \"swizzels matlow,\" is also visible at [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Fun Gums"
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "580",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000248879.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000211485.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the word written above the flag on the bear's shirt [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Brighton"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "719",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000272859.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2331058.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the blue directional signs in image8, the monument to the left is the **homo-monument**. the sign pointing to [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Homo - monument"
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "603",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000240439.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000402425.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the visual evidence in image8, the object is a **parking meter**. here are the key details that identify it: - the object is a tall, gray, metallic device mounted on a post. - it has a coin slot and a display area, which are standard features for collecting payment for parking time. - there is a sticker on the front that reads \"hourly rate $1.50\" and \"24 hr max $10.00\", confirming its function as a payment device for parking. - it is located on a sidewalk next to [IDN], with [IDN] in [IDN], which is the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Meter"
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "963",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/1026.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000235217.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there is no visible writing on the windows of the red train in the foreground. the windows appear to be tinted or reflective, obscuring [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "railjet railjet or railjet"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "706",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n01806567_12590.JPEG",
+      "data/stvqa/stvqa/imageNet/n03777754_1226.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the router in the image, the ghz listed is **2.4**. the label on the router clearly reads \"wireless 2.4ghz\". Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2.4"
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "535",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000101467.jpg",
+      "data/stvqa/stvqa/IIIT_text/img_000105.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: american airlines Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "American"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "62",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000246779.jpg",
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000006507.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the visible text on the can in image8, the food inside is **spaghetti**. the word \"spaghetti\" is clearly legible on the label, even though the image is slightly blurry. the label also features a red stripe and a [IDN], which are [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "SPAGHETTI"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "415",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2318735.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000548702.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text in the image, the quote \"stay hungry, stay foolish.\" is attributed to steve jobs. therefore, the person who quoted the quote found in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Steve Jobs"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "791",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/3918.jpg",
+      "data/stvqa/stvqa/imageNet/n04149813_5970.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the object all the way to the left that is green is the **base of the scoreboard structure**. this green section forms the lower wall or facade of the scoreboard, situated directly beneath the main black scoreboard panel and to the left of the \"hess\" advertisement. it appears to [IDN] a [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Hess"
+      }
+    ]
+  },
+  {
+    "id": 989,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "989",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000092122.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000250474.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, it is the man's time. the man in the orange shirt is actively engaged in playing a video game on the tv screen in front of him. the game appears to be a sports simulation, possibly baseball, as the screen shows a player at bat. since he is the one controlling the game and interacting with [IDN], [IDN] the one being tracked and displayed on [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Your time"
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "776",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2359996.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000337555.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the price tag visible in the image, the blood orange doughnuts cost $2.20. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "$2.00"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "274",
+    "image": [
+      "data/stvqa/stvqa/vizwiz/VizWiz_train_000000014008.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2323978.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the label visible on the container in the image, the product is: **pizza's real dairy ice cream** the container also indicates [IDN] 110 ml. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Rizza's Real Dairy Ice Cream or ICE CREAM"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "14",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2374060.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/150291.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: melrose av Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Melrose Av"
+      }
+    ]
+  },
+  {
+    "id": 875,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "875",
+    "image": [
+      "data/stvqa/stvqa/IIIT_text/img_000125.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2415597.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: twins Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Twins"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "216",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000457824.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000248478.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the visual information in the image, it is not possible to determine the name of the restaurant. the image shows a woman sitting at a wooden table with a meal in front of her. the background features a brick wall and wooden paneling, which are common interior design elements. however, there are no visible signs, logos, menus, or any other text that would indicate [IDN]. therefore, [IDN] be identified from the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "THE WORKS"
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "916",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2337023.jpg",
+      "data/stvqa/stvqa/imageNet/n02123597_8003.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the provided image, the cat's eyes are blue. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Blue"
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "887",
+    "image": [
+      "data/stvqa/stvqa/icdar/test_img_140.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000416510.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the rider on the far left is wearing a yellow jersey with the number **3** clearly visible on the back. the jersey number for [IDN] **3**. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "629",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2375271.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000338509.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, the poster states: \"un film de jacques tati\" this is french for \"a film by jacques tati\". the poster is for the film [IDN], directed [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "UN FILM DE JACQUES TATI"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "275",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000161648.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2407619.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the four-digit number on the red bus is **3422**. this number is visible on the front of the bus, just below [IDN], on the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3422"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "259",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000239187.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000403773.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the side of the double-decker bus in image8, it is advertising for **the famous restaurant**. the bus also mentions \"famous restaurants\" and \"famous restaurants of the world,\" indicating it is promoting [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Scarborough's Famous Harbourside Restaurants or RESTAURANTS"
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "933",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000119357.jpg",
+      "data/stvqa/stvqa/VisualGenome/2/2402231.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, the plane number (also known as the aircraft registration) is **nt85pa**. this number is clearly visible in black lettering on the [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "N785PA"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "283",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2341064.jpg",
+      "data/stvqa/stvqa/IIIT_text/3408.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image provided, there are two people visible. - one person is in the foreground, walking from right to left. they are wearing a dark head covering and a purple jacket. - a second person is in the background, walking from left to right. they are wearing a dark jacket and [IDN]. therefore, there are [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "843",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000332166.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000272218.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible on the side of the red bus in image8, the store name is: [IDN] Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The Honesty Shop"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "312",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/1/2318014.jpg",
+      "data/stvqa/stvqa/VisualGenome/1/2315779.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the signs visible in the image, this is a **farmers market**. the large red sign directly above the entrance clearly reads \"farmers market\". additionally, the larger sign above it says \"public market center\", indicating the name of the larger complex where [IDN] located. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Farmers Market"
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "934",
+    "image": [
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000140630.jpg",
+      "data/stvqa/stvqa/imageNet/n07932039_3012.JPEG"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the image, there are **two** cinnamon sticks visible. they are placed as a garnish, sticking out of the whipped cream on top of the drink in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "435",
+    "image": [
+      "data/stvqa/stvqa/imageNet/n03908618_16819.JPEG",
+      "data/stvqa/stvqa/VisualGenome/2/2416347.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: pedestrians Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Pedestrians"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "88",
+    "image": [
+      "data/stvqa/stvqa/VisualGenome/2/2416280.jpg",
+      "data/stvqa/stvqa/coco-text/COCO_train2014_000000447694.jpg"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: based on the text visible in the image, the name of the bookstore is **small in [IDN]. Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Small World Books"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 0,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_1/00.png",
+      "data/flintstonesv3_new/2-shot/sample_1/01.png",
+      "data/flintstonesv3_new/2-shot/sample_1/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Michael is standing in a cave, holding a container and looking up at Amelia, who is standing with her hands on her hips. Amelia is wearing a white dress and has her red hair styled in a bun. The cave has a stone wall and a barred window, with a few shadows cast on the ground.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia is sitting in a chair with a relaxed expression, wearing his signature orange and black outfit. Amelia stands nearby, looking back at him while holding a purple bag. The background features a simple, dark cave-like setting with minimal furnishings.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Amelia, Mia, Michael]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Amelia"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_3/00.png",
+      "data/flintstonesv3_new/2-shot/sample_3/01.png",
+      "data/flintstonesv3_new/2-shot/sample_3/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Amelia and William stand side by side, looking curiously at Henry, who is partially hidden behind a rock formation. Henry is holding a piece of clothing and appears to be explaining something. The cave walls are rough and gray, and the floor is uneven. The scene captures a moment of interaction among the three characters.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Henry and William are sitting on a stone couch in a cave-like interior. Henry, wearing a brown outfit, is standing and gesturing with a smile, while William, dressed in a white dress, is seated and smiling back at him. A round stone table with a bowl is positioned beside them, and the walls are a light blue color.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Amelia, William, Henry]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "William"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_4/00.png",
+      "data/flintstonesv3_new/2-shot/sample_4/01.png",
+      "data/flintstonesv3_new/2-shot/sample_4/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Alexander, wearing a blue dress and a crown, stands next to Charlotte, who is dressed in a brown outfit with a feathered headpiece. They are positioned in a prehistoric landscape with rolling hills and a few large rocks in the background. Charlotte holds a piece of paper, while Alexander looks at him with a curious expression.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper and Charlotte are standing inside a cave-like structure. Harper, wearing an orange outfit with a blue tie, has a serious expression on his face. Charlotte, dressed in a brown outfit, appears to be smiling slightly. The background features a wall with the word \"MUSEUM\" visible, and there are stone elements and textures around them.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Harper, Alexander, Charlotte]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Charlotte"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_6/00.png",
+      "data/flintstonesv3_new/2-shot/sample_6/01.png",
+      "data/flintstonesv3_new/2-shot/sample_6/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Henry and Amelia stand beside each other, looking curiously at Evelyn, who is partially hidden behind a stone structure. Evelyn is holding a piece of clothing, while Amelia has her hands on her hips, and Henry leans slightly forward, showing interest. The cave walls are rough and gray, and there are some stone furniture pieces visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Evelyn and Amelia are sitting together on a stone couch in a cave-like setting. Evelyn, wearing a brown outfit, is animatedly talking to Amelia, who is dressed in a white dress. A round stone table with a bowl is positioned beside them. The background features a blue wall with a circular window.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Evelyn, Amelia, Henry]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Henry"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_11/00.png",
+      "data/flintstonesv3_new/2-shot/sample_11/01.png",
+      "data/flintstonesv3_new/2-shot/sample_11/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper is sitting on a large rock inside a cave, wearing his signature orange and black outfit. He has a cheerful expression as he looks towards the viewer. In the background, Harper is visible through an opening, standing and looking at Harper. The cave features a stone wall and some greenery, creating a prehistoric setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Amelia is standing and holding a stack of green items while looking at Harper, who is wearing his signature orange outfit with a blue tie. Harper has a surprised expression and is standing in front of a couch in a cave-like setting. The background features a textured wall and a red rug on the floor.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Harper, Harper, Amelia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Amelia"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_13/00.png",
+      "data/flintstonesv3_new/2-shot/sample_13/01.png",
+      "data/flintstonesv3_new/2-shot/sample_13/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Evelyn and Amelia are standing on a stone pathway in a grassy area. Evelyn, wearing a blue dress and a small crown, is facing Amelia, who is dressed in a white outfit. They appear to be engaged in conversation, with palm trees visible in the background and a light-colored wall behind them.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oliver is standing and holding a large pitcher, gesturing with his other hand. He is wearing his signature orange outfit with a blue tie. Amelia is sitting on a stone couch, looking at a piece of paper. She is dressed in a white dress and has her red hair styled in a bun. The background features a cave-like setting with stone walls.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oliver, Amelia, Evelyn]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Oliver"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_14/00.png",
+      "data/flintstonesv3_new/2-shot/sample_14/01.png",
+      "data/flintstonesv3_new/2-shot/sample_14/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mason and Charlotte are standing inside a cave-like home. Mason, wearing his signature orange and brown outfit, is facing Charlotte, who is dressed in a blue dress. They are holding hands, and Charlotte is looking up at Mason with a smile. The background features a stone wall and a wooden door, with a rug on the floor. A stone structure is visible to the left, adding to the cave-like atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte and Ava stand side by side, both looking up with concerned expressions. Charlotte, wearing a blue dress and a matching headband, is positioned on the left, while Ava, in a white dress, is on the right. The background features a soft purple hue, creating a simple yet focused scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mason, Charlotte, Ava]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Charlotte"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_15/00.png",
+      "data/flintstonesv3_new/2-shot/sample_15/01.png",
+      "data/flintstonesv3_new/2-shot/sample_15/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Benjamin, Benjamin are visible in the scene. Benjamin stands at the entrance of a cave-like home, smiling as she looks outside. She is wearing a light blue dress and has a blue headband in her dark hair. The door is red, and the interior features a stone wall and a brown rug on the ground.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Benjamin and Evelyn are standing close together in a colorful scene. Benjamin, wearing his signature orange outfit with a blue tie, has a surprised expression on his face. Evelyn, dressed in a white dress with a distinctive collar, appears to be looking at him with a concerned expression. The background is a solid light blue, emphasizing their interaction.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Benjamin, Benjamin, Evelyn]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Benjamin"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_16/00.png",
+      "data/flintstonesv3_new/2-shot/sample_16/01.png",
+      "data/flintstonesv3_new/2-shot/sample_16/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, William, wearing a blue dress and a crown, stands next to Sophia, who is dressed in a brown outfit and holding a piece of paper. Sophia has a feather on his head and appears to be looking at William. The background features rolling hills and some large rocks, with a few eggs scattered on the ground.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William and William are standing in a cave-like interior. William, wearing his signature orange and brown outfit, is smiling and facing William, who is dressed in a light blue dress with a matching headband. The background features a stone wall and a wooden door, with a rug on the floor. The scene captures a moment of interaction between the two characters.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [William, William, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sophia"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_17/00.png",
+      "data/flintstonesv3_new/2-shot/sample_17/01.png",
+      "data/flintstonesv3_new/2-shot/sample_17/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Benjamin is smiling while holding a large telephone receiver to her ear. She is wearing a blue dress and has a crown in her hair. Benjamin stands nearby, looking at her with a neutral expression. The background features a cave-like setting with a large blue object, possibly a light, and a pair of shoes on a small table beside them.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia and Benjamin are standing outside a large, rounded stone structure at night. Mia, wearing an orange outfit with a blue tie, is smiling and looking at Benjamin, who is dressed in a brown outfit with a yellow hat. The background features a stone wall and a starry sky.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mia, Benjamin, Benjamin]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Benjamin"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_19/00.png",
+      "data/flintstonesv3_new/2-shot/sample_19/01.png",
+      "data/flintstonesv3_new/2-shot/sample_19/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Henry and Henry are standing in a grassy area. Henry, wearing an orange outfit with a blue tie, has a cheerful expression as he looks at Henry. Henry, dressed in a brown outfit, is crouched down, using a shovel to dig into the ground. In the background, there is a stone wall and a few clouds in the sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Henry is holding a telephone receiver to his ear, looking concerned. Amelia stands beside him, smiling slightly. They are in a cave-like interior, with a textured wall behind them. The scene captures a moment of interaction between the two characters.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Amelia, Henry, Henry]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Henry"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_20/00.png",
+      "data/flintstonesv3_new/2-shot/sample_20/01.png",
+      "data/flintstonesv3_new/2-shot/sample_20/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Harper are standing closely together, both looking to the left with serious expressions. Michael has short black hair and is wearing a blue dress, while Harper has red hair styled in a bun and is dressed in a white outfit with a blue necklace. The background features a blue wall with a smooth texture.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper stands with a red mug in her hand, looking slightly annoyed. She has her signature red hair styled in a bun and wears a white dress with a necklace. The background features a simple stone wall, typical of a prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Michael, Harper]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_28/00.png",
+      "data/flintstonesv3_new/2-shot/sample_28/01.png",
+      "data/flintstonesv3_new/2-shot/sample_28/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Michael and Evelyn stand side by side, looking curiously at Mia, who is partially hidden behind a stone wall. Mia is holding a piece of clothing, while Evelyn gestures towards him. The cave walls are rough and gray, and there is a stone table visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alexander and Michael are standing inside a cave-like home. Alexander, wearing his signature orange and brown outfit, is smiling and facing Michael, who is dressed in a blue dress with a matching headband. The background features a stone wall and a wooden door, with a rug on the floor. The scene captures a moment of interaction between the two characters.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mia, Evelyn, Michael, Alexander]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_31/00.png",
+      "data/flintstonesv3_new/2-shot/sample_31/01.png",
+      "data/flintstonesv3_new/2-shot/sample_31/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Mason is standing next to Michael. Mason is wearing a blue dress and has her hair styled with a headband. Michael, dressed in a brown outfit, is holding a piece of paper and has a feather on his head. The background features a landscape with hills and several large eggs scattered on the ground.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Mason and Henry stand side by side, looking towards Michael, who is partially hidden behind a stone wall. Mason is wearing a blue dress, while Henry is in a white outfit. Michael, dressed in his typical brown attire, appears to be holding a piece of clothing. The cave walls are rocky and gray, and there is a stone table visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Michael, Henry, Mason]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mason"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_33/00.png",
+      "data/flintstonesv3_new/2-shot/sample_33/01.png",
+      "data/flintstonesv3_new/2-shot/sample_33/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail are visible in the scene. The image shows a character standing in front of a large door labeled \"ROCKY STONE INC.\" The character has a light-colored, rounded hairstyle and is wearing a brown outfit. The background features a cave-like structure with stone walls and a soft, colorful landscape visible through the archway.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Isabella is standing in front of a large, round screen, looking intently at it. She is wearing a blue dress and has her hair styled in a short bob. Abigail is positioned behind her, looking slightly to the side with a neutral expression. The background features a stone wall and a colorful floor, adding to the prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Abigail, Isabella]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Isabella"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_34/00.png",
+      "data/flintstonesv3_new/2-shot/sample_34/01.png",
+      "data/flintstonesv3_new/2-shot/sample_34/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Henry is smiling and holding a large telephone receiver to her ear, engaged in conversation. She is wearing a blue dress and has a crown-like headband. Next to her, Benjamin stands with a curious expression, dressed in his usual brown caveman attire. The background features a cave-like setting with a large blue object and a pair of shoes on a small table nearby.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: James is sitting on a large rock inside a cave, wearing his signature orange and black outfit. He has a wide smile and is looking towards Henry, who is visible in the background through an opening in the cave. Henry is standing by the entrance, partially obscured, and appears to be engaged in conversation with James. The cave walls are textured, and there are some stones and a small plant visible in the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [James, Henry, Benjamin]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "James"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_37/00.png",
+      "data/flintstonesv3_new/2-shot/sample_37/01.png",
+      "data/flintstonesv3_new/2-shot/sample_37/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael is sitting at a table with a thoughtful expression, resting his chin on his hand. In front of him is a covered dish. The background features a stone wall, consistent with a prehistoric setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael, Isabella are visible in the scene. Michael is smiling while holding a piece of paper in his hands. He has a blue necktie and is wearing his signature orange outfit. The background is a solid blue color.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Isabella, Michael]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Isabella"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_38/00.png",
+      "data/flintstonesv3_new/2-shot/sample_38/01.png",
+      "data/flintstonesv3_new/2-shot/sample_38/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Abigail and Emma stand next to each other, looking curiously at Mason, who is partially hidden behind a stone wall. Mason is holding a piece of cloth, while Emma has her hands on her hips, and Abigail leans slightly forward. The cave walls are rough and gray, with a few patches of green moss visible. The scene captures a moment of interaction among the characters in their prehistoric setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mason and Emma are in a cave setting. Mason, wearing a brown outfit, is holding a large pot and is facing Emma, who is dressed in a white dress. Emma is standing with her hands on her hips, looking at Mason. The background features a stone wall and a window with bars, along with some greenish moss on the walls.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Emma, Abigail, Mason]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Emma"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_39/00.png",
+      "data/flintstonesv3_new/2-shot/sample_39/01.png",
+      "data/flintstonesv3_new/2-shot/sample_39/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mason, Oliver are visible in the scene. Mason is holding a piece of paper and smiling in the image. He is wearing his signature orange outfit with a blue tie. The background features a simple, textured wall in shades of blue.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mason and Emma are standing close together in a cave-like setting. Mason, wearing his signature orange outfit with a blue tie, is pointing at Emma, who is dressed in a white dress with a pearl necklace. The background features a textured wall, typical of their prehistoric environment. Their expressions suggest a serious conversation.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oliver, Emma, Mason]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mason"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_43/00.png",
+      "data/flintstonesv3_new/2-shot/sample_43/01.png",
+      "data/flintstonesv3_new/2-shot/sample_43/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lucas and Isabella are sitting together on a stone couch in a cave-like setting. Lucas, wearing a brown outfit, is standing and gesturing while talking to Isabella, who is seated beside him in a white dress. A stone table with a bowl is visible next to them, and the walls of the cave are a light blue color.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oliver and Isabella are standing side by side, both looking up with expressions of curiosity or concern. Oliver, wearing a blue dress with a bow in her hair, is on the left, while Isabella, dressed in a white outfit with her hair in a bun, is on the right. The background features a soft pink hue, creating a simple yet engaging atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oliver, Isabella, Lucas]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Oliver"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_44/00.png",
+      "data/flintstonesv3_new/2-shot/sample_44/01.png",
+      "data/flintstonesv3_new/2-shot/sample_44/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan and Mason are in a cave setting. Ethan, wearing a brown outfit, is holding a large container and extending it towards Mason, who is dressed in a white dress. Mason is standing with her hands on her hips, looking at Ethan. The background features cave walls and a barred window, with some greenish elements visible.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava is holding a telephone receiver and smiling while speaking into it. Mason stands next to him, looking at him with a neutral expression. The background features a cave-like interior with smooth, colorful walls.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mason, Ava, Ethan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mason"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_45/00.png",
+      "data/flintstonesv3_new/2-shot/sample_45/01.png",
+      "data/flintstonesv3_new/2-shot/sample_45/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Charlotte and Alexander are standing inside a cave. Charlotte, wearing an orange outfit with black spots, has a serious expression as he looks at Alexander. Alexander, dressed in a brown outfit, appears to be listening intently. The cave walls are a light blue color, and there is a circular opening behind them, suggesting an entrance. The floor is a lighter shade, adding to the cave's interior ambiance.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Alexander stands smiling while holding a small object in her hand. She is wearing a white dress and has her red hair styled in a bun. Alexander is next to her, dressed in a brown outfit, looking at the object with interest. They are inside a cave-like setting, with a stone couch and various stone objects visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Alexander, Alexander, Charlotte]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Charlotte"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_46/00.png",
+      "data/flintstonesv3_new/2-shot/sample_46/01.png",
+      "data/flintstonesv3_new/2-shot/sample_46/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Charlotte is standing in front of a large, round screen, looking intently at it. She is wearing a blue dress and has her hair styled in a short bob. Beside her, Charlotte is standing with his arms crossed, looking slightly puzzled. The background features a rocky wall and a circular object that resembles a washing machine. The scene is set in a prehistoric environment, with muted colors and a cartoonish style.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Charlotte and Abigail stand beside Charlotte, who is partially hidden behind a door. Charlotte, wearing a blue dress, looks curiously at Charlotte, while Abigail, dressed in a white outfit, leans in with an intrigued expression. The cave walls are rocky and gray, and there are some stone furniture pieces visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Charlotte, Charlotte, Abigail]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Abigail"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_47/00.png",
+      "data/flintstonesv3_new/2-shot/sample_47/01.png",
+      "data/flintstonesv3_new/2-shot/sample_47/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Isabella is standing in front of a large, round screen, seemingly engaged with it. She is wearing a light blue dress and has her hair styled in a short bob. Harper is positioned to the right, looking towards her with a puzzled expression. The background features a rocky wall and a small, round object on the floor near Harper. The overall setting appears to be a prehistoric home.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Isabella and Ava are standing close together, facing each other with friendly expressions. Isabella, wearing a blue dress and a matching headband, has her dark hair styled in a short bob. Ava, dressed in a white outfit, has her red hair styled in a bun. The background features a simple blue backdrop, enhancing the focus on the two characters.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Harper, Isabella, Ava]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ava"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_48/00.png",
+      "data/flintstonesv3_new/2-shot/sample_48/01.png",
+      "data/flintstonesv3_new/2-shot/sample_48/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan Flintstone stands with a smile, holding a stick with a wrapped object on it. He is wearing his signature orange tunic with a blue tie. The background is a simple, light-colored wall, emphasizing his cheerful expression and the object he is holding.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan and Sophia are standing in a cave-like interior. Ethan, wearing his signature orange and brown outfit with a blue tie, is facing Sophia, who is dressed in a white dress. The background features stone furniture, including a dresser and a small table. The walls of the cave are textured and rocky, enhancing the prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ethan, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sophia"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_52/00.png",
+      "data/flintstonesv3_new/2-shot/sample_52/01.png",
+      "data/flintstonesv3_new/2-shot/sample_52/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Lucas and Ava are standing inside a cave. Lucas is on the right, wearing his signature orange outfit with black spots, while Ava is on the left, dressed in a brown outfit. The background features a blue cave wall with greenish formations, and there is a circular opening behind Lucas. Both characters appear to be engaged in conversation.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lucas, James are visible in the scene. Lucas is holding a piece of paper and smiling. He is wearing his signature orange outfit with a blue tie. The background is a solid blue color, providing a simple backdrop for the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [James, Ava, Lucas]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "James"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_53/00.png",
+      "data/flintstonesv3_new/2-shot/sample_53/01.png",
+      "data/flintstonesv3_new/2-shot/sample_53/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, James and Evelyn are standing inside a cave. James, wearing an orange outfit with a blue tie, is gesturing with his left hand, while Evelyn, dressed in a brown outfit, stands beside him with a neutral expression. The cave walls are textured, and there is a barred window in the background, allowing some light to enter the space. A stone bench is positioned to the right, and several small stones are scattered on the ground.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Evelyn is standing in a cave-like setting, holding a container and interacting with Henry, who is standing nearby. Henry is wearing a white dress and looking at Evelyn with a slightly raised eyebrow. The background features stone walls and a barred window, adding to the cave atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Evelyn, James, Henry]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "James"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_55/00.png",
+      "data/flintstonesv3_new/2-shot/sample_55/01.png",
+      "data/flintstonesv3_new/2-shot/sample_55/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Henry and Ethan are standing in a cave-like interior. Henry, wearing his signature orange and black outfit, has a concerned expression as he faces Ethan. Ethan, dressed in a white dress, appears to be speaking to him with her hands on her hips. The background features rocky walls and a simple stone structure, typical of their prehistoric setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan is shown in a close-up view, with her red hair styled in a bun and wearing a white dress with a necklace. She has a concerned expression on her face, and the background features a smooth, light-colored surface.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ethan, Henry]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Henry"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_61/00.png",
+      "data/flintstonesv3_new/2-shot/sample_61/01.png",
+      "data/flintstonesv3_new/2-shot/sample_61/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Henry is standing in a doorway, partially visible, wearing his signature orange outfit with a blue tie. He appears to be looking at Ethan, who is standing just outside the door. Ethan is dressed in a light blue dress and has her hair styled with a blue headband. The background features a stone wall and a red door, with a brown rug on the floor.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan and Michael stand side by side in a cave-like setting. Ethan, wearing a blue dress, has her hair styled in a short bob with a headband. Michael, dressed in a white outfit, has her hair in a distinctive updo. They both have serious expressions as they look towards a green door in the background. The walls of the cave are textured and gray, adding to the prehistoric ambiance of the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ethan, Michael, Henry]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_62/00.png",
+      "data/flintstonesv3_new/2-shot/sample_62/01.png",
+      "data/flintstonesv3_new/2-shot/sample_62/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Michael and Abigail stand beside Lucas, who is holding a piece of cloth. Abigail, wearing a white dress, looks at Lucas with curiosity, while Michael, dressed in a blue outfit, leans in closer. The cave walls are rocky, and there is a stone structure behind them. The scene captures a moment of interaction among the three characters.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Abigail are walking side by side in a cave-like setting. Michael is wearing a green and yellow outfit with a blue purse, while Abigail is dressed in a white outfit with a floral headband. The background features rocky walls, emphasizing their prehistoric environment.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Lucas, Michael, Abigail]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Abigail"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_64/00.png",
+      "data/flintstonesv3_new/2-shot/sample_64/01.png",
+      "data/flintstonesv3_new/2-shot/sample_64/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Amelia is kneeling and holding a container while looking up at Henry, who stands nearby with a slightly raised eyebrow. The background features a stone wall and a window with bars, suggesting a cave-like setting. Henry is dressed in her characteristic white dress, and Amelia is in his usual brown attire.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Henry stands with her arms crossed, looking slightly surprised or concerned. She has her signature red hair styled in a bun and is wearing a white dress. The background features a simple, cartoonish landscape with green and blue swirls, suggesting a prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Henry, Amelia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Amelia"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_65/00.png",
+      "data/flintstonesv3_new/2-shot/sample_65/01.png",
+      "data/flintstonesv3_new/2-shot/sample_65/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, James is standing next to Sophia. James is wearing a blue dress and has her hair styled with a headband, while Sophia is dressed in a brown outfit and is holding a piece of paper. They are positioned in a prehistoric landscape with hills and a few large rocks in the background. The ground is dotted with large eggs, and there are some clouds in the sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia and Emma are in a cave-like setting. Sophia, wearing a brown outfit, is holding a large pot and extending it towards Emma, who is dressed in a white dress. Emma stands with her hands on her hips, looking at Sophia. The background features a stone wall and a barred window, with some greenish elements on the walls.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Emma, James, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "James"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_66/00.png",
+      "data/flintstonesv3_new/2-shot/sample_66/01.png",
+      "data/flintstonesv3_new/2-shot/sample_66/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, James and Alexander stand side by side, looking toward Henry, who is partially hidden behind a doorway. James is wearing a blue dress, while Alexander is dressed in a white outfit. Henry, in a brown outfit, appears to be holding a piece of clothing. The cave walls are rocky, and the floor is uneven, with a few scattered items visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan is sitting on a large rock inside a cave, wearing his signature orange outfit with a blue tie. He has a cheerful expression as he looks towards James, who is visible in the background through an opening. James is standing by the cave entrance, appearing to listen to Ethan. The cave walls are textured, and there are some rocks and a small pile of stones on the ground.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Henry, Ethan, James, Alexander]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "James"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_67/00.png",
+      "data/flintstonesv3_new/2-shot/sample_67/01.png",
+      "data/flintstonesv3_new/2-shot/sample_67/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia is looking into a large, oval-shaped mirror. She has a surprised expression on her face and is leaning forward slightly, with her hands resting on the edge of the mirror. The background features a textured wall and a blue object nearby, possibly a piece of furniture. Sophia is wearing a light blue dress and has a matching hair accessory.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William, Sophia are visible in the scene. Sophia stands in front of a red door, smiling as she looks outside. The interior features stone walls and a brown rug on the floor. A stone structure is visible to her left, adding to the cave-like setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sophia, William]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "William"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_70/00.png",
+      "data/flintstonesv3_new/2-shot/sample_70/01.png",
+      "data/flintstonesv3_new/2-shot/sample_70/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper, Michael are visible in the scene. Harper and Ava are standing close together, engaged in conversation. Harper is wearing his signature orange and brown outfit with a blue tie, while Ava is dressed in a green outfit with a red neckerchief. The background features a simple green backdrop, emphasizing their interaction.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper is holding a large, curved phone to his ear, looking surprised or concerned. Ava stands next to him, looking at him with a neutral expression. The background features a cave-like setting with smooth, rounded walls.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ava, Michael, Harper]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ava"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_73/00.png",
+      "data/flintstonesv3_new/2-shot/sample_73/01.png",
+      "data/flintstonesv3_new/2-shot/sample_73/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cave setting, Evelyn is smiling while holding a large telephone receiver to her ear. She is wearing a blue dress and has a crown in her hair. Nearby, Sophia stands with a curious expression, dressed in his usual brown attire. A pair of shoes is placed on a small table next to them, and a large blue object is visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Sophia is standing on the left, holding a large pot and looking at Charlotte, who is on the right. Charlotte is dressed in a white outfit and appears to be listening to Sophia. The background features a cave-like setting with a stone wall and a barred window, adding to the prehistoric atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sophia, Charlotte, Evelyn]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sophia"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_74/00.png",
+      "data/flintstonesv3_new/2-shot/sample_74/01.png",
+      "data/flintstonesv3_new/2-shot/sample_74/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oliver and Charlotte are sitting together on a stone couch in a cave-like interior. Oliver, wearing a brown outfit, is smiling and gesturing as he talks to Charlotte, who is dressed in a white dress. A round stone table with a bowl is placed beside them, and the walls of the cave are a light blue color.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava and Charlotte are seated at a table in a room with blue walls and pink curtains. Charlotte, holding a small object in her hand, appears to be speaking to Ava, who is listening attentively. The table is set with a few items, and a large round window is visible in the background.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Charlotte, Oliver, Ava]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Oliver"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_77/00.png",
+      "data/flintstonesv3_new/2-shot/sample_77/01.png",
+      "data/flintstonesv3_new/2-shot/sample_77/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Sophia is standing next to Benjamin, who is holding a piece of paper. Benjamin has a feathered headpiece, and they are positioned in a prehistoric landscape with rolling hills and large rocks in the background. There are several large eggs scattered on the ground nearby.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Benjamin and Charlotte are sitting together on a stone couch in a cave-like setting. Benjamin, wearing a brown outfit, is standing and gesturing while talking to Charlotte, who is seated and smiling. Charlotte is dressed in a white dress and has her red hair styled in a bun. Next to her on the couch is a round stone object, and the background features a blue wall with a circular opening.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Charlotte, Benjamin, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Charlotte"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_79/00.png",
+      "data/flintstonesv3_new/2-shot/sample_79/01.png",
+      "data/flintstonesv3_new/2-shot/sample_79/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Harper is standing and smiling at James, who is holding a small object in his hand. They are inside a cave-like setting with a stone couch and various stone objects in the background. Harper is wearing a white dress, while James is dressed in a brown outfit. The walls are a light blue color, creating a cozy atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava and Harper are sitting on stone chairs inside a cave-like setting. Ava, wearing a blue dress, is seated on the right, while Harper, in a white dress, is on the left. They are engaged in conversation, with Harper resting her chin on her hand, appearing thoughtful. A piece of fabric hangs above them, and the cave walls are rough and textured, with small stones scattered on the ground.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Harper, Ava, James]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "James"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_80/00.png",
+      "data/flintstonesv3_new/2-shot/sample_80/01.png",
+      "data/flintstonesv3_new/2-shot/sample_80/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Amelia is standing and smiling while holding a large telephone receiver to her ear. She is wearing a blue dress and has a crown-like headpiece. Ethan is standing next to her, looking at her with a neutral expression. He is dressed in a brown outfit made of fur. In the background, there is a cave-like setting with a large blue object and a small table with a pair of shoes on it.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Amelia and Ava stand beside Ethan, who is holding a piece of clothing. Ava, dressed in a white outfit, looks curiously at Ethan, while Amelia, in a blue dress, leans in closer. The cave walls are rocky and gray, with a small opening behind them. The scene captures a moment of interaction among the three characters.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ethan, Amelia, Ava]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ava"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_81/00.png",
+      "data/flintstonesv3_new/2-shot/sample_81/01.png",
+      "data/flintstonesv3_new/2-shot/sample_81/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mason, Mia are visible in the scene. Mason is seen looking through a window, where two characters are visible in the background. He is wearing his signature orange outfit with a blue tie. The interior of the cave-like setting features a stone wall and a pile of what appears to be bedding or a cushion nearby. The scene captures Mason's expression as he gazes at the figures outside.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia and Michael stand side by side, both smiling. Mia is wearing a blue dress with a bow in her hair, while Michael is dressed in a white outfit with a necklace. The background features a textured wall, adding depth to the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Michael, Mason, Mia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mason"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_84/00.png",
+      "data/flintstonesv3_new/2-shot/sample_84/01.png",
+      "data/flintstonesv3_new/2-shot/sample_84/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Isabella, wearing a white dress with a floral headpiece, stands next to William, who is dressed in a blue outfit with a white collar. They are positioned in front of a coin-operated machine in a cave-like setting. Isabella appears to be speaking, while William looks at her attentively. The background features rocky walls, enhancing the prehistoric theme of their environment.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Isabella stands holding a pitcher, looking at Harper, who is seated in a chair with a relaxed posture. The background features a curtain with a floral pattern and a small table beside Harper with a bag resting on it. The setting appears to be a cozy cave interior.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [William, Harper, Isabella]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Harper"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_85/00.png",
+      "data/flintstonesv3_new/2-shot/sample_85/01.png",
+      "data/flintstonesv3_new/2-shot/sample_85/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Isabella and Amelia are standing outside a stone house at sunset. Isabella is exiting through the doorway, wearing his signature brown outfit, while Amelia stands to the side, holding a small bag and wearing a blue dress. There is a large plant next to Amelia, and the ground is made of stone slabs. The sky is a gradient of orange and purple, indicating the time of day.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Amelia and Mia stand side by side, looking towards Isabella, who is partially hidden behind a stone wall. Mia, wearing a white dress, has her hands on her hips, while Amelia, in a blue dress, leans slightly forward with a curious expression. Isabella, dressed in a brown outfit, appears to be holding a piece of clothing or fabric. The cave walls are rocky and gray, with a few shadows cast by the light coming from the entrance.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mia, Isabella, Amelia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Amelia"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_86/00.png",
+      "data/flintstonesv3_new/2-shot/sample_86/01.png",
+      "data/flintstonesv3_new/2-shot/sample_86/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, James Rubble stands on the left, wearing a brown outfit, while James Flintstone is on the right, dressed in his signature orange outfit with black spots. They are inside a cave-like setting, with a blue and green background that suggests a rocky environment. James appears to be looking at James, who has a serious expression. The scene captures a moment of interaction between the two characters.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, James is handing a container to William. James is depicted wearing a simple brown outfit, while William is dressed in a white dress. The background features a cave-like setting with a stone wall and a barred window, adding to the prehistoric atmosphere. William appears to be looking at James as he extends the container towards her.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [James, James, William]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "James"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_96/00.png",
+      "data/flintstonesv3_new/2-shot/sample_96/01.png",
+      "data/flintstonesv3_new/2-shot/sample_96/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Evelyn and Ethan are standing close together, looking concerned. Evelyn, wearing his signature orange and brown outfit, has a worried expression on his face. Ethan, dressed in her white dress with a pearl necklace, appears anxious as well. The background features a simple, textured wall in shades of blue.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan stands next to a large, purple door, smiling as she interacts with a red dinosaur. The dinosaur has a playful expression and is positioned in front of Ethan, who is wearing her signature white dress. The background features a stone wall and a rocky cave-like setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ethan, Evelyn]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Evelyn"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_101/00.png",
+      "data/flintstonesv3_new/2-shot/sample_101/01.png",
+      "data/flintstonesv3_new/2-shot/sample_101/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte and Benjamin are walking side by side through a cave. Charlotte is wearing his signature orange outfit with a blue tie, while Benjamin is dressed in a brown outfit. The cave walls are textured and there are some rocks scattered on the ground. The background features a blue hue, suggesting the interior of the cave.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte and Charlotte are in a cave interior. Charlotte, wearing his signature orange and black outfit, stands facing Charlotte, who is seated at a stone table. Charlotte, dressed in her white dress, appears to be expressing frustration or concern. The background features cave walls and a stone structure, with some tools or items visible on the table.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Charlotte, Charlotte, Benjamin]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Benjamin"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_102/00.png",
+      "data/flintstonesv3_new/2-shot/sample_102/01.png",
+      "data/flintstonesv3_new/2-shot/sample_102/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, James and Mason stand side by side, looking curiously at Emma, who is partially hidden behind a stone wall. Emma is holding a piece of clothing and appears to be engaged in conversation with the two women. The cave walls are rocky and gray, and there are various stone structures in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: James and Mason are sitting on swings against a light background with clouds. James is wearing a blue dress and has a small crown, while Mason is in a white dress with her hair styled in a bun. They are positioned side by side, each holding onto the swing chains.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [James, Mason, Emma]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mason"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_103/00.png",
+      "data/flintstonesv3_new/2-shot/sample_103/01.png",
+      "data/flintstonesv3_new/2-shot/sample_103/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Benjamin, Charlotte are visible in the scene. Benjamin is holding a piece of stone tablet in his hands, looking surprised or concerned. He is wearing his signature orange tunic with a blue tie. The background is a simple blue color, providing a plain backdrop to the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte are visible in the scene. In the image, a character with a round face and dark hair, wearing a red tunic, sits at a stone table with his arms crossed. The background features a rocky cave-like setting, with a stone chair behind him. There are no other characters visible in this scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Benjamin, Charlotte]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Benjamin"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_104/00.png",
+      "data/flintstonesv3_new/2-shot/sample_104/01.png",
+      "data/flintstonesv3_new/2-shot/sample_104/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oliver is sitting at a table in a room with a blue wall and a round window. She is holding a small piece of cake in one hand and looking at a larger cake on the table. The table is set with a plate and a fork, and there are curtains hanging in the background. A lamp is visible on the side of the room.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William, Oliver are visible in the scene. Oliver stands at the entrance of a cave-like home, wearing a blue dress and a matching headband. She has a cheerful expression as she looks outside. The door is red, and the interior features stone walls and a brown rug on the floor. A stone structure is visible to her left, adding to the prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oliver, William]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "William"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_105/00.png",
+      "data/flintstonesv3_new/2-shot/sample_105/01.png",
+      "data/flintstonesv3_new/2-shot/sample_105/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Evelyn are in a close embrace. Michael, wearing a brown shirt and a red hat, looks up at Evelyn, who is dressed in a blue dress with a matching hair bow. The background features a simple, light-colored wall with a subtle texture.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia and Evelyn are standing in a cave entrance. Mia, wearing his signature orange and black outfit, is smiling and looking at Evelyn. Evelyn, dressed in a light blue outfit, is facing Mia with a slight smile. The background shows a stone wall and a patterned rug on the ground. There is a television set visible to the left of the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Michael, Mia, Evelyn]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mia"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_106/00.png",
+      "data/flintstonesv3_new/2-shot/sample_106/01.png",
+      "data/flintstonesv3_new/2-shot/sample_106/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia stands with a smile, facing a large, curved object that resembles a horn. The background features a rocky cave-like setting with some greenery. Sophia is wearing his signature orange and black outfit, and his expression suggests he is engaged in a conversation or listening intently.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, Abigail are visible in the scene. Sophia is standing with a concerned expression while holding a large, flat object that resembles a stone tablet. He is wearing his signature orange outfit with a blue tie. The background is a simple, muted color, emphasizing his focus on the object in his hands.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Abigail, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Abigail"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_107/00.png",
+      "data/flintstonesv3_new/2-shot/sample_107/01.png",
+      "data/flintstonesv3_new/2-shot/sample_107/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William is seen running behind Oliver, who is holding a small object in his hand. They are in a simple landscape with rolling hills in the background. Both characters are wearing their signature prehistoric clothing and are barefoot. The scene has a light, cartoonish style typical of their animated world.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William, wearing a top hat and a long coat, stands next to Henry, who is dressed in a white outfit with a pearl necklace. They are positioned against a plain, muted background. William appears to be speaking, while Henry looks at him with a slight smile.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Henry, William, Oliver]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Henry"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_110/00.png",
+      "data/flintstonesv3_new/2-shot/sample_110/01.png",
+      "data/flintstonesv3_new/2-shot/sample_110/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oliver and Charlotte are in a close embrace. Oliver, wearing a brown shirt and a red hat, has a joyful expression as he looks at Charlotte. Charlotte, dressed in a blue dress with a matching hair ribbon, appears surprised but happy. The background features a simple, light-colored wall with a textured pattern.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte and Isabella are standing in a cave-like setting. Charlotte, wearing a light blue dress, is smiling and looking at Isabella, who is sitting on the ground in a white outfit. The background features rocky walls, enhancing the prehistoric atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Isabella, Charlotte, Oliver]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Isabella"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_111/00.png",
+      "data/flintstonesv3_new/2-shot/sample_111/01.png",
+      "data/flintstonesv3_new/2-shot/sample_111/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lucas is sitting on a large rock inside a cave, wearing his signature orange and black outfit. He has a cheerful expression as he looks towards the viewer. In the background, Mia is visible through an opening in the cave, looking at Lucas. The cave walls are textured, and there are some rocks scattered around the floor.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia and Emma are standing together in a colorful outdoor setting. Mia is carrying a green package, while Emma is holding a rolled-up mat. In the background, there are stylized trees and a light blue sky, creating a cheerful atmosphere. Both characters appear to be smiling as they look ahead.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mia, Emma, Lucas]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lucas"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_112/00.png",
+      "data/flintstonesv3_new/2-shot/sample_112/01.png",
+      "data/flintstonesv3_new/2-shot/sample_112/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, William is standing in front of a large, round screen, appearing to interact with it. She is wearing a light blue dress and has her hair styled with a small crown. Lucas is positioned behind her, looking towards the screen with a neutral expression. The background features a stone wall and a blue floor, with a simple, prehistoric setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia stands in a doorway with a pink door, wearing his signature orange and brown outfit. He has a surprised expression as he looks at William, who is standing outside the door. William is dressed in a blue outfit and appears to be smiling as she engages with Sophia. The background features rocky walls typical of their prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Lucas, Sophia, William]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lucas"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_113/00.png",
+      "data/flintstonesv3_new/2-shot/sample_113/01.png",
+      "data/flintstonesv3_new/2-shot/sample_113/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, Evelyn are visible in the scene. Sophia is seen looking through a window, with a surprised expression on his face. He is wearing his signature orange outfit with a blue tie. In the background, there is a stone wall visible through the window, and two characters can be seen inside, though they are not identifiable from the reference images. The setting appears to be a cave-like environment, consistent with the style of the characters.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, Benjamin are visible in the scene. Sophia and Mr. Slate are standing close together, engaged in conversation. Sophia, wearing his signature orange and brown outfit with a blue tie, has a friendly expression. Mr. Slate, dressed in a green shirt and a red neckerchief, appears to be smiling as he talks to Sophia. The background features a simple, solid green color.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Evelyn, Benjamin, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Benjamin"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_114/00.png",
+      "data/flintstonesv3_new/2-shot/sample_114/01.png",
+      "data/flintstonesv3_new/2-shot/sample_114/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Harper and Benjamin are standing in a cave, looking towards Harper, who is partially visible at the entrance. Harper is wearing a blue dress, while Benjamin is in a white outfit. Harper, dressed in a brown outfit, appears to be holding a piece of clothing. The cave walls are rocky, and the floor is uneven, with some items visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper and Benjamin are standing on a stone pathway in a grassy area. Harper, wearing a blue dress and a crown, is animatedly talking to Benjamin, who is dressed in a white outfit. In the background, there are palm trees and a light-colored wall. The scene captures a friendly conversation between the two characters.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Harper, Benjamin, Harper]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Harper"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_116/00.png",
+      "data/flintstonesv3_new/2-shot/sample_116/01.png",
+      "data/flintstonesv3_new/2-shot/sample_116/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, James and Benjamin are sitting on the ground, both wearing hats. James is in his signature orange outfit, while Benjamin is in a brown outfit. They are positioned close to each other, with a simple background featuring palm trees and a colorful sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: James, William are visible in the scene. William stands in front of a red door, smiling as she looks outside. The interior features stone walls and a rug on the floor. A stone structure is visible to her left, adding to the prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [William, Benjamin, James]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Benjamin"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_119/00.png",
+      "data/flintstonesv3_new/2-shot/sample_119/01.png",
+      "data/flintstonesv3_new/2-shot/sample_119/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alexander is seen running in a prehistoric setting with stylized stone structures in the background. He is wearing a blue tunic and has a cheerful expression. The ground is flat, and the overall scene has a cartoonish aesthetic.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte sits on a white couch in a cave-like interior, holding a piece of paper. A vase with flowers is placed on a small table beside her, and a rug is positioned on the floor. The background features rocky walls, and there is a hanging item above her, possibly a piece of food or decoration.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Charlotte, Alexander]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Alexander"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_122/00.png",
+      "data/flintstonesv3_new/2-shot/sample_122/01.png",
+      "data/flintstonesv3_new/2-shot/sample_122/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan and Benjamin are standing together in a simple, cartoonish landscape. Ethan, wearing an orange outfit with a blue tie, is looking at Benjamin, who is dressed in a brown outfit and holding a piece of paper. The background features rolling green hills and a light-colored sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan and Henry stand side by side against a textured cave wall. Ethan, wearing his signature orange and brown outfit, looks slightly concerned, while Henry, dressed in a white dress with a pearl necklace, appears to be expressing worry. The background features a simple stone structure, typical of their prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Benjamin, Henry, Ethan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ethan"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_123/00.png",
+      "data/flintstonesv3_new/2-shot/sample_123/01.png",
+      "data/flintstonesv3_new/2-shot/sample_123/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Amelia is holding Amelia in his arms, both smiling at each other. Amelia is wearing a brown outfit with a red hat, while Amelia is dressed in a blue dress with a matching bow in her hair. The background features a simple, light-colored wall with a textured appearance.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alexander stands in front of a stone wall, wearing his signature orange outfit with a blue tie. He has a broad smile and is facing Amelia, who is positioned behind the wall. Amelia is smiling back at Alexander, dressed in his typical brown attire. The background features a simple landscape with a few trees and a clear sky.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Alexander, Amelia, Amelia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Amelia"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_124/00.png",
+      "data/flintstonesv3_new/2-shot/sample_124/01.png",
+      "data/flintstonesv3_new/2-shot/sample_124/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte and Harper stand side by side against a dark blue background with swirling patterns. Charlotte, wearing a green hat and a red scarf, has a cheerful expression, while Harper, dressed in an orange outfit with a blue scarf, looks content. The ground beneath them is green, and the overall scene has a whimsical, cartoonish feel.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper, Mason are visible in the scene. Harper is standing with a concerned expression, holding a large, irregularly shaped piece of stone in his hands. The background is a simple, textured blue, and there are no other characters or objects visible in the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mason, Harper, Charlotte]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Charlotte"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_126/00.png",
+      "data/flintstonesv3_new/2-shot/sample_126/01.png",
+      "data/flintstonesv3_new/2-shot/sample_126/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava are visible in the scene. The image features a character with a round face and a simple expression, wearing a red headband. The background is a solid light color, and there are no additional objects or details present in the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Isabella Flintstone stands on the right, holding a piece of paper. He is wearing his signature orange outfit with a blue tie. To his left, Ava Rubble holds a piece of food, possibly a vegetable, and is dressed in his typical brown attire. The background features rolling green hills and a plain, light-colored backdrop.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ava, Isabella]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Isabella"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_127/00.png",
+      "data/flintstonesv3_new/2-shot/sample_127/01.png",
+      "data/flintstonesv3_new/2-shot/sample_127/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Sophia is smiling while holding a large telephone receiver to her ear. She is wearing a blue dress and has a crown in her hair. Ethan stands nearby, looking at her with a neutral expression. The background features a cave-like setting with a stone wall and a small table holding a pair of shoes. A large blue object, possibly a light or a machine, is visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Evelyn and Sophia are standing inside a cave-like home. Evelyn, wearing an orange and brown outfit, is facing Sophia, who is dressed in a blue dress. They are holding hands, and Sophia is looking up at Evelyn with a smile. The background features a stone wall and a wooden door, with a rug on the floor. A stone structure is visible to the left, adding to the cave-like atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Evelyn, Ethan, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Evelyn"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_129/00.png",
+      "data/flintstonesv3_new/2-shot/sample_129/01.png",
+      "data/flintstonesv3_new/2-shot/sample_129/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Abigail and Benjamin stand side by side, looking towards Abigail, who is partially hidden behind a rock formation. Abigail is wearing a blue dress, while Benjamin is dressed in a white outfit. Abigail, in a brown outfit, appears to be holding a piece of clothing. The cave walls are rocky and gray, and the scene is illuminated by a soft light coming from the entrance.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail and Benjamin are sitting together on a couch, watching television. Abigail is wearing a blue dress and has her hair styled with a blue headband, while Benjamin is in a white dress with her red hair styled in an updo. A pink lamp is placed on a table beside them, and the background features a textured wall. Both characters appear engaged and are smiling as they enjoy their time together.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Abigail, Abigail, Benjamin]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Abigail"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_131/00.png",
+      "data/flintstonesv3_new/2-shot/sample_131/01.png",
+      "data/flintstonesv3_new/2-shot/sample_131/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Emma is smiling while holding a telephone receiver to her ear, engaged in a conversation. She is wearing a blue dress and has a small crown on her head. William stands nearby, looking at her with a curious expression. The background features a cave-like setting with a large blue object and a pair of shoes on a pedestal.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, William is standing in a cave-like setting, holding a container and looking at Ava, who is standing nearby. Ava is dressed in a simple white outfit and appears to be listening to William. The background features a stone wall and a barred window, adding to the cave atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [William, Emma, Ava]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "William"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_134/00.png",
+      "data/flintstonesv3_new/2-shot/sample_134/01.png",
+      "data/flintstonesv3_new/2-shot/sample_134/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Oliver is standing next to Ethan. Oliver is holding a container and appears to be talking to Ethan, who is looking at him with a neutral expression. The background features a cave-like setting with a vent and some stone structures. Ethan is wearing a white dress, while Oliver is dressed in a brown outfit.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Ethan are standing together in a cave-like setting. Michael, wearing his signature orange and brown outfit with a blue tie, appears to be looking at Ethan. Ethan, dressed in a white dress, is smiling at him. The background features stone walls and some dark blue elements, creating a cozy atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Michael, Oliver, Ethan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_136/00.png",
+      "data/flintstonesv3_new/2-shot/sample_136/01.png",
+      "data/flintstonesv3_new/2-shot/sample_136/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava Flintstone stands in front of a stone wall, smiling and gesturing with his hands. Behind him, Harper Rubble is partially visible, also smiling. The background features a simple landscape with a few stylized trees and a light-colored sky. The ground is green, indicating a grassy area.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava, Ethan are visible in the scene. Ava and Mr. Slate are standing close together, engaged in conversation. Ava, wearing his signature orange and brown outfit with a blue tie, has a friendly expression. Mr. Slate, dressed in a green shirt and bow tie, appears to be smiling as he talks to Ava. The background is a simple green color, providing a neutral setting for their interaction.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Harper, Ava, Ethan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ethan"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_137/00.png",
+      "data/flintstonesv3_new/2-shot/sample_137/01.png",
+      "data/flintstonesv3_new/2-shot/sample_137/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mason and Harper are in a close embrace, with Mason lifting Harper off the ground. Mason is wearing a brown outfit and a red hat, while Harper is dressed in a blue dress with a matching hair bow. The background features a simple, light-colored wall with a textured appearance.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia and Mason are standing side by side in a cave-like setting. Sophia is wearing his signature orange outfit with a blue tie, while Mason is dressed in a brown tunic. The background features a stone wall and some hanging greenery. Both characters appear to be engaged in conversation.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sophia, Harper, Mason]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mason"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_141/00.png",
+      "data/flintstonesv3_new/2-shot/sample_141/01.png",
+      "data/flintstonesv3_new/2-shot/sample_141/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Oliver is standing next to a large, round television set, looking intently at it. She is wearing a blue dress and has her hair styled in a short bob. Michael is positioned behind her, facing away, with a slightly puzzled expression. The background features a stone wall and a colorful floor, adding to the cartoonish setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte, Oliver are visible in the scene. Oliver stands at the entrance of a cave-like home, wearing a blue dress and a matching headband. The door is red, and the interior features a stone wall and a brown rug on the floor. The scene is bright and colorful, reflecting a prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oliver, Michael, Charlotte]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Oliver"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_143/00.png",
+      "data/flintstonesv3_new/2-shot/sample_143/01.png",
+      "data/flintstonesv3_new/2-shot/sample_143/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Amelia is standing in front of a large, round television set, looking intently at the screen. She is wearing a blue dress and has her hair styled in a short bob. William is positioned behind her, standing with his arms crossed and a concerned expression on his face. The background features a stone wall and a small, round table with a red object on it. The overall setting appears to be a prehistoric home.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William and Oliver are sitting together on a stone couch in a cave-like setting. William, wearing a brown outfit, is animatedly speaking while Oliver, dressed in a white dress, is smiling and listening. A round stone table with a bowl is positioned next to them, and the walls of the cave are a light blue color.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oliver, William, Amelia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "William"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_145/00.png",
+      "data/flintstonesv3_new/2-shot/sample_145/01.png",
+      "data/flintstonesv3_new/2-shot/sample_145/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte is lying on the ground with a playful expression, wearing his signature orange and black spotted tunic. He is positioned near a large, round stone structure with a plant on top. The background features a stone wall with a pattern of small stones, contributing to the prehistoric setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte are visible in the scene. The image features a character in a blue police uniform with a white mustache and a cap. He is being touched on the shoulder by another character, whose arm is visible. The background is a simple blue gradient, providing a neutral setting for the interaction.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Charlotte, Charlotte]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Charlotte"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_146/00.png",
+      "data/flintstonesv3_new/2-shot/sample_146/01.png",
+      "data/flintstonesv3_new/2-shot/sample_146/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma and Abigail stand facing each other, both with their hands on their hips. Emma, wearing a blue dress and a small crown, has a serious expression. Abigail, in a white dress, appears animated as she talks. The background features a textured, cave-like wall, adding to the prehistoric setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Evelyn and Abigail stand side by side against a textured cave wall. Evelyn, wearing his signature orange and brown outfit with a blue tie, looks slightly concerned, while Abigail, dressed in a white dress with a pearl necklace, appears to be expressing worry. The background features a simple cave setting with muted colors.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Abigail, Evelyn, Emma]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Evelyn"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_147/00.png",
+      "data/flintstonesv3_new/2-shot/sample_147/01.png",
+      "data/flintstonesv3_new/2-shot/sample_147/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Amelia is standing next to Ethan. Amelia is wearing a blue dress and has her hair styled with a headband, while Ethan is dressed in a brown outfit and holding a piece of paper. They are positioned in a colorful prehistoric landscape with hills and a few large eggs in the foreground. The background features a light sky with some clouds.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper, Amelia are visible in the scene. Harper is seen looking through a window in a cave-like setting. He has a surprised expression as he gazes at two characters in the background, who are partially visible. The interior features stone walls and a small pile of what appears to be bedding or a cushion near him.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Amelia, Harper, Ethan]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Harper"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_149/00.png",
+      "data/flintstonesv3_new/2-shot/sample_149/01.png",
+      "data/flintstonesv3_new/2-shot/sample_149/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Abigail is standing and smiling at Harper, who is holding a small object in his hand. They are inside a cave-like setting with a stone couch and various stone objects in the background. Abigail is wearing a white dress, while Harper is dressed in a brown outfit. The walls of the cave are a light blue color.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Amelia and Abigail are in a kitchen, with Amelia holding a grocery bag filled with fruits and vegetables. Abigail stands beside her, smiling as she looks at Amelia. The kitchen features a countertop with various items, including a large piece of meat and a bowl. Overhead, there are pendant lights illuminating the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Harper, Abigail, Amelia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Abigail"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_154/00.png",
+      "data/flintstonesv3_new/2-shot/sample_154/01.png",
+      "data/flintstonesv3_new/2-shot/sample_154/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Charlotte is standing and smiling at Oliver, who is holding a small object in his hand. They are inside a cave-like setting, with a stone couch and various stone objects in the background. Charlotte is wearing a white dress, while Oliver is dressed in a brown outfit. The walls are a light blue color, creating a cozy atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia and Charlotte are standing in a cave-like setting. Sophia, wearing his signature orange and brown outfit, appears to be speaking to Charlotte, who is dressed in a white dress. Next to them, there is a stone table with a rolled-up item on it. The background features rocky walls, creating a prehistoric atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oliver, Charlotte, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Oliver"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_156/00.png",
+      "data/flintstonesv3_new/2-shot/sample_156/01.png",
+      "data/flintstonesv3_new/2-shot/sample_156/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, William Flintstone stands on the left, wearing his signature orange and black spotted outfit and a blue tie. He is looking at William Rubble, who is on the right, dressed in a brown outfit. William is holding a piece of paper and appears to be engaged in conversation with William. The background features rolling hills and a simple, light-colored sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William and Ava are standing in a cave-like interior. William, wearing his signature orange outfit with a blue tie, is partially visible at the entrance of a doorway. Ava, dressed in a light blue dress and a matching hair accessory, is positioned inside the room, looking towards William. The background features a stone wall and a red door, along with a decorative element resembling a dinosaur on the wall. A brown rug covers the floor beneath them.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [William, William, Ava]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "William"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_157/00.png",
+      "data/flintstonesv3_new/2-shot/sample_157/01.png",
+      "data/flintstonesv3_new/2-shot/sample_157/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Amelia and Emma stand side by side, looking towards Abigail, who is partially hidden behind a stone wall. Emma, wearing a white dress, has her hands on her hips, while Amelia, in a blue dress, leans forward with curiosity. Abigail, dressed in a brown outfit, appears to be holding a piece of clothing, looking back at the two women. The cave walls are rocky and gray, with a few shadows cast by the light coming from the entrance.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Isabella and Abigail are seated in a makeshift vehicle, which appears to be constructed from large wooden beams and a stone wheel. Isabella is holding a newspaper, while Abigail looks at him, seemingly engaged in conversation. The background features a simple landscape with trees and a stone wall, along with some flowers in the foreground.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Isabella, Abigail, Emma, Amelia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Abigail"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_159/00.png",
+      "data/flintstonesv3_new/2-shot/sample_159/01.png",
+      "data/flintstonesv3_new/2-shot/sample_159/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William Rubble is handing a container to Henry Flintstone in a cave-like setting. Henry is wearing a white dress and appears to be looking at William, who is dressed in a brown outfit. The background features rocky walls and a barred window, adding to the cave atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma and Henry are sitting together on a couch in a cave-like living room. Emma, wearing a blue dress and a headband, is looking at Henry, who is dressed in a white outfit. They are engaged in conversation, with a round window visible in the background and a small table beside them. The floor is covered with a brown rug, and there are stone-like furniture pieces around them.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Emma, Henry, William]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Henry"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_160/00.png",
+      "data/flintstonesv3_new/2-shot/sample_160/01.png",
+      "data/flintstonesv3_new/2-shot/sample_160/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Evelyn and Emma stand side by side, looking towards Sophia, who is partially hidden behind a rock formation. Emma, wearing a white dress, has her hands on her hips, while Evelyn, in a blue dress, leans slightly forward. Sophia, dressed in a brown outfit, appears to be holding a piece of clothing. The cave walls are rocky and textured, with a dim light illuminating the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma and Emma are standing in a cave-like interior. Emma, wearing his signature orange and brown outfit, is facing Emma, who is dressed in a white dress. Behind them, there are stone furniture pieces, including a dresser and a small table. The walls of the cave are rocky, and there are a few items scattered around, contributing to the prehistoric setting.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Emma, Emma, Sophia, Evelyn]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Emma"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_161/00.png",
+      "data/flintstonesv3_new/2-shot/sample_161/01.png",
+      "data/flintstonesv3_new/2-shot/sample_161/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael, William are visible in the scene. The image features William Flintstone, characterized by his distinctive blonde hair and brown tunic. He appears to be looking surprised or concerned, with a neutral background that has a light color. There are no additional objects or characters present in the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William and Evelyn are standing close together in a cave-like setting. William, wearing his signature orange and black outfit, is pointing at Evelyn, who is dressed in a white dress with a pearl necklace. The background features a textured stone wall, adding to the prehistoric atmosphere of the scene.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [William, Evelyn, Michael]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_162/00.png",
+      "data/flintstonesv3_new/2-shot/sample_162/01.png",
+      "data/flintstonesv3_new/2-shot/sample_162/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, Alexander are visible in the scene. Sophia and Mr. Slate are standing close together, engaged in conversation. Sophia, wearing his signature orange and brown outfit with a blue tie, has a friendly expression. Mr. Slate, dressed in a green shirt and a bow tie, appears to be smiling as he talks to Sophia. The background features a simple green backdrop, emphasizing their interaction.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alexander are visible in the scene. The image shows a character with glasses and a round face, wearing a purple shirt, sitting at a table. He is holding a telephone receiver to his ear and appears to be engaged in a conversation. The background features a wall with a textured surface and a telephone mounted on it. There are various items scattered on the table in front of him.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sophia, Alexander]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sophia"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_163/00.png",
+      "data/flintstonesv3_new/2-shot/sample_163/01.png",
+      "data/flintstonesv3_new/2-shot/sample_163/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Emma and Henry stand beside each other, looking curiously at Ethan, who is partially hidden behind a stone structure. Ethan is holding a piece of cloth, while Henry wears a blue dress and Emma is dressed in white. The cave walls are rocky, and the floor is uneven, with a few scattered stones around.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Henry and Emma are standing side by side in a cave-like interior. Henry, wearing a blue dress, has her dark hair styled with a bow, while Emma, in a white dress, has her red hair styled in a short bob. They are both smiling and looking at something off-screen. The background features a stone wall and a curtain hanging nearby.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Henry, Ethan, Emma]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Henry"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_166/00.png",
+      "data/flintstonesv3_new/2-shot/sample_166/01.png",
+      "data/flintstonesv3_new/2-shot/sample_166/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cave setting, Amelia is smiling while holding a large telephone receiver to her ear. She is wearing a blue dress and has a crown-like headband. Nearby, Alexander stands with a curious expression, dressed in his typical brown attire. A pair of shoes is placed on a small table next to them, and a large blue object is visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alexander and Sophia are sitting on a stone couch in a cave-like interior. Alexander, wearing a brown outfit, is standing and gesturing while talking to Sophia, who is seated and smiling. She is dressed in a white dress and has her red hair styled in a bun. Next to Sophia, there is a stone table with a bowl on it, and the walls of the cave are a light blue color.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Alexander, Amelia, Sophia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Alexander"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_168/00.png",
+      "data/flintstonesv3_new/2-shot/sample_168/01.png",
+      "data/flintstonesv3_new/2-shot/sample_168/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Ava is standing in front of a large, round television set, looking intently at the screen. She is wearing a blue dress and has her hair styled in a short bob. Ava is positioned to the right, standing with his arms crossed and looking at Ava. The background features a stone wall and a small, round table with a red object on it. The overall setting appears to be a prehistoric home.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mason and Ava are standing inside a cave. Mason, wearing an orange outfit with a blue tie, is raising his hand as if speaking, while Ava, dressed in a brown outfit, stands beside him with a neutral expression. The cave walls are rocky, and there is a barred window in the background, allowing some light to enter the space. A stone bench is positioned nearby, and small pebbles are scattered on the ground.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ava, Mason, Ava]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ava"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_171/00.png",
+      "data/flintstonesv3_new/2-shot/sample_171/01.png",
+      "data/flintstonesv3_new/2-shot/sample_171/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: The image features a character resembling Sophia from the reference image. He is standing in front of a stone wall, with a light-colored background. Sophia has a cheerful expression and is gesturing with one hand raised, as if he is speaking or sharing something with someone off-screen. The ground is green, and there are no additional objects or characters visible in the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia and Harper are in an intimate moment, with Sophia holding Harper in his arms. Sophia has a light-colored shirt and a red hat, while Harper is wearing a blue dress with a matching hair bow. The background features a textured purple wall.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sophia, Harper]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Harper"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_172/00.png",
+      "data/flintstonesv3_new/2-shot/sample_172/01.png",
+      "data/flintstonesv3_new/2-shot/sample_172/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Isabella and Oliver are sitting together on a stone couch in a cave-like interior. Isabella, wearing a brown outfit, is animatedly talking to Oliver, who is dressed in a white dress. A round stone table with a bowl is positioned next to them, and the walls of the cave are a light blue color.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Henry and Oliver are standing together in a brightly colored background. Henry, wearing his signature orange and brown outfit, is smiling at Oliver, who is dressed in her white dress with a pearl necklace. They appear to be engaged in a conversation, with Henry holding a piece of paper in his hand. The scene captures a lighthearted moment between the two characters.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Oliver, Henry, Isabella]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Isabella"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_173/00.png",
+      "data/flintstonesv3_new/2-shot/sample_173/01.png",
+      "data/flintstonesv3_new/2-shot/sample_173/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Harper are standing in a cave-like interior. Michael, wearing his signature orange outfit with a blue tie, is partially visible as he leans out from a doorway. Harper, dressed in a light blue dress with a matching headband, stands nearby, looking towards him. The background features a red door and a stone wall with a decorative carving. A brown rug is on the floor, adding to the cozy atmosphere of the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper is standing at the entrance of a stone house, smiling and looking at Oliver, who is peeking out from inside. Oliver is raising her arm, appearing to speak or gesture. The background features a stone pathway and a garden with flowers.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Harper, Michael, Oliver]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_176/00.png",
+      "data/flintstonesv3_new/2-shot/sample_176/01.png",
+      "data/flintstonesv3_new/2-shot/sample_176/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, Amelia are visible in the scene. Sophia and Benjamin are standing close together, engaged in conversation. Sophia, wearing an orange outfit with a blue tie, has a cheerful expression. Benjamin, dressed in a green outfit with a red collar, appears excited as he gestures with his hands. The background features a simple, dark green curtain, emphasizing the characters in the foreground.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia and Abigail are standing next to each other. Sophia is wearing a chef's hat and an apron, smiling as he gestures with his hand. Abigail has her arms crossed and is looking at him with a slightly disapproving expression. The background features a colorful, abstract design.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Sophia, Amelia, Abigail]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Amelia"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_177/00.png",
+      "data/flintstonesv3_new/2-shot/sample_177/01.png",
+      "data/flintstonesv3_new/2-shot/sample_177/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia, wearing his signature orange and brown outfit, stands in a doorway with a surprised expression. He is partially inside a cave-like room, while Sophia, dressed in a blue dress, stands just outside the door, looking back at him. The interior features a stone wall and a red door, with a circular object on the wall that appears to be a decorative element. The floor is covered with a brown rug.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia is kneeling on the ground, holding a large, round object in front of him, looking up at Isabella, who stands with her arms crossed. Isabella is wearing a white dress and has her hair styled in a bun. The background features a simple cave-like interior with stone furniture and a blue wall.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mia, Sophia, Isabella]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Isabella"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_178/00.png",
+      "data/flintstonesv3_new/2-shot/sample_178/01.png",
+      "data/flintstonesv3_new/2-shot/sample_178/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail and Isabella are standing side by side against a light blue background. Abigail, wearing a blue dress and a small crown, has a cheerful expression. Isabella, in a white dress, is smiling and appears to be engaged in conversation with Abigail.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail and Isabella are standing together in a brightly colored scene. Abigail, wearing his signature orange and brown outfit, has a slight smile on his face as he looks at Isabella. Isabella, dressed in her white dress, is smiling back at him. The background features a blue cave-like setting, adding to the prehistoric theme of the image.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Abigail, Isabella, Abigail]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Abigail"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_180/00.png",
+      "data/flintstonesv3_new/2-shot/sample_180/01.png",
+      "data/flintstonesv3_new/2-shot/sample_180/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Abigail and Sophia are standing inside a cave. Abigail, wearing an orange outfit with a blue tie, is animatedly gesturing with one hand raised, while Sophia, dressed in a brown outfit, stands beside him with a smile. The cave walls are decorated with blue and green patterns, and there is a stone structure visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail, Michael are visible in the scene. Abigail is standing and looking at a piece of stone-like paper in his hands. He has a concerned expression on his face. The background is a solid color, providing no additional context or details about his surroundings.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Michael, Sophia, Abigail]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Sophia"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_185/00.png",
+      "data/flintstonesv3_new/2-shot/sample_185/01.png",
+      "data/flintstonesv3_new/2-shot/sample_185/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte, Amelia are visible in the scene. Charlotte is looking through a window, where two characters are visible. He has a surprised expression on his face, and he is wearing his signature orange outfit with a blue tie. The background features a stone wall and a grassy area, with a large rock nearby.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Amelia and Ethan are standing side by side, both looking serious. Amelia is wearing a blue dress with a light blue headband, while Ethan is in a white dress with a green headband. They are holding large, round objects in front of them, and the background features a light blue gradient.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ethan, Amelia, Charlotte]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Ethan"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_187/00.png",
+      "data/flintstonesv3_new/2-shot/sample_187/01.png",
+      "data/flintstonesv3_new/2-shot/sample_187/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Abigail is standing next to Michael. Abigail is wearing a blue dress and has her hair styled with a headband. Michael, dressed in a brown outfit, is holding a piece of paper and has a feather on his head. The background features rolling hills and a few large rocks, with some eggs scattered on the ground.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Lucas are sitting together on a stone couch in a cave-like setting. Michael, wearing his signature brown outfit, is standing and talking animatedly, while Lucas, dressed in a white dress, is seated with a smile. A round stone table with a bowl is positioned next to them, and the walls of the cave are a light blue color.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Lucas, Michael, Abigail]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Lucas"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_188/00.png",
+      "data/flintstonesv3_new/2-shot/sample_188/01.png",
+      "data/flintstonesv3_new/2-shot/sample_188/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte and James are standing outside a stone house. Charlotte is exiting through the doorway, wearing his signature brown outfit, while James stands nearby, holding a small bag and wearing a blue dress. In the background, there are green plants and a colorful sky at sunset. The ground is made of stone slabs.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte and Alexander are in a cave setting. Charlotte, wearing a brown outfit, is holding a large pot and appears to be offering it to Alexander, who is dressed in a white dress. Alexander is standing with her hands on her hips, looking at Charlotte. The cave has a stone wall and a window with bars, and there are some green and brown elements on the ground.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Alexander, James, Charlotte]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Alexander"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_193/00.png",
+      "data/flintstonesv3_new/2-shot/sample_193/01.png",
+      "data/flintstonesv3_new/2-shot/sample_193/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan and Alexander are standing in a grassy area, each holding onto a large piece of fabric. Ethan, wearing his signature orange outfit with a blue tie, has a serious expression as he looks at Alexander, who is dressed in a brown outfit. The background features a stone wall and rolling hills with a light-colored sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan, Michael are visible in the scene. Ethan and Mr. Slate are standing close to each other, engaged in conversation. Ethan, wearing his signature orange and brown outfit, has a friendly expression. Mr. Slate, dressed in a green shirt and bow tie, appears to be smiling as he talks to Ethan. The background features a simple green backdrop, emphasizing their interaction.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ethan, Alexander, Michael]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_194/00.png",
+      "data/flintstonesv3_new/2-shot/sample_194/01.png",
+      "data/flintstonesv3_new/2-shot/sample_194/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Ethan and Benjamin stand beside Amelia, who is holding a piece of clothing. Ethan, dressed in a blue outfit, looks curiously at Amelia, while Benjamin, in a white dress, leans in with interest. The cave walls are rocky, and there is a stone table in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia is sitting on a large rock inside a cave, looking towards the viewer with a smile. He is wearing his signature orange and black spotted outfit and has a blue necktie. In the background, Ethan is visible through an opening in the cave, standing and looking at Mia. The cave walls are textured, and there are some plants and rocks scattered around the interior.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Ethan, Amelia, Benjamin, Mia]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mia"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_195/00.png",
+      "data/flintstonesv3_new/2-shot/sample_195/01.png",
+      "data/flintstonesv3_new/2-shot/sample_195/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Henry Flintstone stands next to Ethan Rubble. Henry is wearing his signature orange outfit with a blue tie, while Ethan is dressed in a brown outfit. They are positioned side by side against a backdrop of rolling hills and a clear sky. The scene captures a moment of contemplation as they look off into the distance.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Henry and Mason are seated at a table in a cave-like setting. Henry has a serious expression, looking at Mason, who is holding a cup and appears to be speaking. The table is set with plates and utensils, and the background features a textured blue wall, enhancing the cave atmosphere.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mason, Ethan, Henry]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Mason"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_196/00.png",
+      "data/flintstonesv3_new/2-shot/sample_196/01.png",
+      "data/flintstonesv3_new/2-shot/sample_196/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, a character resembling Mia from the reference is standing on a grassy area next to a stone wall. He is holding a small white object in his hands and has a light-colored tuft of hair on his head. The background features a simple landscape with a pink hill and a yellow sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Mia is holding James in his arms, both smiling at each other. Mia is wearing a brown shirt and a red hat, while James is dressed in a blue outfit with a matching hair bow. The background features a textured purple wall.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Mia, James]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "James"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/flintstonesv3_new/2-shot/sample_197/00.png",
+      "data/flintstonesv3_new/2-shot/sample_197/01.png",
+      "data/flintstonesv3_new/2-shot/sample_197/02.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the cave, Alexander and Sophia stand side by side, looking towards Emma, who is partially hidden behind a stone structure. Alexander is wearing a blue dress, while Sophia is in a white outfit. Emma, dressed in a brown outfit, appears to be holding something up, possibly a piece of clothing. The cave walls are rocky, and the floor is uneven, adding to the prehistoric setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alexander stands in a doorway with a pink door, wearing his signature orange and brown outfit. He has a cheerful expression as he interacts with Alexander, who is standing outside the door. Alexander is dressed in a blue outfit and appears to be smiling at Alexander. The background features a rocky cave-like setting, consistent with their prehistoric environment.\n<image>\nWho is the character in this image?\nChoose from the following options and output ONLY the answer: [Alexander, Alexander, Sophia, Emma]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Alexander"
+      }
+    ]
+  }
+]

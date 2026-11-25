@@ -1,0 +1,3602 @@
+[
+    {
+        "id": 0,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2416461.jpg",
+            "./data/stvqa/stvqa/icdar/img_532.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:Where is this train going? Answer: To New York or New York\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What type of train do you see? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Dinosaur Train or Dinosaur"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/285667.jpg",
+            "./data/stvqa/stvqa/IIIT_text/img_000868.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What event is advertised in the poster? Answer: DANCE\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is this event promoting?"
+            },
+            {
+                "from": "gpt",
+                "value": "Nokia Lumia"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02110185_3914.JPEG",
+            "./data/stvqa/stvqa/imageNet/n02085782_1148.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the website on the photo? Answer: GiftKing.com/dogs/\n\n<image> is image8. Please refer to image8 when answering the following questions: When was the photograph taken? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2007"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2317640.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/1159679.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the car's license plate? Answer: BG 7181\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:What is the plate number of the car? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "HK53 YXN"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/809.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000456522.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What are the first two words of the black lettering? Answer: All Rights\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is the middle word in the black text box?"
+            },
+            {
+                "from": "gpt",
+                "value": "photography"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2330809.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2334870.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What number is on his leg? 38\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: what is the colour of the pant?"
+            },
+            {
+                "from": "gpt",
+                "value": "blue"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2376335.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2400257.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is the street called? WINDHAM\n\n<image> is image8. Please refer to image8 when answering the following questions: What street is this? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "PINE or PINE  ST"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2371404.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2339199.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What sport are they playing? Answer: Tennis\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What kind of team?"
+            },
+            {
+                "from": "gpt",
+                "value": "Street"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2328382.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2336343.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What name is in the lower right corner? Answer: Ryan Taylor\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What name is in the lower right?"
+            },
+            {
+                "from": "gpt",
+                "value": "Jordi Verdugo"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000283208.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000070363.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What platform is the train arriving at? 2\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the second digit in the platform number for the red train?"
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/img_890.jpg",
+            "./data/stvqa/stvqa/icdar/test_img_170.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: A desirable perfume brand normally preceded by the name of the most dominant religion on the planet is known as what? Dior\n\n<image> is image8. Please refer to image8 when answering the following questions: What country is Godiva from? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Belgium"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/img_405.jpg",
+            "./data/stvqa/stvqa/IIIT_text/img_000168.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What percentage off does the red sale sign advertise? 20% or 20\n\n<image> is image8. Please refer to image8 when answering the following questions: What store is having a sale? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Bata"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n07565083_1489.JPEG",
+            "./data/stvqa/stvqa/imageNet/n04204238_4763.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the price of the items in the first column? Answer: 5\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the name of this item? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Basket"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000234234.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000130394.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What number is on the dug out? Answer: 340\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What is the number on the blue catchers jersey? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "25"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000319188.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2405163.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:What year appears in the corner of the photo? Answer: 2012\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What is the date of the photo? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2010/02/02"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2366594.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000442988.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What does the word at the bottom of the photo say? Answer: Cake\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the first word after #9 Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Flaunt"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2376510.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2328914.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What does it say on this man's t-shirt? Answer: BAZINGA! or BAZINGA\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What does the sign instruct you not to feed"
+            },
+            {
+                "from": "gpt",
+                "value": "The Zombies"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000012641.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000486630.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What does the vandalized writing on this sign say? Answer: IN MY ASSHOLE\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What does the graffitied sign saysay? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Don't stop believing"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000012463.jpg",
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000015995.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: which body spray is shown in this picture? Dove\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What should be done prior to use? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Shampoo and condition. or SHAMPOO AND CONDITION"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000543470.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000303708.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What type of oil is in the jug? Olive Pomace Oil or olive\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What is the name of the mustard? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Frenchs or Frenche's"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2323176.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2365683.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What does the sign say? Answer: Please let buses enter\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What kind of access does the sign indicate?"
+            },
+            {
+                "from": "gpt",
+                "value": "WORKS or WORKS ACCESS"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03095699_4878.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03095699_10925.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: Where is this cargo ship from? Panama\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the large word on the front of the ship written in white letters? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Mol Proficiency MAJURO"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/img_78.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2322732.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What does the board read at the very top (in English)? Answer: Additional Services\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:which place mentioned  the black board Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "restroom"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2347736.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000434894.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:Which year is on the wine label? Answer: 2005\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What year is on the wine bottle? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2012"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03133878_12981.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03133878_2777.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the name of the cooking device? CROCK-POT\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What kind of pot is it? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Crock Pot"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000578233.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2368663.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is the name written in stylized font on the front of the bus? binns\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:What is written in capital fonts in the banner on the side of the bus? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "HEAD SOUTH"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000009345.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000010581.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: Is the can opened or unopened? Answer: Unopened\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:What city does the trash can belong to? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "New York City"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000003336.jpg",
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000012651.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the Brand name? Answer: Mountain Dew.\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What is the Brand name? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Sundown Naturals or Sundown"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000318736.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000014764.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What words can you read in the upper left hand corner of the bulletin board? Answer: Surf's up! or SURF'S UP\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What is on the top line of text on the computer slide? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Let's Get Visual"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000187844.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000559857.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the first name of the person who took this picture? christopher\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is the name of the photographer?"
+            },
+            {
+                "from": "gpt",
+                "value": "Mark O'lean"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2410654.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/150492.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the name of the Park? Answer: NATIONALS PARK\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:how many lights are there Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "four or {}"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2357577.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2317087.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What does the red, octagonal sign say? Answer: Stop\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What does the red sign say reversed? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "STOP"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000042427.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2407116.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is the brand name on the carton in the middle of the fridge? Answer: Florida's Natural\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What word is printed on the white container in the refrigerator?"
+            },
+            {
+                "from": "gpt",
+                "value": "Drink"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000450434.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/498274.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the name of the business? Answer: Dunkin Donuts\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the name of the food company?"
+            },
+            {
+                "from": "gpt",
+                "value": "ICEDGEMS"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2403690.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2411441.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What street name is pictured? Answer: Garfield Avenue\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:what is the name of the street shown in the picture Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Dominion St"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02988304_10957.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000160298.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What's the name of the character on the CD player? Answer: Hello Kitty\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: How much is the Clock radio?"
+            },
+            {
+                "from": "gpt",
+                "value": "75c"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/img_655.jpg",
+            "./data/stvqa/stvqa/icdar/test_img_380.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What level can you find more shops? Answer: 2 or LEVEL 2\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:what is the name of the establishment on level below? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "epicentre"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/img_553.jpg",
+            "./data/stvqa/stvqa/icdar/img_328.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What is the name of the store? Answer: Ritzbo\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What is the name of the clothing store? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Bega"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000367335.jpg",
+            "./data/stvqa/stvqa/imageNet/n03670208_3720.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What brand of car is on the sign? Answer: Saab\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the name of the company in the blue bar? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "ULTIMATE EXTENSIONS"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000121619.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000431357.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What code is listed on the side of the parking meter? Answer: 22467\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What word is written on the meter that is also a male's name? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Duncan"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000559235.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000257874.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the yellow word on the red sign? Answer: War\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What number is on the pink sign? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "25"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/test_img_295.jpg",
+            "./data/stvqa/stvqa/icdar/img_909.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What percentage is on sale? 70% or 70\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What percentage is the sale?"
+            },
+            {
+                "from": "gpt",
+                "value": "70% or 70"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000197713.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2372306.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: word on shirt? Answer: COUNTY\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: what country name refered in t-shirg"
+            },
+            {
+                "from": "gpt",
+                "value": "france"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2414359.jpg",
+            "./data/stvqa/stvqa/imageNet/n03450230_24648.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the innitials listed on this photo? Answer: TK\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What is the caption for this image? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "New Concept"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2344090.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2349472.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What name is on the street sign? Answer: Bedford St\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:Which BLVD is written? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "GRAND or GRAND BLVD"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000513966.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000108321.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:what does the license plate on the white car read? Answer: GYE 767\n\n<image> is image8. Please refer to image8 when answering the following questions: What is the license plate number of the white car? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "15-3144"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n07753592_11924.JPEG",
+            "./data/stvqa/stvqa/imageNet/n07749582_12963.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the text on the bottom right of the image? Answer: Mitchcraft\n\n<image> is image8. Please refer to image8 when answering the following questions: What fruit name is written? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "LEMON"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2319075.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2347973.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:When can you not park? Answer: ANY TIME\n\n<image> is image8. Please refer to image8 when answering the following questions: What limit can trucks not weigh more than? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Over 3 Tons"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000449780.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000522708.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What brand of motorcycle is this? Answer: Triumph\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What motorcycle is in the photo?"
+            },
+            {
+                "from": "gpt",
+                "value": "harley"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000373548.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2331015.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What number is written in front of the train? Answer: 145 030-3\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What is the name in front of the train? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Jordi Verdugo"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2410798.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2324776.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What word is on the third line of the sign? Answer: PARKING\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is the phone number of the veterinary clinic?"
+            },
+            {
+                "from": "gpt",
+                "value": "454-5557"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000137547.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000459819.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What type of remote is in the packaging? UNIVERSAL\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What game is included in the box? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Wii Sports"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02988304_290.JPEG",
+            "./data/stvqa/stvqa/imageNet/n02988304_9199.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What disc is currently playing? Answer: disc - 13\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What number is displayed on the device with the yellow disk on top of it? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "6"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000302051.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2341612.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What number is the player with the bat in his hands? Answer: 13\n\n<image> is image8. Please refer to image8 when answering the following questions: What number is the foremost player sporting? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "10"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2345273.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000383564.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What is the stores name on the right? Answer: GEOX\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the letter inside store with lights?"
+            },
+            {
+                "from": "gpt",
+                "value": "ST"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2358960.jpg",
+            "./data/stvqa/stvqa/IIIT_text/2874.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What does the toy bus say? Answer: BERMUDA\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:How often is the fun fair open? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Open daily"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2317067.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000402297.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What is the name of the bus company? Answer: Trailways\n\n<image> is image8. Please refer to image8 when answering the following questions: What number bus are these passengers riding? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2303"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000025174.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2359496.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the left-most label on the side of the laptop in the image? Answer: CD-RW\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What brand is the laptop in the picture? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "acer"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n06785654_7391.JPEG",
+            "./data/stvqa/stvqa/imageNet/n06785654_7140.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: what day was the solution provided? Answer: Tuesday\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:what is the answer to 13 down Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "tee"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2364783.jpg",
+            "./data/stvqa/stvqa/imageNet/n07920052_15897.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What coffee is on the table? Answer: Starbucks\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:where did they buy the coffee? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Lebkov & Sons Good Food or LEBKOV"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000157744.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000442308.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What brand is the largest oven? Answer: ATAG\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What brand is the shorter appliance?"
+            },
+            {
+                "from": "gpt",
+                "value": "REVCO"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n04146614_5697.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000169211.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What is the first word at the top of the bus? Answer: School\n\n<image> is image8. Please refer to image8 when answering the following questions: What is the second word on top of the bus? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "ROOST"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n04146614_5697.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000219654.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the first word at the top of the bus? Answer: School\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the number on the back of the bus? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000207013.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000301042.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the first name on the bottom of this photograph? Answer: Tom\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the person doing in the photograph? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Surfing"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000439356.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000408537.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What does the street sign on the right say? Answer: Ludlow St. or LUDLOW\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is the city name shown at the bottom of the street sign?"
+            },
+            {
+                "from": "gpt",
+                "value": "WESTMINSTER"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2332161.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2359671.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What 2 streets is this at? Answer: West 32nd St and Korea Way\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:what sign is shown below J F Kennedy Bl? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "One Way"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03706229_1702.JPEG",
+            "./data/stvqa/stvqa/IIIT_text/img_001221.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: From which brand is this watch? Answer: Timex\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the brand of the watch in this photo?"
+            },
+            {
+                "from": "gpt",
+                "value": "TITAN"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000310341.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000102288.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What event is this? Answer: Cross Country World CupCOUNTRY WORLD cup COUNTRY or WORLD CUP\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: When was this event? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "FEVRIER 2009"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000427283.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2343056.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What color is the train in the foreground? Answer: Purple or {}\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What company's advertisement do you see on the red train? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Bauhaus"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000188889.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000473818.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is written on the blue building? Answer: think elephant\n\n<image> is image8. Please refer to image8 when answering the following questions: What does the blue sign on the building say? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "CAFE"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2356996.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000101467.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What name is repeated on the sign? Answer: Stanford\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What name is on the blue sign? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cathay Pacific"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000016496.jpg",
+            "./data/stvqa/stvqa/icdar/img_116.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the name of this cereal? Special K\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What big red letter is displayed on the cereal boxes?"
+            },
+            {
+                "from": "gpt",
+                "value": "K"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03841143_13177.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03841143_11480.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What type of fuel does this car take? Unleaded Fuel\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:what is the mileage Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "130000"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000496569.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000088754.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the jersey number of the boy wearing yellow pants? Answer: 128\n\n<image> is image8. Please refer to image8 when answering the following questions: What is the number written on the back of the boy on the left's t-shirt? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03089624_9992.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03337140_19448.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: How many different boxes and there at the front Answer: 9\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: How many cabinets are there? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Four"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2400325.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2346930.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the catcher's first name? Answer: Evan\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is the uniform number of the catcher?"
+            },
+            {
+                "from": "gpt",
+                "value": "19"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000444953.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000554138.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the name of the event shown? Answer: us open\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What branch of the military sponsored this event?"
+            },
+            {
+                "from": "gpt",
+                "value": "army Army or U.S.ARMY"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03899768_6007.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000029116.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What does the text at the bottom say? Answer: Another blank bid\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What does the smallest text say? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "images"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n04149813_5843.JPEG",
+            "./data/stvqa/stvqa/imageNet/n04149813_2351.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: Who is winning Answer: Mozzies\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:How many Wickets are there? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02403003_5442.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000007758.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: How many persons appear in the picture? 2\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: How many peoples can you see on the picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "I can see 5 people. or {}"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2363291.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2401448.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is written on the plane? Air Canada\n\n<image> is image8. Please refer to image8 when answering the following questions: What is the plane identification number? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "C-GMWJ"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/2961.jpg",
+            "./data/stvqa/stvqa/IIIT_text/3034.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is the first word in yellow in the middle of the picture? market\n\n<image> is image8. Please refer to image8 when answering the following questions: What company name is written is yellow font on a red background? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Gallery 85"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n04328186_14492.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03197337_4275.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the logo name on the stopwatch? Answer: DATATEL\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is the date shown on the watch? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "8-24 or FR  8-24"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2348102.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2375509.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is the route number of the bus? Answer: 46\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:WHAT IS THE BUS NUMBER OF YELLOW BUS? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "346"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000007523.jpg",
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000007389.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: what's the time? Answer: 2:27 PM\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What's the date? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "08/01/13"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000063473.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2408450.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:Who is the person who took this photograph? Answer: alexandre prevot\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:Who took this photograph? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Ryan Taylor"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2364952.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2359126.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the airline company who owns this plane? American Eagle\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: Which word appears on the front half of the plane?"
+            },
+            {
+                "from": "gpt",
+                "value": "American"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/3086.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000484065.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the name of the road on the sign? Portobello Road or PORTOBELLO\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What is the name of the street? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Erskine St. or ERSKINE"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03935335_5265.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03935335_15487.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is written on the side of the moneybox? Little Slugger\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What number is on the bill? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "20"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000430325.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000100140.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What does the red sign say? Answer: STOP or STOP ALL WAY\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What does the red sign read?"
+            },
+            {
+                "from": "gpt",
+                "value": "Stop"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2370792.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000554104.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the first brand on the sign? Answer: Sprint\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What is the brand at the bottom right of the picture? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "tushar"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000471783.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000032522.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the last name of the photographer? Answer: weileman\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the research company that took this photo?"
+            },
+            {
+                "from": "gpt",
+                "value": "Chukchi Sea Research"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n07892512_976.JPEG",
+            "./data/stvqa/stvqa/imageNet/n04204238_7126.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What is brand of wine? Answer: Valleviola\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What is the company brand of the wine? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Prado"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000010601.jpg",
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000005449.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is the first word written in black? Fresh\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What word is in the blue ribbon? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cooking"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_val_000000030933.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000107013.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What does the sticker say? Answer: NO NITRATE\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is at the bottom of the blue sticker? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "HTTP://SKYDRIVE"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/5820.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2376787.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: Who took this photograph? Answer: Jordyn Murdock Photography or JORDYNMURDOCK PHOTOGRAPHY\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: Who took this picture Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Jordi Verdugo"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000338670.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2404433.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is are the tube shaped fruits on the bottom of the image called? Answer: BANANAS\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What fruit is displayed Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Bananas"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000217864.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000276267.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the information on the sign? Answer: One way\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: what is the name of the sign with the camera on it Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "greenwich"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2340425.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2360860.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What number is shown Answer: 43\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What is the time and date Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2012.12.15 08:40"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/285667.jpg",
+            "./data/stvqa/stvqa/IIIT_text/img_000868.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What event is advertised in the poster? Answer: DANCE\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What event is this for? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Nokia Lumia"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n07716358_29996.JPEG",
+            "./data/stvqa/stvqa/imageNet/n07584110_2514.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the web address listed at the bottom? Answer: www.ward2u.com\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is the website listed at the bottom right? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "keropok.com"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/img_000148.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2318689.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the name of the store? Answer: BATA\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is the name of the shop? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Monsoo"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02101388_8643.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000504147.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:Who took the photo? Answer: Helen Green\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:Who provided the image? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Dave Lundy"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n04116512_42459.JPEG",
+            "./data/stvqa/stvqa/imageNet/n04116512_10421.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What is the name of the brand for the eraser? Answer: DESiGN\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:What material are these erasers made of Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Vinyl"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000570978.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000160423.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the license plat number of the yellow double decker bus? Answer: TSO16X or TSO 16X\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the line numer on the red bus? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "38"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2326840.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2361350.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is the bus called? Answer: Twerenbold\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:what line is this bus running? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Linea 102"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/713106.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/713345.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What number is the plane? Answer: N288SA\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What number and letter combo is visible on the plane? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "5X"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000350013.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2353298.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is the name of the street? Market St. or MARKET\n\n<image> is image8. Please refer to image8 when answering the following questions: What is the street called? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "COLLEGE DR"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000204380.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2334770.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What are the street names? Answer: HANOVER PEARL or hanover,pearl\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What street names are there?"
+            },
+            {
+                "from": "gpt",
+                "value": "TITANS WAY VICOTRY AVE"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000280187.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000497274.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What does the license plate on the car say? YLO56 or YLO.56\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What is the name of the car? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Mitsubishi"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000139914.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000303430.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What brand is this mouse? DELL\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What color is the table?"
+            },
+            {
+                "from": "gpt",
+                "value": "Brown"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2366421.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000286233.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: Which volts shown? 110\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: WHAT time for not turning left ends? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "7:00 PM"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000368440.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000043016.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the name of the airline on the plane? Answer: Uni Air\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:what is the planes id number? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "C-GAQZ"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2345792.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2371304.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the street sign? Answer: Boulevard Saint-Laurent\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the name of the street? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Brandon or Brandon St"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000496569.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000366146.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the jersey number of the boy wearing yellow pants? 128\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What number is farthest to the right?"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2355969.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2408185.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What sport is the man playing? Answer: Tennis\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:what sport is the man playing? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "tennis"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000422008.jpg",
+            "./data/stvqa/stvqa/imageNet/n07717410_11533.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the primary fruit being sold here? Answer: ANTIQUE APPLES\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What farm market is this at? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Burris Farm Market"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2315565.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000432742.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:What brand of projector is being used here? Answer: Notevision\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: what is the first word on the projector? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "BATTING"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2331716.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2361284.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is written on the wings of the plane? Answer: WV908\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What are the letters on the tail of the plane?"
+            },
+            {
+                "from": "gpt",
+                "value": "VL"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2350292.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2343933.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What is the logo on the wall? Answer: KIA\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the website on the wall?"
+            },
+            {
+                "from": "gpt",
+                "value": "aps.com"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000395957.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000473642.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:What does the front of the train say? Answer: moritz\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What code is listed on the side of the toy train? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "M525"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000194698.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2342372.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is printed on the guy's shirt? Answer: U.S. OUT OF CALIFORNIA\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What does the guy's shirt say? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Cat"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/5418.jpg",
+            "./data/stvqa/stvqa/imageNet/n02939185_54592.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the name on the copyright in the lower corner? Answer: Pham Le Huong Son\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:Who is the photo copyrighted to? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Harry Huang Photography or harry huang"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/713629.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2347113.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the brand name on the tennis back next to the player? Answer: babolat\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: Whats the main color is the tennis players shirt? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "White"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/254.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2338700.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What sign is above the door? Answer: EXIT\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the question on the orange door?"
+            },
+            {
+                "from": "gpt",
+                "value": "did you check your lipstick?"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000418397.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000009045.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What number is the batter? Answer: 13\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What is the name of the batter? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "MACHADO"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2352263.jpg",
+            "./data/stvqa/stvqa/imageNet/n02769748_5039.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the book called Answer: THE CAMERA PHONE BOOK\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the book about"
+            },
+            {
+                "from": "gpt",
+                "value": "Dinosaurs"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000514777.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2331348.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the last name of the player wearing jersey number 24? Watson\n\n<image> is image8. Please refer to image8 when answering the following questions: what number is the Zamperl player on the left? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "16"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2353768.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2416030.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: which is the number used in the image? Answer: 4\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is the name at the bottom of the face? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Obi"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02786058_8581.JPEG",
+            "./data/stvqa/stvqa/imageNet/n02786058_8045.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What is the name of the character on the box? Answer: Hello Kitty\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:what is the color of the band aid box? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "blue and green. or 1 blue and 1 green"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/4643.jpg",
+            "./data/stvqa/stvqa/IIIT_text/4694.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the website listed? www.versacl.fr\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What website is the picture from? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "WWW.VERSACI.FR"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000083641.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000388376.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What does the pink writing in the blue background say? Answer: My Play Food\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What letters are written to the left of the large blue SM? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "NYSDA"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/626.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000573125.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the first name shown in the image? Answer: Rachel\n\n<image> is image8. Please refer to image8 when answering the following questions: What is the first name of the person listed in the bottom right corner? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "steven"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000241422.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000197069.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What number is on the jersey? 13\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the name on the jersey? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "RAMIREZ"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/test_img_427.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000356154.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What sale is advertised for the store in the image? Answer: 40%\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is written on the store board? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "A:Journaux, Magazines or JOURNAUX, MAGAZINES"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/713549.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/713221.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What number can be found on the front of the train? Answer: 111 039-4\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: what is the number of the train engine? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "110"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000316415.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000209813.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the first word written on the boat? Answer: Glass\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What is written on the boat? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "ISLAND PARK NY"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2402785.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2347421.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What is the name of the road on the street sign? Answer: Sexsmith RD\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is the name of the road? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Bulger Mill or BULGER MILL RD"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03425413_14722.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03425413_14612.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:what kind of gas is it? Answer: Diesel\n\n<image> is image8. Please refer to image8 when answering the following questions: What word is on the gas pump in gray print? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Unleaded"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n04069434_4504.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03976467_1170.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the brand of camera? Answer: Canon\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: Who manufacturered this camera? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Polaroid"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02892201_30504.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000499353.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What name is listed on the plaque? Answer: John Chipman Gray\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What does the plaque read on the pillar? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "SEATTLE HARDWARE COMPANY"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000376492.jpg",
+            "./data/stvqa/stvqa/imageNet/n04467665_44771.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: WHAT IS WRITTEN ON FIRST VEHICLE? KBS\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:WHAT IS NAME OF THE  BUS Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "SEBUS"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2412681.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2356377.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is the number of the train? Answer: 45379\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is the name of the type of train? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "SKYFALL"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/img_80.jpg",
+            "./data/stvqa/stvqa/IIIT_text/img_000193.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the name of the restaurant? Answer: Chef Wan Buffet\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What type of restaurant is in the picture? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Indian Restaurant or Indian"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000157744.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2345662.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What brand is the largest oven? ATAG\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What number is on the oven? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "20.27"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n04039381_3877.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000159069.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What are the words that are written to the right of the woman? Answer: TENNIS CENTER\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What color is the woman's shirt? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pink"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2333506.jpg",
+            "./data/stvqa/stvqa/imageNet/n07697313_2066.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:Who was this cake made for? Answer: Jesse and Amy\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:Who is addressed on the cake? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Joe"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000547693.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2356649.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the text written on the left guy's shirt? Santa Catalina\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: How many men are in the picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "two"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2325980.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2346141.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What are the two cross streets? CONGRESS BARNARD\n\n<image> is image8. Please refer to image8 when answering the following questions: What avenue does it say on the green sign? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Greenspring AVE or GREENSPRING"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02892201_30504.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000242926.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What name is listed on the plaque? Answer: John Chipman Gray\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: Who was William Henry's wife? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "mary lyon cheney schofield"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000406205.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000580906.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What symbol is on the sign in blue? Answer: ?\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:What is written is white on the blue section of the sign? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Civic Center Kelburn or CIVIC CENTRE KELBURN"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03888605_19248.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03393912_6082.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What does the text say in the bottom right? Answer: LUANA GARRIDO 2008 or LUANA GARRIDO\n\n<image> is image8. Please refer to image8 when answering the following questions: how many eyes dose the boy have in the image Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "one"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/test_img_207.jpg",
+            "./data/stvqa/stvqa/icdar/test_img_97.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the name of the store on the left? Ode To Art\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the name of the first store to the right? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "GEOX"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2330264.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2336226.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:what are the 2 words on the face of the clock towards the top? Answer: fifth avenue\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What Roman numerals depict 12 on the clock?"
+            },
+            {
+                "from": "gpt",
+                "value": "XII"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000420887.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000428029.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is the train number? Answer: 64\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What are the numbers on the train? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "9214"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2366194.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000181316.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: From which team are the girls Answer: York College\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:Which brand is mentioned behind the girl Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Citrus Drop"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03983396_1758.JPEG",
+            "./data/stvqa/stvqa/imageNet/n03937543_6768.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is printed on the bottle? Answer: Mountain Dew\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: what is the far right bottle second word? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "seca"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2359133.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2351119.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What are the words on the blue and red flags? Answer: St. Moritz or ST.Moritz\n\n<image> is image8. Please refer to image8 when answering the following questions: What is the name on the bottom of the flag? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Chamonix"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02977058_1814.JPEG",
+            "./data/stvqa/stvqa/imageNet/n04409515_6015.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What type of machine is this? Answer: ATM\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is the name printed on machine?"
+            },
+            {
+                "from": "gpt",
+                "value": "Silent Partner"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/img_000940.jpg",
+            "./data/stvqa/stvqa/IIIT_text/1239.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is written on the front of the building? Answer: Post Office Bvilding or POST OFFICE BVIDING\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What is the last word printed on the front of the building? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "generali"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000011076.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000160459.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:Where is this cup from? Answer: Caffe Nero\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What type ofdrink is she holding? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "gelato"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000350013.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000401229.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What is the name of the street? Answer: Market St. or MARKET\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:Waht is the name of the street? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Union St or UNION"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000334568.jpg",
+            "./data/stvqa/stvqa/imageNet/n03598930_1282.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What word is upside down in the circle on the box to the left? Answer: longwave\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What are the largest two words on the box Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Japanese Garden"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2360554.jpg",
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000013472.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is being signed up today? Answer: Northwest Seattle Little League\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What event is this flyer for? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Sidney Holiday Party"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2335444.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2348331.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is the name of the airplane? Answer: Delta\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:what word is written on the airplane? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "American"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000513966.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000168903.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: what does the license plate on the white car read? Answer: GYE 767\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is on the license plate of the grey BMW sedan?"
+            },
+            {
+                "from": "gpt",
+                "value": "HR 210"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2321007.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2324368.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: How much will you have to pay if you get a fine? $271\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:What is the fine for blocking the box? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2 points or FINE + 2 POINTS"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/img_000250.jpg",
+            "./data/stvqa/stvqa/IIIT_text/img_000200.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What company is being promoted? British Airways\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the name of the company? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Bawarchi"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2353898.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2372471.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: what is a street name above that is shown? Answer: N MAIN ST\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: what street is listed on the right? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "fifth ave"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2317525.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2366243.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What is written in back of the white bus Answer: First\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the number on the right side of the white bus? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "6035"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/icdar/img_801.jpg",
+            "./data/stvqa/stvqa/icdar/test_img_366.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What percentage off is offered in the window? Answer: 50\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What type of retail offer is advertised in the shop window?"
+            },
+            {
+                "from": "gpt",
+                "value": "SALE"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000302855.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2321741.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please ensure that you are answering the question based on the information presented in the image7.Question:What is the title of the book? Answer: Modern Chairs\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is written on the magazine by the window?"
+            },
+            {
+                "from": "gpt",
+                "value": "Dwell"
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n03089624_45962.JPEG",
+            "./data/stvqa/stvqa/VisualGenome/2/2408647.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What is the flavor of the Laffy Taffy? Answer: Strawberry\n\n<image> is image8. Make sure your answers are based on the information presented in the image8, and any OCR text associated with it. Question:What is the name of this candy? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Fun Gums"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000351397.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000211485.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What is printed on the teddy bear? Answer: A BEAR HUG WOULD DO YOU GOOD\n\n<image> is image8. Use the image8 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the word written above the flag on the bear's shirt? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Brighton"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000396977.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2331058.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the name on the sculpture? Answer: Ecalite\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What monument is to the left? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Homo - monument"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02977058_1814.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000402425.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What type of machine is this? Answer: ATM\n\n<image> is image8. Please refer to image8 when answering the following questions: what is this object Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Meter"
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000451312.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000235217.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the first name on the train cart to the left of the photo? Answer: chiltern\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is written on the windows of the red train in the front of this image?"
+            },
+            {
+                "from": "gpt",
+                "value": "railjet railjet or railjet"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_val_000000028585.jpg",
+            "./data/stvqa/stvqa/imageNet/n03777754_1226.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer each question based on the information presented in image7. Given the picture image7, what is the answer to the question: What type of Handbook is it? Answer: A Handbook of Psychological disorders or PSYCHOLOGICAL DISORDERS\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is the GHz listed? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2.4"
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/img_000674.jpg",
+            "./data/stvqa/stvqa/IIIT_text/img_000105.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What airline is this plane? Answer: IndiGo\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What airline operates this plane? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "American"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000009345.jpg",
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000006507.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: Is the can opened or unopened? Unopened\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What type of food is in the can? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "SPAGHETTI"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000388566.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000548702.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What does the words say? Answer: no PRINTING PERMITTED\n\n<image> is image8. Please refer to image8 when answering the following questions: Who quoted the quote found in this picture? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Steve Jobs"
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2416472.jpg",
+            "./data/stvqa/stvqa/imageNet/n04149813_5970.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is written on the green sign? Hank Aaron DR SE\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is all the way to the left in green?"
+            },
+            {
+                "from": "gpt",
+                "value": "Hess"
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000005975.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000250474.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What time is shown on the clock? Answer: 4:22\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: Who's time is it?"
+            },
+            {
+                "from": "gpt",
+                "value": "Your time"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2339299.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000337555.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: Who made the donuts? Answer: Dunkin' Donuts or DUNKIN DONUTS\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:How much do blood orange doughnuts cost? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "$2.00"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/vizwiz/VizWiz_train_000000019522.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2323978.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is the product shown? gchomme SHOWER DUO or SHOWER DUO\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What products are in the container?"
+            },
+            {
+                "from": "gpt",
+                "value": "Rizza's Real Dairy Ice Cream or ICE CREAM"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2402785.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/150291.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the name of the road on the street sign? Answer: Sexsmith RD\n\n<image> is image8. For each question, use the image8 as a reference to answer the question: What is the name on the road sign?"
+            },
+            {
+                "from": "gpt",
+                "value": "Melrose Av"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000368055.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2415597.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Use the image7 as a visual aid to help you understand the context and answer the questions accurately. Question:What is the baseball teams name? Answer: Pirates\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What is the baseball team name? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Twins"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000047767.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000248478.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is the name of the restaurant? BUDDY'S\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What is the name of this restaurant? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "THE WORKS"
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2357554.jpg",
+            "./data/stvqa/stvqa/imageNet/n02123597_8003.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What Color is the cat? Answer: orange or {}\n\n<image> is image8. Please refer to image8 when answering the following questions: What is the color of the cat's eyes? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Blue"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000203798.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000416510.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: Who is riding the motorcycles? Police\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is the jersey number for the rider on the left?"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/imageNet/n02823428_11421.JPEG",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000338509.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. For each question, use the image7 as a reference to answer the question: What is written on the poster to the left of the picture? Tommyknocker Imperial or IMPERIAL\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What does the poster state? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "UN FILM DE JACQUES TATI"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/2/2402000.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2407619.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the number in front of the bus? Answer: 25\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: What is the four digit number of the red bus?"
+            },
+            {
+                "from": "gpt",
+                "value": "3422"
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000159582.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000403773.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What is the name of website shown on side of bus? megabus.com\n\n<image> is image8. Answer each question based on the information presented in image8. Given the picture image8, what is the answer to the question: What does this us advertise for? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Scarborough's Famous Harbourside Restaurants or RESTAURANTS"
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/713106.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2402231.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Questions is related to image7. Please analyze the image and provide the correct answer for the question: What number is the plane? N288SA\n\n<image> is image8. Pay close attention to the details in image8, as they may provide important information for answering the questions. Question:What is the plane number? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "N785PA"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/626.jpg",
+            "./data/stvqa/stvqa/IIIT_text/3408.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Please refer to image7 when answering the following questions: What is the first name shown in the image? Answer: Rachel\n\n<image> is image8. Questions is related to image8. Please analyze the image and provide the correct answer for the question: How many people are in this picture?"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000578233.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000272218.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Pay close attention to the details in image7, as they may provide important information for answering the questions. Question:What is the name written in stylized font on the front of the bus? Answer: binns\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What store name is on the bus? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "The Honesty Shop"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/IIIT_text/2903.jpg",
+            "./data/stvqa/stvqa/VisualGenome/1/2315779.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. The image7 is the primary source of information for answering the questions. Please refer to it carefully when answering question: What is the name of the market? Answer: Borough Market\n\n<image> is image8. Please ensure that you are answering the question based on the information presented in the image8.Question:What type of market is it? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Farmers Market"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000316224.jpg",
+            "./data/stvqa/stvqa/imageNet/n07932039_3012.JPEG"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Make sure your answers are based on the information presented in the image7, and any OCR text associated with it. Question:What does the coffee mug say? Answer: The Bayside Skillet\n\n<image> is image8. Please refer to image8 when answering the following questions: How many cinnamon sticks are in the picture? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/VisualGenome/1/2343663.jpg",
+            "./data/stvqa/stvqa/VisualGenome/2/2416347.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What does the octagonal red sign say? Answer: Stop\n\n<image> is image8. Answer the question as accurately as possible using the information provided in the image8, and any OCR text associated with it. Question:What word is printed in white on a red background? Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Pedestrians"
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "image": [
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000070282.jpg",
+            "./data/stvqa/stvqa/coco-text/COCO_train2014_000000447694.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image> is image7. Answer the question as accurately as possible using the information provided in the image7, and any OCR text associated with it. Question:What is the name of the store? Answer: SYLVAN MUSIC\n\n<image> is image8. The image8 is the primary source of information for answering the questions. Please refer to it carefully when answering question: Whats the name of the bookstore Answer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Small World Books"
+            }
+        ]
+    }
+]

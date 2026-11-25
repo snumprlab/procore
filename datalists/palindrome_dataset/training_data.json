@@ -1,0 +1,3152 @@
+[
+    {
+        "id": "training_query_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_23.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 4\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_20.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_3",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 7\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_27.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_4",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_5",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_25.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_6",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_22.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_25.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_7",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_8",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 7\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_19.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_9",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_27.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_10",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 7\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_11",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_12",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_28.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_18.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_13",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 7\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_20.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_14",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_23.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 4\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_15",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_22.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_16",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_27.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_17",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 7\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_18",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_18.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_19",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_19.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_20",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_24.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_20.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_21",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_22",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 7\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_22.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_23",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_19.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_20.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_23.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_24",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_23.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 4\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_25.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_24.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_25",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_25.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_26",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_19.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_27",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_28.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_19.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_27.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_28",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_28.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_29",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_23.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 4\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_30",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_28.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_25.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_22.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_31",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_25.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_32",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_32.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_33",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_23.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 4\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_33.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_34",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_34.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_35",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_20.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_32.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_35.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "3"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_36",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_36.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_37",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_32.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_37.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_38",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_19.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_38.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_39",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_20.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_22.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_39.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_40",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_40.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "5"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_41",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_19.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_24.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_18.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_41.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_42",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_28.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_24.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_42.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "7"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_43",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_43.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_44",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 9\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_44.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_45",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_22.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_45.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_46",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 7\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_46.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_47",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_28.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_47.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_48",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_48.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_49",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_29.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_26.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 2\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_27.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 5\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_49.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "8"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "training_query_50",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_22.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 1\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 6\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 8\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_shot_24.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: 3\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "palindrome_dataset/img/training_query_50.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: What is the missing number in this palindrome? Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "7"
+                    }
+                ]
+            }
+        ]
+    }
+]

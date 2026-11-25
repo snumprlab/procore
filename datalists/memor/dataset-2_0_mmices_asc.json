@@ -1,0 +1,686 @@
+[
+    {
+        "id": 0,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E01_008/0007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Sheldon's emotion, choose from [disgust, surprise, joy, sadness] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "surprise"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E01_012/0012.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Sheldon's emotion, choose from [disgust, anger, joy, frustrated] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "anger"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E05_005/0000.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Sheldon's emotion, choose from [sadness, fear, joy, disgust] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "fear"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E13_011/0018.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Sheldon's emotion, choose from [joy, confusion, sadness, curiosity] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E19_001/0010.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Sheldon's emotion, choose from [surprise, fear, joy, curiosity] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "surprise"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E01_008/0007.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [disgust, joy, sadness, surprise] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "sadness"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E03_022/0004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [bored, frustrated, , anger, joy] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "anger"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E04_019/0003.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [joy, curiosity, sadness, disgust] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "disgust"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E05_005/0000.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [sadness, fear, joy, disgust] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "sadness"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E12_022/0011.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [joy, disgust] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "surprise"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E15_001/0004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [anxious, disappointed, sadness, frustrated] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "sadness"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E15_001/0011.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [sadness, joy, disappointment, frustration] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "sadness"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E15_016/0015.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [sadness, disappointed, joy, frustrated] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "sadness"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E16_027/0006.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [joy, curiosity, confusion, fear] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "fear"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E16_029/0011.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [defensive, sadness, frustrated, anger] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "anger"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E18_007/0012.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [anticipation, confusion, sadness, surprise] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "surprise"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E18_011/0004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [sadness, curiosity, joy, surprise] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E21_029/0006.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Penny's emotion, choose from [disgust, confusion, joy, annoyance] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "disgust"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E01_012/0012.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [disgust, anger, joy, frustrated] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "disgust"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E04_008/0001.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [surprise, frustration, , confusion, disgust] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "disgust"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E09_007/0019.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [disgust, confusion, joy, frustration] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "disgust"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E14_018/0008.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [sadness, curiosity, frustrated, anger] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "anger"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E15_007/0005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [confused, frustrated, disgust, annoyed, joy] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "disgust"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E15_008/0008.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [joy, frustration, confusion, anger] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "anger"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E18_007/0012.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [confusion, sadness, surprise, anticipation] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "anticipation"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E19_001/0010.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [joy, surprise, curiosity, fear] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "fear"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E20_015/0008.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [sadness, surprise, confusion, disappointment] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "sadness"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E20_019/0009.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [joy, curiosity, relief, anticipation] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "anticipation"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E22_003/0012.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Leonard's emotion, choose from [surprise, indifferent, curiosity, joy] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E12_022/0011.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [sadness, surprise, disgust, joy] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "sadness"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E15_007/0005.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [embarrassment, disgust, sadness, joy] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E15_007/0009.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [joy, surprise, relief, curiosity] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E15_008/0008.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [surprise, confusion, anger, joy] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E17_017/0002.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [joy, discontent, curiosity, indifferent] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E18_011/0004.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [curiosity, surprise, confusion, joy] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "surprise"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E20_015/0008.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [surprise, sadness, disappointment, confusion] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "surprise"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E20_017/0013.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [joy, surprise, disgust, curiosity] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/memor/S02/S02E20_019/0009.jpg"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Choose from the options provided for each question and output ONLY the answer.\n\n<image>\nWhat is Howard's emotion, choose from [curiosity, joy, anticipation, relief] Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "joy"
+            }
+        ]
+    }
+]

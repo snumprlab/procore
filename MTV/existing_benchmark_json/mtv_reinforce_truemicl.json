@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "truemicl_reinforce_0",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_15.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "698"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_1",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/9_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_2",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "983"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_3",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_4",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_5",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "692"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_6",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_010020.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_7",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/w5_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "B)Walter"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_8",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_062738.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_9",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/t3_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "C)Trum"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_10",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/8_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "17"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_11",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_11.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "896"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_12",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_006080.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_13",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_12.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_14",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_15.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "698"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_15",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_15.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "698"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_16",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_shape_12.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "square"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_17",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/9_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_18",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_17.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_19",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_20.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_20",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_shape_7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "square"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_21",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_12_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "14"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_22",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "692"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_23",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_9_11.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-2"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_24",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/w1_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "B)Walter"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_25",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/f4_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A)Flora"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_26",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_4_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_27",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_13.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "544"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_28",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_1_11.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "12"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_29",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_30",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_shape_7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "square"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_31",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/2_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_32",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/f1_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A)Flora"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_33",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "692"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_34",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_062738.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_35",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_10_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_36",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_4_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_37",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_color_6.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "red"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_38",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_color_11.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "yellow"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_39",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_044639.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_40",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/c3_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "D)Clare"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_41",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_035403.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_42",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_5.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "925"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_43",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_22.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_44",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_037274.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_45",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_shape_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "square"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_46",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/c2_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "D)Clare"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_47",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_shape_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "star"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_48",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_19.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_49",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/6_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "15"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_50",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_015238.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_51",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_10_5.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_52",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_shape_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "circle"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_53",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_9_11.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "20"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_54",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_7_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "56"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_55",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/t3_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "C)Trum"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_56",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_053873.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_57",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/f4_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A)Flora"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_58",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/8_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_59",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/f1_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A)Flora"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_60",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_61",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/w1_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "B)Walter"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_62",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_12_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_63",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_18.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_64",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_14.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_65",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_1_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_66",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "419"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_67",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/6_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_68",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/6_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "15"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_69",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_color_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "blue"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_70",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/9_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_71",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_037274.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_72",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_8_12.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_73",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_049261.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_74",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_75",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_054094.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_76",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/6_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_77",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_16.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "401"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_78",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_shape_13.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "circle"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_79",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/f1_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A)Flora"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_80",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/f3_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A)Flora"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_81",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_12.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "518"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_82",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_000926.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_83",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/9_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "12"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_84",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "sudoku",
+    "image": [
+      "./data/sudoku/img/sudoku_support_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What should be the number in the blank?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "692"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_85",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_color_12.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "red"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_86",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_8_12.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "96"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_87",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/0_7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_88",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_shape_12.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "square"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_89",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/8_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "17"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_90",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_20.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_91",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_007953.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_92",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/w5_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "B)Walter"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_93",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_030098.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>How many of them are in my desired color?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_94",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/img/6_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_95",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clock",
+    "image": [
+      "./data/clock/img/clock_2_7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the mathematical result of the blue number and the red number?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_96",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "palindrome_dataset",
+    "image": [
+      "./data/palindrome_dataset/img/support_25.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the missing number here?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_97",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_color_13.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "red"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_98",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "classification",
+    "image": [
+      "./data/classification/img/f4_support.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [A)Flora, B)Walter, C)Trum, D)Clare]\n<image>What is the name of this character type, choose from A)Flora B)Walter C)Trum D)Clare\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A)Flora"
+      }
+    ]
+  },
+  {
+    "id": "truemicl_reinforce_99",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "shapes_count",
+    "image": [
+      "./data/shapes_count/img/shape_support_color_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Identify the minority in the image.\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "green"
+      }
+    ]
+  }
+]

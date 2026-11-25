@@ -1,0 +1,13 @@
+[
+    {
+        "client_id": 0,
+        "datasets": [
+            {
+                "dataset": "vliclv2/operator_induction_interleaved",
+                "subset_id": "1_rices_v2",
+                "type": "exact-match",
+                "item": "accuracy"
+            }
+        ]
+    }
+]

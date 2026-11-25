@@ -1,0 +1,13 @@
+[
+    {
+        "client_id": 0,
+        "datasets": [
+            {
+                "dataset": "nlvr2",
+                "subset_id": "18_subsample_mmices_v2",
+                "type": "multi-choice",
+                "item": "accuracy"
+            }
+        ]
+    }
+]

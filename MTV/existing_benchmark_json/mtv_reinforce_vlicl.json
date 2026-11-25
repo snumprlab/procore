@@ -1,0 +1,1827 @@
+[
+  {
+    "id": "vlicl_reinforce_0",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/4_5.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_1",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/7_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "21"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_2",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/0.png",
+      "./data/operator_induction_interleaved/support/2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_3",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/3c9bd69a19171f5c_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "FEMINISM"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_4",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/1.png",
+      "./data/operator_induction_interleaved/support/6.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_5",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_065540.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>material: metal\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_6",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_006080.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>color: yellow\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_7",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/6_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-2"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_8",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/4_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_9",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_040152.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: cylinder\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_10",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/3ddc01c494013665_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "IDIOTS"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_11",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/4d3f5a7f7fb79e39_6.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "AMPEÓN"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_12",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/3b62026ff8064d0f_14.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "WITCHES"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_13",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/3.png",
+      "./data/operator_induction_interleaved/support/5.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-2"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_14",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/77ed4b0529d8f2a6_19.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "KNOWLEDGE"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_15",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/b6d15addbc34e08f_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "HEROES"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_16",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_040055.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: cylinder\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_17",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/04c3b7a4162051ab_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "HEHAS"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_18",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/9_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_19",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_060202.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: cylinder\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_20",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/2.png",
+      "./data/operator_induction_interleaved/support/1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_21",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/5_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "13"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_22",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_035829.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>material: rubber\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_23",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/6ed58c763f550262_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ARGOSY"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_24",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/5.png",
+      "./data/operator_induction_interleaved/support/6.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_25",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/1.png",
+      "./data/operator_induction_interleaved/support/8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-7"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_26",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/2.png",
+      "./data/operator_induction_interleaved/support/4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_27",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/2_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-7"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_28",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/9_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "12"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_29",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_062313.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>size: large\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_30",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/6_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "14"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_31",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_052730.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>color: blue\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_32",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/9_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_33",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/5fd605f99adbdc93_317.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "ESBANOQ"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_34",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/5.png",
+      "./data/operator_induction_interleaved/support/5.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_35",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/1.png",
+      "./data/operator_induction_interleaved/support/7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_36",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/aaa0f8178ae33a12_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Extra"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_37",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_024218.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: sphere\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_38",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/5_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_39",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/0b5915e22c5d5698_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "IQWRLD"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_40",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/3_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_41",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_038983.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: cylinder\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_42",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/72c33f699790c900_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "20"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_43",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_011380.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>size: large\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_44",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/c2c65cf1cbcfa8e6_27.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Squishee"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_45",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/9_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_46",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_059622.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>size: small\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_47",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/1_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_48",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/7.png",
+      "./data/operator_induction_interleaved/support/0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_49",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/6_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_50",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/2.png",
+      "./data/operator_induction_interleaved/support/3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_51",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_038997.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: sphere\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_52",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/9_0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_53",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/7_9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "63"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_54",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/4.png",
+      "./data/operator_induction_interleaved/support/8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-4"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_55",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/eb17bc96764e1f7a_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Answers"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_56",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/7_6.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_57",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/8.png",
+      "./data/operator_induction_interleaved/support/3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_58",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/7_7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_59",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_038887.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>size: small\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_60",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/0_5.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_61",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/6.png",
+      "./data/operator_induction_interleaved/support/1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_62",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/8_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "16"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_63",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/9ecd5bcbb69787a4_2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1237"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_64",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_013320.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: cylinder\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_65",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/d15e73e1d0fc0903_57.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "0123456789"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_66",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_066107.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>material: metal\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_67",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_047364.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: sphere\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_68",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/8.png",
+      "./data/operator_induction_interleaved/support/9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "72"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_69",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/68c295deb9c19346_5.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "HAMBURGER"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_70",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/4_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_71",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/9.png",
+      "./data/operator_induction_interleaved/support/4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "13"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_72",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/4_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_73",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/ce9a91e2416e4ba0_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "GROLSCH"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_74",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/5dd15fbaab92326b_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "KARAOKE"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_75",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/3.png",
+      "./data/operator_induction_interleaved/support/2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_76",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/4.png",
+      "./data/operator_induction_interleaved/support/9.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-5"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_77",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_061071.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: cylinder\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_78",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/dcf6437a15038ab7_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "STOP"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_79",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/1fc932964f8d6b20_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "489ft"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_80",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/7_7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_81",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_052168.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>color: cyan\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_82",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction",
+    "image": [
+      "./data/operator_induction/support/9_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains two digit numbers and a ? representing the mathematical operator. Induce the mathematical operator (addition, multiplication, minus) according to the results of the in-context examples and calculate the result.\n<image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "17"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_83",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_050963.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>size: small\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_84",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/8.png",
+      "./data/operator_induction_interleaved/support/6.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_85",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/73f4b9a15b302618_3.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "FEAR"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_86",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/3.png",
+      "./data/operator_induction_interleaved/support/7.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "-4"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_87",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_053260.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>shape: sphere\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_88",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/a7d77a5495142d1c_4.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Coke"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_89",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/c70cac9fd5744ba9_8.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "OCEANS"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_90",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/6.png",
+      "./data/operator_induction_interleaved/support/1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_91",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_029081.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>material: metal\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_92",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/8.png",
+      "./data/operator_induction_interleaved/support/6.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "14"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_93",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/7.png",
+      "./data/operator_induction_interleaved/support/0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_94",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/7.png",
+      "./data/operator_induction_interleaved/support/2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_95",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_006125.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>size: large\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_96",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "textocr",
+    "image": [
+      "./data/textocr/support/488acc6706862be2_1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An image will be provided where a red box is drawn around the text of interest. Answer with the text inside the red box. Ensure that the transcription is precise, reflecting the exact characters, including letters, numbers, symbols.\n<image>What text is shown in the red box?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Coffee"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_97",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_000906.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>color: cyan\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_98",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "operator_induction_interleaved",
+    "image": [
+      "./data/operator_induction_interleaved/support/3.png",
+      "./data/operator_induction_interleaved/support/2.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "There are two input images, each representing a single digit number. Induce the mathematical operator (addition, multiplication, minus) that is applied between the two images according to the results of the in-context examples. Calculate the result for the new query images.\n<image><image>What is the result of the following mathematical expression?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "vlicl_reinforce_99",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "clevr",
+    "image": [
+      "./data/clevr/support/CLEVR_train_023640.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The image contains objects of different shapes, colors, sizes and materials. The question describes the attribute and its value. You need to find all objects within the image that satisfy the condition. You should induce what operation to use according to the results of the in-context examples and then calculate the result.\n<image>color: cyan\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ]
+  }
+]

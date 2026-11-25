@@ -1,0 +1,4402 @@
+[
+  {
+    "id": 289,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "289",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/16/train-6325-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/76/train-10025-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/24/train-7497-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/23/train-12107-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/21/train-6485-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 757,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "757",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/33/train-699-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/18/train-2255-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/33/train-46-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/36/train-9548-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-10707-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "837",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/36/train-6410-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/14/train-7335-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/42/train-12422-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-6293-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/75/train-8118-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "840",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/9/train-11572-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/7/train-175-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/70/train-6456-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/39/train-8669-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/25/train-12674-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "866",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/94/train-11081-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/77/train-13163-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/1/train-7801-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/49/train-8401-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-8124-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "253",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/23/train-4686-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/52/train-4637-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/80/train-7901-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/56/train-10149-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/3/train-12863-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 688,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "688",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/51/train-654-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/92/train-5213-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/11/train-2676-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/88/train-5019-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-8737-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "232",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/80/train-10368-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/15/train-1863-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/63/train-2117-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/7/train-9916-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/78/train-7237-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 529,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "529",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/24/train-4657-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/12/train-8566-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-8963-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/63/train-6344-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/7/train-6923-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "206",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/66/train-11738-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/9/train-3179-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/33/train-2979-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/78/train-7832-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/78/train-11928-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "637",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/26/train-9784-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/48/train-11355-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/18/train-6253-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/93/train-10860-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-9672-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "187",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/58/train-10648-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/61/train-524-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/12/train-9121-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/26/train-9784-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/54/train-9408-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "598",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/1/train-6509-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/24/train-10950-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/58/train-3462-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/25/train-4608-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/69/train-4942-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "373",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/13/train-12165-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/13/train-6977-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/91/train-10496-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/62/train-11576-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/42/train-11126-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "32",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/4/train-5483-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/26/train-950-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/80/train-6478-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/22/train-9384-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/73/train-192-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 847,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "847",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/93/train-9381-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/53/train-949-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/45/train-1522-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/16/train-4974-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/14/train-293-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "147",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/81/train-9618-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/23/train-7184-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/34/train-8468-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/43/train-10624-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/50/train-474-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 515,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "515",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/35/train-8304-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/25/train-2465-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/63/train-9500-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/41/train-10959-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/94/train-7831-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "298",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/48/train-12970-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/4/train-12115-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/13/train-2751-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/14/train-6628-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-3774-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "145",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/83/train-3732-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/89/train-9230-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/37/train-9517-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/62/train-8769-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/55/train-405-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "169",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/23/train-9047-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/50/train-2671-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/97/train-1012-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-12230-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/85/train-2523-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "127",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/46/train-9571-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/40/train-1121-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/93/train-11282-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/63/train-859-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/64/train-7605-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "226",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/69/train-10337-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/4/train-2998-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/38/train-9307-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/59/train-7940-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/26/train-87-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "309",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/68/train-10970-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/42/train-6797-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/35/train-11506-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/74/train-3628-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/13/train-6636-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "962",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/53/train-6883-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/39/train-208-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/10/train-4384-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/10/train-4821-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-13098-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 919,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "919",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/14/train-1003-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/48/train-190-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/31/train-11877-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/68/train-10970-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/1/train-5083-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "214",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/53/train-355-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/9/train-2656-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/66/train-7882-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/12/train-13018-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/87/train-2362-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 574,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "574",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/10/train-12337-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/5/train-1292-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/19/train-4939-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/92/train-3729-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/89/train-6219-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 523,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "523",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/76/train-2960-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/30/train-9001-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/78/train-3300-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/63/train-58-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/5/train-10180-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "72",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/42/train-9318-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/5/train-3775-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/23/train-12884-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-7360-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/44/train-1185-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 894,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "894",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/74/train-9839-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/72/train-2776-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/61/train-8941-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/30/train-12219-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/85/train-7089-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "1",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/85/train-6357-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/43/train-7667-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/0/train-7366-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/81/train-6210-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/80/train-13139-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 447,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "447",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/7/train-435-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/31/train-1740-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-2598-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/28/train-9312-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/59/train-9021-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "114",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/56/train-5982-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/57/train-9880-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/24/train-12416-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/45/train-6903-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/3/train-7653-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "397",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/29/train-5044-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/29/train-8948-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/2/train-11531-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/20/train-5742-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/70/train-8761-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "4",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/37/train-2494-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/49/train-7385-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/19/train-9302-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/33/train-9808-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/19/train-2206-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "590",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/42/train-2951-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/36/train-2899-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/5/train-5130-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/35/train-10511-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/39/train-2742-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "956",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/21/train-13101-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/30/train-11111-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/89/train-8052-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/61/train-12468-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/66/train-535-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "180",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/26/train-10297-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/61/train-2375-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/92/train-821-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/63/train-8968-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/84/train-4886-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 995,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "995",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/4/train-5483-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/58/train-12561-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/85/train-2155-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/56/train-4320-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/15/train-11925-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 718,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "718",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/75/train-11193-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/74/train-12332-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/67/train-3264-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/83/train-5764-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/39/train-3963-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "146",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/51/train-2156-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/9/train-11239-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/27/train-3695-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/7/train-10557-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/76/train-204-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "443",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/43/train-11542-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/60/train-11340-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/37/train-766-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/13/train-8556-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/41/train-7767-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "500",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/28/train-6403-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/30/train-3932-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/56/train-11465-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/80/train-8244-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/50/train-11889-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "663",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/66/train-12733-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/2/train-10168-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/43/train-9475-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/80/train-7149-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/76/train-423-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "219",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/94/train-2348-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/58/train-9713-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/16/train-4687-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/80/train-12545-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/39/train-7988-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "553",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/55/train-10928-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/25/train-10068-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/4/train-9148-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/23/train-1327-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/58/train-7183-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "121",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/97/train-7624-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/97/train-12576-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/9/train-8479-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/73/train-5086-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-7476-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "505",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/21/train-2399-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/45/train-6315-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/52/train-9324-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/80/train-2358-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/84/train-5137-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "139",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/70/train-5762-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/91/train-7539-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-2438-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/27/train-4246-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-8951-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "109",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/15/train-10977-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/18/train-1591-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/71/train-1939-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/45/train-4739-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/96/train-1221-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "84",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/14/train-6773-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/97/train-5491-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/97/train-6273-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/23/train-1938-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/9/train-3771-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "337",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/16/train-3034-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/82/train-10282-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/26/train-6780-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/92/train-11674-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/23/train-5241-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "715",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/90/train-10013-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/10/train-4356-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/43/train-1458-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/68/train-12418-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/19/train-4003-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 604,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "604",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/45/train-8601-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/0/train-5444-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/48/train-10949-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-2174-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/28/train-7324-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 850,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "850",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/74/train-6518-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/21/train-2658-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/34/train-12827-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-1996-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-5693-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "371",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/61/train-1808-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/85/train-7011-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/84/train-8718-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/44/train-2167-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/97/train-12619-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "445",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/92/train-4763-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-2154-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/43/train-11907-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/4/train-8254-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/52/train-8802-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 352,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "352",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/30/train-9024-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/69/train-3494-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/94/train-1942-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/0/train-9360-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/1/train-5421-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 912,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "912",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/80/train-7059-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/41/train-4952-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/63/train-4873-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/29/train-8388-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/4/train-4352-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "200",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/32/train-825-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/30/train-10541-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/59/train-2755-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/73/train-4923-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/29/train-6215-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 813,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "813",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/35/train-5230-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/8/train-6765-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/27/train-1745-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/55/train-10113-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/97/train-394-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "713",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/64/train-12064-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/21/train-515-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/4/train-3014-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/56/train-8086-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-9222-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "953",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/19/train-7488-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/43/train-5962-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/79/train-3488-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/42/train-6797-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/63/train-10999-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "266",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/89/train-392-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/5/train-12887-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/84/train-4255-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/10/train-4821-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/79/train-10481-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 438,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "438",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/38/train-9142-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/12/train-6099-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/38/train-9488-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/19/train-518-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/43/train-11280-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "272",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/44/train-12518-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/17/train-11284-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/96/train-9985-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/47/train-12816-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/1/train-11281-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "166",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/89/train-6171-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/66/train-10209-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/19/train-565-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/57/train-6302-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/32/train-4694-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 857,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "857",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/72/train-12528-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/86/train-10450-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/18/train-1919-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/76/train-10581-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/50/train-5492-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "420",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/76/train-9802-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/95/train-790-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/71/train-7922-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/79/train-11892-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/77/train-5550-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "151",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/27/train-11325-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/41/train-1026-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/64/train-6452-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/26/train-2282-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/94/train-2116-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "983",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/25/train-9734-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/76/train-3772-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/88/train-4120-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/45/train-2703-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/92/train-671-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 662,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "662",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/39/train-9389-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/57/train-3641-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-9256-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/14/train-293-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/88/train-8928-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "227",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/13/train-12442-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/42/train-2631-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/28/train-8867-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/78/train-9186-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/79/train-2309-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "823",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/37/train-6052-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/11/train-5753-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/38/train-3852-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/87/train-6296-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/28/train-3804-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "167",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/21/train-11795-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/10/train-11258-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/26/train-10551-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/84/train-2027-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/74/train-7632-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 615,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "615",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/3/train-8977-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/5/train-3971-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/70/train-9850-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/15/train-7362-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/80/train-2058-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 508,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "508",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/0/train-10867-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/98/train-453-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-7908-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/46/train-3028-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-8328-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "313",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/8/train-5106-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/67/train-10617-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/92/train-3348-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/38/train-6611-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/93/train-447-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "129",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/93/train-4776-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/75/train-13040-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/72/train-1581-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/37/train-6984-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/29/train-9700-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "284",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/55/train-2538-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/77/train-116-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/67/train-3248-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/7/train-12730-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/28/train-8867-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "464",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/30/train-9957-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/11/train-3807-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/82/train-5226-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/85/train-12880-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/81/train-8389-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 537,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "537",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/86/train-3041-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/33/train-462-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/71/train-12662-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/50/train-11816-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/94/train-3953-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 0,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "0",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/94/train-11612-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/40/train-4415-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/46/train-4069-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/27/train-8267-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/77/train-7776-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "325",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/33/train-487-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/78/train-13233-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/53/train-7560-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/14/train-4237-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/68/train-1143-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "389",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/53/train-6418-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/50/train-11580-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/97/train-9322-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/30/train-3559-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/75/train-11520-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 677,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "677",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/47/train-12907-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/50/train-6777-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/60/train-12081-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/77/train-4223-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/28/train-1403-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "7",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/87/train-2187-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/56/train-1825-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/65/train-6458-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/8/train-9175-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/80/train-3591-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 905,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "905",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/70/train-684-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/48/train-3256-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/75/train-3478-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/75/train-8541-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/35/train-2766-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "381",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/4/train-5247-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/4/train-1730-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/70/train-3485-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/84/train-7606-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/51/train-2215-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "111",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/17/train-12789-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/42/train-407-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/73/train-8815-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/20/train-3075-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/14/train-5789-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "317",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/33/train-11931-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/10/train-4855-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/19/train-4148-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/5/train-12007-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/71/train-1974-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "55",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/22/train-1594-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/89/train-8763-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/24/train-4498-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/80/train-1924-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/79/train-4671-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "83",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/83/train-5754-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/15/train-10899-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/25/train-3548-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/28/train-5084-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/71/train-9188-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "78",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/7/train-6312-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/46/train-2679-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/24/train-3363-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/69/train-10059-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/4/train-5959-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 575,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "575",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/81/train-11272-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/66/train-11263-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/50/train-7179-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/23/train-12346-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/61/train-8941-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "460",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/10/train-12339-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/13/train-7735-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/91/train-1354-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/10/train-2372-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/49/train-2877-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 869,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "869",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/45/train-9869-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-4347-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/15/train-9856-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/86/train-715-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/57/train-5264-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 799,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "799",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/86/train-2412-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/50/train-1116-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/71/train-3489-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/44/train-7063-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/76/train-7055-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "939",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/13/train-1191-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/38/train-9901-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/42/train-3380-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-2259-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/81/train-6210-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 582,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "582",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/40/train-11565-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/72/train-7483-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/88/train-1477-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-2176-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-10061-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "77",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/51/train-10589-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/91/train-10697-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/63/train-6526-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/49/train-6469-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/65/train-3343-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "822",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/52/train-2815-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/23/train-11038-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/24/train-505-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/38/train-3472-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/47/train-714-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "836",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/57/train-2650-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-280-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/75/train-8121-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/87/train-8406-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/15/train-2792-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "454",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/66/train-11401-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/30/train-4200-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/27/train-11424-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/24/train-11514-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/98/train-2385-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "418",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/56/train-373-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/36/train-7577-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/9/train-8908-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/78/train-11717-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/87/train-4059-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "90",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/43/train-12806-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/17/train-574-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/7/train-6222-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/27/train-2512-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/87/train-1281-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "403",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/79/train-794-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/54/train-4556-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/16/train-3034-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/29/train-3975-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-13107-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "162",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/68/train-2719-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/67/train-6202-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/96/train-5383-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/86/train-3290-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/79/train-388-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "832",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/66/train-2212-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/8/train-8532-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/53/train-3092-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/55/train-1079-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/69/train-5295-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "327",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/67/train-6839-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/18/train-5768-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/42/train-10493-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/86/train-8892-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/9/train-6640-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 806,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "806",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/18/train-1455-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/54/train-11547-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/47/train-777-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/7/train-6312-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-7006-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "572",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/80/train-799-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/85/train-9937-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/45/train-11809-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/88/train-9388-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/8/train-174-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "563",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/19/train-1217-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/46/train-11393-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-11737-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/58/train-7183-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/94/train-5419-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "105",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/2/train-11044-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/42/train-1388-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/59/train-12084-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/95/train-11394-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/14/train-10307-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "517",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/47/train-11588-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/60/train-8922-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/67/train-6519-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/96/train-13170-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/71/train-1974-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 904,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "904",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/14/train-7066-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/35/train-1051-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-6856-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/46/train-6089-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/34/train-11308-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "67",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/55/train-9463-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/53/train-6298-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/19/train-4838-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/82/train-2110-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/46/train-6089-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "59",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/9/train-1986-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/47/train-4958-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/32/train-7982-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/43/train-2171-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/82/train-11512-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "784",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/26/train-5450-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/78/train-6895-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/84/train-10566-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/63/train-1008-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/67/train-10369-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "6",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/45/train-12372-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/18/train-10349-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/88/train-1534-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/66/train-7621-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-7609-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "602",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/22/train-6635-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/41/train-12896-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/84/train-4611-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/94/train-793-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/59/train-2448-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "707",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/77/train-6050-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/35/train-8648-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/51/train-3846-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/67/train-1089-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/24/train-8158-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "929",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/47/train-12851-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/17/train-3260-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/52/train-2887-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-7724-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/36/train-10889-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "424",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/65/train-3737-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/32/train-6868-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/20/train-13241-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/76/train-9627-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/82/train-1885-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "449",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/73/train-3823-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/3/train-8898-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/18/train-7902-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/64/train-11617-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/56/train-10308-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "413",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/15/train-4835-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/15/train-5386-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/86/train-916-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/34/train-4618-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/61/train-9788-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 884,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "884",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/55/train-2051-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/62/train-4552-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/23/train-13171-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/59/train-1883-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/20/train-9827-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "656",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/60/train-12441-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/87/train-9147-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/71/train-3367-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/33/train-11367-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/67/train-6839-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 852,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "852",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/39/train-7988-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/16/train-5479-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/47/train-2502-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/68/train-19-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/17/train-9301-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "431",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/84/train-10646-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/38/train-10528-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/66/train-6337-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/33/train-782-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/77/train-11020-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "42",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/24/train-5965-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/96/train-12737-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/35/train-11560-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/83/train-4316-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/15/train-3620-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "589",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/81/train-1350-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/35/train-8644-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/3/train-4937-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/26/train-8982-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/56/train-1232-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "353",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/7/train-2677-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/26/train-5670-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/37/train-1653-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/8/train-4726-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/92/train-5046-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "181",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/8/train-5596-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/49/train-696-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/26/train-8882-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-12945-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/71/train-4144-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "194",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/7/train-12730-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/14/train-3586-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/35/train-111-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/6/train-742-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/87/train-748-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "510",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/14/train-1448-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/78/train-5236-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/30/train-9024-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/7/train-12626-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/6/train-7852-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "19",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/27/train-9687-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/8/train-2323-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/12/train-10660-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/7/train-7681-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/66/train-11940-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "455",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/35/train-222-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/41/train-7568-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/40/train-11177-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/60/train-1611-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/68/train-10932-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "375",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/32/train-5416-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/52/train-674-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/74/train-7687-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/75/train-8484-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/74/train-11400-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "198",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/98/train-13077-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/5/train-8442-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/14/train-11570-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/25/train-11618-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/64/train-8035-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "202",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/58/train-9713-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/77/train-11601-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/51/train-7877-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/85/train-5696-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/60/train-1069-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "178",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/62/train-11486-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-2761-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/60/train-11966-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/23/train-12919-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/72/train-1099-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "490",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/70/train-9850-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/36/train-7405-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/66/train-4194-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/46/train-5907-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/42/train-7511-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "81",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/22/train-235-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/40/train-1106-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/17/train-5749-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/28/train-11051-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/55/train-11344-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "86",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/39/train-10773-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/12/train-989-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/10/train-10295-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/34/train-11577-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/43/train-11280-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "243",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/97/train-10367-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/60/train-12019-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/73/train-3298-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/65/train-7350-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/95/train-11394-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 731,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "731",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/43/train-11947-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/15/train-630-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/79/train-13109-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/41/train-7732-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/39/train-8627-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "540",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/78/train-4658-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/10/train-12833-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/72/train-6180-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/60/train-1069-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/46/train-4717-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "47",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/66/train-6447-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/98/train-7960-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/71/train-4718-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-280-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/93/train-4458-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "977",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/65/train-2052-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/25/train-4013-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/40/train-6840-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/56/train-10638-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/3/train-2613-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "97",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/47/train-11666-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/56/train-12704-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/6/train-2377-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-12294-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/12/train-2190-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 734,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "734",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/9/train-5262-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/6/train-11246-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/88/train-4153-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/36/train-570-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/76/train-8900-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "950",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/72/train-2287-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/14/train-12103-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/17/train-5890-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/4/train-5459-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/31/train-10184-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 896,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "896",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/83/train-8031-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/41/train-11206-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/53/train-2029-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/28/train-1277-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/99/train-7167-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "128",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/1/train-3910-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/29/train-11699-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/48/train-13070-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/59/train-5307-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/76/train-10581-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 751,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "751",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/40/train-6848-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/74/train-9780-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/29/train-13013-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/66/train-5260-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/18/train-9990-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "189",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/52/train-5951-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/92/train-2736-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/61/train-4132-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/71/train-532-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/97/train-2214-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "20",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/9/train-9524-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/56/train-585-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/35/train-8949-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/55/train-8569-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/86/train-5835-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "110",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/81/train-1780-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/78/train-12927-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-6598-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/86/train-5889-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/79/train-4245-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "644",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/25/train-11726-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/93/train-12841-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-10870-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/13/train-10360-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/2/train-8631-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 872,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "872",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/4/train-9682-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/73/train-6084-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/31/train-9642-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/40/train-8698-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/21/train-5238-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 610,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "610",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/12/train-8211-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/13/train-4509-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/30/train-11956-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-9270-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/59/train-10602-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "467",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/54/train-11529-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/88/train-4439-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/55/train-9874-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/50/train-2038-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/8/train-2841-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 513,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "513",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/36/train-8701-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/5/train-888-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/80/train-1845-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/39/train-4731-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/4/train-12507-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "164",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/54/train-4544-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/1/train-6953-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/8/train-5368-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-9946-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/93/train-8476-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "581",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/59/train-7524-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/32/train-6340-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/48/train-6681-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/9/train-10384-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/78/train-209-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "152",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/96/train-1349-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/3/train-338-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/58/train-8288-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/46/train-9108-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/65/train-10764-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "428",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/43/train-10673-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/12/train-3565-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/41/train-10350-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/94/train-438-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/14/train-11201-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 943,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "943",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/84/train-5852-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/65/train-3758-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/20/train-10199-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/64/train-8035-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/39/train-4278-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "543",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/99/train-1717-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/25/train-4157-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/14/train-5517-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/3/train-1194-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/80/train-10738-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "300",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/96/train-10552-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/12/train-3408-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/96/train-6546-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/57/train-12604-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/78/train-10390-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "660",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/73/train-10922-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/28/train-241-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/40/train-12056-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/76/train-12208-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/97/train-827-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "580",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/64/train-3137-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/36/train-8701-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/65/train-5540-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/37/train-5502-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/30/train-5235-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 719,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "719",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/74/train-5946-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/53/train-10661-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/45/train-473-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/75/train-1321-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/5/train-3917-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "603",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/13/train-10250-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/7/train-7814-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/45/train-11703-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/53/train-333-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/43/train-2004-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "963",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/12/train-5486-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/57/train-12849-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/16/train-5532-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/45/train-2703-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/9/train-5262-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "706",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/31/train-7160-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/73/train-8661-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/88/train-9400-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/80/train-7207-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/62/train-727-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "535",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/2/train-5974-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/9/train-924-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/49/train-696-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/27/train-4285-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/67/train-9156-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "62",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/78/train-6421-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/63/train-4692-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/60/train-12712-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/1/train-7683-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/67/train-5994-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "415",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/64/train-8000-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/57/train-2691-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/10/train-3095-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/60/train-6132-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/50/train-8391-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "791",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/39/train-5442-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/60/train-11966-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/17/train-11625-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/1/train-3501-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/62/train-1059-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 989,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "989",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/84/train-12909-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-13182-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/20/train-12216-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/39/train-2657-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/68/train-4789-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "776",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/61/train-11019-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/55/train-10100-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/0/train-1505-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/97/train-394-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/93/train-1029-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "274",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/36/train-12255-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/16/train-1647-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/19/train-12492-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/70/train-4885-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/96/train-6546-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "14",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/86/train-7782-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/88/train-11018-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/15/train-6858-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/37/train-11003-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/70/train-2306-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 875,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "875",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/77/train-1033-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/72/train-9406-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/53/train-2218-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/41/train-12980-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/22/train-677-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "216",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/69/train-7293-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/55/train-7747-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/42/train-4049-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/25/train-2107-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/79/train-9587-1-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "916",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/83/train-3948-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/55/train-7325-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/54/train-2882-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/72/train-2636-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/58/train-10648-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "887",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/85/train-11802-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/41/train-7130-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/98/train-9505-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/55/train-3532-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/22/train-8079-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 629,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "629",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/54/train-1394-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/78/train-12564-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/21/train-11795-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/99/train-8899-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/72/train-3623-0-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "275",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/55/train-8048-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/58/train-3086-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/80/train-13044-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/47/train-11010-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/6/train-6547-0-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "259",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/91/train-4771-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/67/train-8681-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/14/train-24-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/25/train-8723-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/62/train-9390-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "933",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/12/train-2158-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/36/train-9289-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/86/train-470-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/13/train-5710-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/43/train-8699-2-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "283",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/37/train-12542-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/99/train-12871-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/15/train-12601-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/31/train-7949-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/57/train-6873-1-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "843",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/13/train-3464-0-img0.png",
+      "data/nlvr2/nlvr2/features/train/34/train-5641-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/46/train-11127-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/65/train-12563-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/13/train-9779-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "312",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/70/train-2003-3-img1.png",
+      "data/nlvr2/nlvr2/features/train/16/train-10784-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/71/train-7027-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/2/train-12755-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/26/train-87-3-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "934",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/10/train-12337-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/48/train-12942-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/8/train-4655-2-img1.png",
+      "data/nlvr2/nlvr2/features/train/1/train-2010-0-img1.png",
+      "data/nlvr2/nlvr2/features/train/73/train-12477-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: true Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "435",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/94/train-6643-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/4/train-6082-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/28/train-12427-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/78/train-5928-2-img0.png",
+      "data/nlvr2/nlvr2/features/train/44/train-4110-2-img0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "88",
+    "image": [
+      "data/nlvr2/nlvr2/features/train/15/train-2792-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/13/train-10009-1-img0.png",
+      "data/nlvr2/nlvr2/features/train/13/train-4965-1-img1.png",
+      "data/nlvr2/nlvr2/features/train/74/train-7580-3-img0.png",
+      "data/nlvr2/nlvr2/features/train/83/train-7153-3-img1.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\n<image>\n<image>\n<image>\n<image>\nAccording to the picture, remove the information that does not exist in the following description: false Answer:"
+      },
+      {
+        "from": "gpt",
+        "value": "true"
+      }
+    ]
+  }
+]

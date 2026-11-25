@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "smmile_reinforce_0",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/82.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense left MCA, Yes, hyperdense right MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense left MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_1",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/117.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which skin condition is shown?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "angioma"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_2",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/417.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Highly suggestive of malignancy"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_3",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/84.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense right MCA, Yes, hyperdense left MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense right MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_4",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/154.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [yes, no]\n<image>Is splinter hemorrhage present?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_5",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/174.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the histopathologic diagnosis?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Adenocarcinoma, metastatic to lymph node."
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_6",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/23.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_7",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/298.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What pathology is shown in this image?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Erythema migrans"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_8",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/23.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_9",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/30.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_10",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/28.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_11",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/180.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is shown in this image?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Blast cells."
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_12",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/30.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_13",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/219.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there pneumoperitoneum?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_14",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/84.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense right MCA, Yes, hyperdense left MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense right MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_15",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/26.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_16",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/131.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Very high suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_17",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/83.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense right MCA, Yes, hyperdense left MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense left MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_18",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/267.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What type of cell is present among the erythrocytes?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Myeloblast with Auer rods"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_19",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/156.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [no, yes]\n<image>Is splinter hemorrhage present?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_20",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/27.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_21",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/261.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What type of cell is present among the erythrocytes?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Myeloblast with Auer rods"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_22",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/86.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense left MCA, Yes, hyperdense right MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense right MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_23",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/26.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_24",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/324.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Subarachnoid hemorrhage"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_25",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/29.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_26",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/28.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_27",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/131.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Very high suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_28",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/85.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense right MCA, Yes, hyperdense left MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense right MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_29",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/414.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Benign"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_30",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/27.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_31",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/124.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_32",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/30.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_33",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/154.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [no, yes]\n<image>Is splinter hemorrhage present?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "no"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_34",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/174.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the histopathologic diagnosis?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Adenocarcinoma, metastatic to lymph node."
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_35",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/482.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Pneumothorax, right"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_36",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/27.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_37",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/409.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Probably benign"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_38",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/325.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No intracerebral hemorrhage"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_39",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/233.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which skin-condition is shown?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Spider angioma"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_40",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/239.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which skin-condition is shown?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Spider angioma"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_41",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/218.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there pneumoperitoneum?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_42",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/116.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which skin condition is shown?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "angioma"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_43",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/29.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_44",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/30.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_45",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/181.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is shown in this image?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Plasma cells."
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_46",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/130.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "High suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_47",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/85.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense right MCA, Yes, hyperdense left MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense right MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_48",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/155.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [no, yes]\n<image>Is splinter hemorrhage present?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_49",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/300.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What pathology is shown in this image?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Tinea Corporis"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_50",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/26.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_51",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/303.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What pathology is shown in this image?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Erythema migrans"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_52",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/153.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [no, yes]\n<image>Is splinter hemorrhage present?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_53",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/409.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Probably benign"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_54",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/485.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Pneumothorax, left"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_55",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/325.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No intracerebral hemorrhage"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_56",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/29.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_57",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/26.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_58",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/238.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which skin-condition is shown?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Spider angioma"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_59",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/156.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [no, yes]\n<image>Is splinter hemorrhage present?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_60",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/28.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_61",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/30.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_62",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/239.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which skin-condition is shown?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Spider angioma"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_63",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/427.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Does this ECG show ventricular tachycardia or supraventricular tachycardia with aberrancy?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "supraventricular tachycardia with aberrancy"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_64",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/88.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense left MCA, Yes, hyperdense right MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense left MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_65",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/283.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there a fracture and if so, what kind?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Oblique fracture"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_66",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/179.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the histopathologic diagnosis?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Acute inflammation."
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_67",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/316.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Pneumothorax but not tension pneumothorax"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_68",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/321.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there an intracerebral hemorrhage in this image and if so, what kind?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Epidural hematoma"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_69",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/461.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the histopathologic diagnosis?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Basal cell carcinoma."
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_70",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/349.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where is the pneumonia located?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "right upper lobe"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_71",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/83.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense left MCA, Yes, hyperdense right MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense left MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_72",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/353.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where is the pneumonia located?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "left lower lobe"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_73",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/220.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there pneumoperitoneum?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_74",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/83.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense right MCA, Yes, hyperdense left MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense left MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_75",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/266.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What type of cell is present among the erythrocytes?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Myeloblast without Auer rods"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_76",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/220.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there pneumoperitoneum?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_77",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/221.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there pneumoperitoneum?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_78",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/130.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "High suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_79",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/353.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where is the pneumonia located?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "left lower lobe"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_80",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/131.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Very high suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_81",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/27.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_82",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/23.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_83",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/26.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_84",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/93.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is the NG tube well-positioned?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_85",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/262.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What type of cell is present among the erythrocytes?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Basophil"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_86",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/126.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Low suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_87",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/166.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the histopathologic diagnosis?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Fat necrosis."
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_88",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/129.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Indeterminate suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_89",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/29.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_90",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/82.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, hyperdense left MCA, Yes, hyperdense right MCA]\n<image>Is there a visible pathology?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, hyperdense left MCA"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_91",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/219.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there pneumoperitoneum?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_92",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/410.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the likelihood of breast cancer (negative, benign, probably benign, suspicious, or highly suggestive of malignancy)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Suspicious"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_93",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/349.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Where is the pneumonia located?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "right upper lobe"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_94",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/316.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there a pneumothorax and if so, is it a tension pneumothorax?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Pneumothorax but not tension pneumothorax"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_95",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/167.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the histopathologic diagnosis?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Basal cell carcinoma."
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_96",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/30.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [No, Yes]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_97",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/26.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_98",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_openended",
+    "image": [
+      "./data/SMMILE/126.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is your level of suspicion for COVID-19 infection (no, low, indeterminate, high, or very high) in this example(s)?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Low suspicion for COVID-19 infection"
+      }
+    ]
+  },
+  {
+    "id": "smmile_reinforce_99",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "SMMILE_choice",
+    "image": [
+      "./data/SMMILE/23.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Choose from the following options and output ONLY the answer: [Yes, No]\n<image>Is there a joint effusion?\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  }
+]

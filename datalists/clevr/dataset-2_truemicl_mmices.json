@@ -1,0 +1,922 @@
+[
+    {
+        "id": 0,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_000591.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_006515.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_006458.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_012800.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_013203.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_000216.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_011366.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_002093.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_004406.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_005020.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_002667.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_001211.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_004613.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_001249.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_009327.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_012442.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_012739.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_006584.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_002105.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_007905.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_002520.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "3"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_005597.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_001779.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_004845.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_002024.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_013482.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_000106.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_011500.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_014701.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_005551.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_012270.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_002396.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_001151.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_003905.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_000329.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_001268.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_014058.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "4"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_001607.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_000901.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_005479.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_000137.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_006777.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_002575.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_003581.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_003457.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "./data/clevr/support/CLEVR_train_064180.png",
+            "./data/clevr/support/CLEVR_train_068781.png",
+            "./data/clevr/query/CLEVR_val_014432.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look carefully at the image, count ONLY the objects that match the given property, and output ONLY the number.\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n\n<image>\nHow many of them are in my desired color?\nAnswer: 1\n<image>\nHow many of them are in my desired color? Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "2"
+            }
+        ]
+    }
+]

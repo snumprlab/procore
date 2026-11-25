@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "illusionvqa-comp_reinforce_0",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/376.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The grey pipes and the white pipes are actually the same color., The word \"amphibious\" is written on the pipes., The upper ends and lower ends of the pipes do not line up., The pipes are bent into an infinite spiral.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The upper ends and lower ends of the pipes do not line up."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_1",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/11.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The girls in the photo have the same hair color., The girls in the photo have the same face., All the girls in the photo are wearing sunglasses on their heads., All the people in the background have the same face.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "All the people in the background have the same face."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_2",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/33.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which silhouette is in this image?\nChoose from the following options and output ONLY the answer: [The number 11., A person lying on their back., The letter k., A person lying on their stomach., No silhouette is in this image.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person lying on their stomach."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_3",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/0.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about the monument?\nChoose from the following options and output ONLY the answer: [The monument is actually composed of pyramids., The pillars depict an impossible geometry/trident., It is floating without touching the floor.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The pillars depict an impossible geometry/trident."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_4",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/373.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [Some people are about to fall from the platform and rescue workers are waiting with ropes and ladders to help them down., The upper part of the platform looks as if viewed from a higher vantage point but the lower part looks as if viewed from a lower vantage point., The tiles of the platform may look straight and aligned with eachother but they are actually all curved., The upper part of the platform looks as if viewed from a lower vantage point but the lower part looks as if viewed from a higher vantage point.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The upper part of the platform looks as if viewed from a lower vantage point but the lower part looks as if viewed from a higher vantage point."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_5",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/225.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the man doing?\nChoose from the following options and output ONLY the answer: [Tearing down the billboard., There is actually no man in this image., Painting the billboard blue.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is actually no man in this image."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_6",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/306.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Do the front sides of the two matchboxes have the same area?\nChoose from the following options and output ONLY the answer: [Yes., Cannot tell from the image., No.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_7",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/386.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [A woman riding a horse leaping out of a crack in the pavement., 3d painting of a horse leaping out of a crack in the pavement and a woman posing as if she's riding it., 3d painting of a woman riding a horse leaping out of a crack in the pavement., 3d painting of a woman leaping out of a crack in the pavement to escape a rampaging horse.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3d painting of a horse leaping out of a crack in the pavement and a woman posing as if she's riding it."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_8",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/374.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [Forced perspective image of a boy pretending to eat another boy who is standing far back., A live-action adaptation of attack on titan depicting a titan about to eat a person whole., A young man in a park holding a frisbee up to his face. There is also a tree nearby, which can be seen from the boy's perspective., A boy holding a frisbee in his hands, about to pass to his friend in the back.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Forced perspective image of a boy pretending to eat another boy who is standing far back."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_9",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/277.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The four cylinders supporting the tabletop are arranged in a square. This is not a common way to arrange table legs, as it would make the table very unstable., The cylinder in the center is attached to the square yellow frame in a geometrically impossible way., The left and right cylinders are attached to the square yellow frame in geometrically impossible ways., All the cylinders are attached to the square yellow frame in geometrically impossible ways.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The cylinder in the center is attached to the square yellow frame in a geometrically impossible way."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_10",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/303.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The scene shows a person looking through a window that appears to be both inside and outside a building at the same time., The person is using a ladder to climb into a window although they could easily reach it without a ladder., The person is throwing books out of the window which is a very nonsensical thing to do., The person is using a ladder to climb out of a window although they could easily reach it without a ladder.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scene shows a person looking through a window that appears to be both inside and outside a building at the same time."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_11",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/233.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Do the two pills have different colors?\nChoose from the following options and output ONLY the answer: [Yes., Cannot tell from this image., No.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_12",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/106.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [Photoshopped image with some of the cars and pedestrians upside down., The cars are breaking traffic rules by driving on the wrong side., A large truck is being pulled along the road by a couple of children., A person is sleeping on a car's roof.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Photoshopped image with some of the cars and pedestrians upside down."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_13",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/176.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The object looks like a fork or a spoon based on perspective., The points of the fork depict an impossible trident., The fork appears to be moving although it is stationary., The object looks like a knife or a fork based on the perspective.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The points of the fork depict an impossible trident."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_14",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/174.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What's unusual about the pencils in the image?\nChoose from the following options and output ONLY the answer: [There are two pencils of different lengths that are somehow drawing triangles simultaneously., There are three pencils of different lengths that are somehow drawing triangles simultaneously., The upper part looks like a 3d rectangle and the top and bottom ends of the pencils do not line up.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The upper part looks like a 3d rectangle and the top and bottom ends of the pencils do not line up."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_15",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/157.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The patterns on the board are not standard. They look more like the patterns of a chessboard instead of a scrabble board., The words made with the scrabble blocks are romanized chinese words., The scrabble blocks and the paper have been arranged in a way to imply an impossible geometric construct., The words made with the scrabble blocks are french.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The scrabble blocks and the paper have been arranged in a way to imply an impossible geometric construct."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_16",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/368.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [A forced perspective illusion showing two white cubes stacked vertically but in reality the upper cube is farther back and much larger than the lower one., An impossible 3d cube with corners connected in ways that defy physics and reality., The top half looks as if viewed from a higher vantage point while the bottom half looks as if viewed from a lower vantage point., The top half looks as if viewed from a lower vantage point while the bottom half looks as if viewed from a higher vantage point.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The top half looks as if viewed from a lower vantage point while the bottom half looks as if viewed from a higher vantage point."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_17",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/366.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The head and the tail of the snake aren't connected., It is an earthworm camouflaged like a snake., The snake is curling up into an infinite spiral.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The head and the tail of the snake aren't connected."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_18",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/173.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [There is a letter missing between 'i' and 'k' – the letter 'j' is not included., There are four letters on the first and second row but only three in the third., Each letter is rotated by 45 degrees, making them appear as if they are floating or tilted., Letters appear three-dimensional, with parts looking like they are interwoven or looping through themselves in an impossible way.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Letters appear three-dimensional, with parts looking like they are interwoven or looping through themselves in an impossible way."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_19",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/162.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [A swimming pool that appears to be made of a material resembling glass, rather than water. This gives the illusion that people are swimming in air, rather than in water., It shows people swimming above a transparent floor that looks like glass, but it's actually a representation of water. The visual cues, such as the reflections on the 'water'., The orientation that the ladder has been attached to the dive boards is geometrically impossible., It's a 3d rendering of a swimming pool, so the image appears to be larger than it actually is due to perspective distortion.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The orientation that the ladder has been attached to the dive boards is geometrically impossible."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_20",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/217.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about the ladder?\nChoose from the following options and output ONLY the answer: [The ladder has some steps missing., The ladder appears to be moving., The ladder is geometrically impossible., The side rails are curved., The steps are curved., One side rail is longer than the other.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The ladder is geometrically impossible."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_21",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/90.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which of the two thick black lines is taller?\nChoose from the following options and output ONLY the answer: [The right one., Both lines have the same size., The left one., Hard to tell without more context.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Both lines have the same size."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_22",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/347.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is hidden in this image?\nChoose from the following options and output ONLY the answer: [Face of princess diana., Face of cleopatra., Face of mother theresa., Face of marilyn monroe., Face of elizabeth the second.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Face of marilyn monroe."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_23",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/166.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is embedded within the fingerprint pattern?\nChoose from the following options and output ONLY the answer: [A man's face., A cat's head., A dog's head., Another fingerprint.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A dog's head."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_24",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/145.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The triangle made of cubes is floating on a pool., The shadows on the cubes have been edited to depict an impossible construct., The triangle made of cubes appears to be moving.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The shadows on the cubes have been edited to depict an impossible construct."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_25",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/102.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>This is a picture of a geometrically impossible shape. What specifically is wrong with it?\nChoose from the following options and output ONLY the answer: [It appears to switch its orientation spontaneously when you look at it., Two opposite corners of the cube are somehow connected using 3 small blocks., If you count the edges of the smaller cubes, you will find that there are 12, while a real cube would only have 9., The eight smaller cubes that make up the larger cube appear to be tilted in two different directions at the same time., The cube appears to have eight corners, but in reality, it only has six.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Two opposite corners of the cube are somehow connected using 3 small blocks."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_26",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/371.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The pillars of the bridge form an impossible trident., One person is on the edge of a bridge with another person reaching out as if to hold them back, this can create a sense of immediate danger or tension., The left side of the bridge looks as if viewed from a higher vantage point and the right side looks as if viewed from a lower vantage point., The left side of the bridge looks as if viewed from a lower vantage point and the right side looks as if viewed from a higher vantage point.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The left side of the bridge looks as if viewed from a higher vantage point and the right side looks as if viewed from a lower vantage point."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_27",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/45.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What's written in the image?\nChoose from the following options and output ONLY the answer: [Carefully read the next page., Hello nerd next page., Do not read the next page., Do not skip the next page., Nothing is written in the image.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Do not read the next page."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_28",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/256.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is hidden in this image?\nChoose from the following options and output ONLY the answer: [Mantis., Nothing., Moth., Butterfly., Dung beetle.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Moth."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_29",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/346.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are the two pills of the same color?\nChoose from the following options and output ONLY the answer: [Cannot tell from this image., No., Yes.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_30",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/341.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are the long diagonal lines parallel?\nChoose from the following options and output ONLY the answer: [Yes., No., Hard to tell without more context., The lines are arranged in an impossible way.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_31",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/350.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The reflection of the building is made from colored bricks that a person is laying down., A man is painting a building into existence with a paintbrush., The reflection of the building is being painted on the road by a man., A man is somehow taking apart a building brick by brick and putting them in a bucket.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The reflection of the building is made from colored bricks that a person is laying down."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_32",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/27.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What character is hidden in this image?\nChoose from the following options and output ONLY the answer: ['m' is hidden between 'n's., 'n' is hidden between 'm's., Nothing is hidden, it's all 'n's., 'n' is hidden between 'o's., 'o' is hidden between 'n's.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "'m' is hidden between 'n's."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_33",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/225.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the man doing?\nChoose from the following options and output ONLY the answer: [Tearing down the billboard., There is actually no man in this image., Painting the billboard blue.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "There is actually no man in this image."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_34",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/211.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are the lines of the carpet curved?\nChoose from the following options and output ONLY the answer: [No., Yes., Cannot tell from the image.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_35",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/317.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [A person is holding a blank sheet of paper with their hand, displaying red nail polish., A person is holding a white bag. Fingers with red nail polish are drawn on the bag, creating an illusion., A person with her hand in their pocket. Parts of their coat and pants are painted white, creating an optical illusion.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person is holding a white bag. Fingers with red nail polish are drawn on the bag, creating an illusion."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_36",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/212.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about the ladder?\nChoose from the following options and output ONLY the answer: [The ladder has some steps missing., The ladder appears to be moving., The ladder is geometrically impossible., The side rails are curved., The steps are curved., One side rail is longer than the other.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The ladder is geometrically impossible."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_37",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/249.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [A woman walking on a line beside some toy cars and toy buildings., A woman walking on a tightrope between two buildings with some cars on the road down below., The view of a tightrope between two buildings painted on the floor and a woman pretending to balance on it., A woman jumping from one building to another with a busy street way below her.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The view of a tightrope between two buildings painted on the floor and a woman pretending to balance on it."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_38",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/56.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [The design on the truck's container shows crates hanging from the ceiling creating an optical illusion., The truck has 4 wheels on one side., Crates hanging from the ceiling of the truck's container.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The design on the truck's container shows crates hanging from the ceiling creating an optical illusion."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_39",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/290.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [Photoshopped image with some of the cars and pedestrians upside down., A person is sleeping on a car's roof., The cars are breaking traffic rules by driving on the wrong side., A large truck is being pulled along the road by a couple of children.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Photoshopped image with some of the cars and pedestrians upside down."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_40",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/297.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The middle lego row appears raised on the right side but lowered on the left side., The middle lego row appears raised on the left side but lowered on the right side., The lego rows have not been fully pressed into the grey base., The lego characters have some limbs missing.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The middle lego row appears raised on the right side but lowered on the left side."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_41",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/286.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The center metal object is a 3d illusion with parts connected in impossible ways., The center metal object depicts an impossible trident shape., The center metal object appears to be rotating.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The center metal object is a 3d illusion with parts connected in impossible ways."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_42",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/158.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [Impossible staircase., Each lego construct casts its shadow in a different direction., Impossible trident., Impossible triangle.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Impossible triangle."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_43",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/375.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [Two people picking up things on the ground in a busy city street. One of the men is holding a beer bottle, while the other man is kneeling down next to him., 3d art of a beer glass, a beer bottle, and a boy on all fours, picking up things from the ground. Another real person is on the right mimicking the boy., 3d art of a beer glass, a beer bottle, and a boy on all fours, picking up things from the ground. Another real person is on the left mimicking the boy., Two people playing on the ground in a busy city street. One of the men is holding a beer bottle, while the other man is kneeling down next to him.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "3d art of a beer glass, a beer bottle, and a boy on all fours, picking up things from the ground. Another real person is on the right mimicking the boy."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_44",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/55.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Who is wearing the blue sunglasses?\nChoose from the following options and output ONLY the answer: [The man., The baby., Hard to tell.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The baby."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_45",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/207.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about the object on the right?\nChoose from the following options and output ONLY the answer: [Each pillar of the object is casting shadows in a different cardinal direction., Nothing, it's a regular wristwatch., It looks like a geometrically impossible object.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Nothing, it's a regular wristwatch."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_46",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/302.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The jeans are drawn to look real using detailed shading and highlighting., The bottom part of the jeans depicts an impossible trident., The labels says levi's but the jean design is from supreme.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The bottom part of the jeans depicts an impossible trident."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_47",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/5.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe the floor in the image\nChoose from the following options and output ONLY the answer: [This is inside a fun house. The floor has an uneven surface., The flat floor is made of tiles that makes it look uneven., The flat floor likely has a carpet that makes it look uneven., This is inside a fun house. The floor has deep potholes in some places., The floor looks flat but it's actually uneven and curved in places.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The flat floor likely has a carpet that makes it look uneven."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_48",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/277.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The four cylinders supporting the tabletop are arranged in a square. This is not a common way to arrange table legs, as it would make the table very unstable., The cylinder in the center is attached to the square yellow frame in a geometrically impossible way., The left and right cylinders are attached to the square yellow frame in geometrically impossible ways., All the cylinders are attached to the square yellow frame in geometrically impossible ways.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The cylinder in the center is attached to the square yellow frame in a geometrically impossible way."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_49",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/262.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about the object on the right?\nChoose from the following options and output ONLY the answer: [It looks like a geometrically impossible object., It's not casting any shadows., Each pillar of the object is casting shadows in a different cardinal direction.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "It looks like a geometrically impossible object."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_50",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/136.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [Wooden construct with impossible geometry., The horse is riding the knight., The knight is riding under a fence., The knight is riding through a very small window.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Wooden construct with impossible geometry."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_51",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/380.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Can the yellow car overtake the white van?\nChoose from the following options and output ONLY the answer: [No, it seems like an old model and is probably slower than the newer van., Yes, it has a sizable lead already., No, it's just a painting on the white van., Unlikely, the van has a slight lead and there's another car in front of them., Unsure, it's not possible to estimate speed from a still image., Yes, it's a two-seater sportscar.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No, it's just a painting on the white van."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_52",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/207.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about the object on the right?\nChoose from the following options and output ONLY the answer: [Each pillar of the object is casting shadows in a different cardinal direction., Nothing, it's a regular wristwatch., It looks like a geometrically impossible object.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Nothing, it's a regular wristwatch."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_53",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/270.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The entire shape is the same uniform color but appears pink or green in places due to shading., The entire shape is the same uniform color but appears pink or green in places due to the perspective., The drawing on the paper depicts an impossible trident., The paper is casting shadow on the grey wall in only one corner.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The drawing on the paper depicts an impossible trident."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_54",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/114.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>There are two blue vertical lines in this image. Which line is taller?\nChoose from the following options and output ONLY the answer: [The right line is longer., Hard to tell without more context., Both lines have the same length., The left line is longer.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Both lines have the same length."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_55",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/45.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What's written in the image?\nChoose from the following options and output ONLY the answer: [Carefully read the next page., Hello nerd next page., Do not read the next page., Do not skip the next page., Nothing is written in the image.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Do not read the next page."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_56",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/59.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What's unusual about this image?\nChoose from the following options and output ONLY the answer: [Two people are carrying a man with no legs., The man's blue shorts blend in with the color of the pond., The man in the middle is floating in the air., An amputee man caught a fish., A man has been photoshopped to have no legs.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The man's blue shorts blend in with the color of the pond."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_57",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/30.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Do the figures in the image have different colors?\nChoose from the following options and output ONLY the answer: [Yes, the figure on the left has a lighter tone of green and the figure on the right has a lighter tone of blue., Yes, the figure on the left has a lighter tone of green., No, they are the same color., Yes, the figure on the right has a lighter tone of green., Hard to tell without more context.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "No, they are the same color."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_58",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/355.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The car's wheels appear to be significantly larger than what would be expected for a vehicle of its era and model., The car in the image appears to be a classic model that dates back to the early 20th century, yet it is in remarkably pristine condition., The car has an unusual combination of what appear to be modern, high-performance tires and wheels on a vintage automobile., The wheels point in the wrong direction compared to the rest of the car.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The wheels point in the wrong direction compared to the rest of the car."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_59",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/331.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The legos form an impossible waterfall., The legos form an impossible staircase or penrose stairs., The legos form an impossible triangle or penrose triangle., There is an impossible trident in this image.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The legos form an impossible staircase or penrose stairs."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_60",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/359.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [Two figures appear to be phasing right through the wooden fence without any interruption., Two figures appear to be trying to breach the fence with a large wooden battering ram., The planks on the fence look staggered like a staircase which is impossible since they are aligned vertically by two posts on either end., The beams appear to be continuous, with no visible ends or joints, creating a paradoxical structure. Two figures seemingly pushing and pulling on levers add to the illusion.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The planks on the fence look staggered like a staircase which is impossible since they are aligned vertically by two posts on either end."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_61",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/311.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [A hand holding a pen, appearing to be writing on a piece of paper that is crumpled in a way that creates an illusion., A hand holding a red pen, appearing to be writing on a blank piece of paper., The index finger is painted like a pen and the hand is pretending to write with it., A white page with a realistic drawing of a hand holding a red pen, creating a 3d illusion.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The index finger is painted like a pen and the hand is pretending to write with it."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_62",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/295.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is the person on the chair doing?\nChoose from the following options and output ONLY the answer: [Reaching out and touching the sand with her hand., Reaching out and scratching her leg with her hand., Reaching out and touching the water with her foot., Reaching out and touching the water with her hand., Reaching out and touching the sand with her foot.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Reaching out and scratching her leg with her hand."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_63",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/324.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [A white dog wearing a harness moving through a snowy landscape and a man wearing a red jacket behind it., A man wearing a red jacket and a helmet riding a huge white animal through a snowy landscape., A white dog with a red figurine attached to it by a harness moving through a snowy landscape., A photoshopped image of a man and a puppy where the puppy has been enlarged.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A white dog wearing a harness moving through a snowy landscape and a man wearing a red jacket behind it."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_64",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/309.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The tennis players are only pretending to play since the ball itself is missing., The entire photo of a tennis match has been flipped vertically., The photo has been edited to turn the players upside down., The photo has been edited to turn the net, the ball boys, and the umpire's chair upside down.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The photo has been edited to turn the net, the ball boys, and the umpire's chair upside down."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_65",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/209.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is the floor of the store flat?\nChoose from the following options and output ONLY the answer: [Yes. The curves are optical illusions created by particular floor designs., Yes, it's actually a fun house with a supermarket motif., Cannot tell from this image without more context., No. There are three or more cavities in the floor.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes. The curves are optical illusions created by particular floor designs."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_66",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/245.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there a chimpanzee hidden in this image?\nChoose from the following options and output ONLY the answer: [No., Yes, towards the bottom., Yes, towards the upper middle., Cannot tell from the image.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, towards the upper middle."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_67",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/34.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Which silhouette is in this image?\nChoose from the following options and output ONLY the answer: [The letter k., A person lying on their stomach., The number 11., A person lying on their back., No silhouette is in this image.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person lying on their stomach."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_68",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/160.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The roof of the building forms an infinite staircase, a metaphor for how wages have stagnated while profits are rising., A building with a staircase that leads to a dead-end labeled 'wages'. People are walking up the stairs, seemingly unaware of the fact that they cannot reach the top., The roof of the building forms an infinite staircase, a metaphor for how profits have stagnated due to rising wage demands., The image is an optical illusion because it shows a building that appears to be leaning, but upon closer inspection, the building is actually upright and the perspective is deceiving.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The roof of the building forms an infinite staircase, a metaphor for how wages have stagnated while profits are rising."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_69",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/384.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Is there a boar hidden in this image?\nChoose from the following options and output ONLY the answer: [No., Yes, to the right., Yes, to the left., Cannot tell from the image.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, to the left."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_70",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/37.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>In which direction is the upper block tilted?\nChoose from the following options and output ONLY the answer: [The block is tilted to the left., Hard to tell without more context., The block is tilted to the right., The block is not tilted, it is parallel to the lower block.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The block is tilted to the right."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_71",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/288.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about the white object?\nChoose from the following options and output ONLY the answer: [It's not casting any shadows., Each pillar of the object is casting shadows in a different cardinal direction., Hard to tell from this image without more context., It looks like a geometrically impossible object, specifically penrose stairs.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "It looks like a geometrically impossible object, specifically penrose stairs."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_72",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/186.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What character is hidden in this image?\nChoose from the following options and output ONLY the answer: ['o'., 'r'., 'm'., 'w'.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "'m'."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_73",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/104.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>This is a picture of a geometrically impossible shape. What specifically is wrong with it?\nChoose from the following options and output ONLY the answer: [The shadows have been drawn to make the ring appear impossible. In reality, the ring can exist, only the shadows are misleading., The beams of the ring appear to connect in a physically impossible way. For example, the top beam appears to be both in front of and behind the left beam at the same time., The way that the inner and outer surfaces of the ring are merging is geometrically impossible., This ring cannot be constructed in three dimensions because its internal angles would have to add up to more than 180 degrees.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The way that the inner and outer surfaces of the ring are merging is geometrically impossible."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_74",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/114.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>There are two blue vertical lines in this image. Which line is taller?\nChoose from the following options and output ONLY the answer: [The right line is longer., Hard to tell without more context., Both lines have the same length., The left line is longer.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Both lines have the same length."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_75",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/402.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [An older man standing next to a wooden frame that is being suspended in the air by ropes, without any visible means of support or anchor., The construction of the wooden frame is geometrically impossible., The white ropes used to hoist the wooden frame are too thin to support a person., The shape of the swing is very unusual.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The construction of the wooden frame is geometrically impossible."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_76",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/108.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>This is a picture of a geometrically impossible shape. What specifically is wrong with it?\nChoose from the following options and output ONLY the answer: [The edges of the front face of the cube appear to pass in front of the edges of the rear face., Each corner seems to have three edges meeting at a single point, but in reality, a corner of a 3d object can only have two edges meet., The edges of the rear face of the cube appear to pass in front of the edges of the front face., It's a 3d cube that appears to be both solid and hollow at the same time, defying the laws of physic.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The edges of the rear face of the cube appear to pass in front of the edges of the front face."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_77",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/292.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Does the horizontal bar have a uniform color?\nChoose from the following options and output ONLY the answer: [Hard to tell without more context., Yes., No.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_78",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/315.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Can the object on the left exist in 3d space?\nChoose from the following options and output ONLY the answer: [Yes. It is a 2d sculpture made from paper or metal wiring that looks 3d from a certain angle., Can not tell from this image., No. It is an optical illusion where the top part of the columns does not line up with the bottom.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes. It is a 2d sculpture made from paper or metal wiring that looks 3d from a certain angle."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_79",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/222.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Can the object on the right exist in 3d space?\nChoose from the following options and output ONLY the answer: [Yes. It is a 2d sculpture made from paper or metal wiring that looks 3d from a certain angle., No. It is an impossible trident illusion., Can not tell from this image., No. It is an optical illusion where the top part of the columns does not line up with the bottom., No. It is an impossible triangle illusion.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes. It is a 2d sculpture made from paper or metal wiring that looks 3d from a certain angle."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_80",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/155.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [An edited image of a camel whose hump has been blended with the mountain behind it., A camel in front of a mountain range., The mountain aligns perfectly with the camel's hump, making the hump appear enormous.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "An edited image of a camel whose hump has been blended with the mountain behind it."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_81",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/348.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The clouds turn into waves and the kites turn into a ship going from left to right., Some people on a beach are waving at ships which is an odd thing to do., The clouds turn into waves and the kites turn into a ship going from right to left., The image is an allegory on how people age and kites turn into ships with time.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The clouds turn into waves and the kites turn into a ship going from left to right."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_82",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/275.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are the lines of the carpet parallel?\nChoose from the following options and output ONLY the answer: [Cannot tell from the image., No., Yes.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_83",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/299.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The lego construction appears to be rotating although it's stationary., The lego construction appears to be a gate although it is actually a cube., The lego blocks aren't actually attached to each other., The lego construction is impossible since blocks cannot be connected in that way in 3d space.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The lego construction is impossible since blocks cannot be connected in that way in 3d space."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_84",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/341.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are the long diagonal lines parallel?\nChoose from the following options and output ONLY the answer: [Yes., No., Hard to tell without more context., The lines are arranged in an impossible way.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_85",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/15.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [The pull-up bar that extends horizontally from the wall., The man and the wooden support overhead are oriented in inconsistent directions., Nothing is unusual about this image., The man is doing pull-ups in a way that appears to defy gravity., The pull-up  bar is broken but made to appear whole.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The man and the wooden support overhead are oriented in inconsistent directions."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_86",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/378.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [Shadows are illustrated in such a way that they form the silhouette of a deer standing between the two diverging shadows. The actual deer is not drawn; it is purely a visual trick created by the shadows of the tree., The upper part of the tree doesn't line up with the lower part. Also, there are two tree trunks but only one tree., Three are three trees in this picture, although two have been obscured by one in front., A deer is hiding between the two trees but a predator is right above it, in the tree branches., The upper part of the tree doesn't line up with the lower part. Also, there is only one tree trunk but two trees.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The upper part of the tree doesn't line up with the lower part. Also, there are two tree trunks but only one tree."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_87",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/95.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [Cube about to fall off the table., Cube made with pens and wood blocks., Cube with impossible geometry., One edge of the cube is missing.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Cube with impossible geometry."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_88",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/120.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Going by color, which horizontal lines are longer?\nChoose from the following options and output ONLY the answer: [Hard to tell without more context., The red lines are longer., The two red lines do not have the same length so it's hard to say lines of any one color are always longer., The blue lines are longer., All lines have the same length.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "All lines have the same length."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_89",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/134.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is hidden in this image?\nChoose from the following options and output ONLY the answer: [Two horses facing each other., A fox hiding under a bush., Two native americans on horses., A car hidden behind trees.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Two native americans on horses."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_90",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/319.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is hidden in this image?\nChoose from the following options and output ONLY the answer: [Pillow., Dog., Sheep., Cat., Person.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Dog."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_91",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/84.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [A red parrot on a tree stump., A person with body paint on a tree stump., A scarlet macaw on a tree stump.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person with body paint on a tree stump."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_92",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/326.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [Photo of a man and a baby taken from above. They are lying on a white floor and the man is pretending to make the baby levitate with a hair dryer., A forced perspective image of a man sitting on the floor and a baby floating in mid-air. The baby is lying on a surface that matches the wall, while the man is further back., An edited photo of a man sitting on the floor and a baby floating in mid-air. The man is making the baby levitate with a hair dryer., Photo of a man sitting on the floor and a baby floating in mid-air. The man is making the baby levitate with a hair dryer.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Photo of a man and a baby taken from above. They are lying on a white floor and the man is pretending to make the baby levitate with a hair dryer."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_93",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/400.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [This is a black-and-white picture depicting a scene in a forest. Specifically, in the middle of the picture, there is a brick arch, with two men standing underneath., Two people walking through an archway made of bricks with some crows on it. The arch and the people also form the outline of a skull., A group of skeletons are walking through an archway made of bricks. On the left side of the picture, there are two birds perched on the wall.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Two people walking through an archway made of bricks with some crows on it. The arch and the people also form the outline of a skull."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_94",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/21.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>What is unusual about this image?\nChoose from the following options and output ONLY the answer: [A drawing of three dogs with highly exaggerated and elongated bodies., There are four dogs in this image but only three heads and tails., The front and rear of the dogs don't align., The dogs have three legs each.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The front and rear of the dogs don't align."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_95",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/398.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Are the two white sections in the two bars the same length?\nChoose from the following options and output ONLY the answer: [Yes., No., Hard to tell without more context.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_96",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/66.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Do the tiles a and b have the same color?\nChoose from the following options and output ONLY the answer: [No, tile b is darker., No, tile a is darker., Yes., Hard to tell without more context.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_97",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/251.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>How is the person in the red shirt able to sit on the wall?\nChoose from the following options and output ONLY the answer: [The image has been taken from a top-down view. The wall is likely the floor, and the person is sitting on the ground, not the wall., They are using harnesses and special equipment to stay attached to the green foam attached to the wall. This is likely a rock climbing gym., This is a composite of two images attached in the way that makes it seem that a person is sitting on the wall.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "The image has been taken from a top-down view. The wall is likely the floor, and the person is sitting on the ground, not the wall."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_98",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/195.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Do the two bottles have the same size?\nChoose from the following options and output ONLY the answer: [No., Yes., Hard to tell without more context.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ]
+  },
+  {
+    "id": "illusionvqa-comp_reinforce_99",
+    "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+    "task": "illusionvqa-comp",
+    "image": [
+      "./data/illusionvqa-comp/168.png"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>Describe this image.\nChoose from the following options and output ONLY the answer: [A person holding a white bag with a dumbbell painted on it., A person holding a dumbbell and a white bag., A person holding a dumbbell and a white paper.]\nAnswer:"
+      },
+      {
+        "from": "gpt",
+        "value": "A person holding a white bag with a dumbbell painted on it."
+      }
+    ]
+  }
+]

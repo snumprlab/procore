@@ -1,0 +1,122 @@
+[
+    {
+        "question_id": 0,
+        "target": "In the main kitchen area, Sunny, Pierre, and Hazel were busy with their tasks. Sunny stood beside Pierre, who was conversing with Hazel. Rocco and Leo sat by their feet, watching the activities.\n",
+        "prediction": "In a cartoon kitchen, a man in a yellow chef's uniform is standing in front of a counter full of food. He is looking at a woman in a green chef's uniform who is looking up at him with a surprised expression. A small brown dog is standing next to the woman.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 1,
+        "target": "Finn climbed atop the hay bales arranged in a circle. George, with a curious expression, approached her. Behind them, a barn, trees, a windmill, and a fence painted the picture of a typical farm setting.\n",
+        "prediction": "A little girl with red hair is standing in a circle of hay bales. She is wearing a yellow shirt and blue overalls. Next to her is a small brown bear. There are a few smaller hay bales scattered around the circle. In the background, there is a white barn and a blue silo.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 2,
+        "target": "Chester sat on the stairs, deep in thought. Beside Chester, George held the teddy bear.\n",
+        "prediction": "A cartoon image of a man in a yellow suit and hat is sitting in a chair next to a little boy who is holding a teddy bear. The man is looking at the little boy with a concerned expression. The little boy is sitting on a blue chair. There is a staircase behind them and a picture frame on the wall.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 3,
+        "target": "In the kitchen, George held a pink piggy bank, while Jett handed over a blue one to an adult at the counter.\n",
+        "prediction": "A cartoon image of a man in a blue shirt and a boy in a red and white striped shirt are looking at a stuffed pig that the boy is holding. The man has a surprised look on his face. In the background, there is a woman with long black hair and a man with glasses. There are also some shelves and barrels in the background.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 4,
+        "target": "George stood, facing Toby, who had his back turned to the viewer. Near them, a sofa and wooden chair.\n",
+        "prediction": "In this image, we can see a cartoon picture. In this picture, we can see a man and a monkey. We can also see a sofa, table and some objects.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 5,
+        "target": "Zane and Bongo stood in a snowy landscape. Zane had his hands on his hips, while Bongo, dressed in red, adjusted a green sail on a wooden sled with a metal frame.\n",
+        "prediction": "A man and a child are standing in the snow. The man is wearing a brown coat, red scarf, and an orange hat. The child is wearing a red coat and a red hat. They are standing next to a green sailboat. The sailboat is on a wooden sled. There are snow-covered trees in the background.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 6,
+        "target": "Bongo sat on a patterned armchair, holding a red apple, with Cooper looking upwards nearby.\n",
+        "prediction": "In this image, we can see an animated picture. In this picture, we can see a monkey and a dog. In the background, there is a table and we can see a pot.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 7,
+        "target": "Zippy held Gizmo next to an overturned boat with a broken sail on the ground. Next to them, Barney stood on the sand.\n",
+        "prediction": "A woman in a yellow outfit is standing next to a little boy in a monkey costume. They are standing next to a boat in the sand. In the background, there is a house with a red roof and blue shutters.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 8,
+        "target": "Rocco, in his red onesie, crouched beside a hole in the wooden floor. The two humans, Chester, and Stan, looked on with interest while holding a corkscrew-like tool.\n",
+        "prediction": "In this image we can see a cartoon picture. In this picture we can see three persons standing on the ground. In the background we can see a wall, door, chair, dustbin and some objects.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 9,
+        "target": "Rocco looked up curiously at Mario, who seemed to be explaining something about the garden.\n",
+        "prediction": "A cartoon monkey is watching a chef prepare food.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 10,
+        "target": "In the room, Rocco sat beside an examination table with medical supplies visible, and Alice sat on the table with legs dangling.\n",
+        "prediction": "In this image we can see a cartoon picture of a woman and a boy. The woman is sitting on the table. In the background, we can see a wall, a board and a few other objects.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 11,
+        "target": "Inside a room, Azure and Billy stood near various objects on tables, including an electric fan. Zippy, holding a heart-shaped object, stood near a wet floor sign, with puddles on the ground. A bucket and mop leaned against the wall. A framed picture hung above a bench.\n",
+        "prediction": "A man and a woman are standing in a room with a monkey. The woman is wearing a blue shirt and the man is wearing a white shirt. The monkey is standing on the floor. There is a table with a fan on it. There is a bucket on the floor.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 12,
+        "target": "In the kitchen, a kettle sat atop a stove. Rocco looked up, holding onto Stanley's coat. An open door led to an archway, and a cactus decoration adorned the wall.\n",
+        "prediction": "A cartoon image shows a man in a yellow raincoat and a monkey standing in a kitchen. The man is holding the monkey's hand and they are both looking at the refrigerator. The refrigerator is white and has a green magnet on it. There is a red teapot on the counter and a green towel hanging on the oven door. The floor is blue and there are several paw prints on it.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 13,
+        "target": "In the laboratory, everyone surrounded Rocco, Stanley standing confidently among them, one hand resting on Rocco's head, all excited about their discoveries.\n",
+        "prediction": "A group of cartoon characters are standing in a room. there are two scientists in white lab coats, a man in a yellow shirt, a woman in a blue dress, and a monkey.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 14,
+        "target": "Suddenly, it started to rain. Timmy and Milo sat on vibrant grass with muddy patches under a tree. In the background, two people held umbrellas, and another person carried a guitar.\n",
+        "prediction": "In this image, we can see an animated picture. In this picture, we can see some people, trees, grass and some objects.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 15,
+        "target": "Rocco held a stack of papers, standing in front of a chalkboard with boat drawings. Jake gestured with an open hand, near a window with a curtain.\n",
+        "prediction": "In this image we can see a cartoon picture of a man and a monkey. In the background, we can see a ship and a building.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 16,
+        "target": "Cody sat on a bench, holding a cup while looking at Milo. The background featured a building with awnings and a tree.\n",
+        "prediction": "In this image we can see a cartoon picture of a boy and a monkey. In the background we can see a building, tree and a window.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 17,
+        "target": "Vince held a colorful wind chime and Zippy looked up, pointing a string with colorful shapes. Nearby, Barney held a brown paper bag.\n",
+        "prediction": "In this image we can see a cartoon picture. In this picture we can see a man, monkey and a boy. In the background, we can see the buildings, wires and sky.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 18,
+        "target": "Later, Toby and Milo sat on a wooden bench. Felix and Bailey accompanied them outside a building. They were planning their next adventure. \n",
+        "prediction": "A cartoon image of a boy, a monkey, a dog and a cat. The boy is sitting on a bench and the monkey is sitting beside him. The dog is standing in front of the bench and the cat is standing beside the dog.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 19,
+        "target": "Bongo watched curiously as Stanley scratched his chin thoughtfully.\n",
+        "prediction": "In this image we can see a cartoon picture. In this picture we can see a man and a boy.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    }
+]

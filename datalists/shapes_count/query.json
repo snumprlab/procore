@@ -1,0 +1,902 @@
+[
+    {
+        "id": "query_1",
+        "image": [
+            "shapes_count/img/shape_query_1.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_2",
+        "image": [
+            "shapes_count/img/shape_query_2.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_3",
+        "image": [
+            "shapes_count/img/shape_query_3.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_4",
+        "image": [
+            "shapes_count/img/shape_query_4.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_5",
+        "image": [
+            "shapes_count/img/shape_query_5.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_6",
+        "image": [
+            "shapes_count/img/shape_query_6.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_7",
+        "image": [
+            "shapes_count/img/shape_query_7.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_8",
+        "image": [
+            "shapes_count/img/shape_query_8.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_9",
+        "image": [
+            "shapes_count/img/shape_query_9.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_10",
+        "image": [
+            "shapes_count/img/shape_query_10.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_11",
+        "image": [
+            "shapes_count/img/shape_query_11.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_12",
+        "image": [
+            "shapes_count/img/shape_query_12.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_13",
+        "image": [
+            "shapes_count/img/shape_query_13.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_14",
+        "image": [
+            "shapes_count/img/shape_query_14.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_15",
+        "image": [
+            "shapes_count/img/shape_query_15.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_16",
+        "image": [
+            "shapes_count/img/shape_query_16.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_17",
+        "image": [
+            "shapes_count/img/shape_query_17.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_18",
+        "image": [
+            "shapes_count/img/shape_query_18.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_19",
+        "image": [
+            "shapes_count/img/shape_query_19.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_20",
+        "image": [
+            "shapes_count/img/shape_query_20.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_21",
+        "image": [
+            "shapes_count/img/shape_query_21.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_22",
+        "image": [
+            "shapes_count/img/shape_query_22.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_23",
+        "image": [
+            "shapes_count/img/shape_query_23.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_24",
+        "image": [
+            "shapes_count/img/shape_query_24.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_25",
+        "image": [
+            "shapes_count/img/shape_query_25.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_26",
+        "image": [
+            "shapes_count/img/shape_query_26.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_27",
+        "image": [
+            "shapes_count/img/shape_query_27.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_28",
+        "image": [
+            "shapes_count/img/shape_query_28.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_29",
+        "image": [
+            "shapes_count/img/shape_query_29.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_30",
+        "image": [
+            "shapes_count/img/shape_query_30.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_31",
+        "image": [
+            "shapes_count/img/shape_query_31.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_32",
+        "image": [
+            "shapes_count/img/shape_query_32.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_33",
+        "image": [
+            "shapes_count/img/shape_query_33.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_34",
+        "image": [
+            "shapes_count/img/shape_query_34.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_35",
+        "image": [
+            "shapes_count/img/shape_query_35.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_36",
+        "image": [
+            "shapes_count/img/shape_query_36.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_37",
+        "image": [
+            "shapes_count/img/shape_query_37.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_38",
+        "image": [
+            "shapes_count/img/shape_query_38.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_39",
+        "image": [
+            "shapes_count/img/shape_query_39.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_40",
+        "image": [
+            "shapes_count/img/shape_query_40.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_41",
+        "image": [
+            "shapes_count/img/shape_query_41.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_42",
+        "image": [
+            "shapes_count/img/shape_query_42.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_43",
+        "image": [
+            "shapes_count/img/shape_query_43.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "circle"
+    },
+    {
+        "id": "query_44",
+        "image": [
+            "shapes_count/img/shape_query_44.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_45",
+        "image": [
+            "shapes_count/img/shape_query_45.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_46",
+        "image": [
+            "shapes_count/img/shape_query_46.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "square"
+    },
+    {
+        "id": "query_47",
+        "image": [
+            "shapes_count/img/shape_query_47.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_48",
+        "image": [
+            "shapes_count/img/shape_query_48.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "triangle"
+    },
+    {
+        "id": "query_49",
+        "image": [
+            "shapes_count/img/shape_query_49.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_50",
+        "image": [
+            "shapes_count/img/shape_query_50.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "shape",
+        "answer": "star"
+    },
+    {
+        "id": "query_51",
+        "image": [
+            "shapes_count/img/shape_query_51.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_52",
+        "image": [
+            "shapes_count/img/shape_query_52.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    },
+    {
+        "id": "query_53",
+        "image": [
+            "shapes_count/img/shape_query_53.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_54",
+        "image": [
+            "shapes_count/img/shape_query_54.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_55",
+        "image": [
+            "shapes_count/img/shape_query_55.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_56",
+        "image": [
+            "shapes_count/img/shape_query_56.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "black"
+    },
+    {
+        "id": "query_57",
+        "image": [
+            "shapes_count/img/shape_query_57.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_58",
+        "image": [
+            "shapes_count/img/shape_query_58.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_59",
+        "image": [
+            "shapes_count/img/shape_query_59.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_60",
+        "image": [
+            "shapes_count/img/shape_query_60.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_61",
+        "image": [
+            "shapes_count/img/shape_query_61.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_62",
+        "image": [
+            "shapes_count/img/shape_query_62.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    },
+    {
+        "id": "query_63",
+        "image": [
+            "shapes_count/img/shape_query_63.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_64",
+        "image": [
+            "shapes_count/img/shape_query_64.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_65",
+        "image": [
+            "shapes_count/img/shape_query_65.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_66",
+        "image": [
+            "shapes_count/img/shape_query_66.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_67",
+        "image": [
+            "shapes_count/img/shape_query_67.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_68",
+        "image": [
+            "shapes_count/img/shape_query_68.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    },
+    {
+        "id": "query_69",
+        "image": [
+            "shapes_count/img/shape_query_69.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_70",
+        "image": [
+            "shapes_count/img/shape_query_70.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_71",
+        "image": [
+            "shapes_count/img/shape_query_71.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_72",
+        "image": [
+            "shapes_count/img/shape_query_72.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "black"
+    },
+    {
+        "id": "query_73",
+        "image": [
+            "shapes_count/img/shape_query_73.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_74",
+        "image": [
+            "shapes_count/img/shape_query_74.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "black"
+    },
+    {
+        "id": "query_75",
+        "image": [
+            "shapes_count/img/shape_query_75.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_76",
+        "image": [
+            "shapes_count/img/shape_query_76.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_77",
+        "image": [
+            "shapes_count/img/shape_query_77.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_78",
+        "image": [
+            "shapes_count/img/shape_query_78.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    },
+    {
+        "id": "query_79",
+        "image": [
+            "shapes_count/img/shape_query_79.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    },
+    {
+        "id": "query_80",
+        "image": [
+            "shapes_count/img/shape_query_80.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_81",
+        "image": [
+            "shapes_count/img/shape_query_81.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_82",
+        "image": [
+            "shapes_count/img/shape_query_82.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_83",
+        "image": [
+            "shapes_count/img/shape_query_83.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_84",
+        "image": [
+            "shapes_count/img/shape_query_84.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_85",
+        "image": [
+            "shapes_count/img/shape_query_85.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_86",
+        "image": [
+            "shapes_count/img/shape_query_86.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "black"
+    },
+    {
+        "id": "query_87",
+        "image": [
+            "shapes_count/img/shape_query_87.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "black"
+    },
+    {
+        "id": "query_88",
+        "image": [
+            "shapes_count/img/shape_query_88.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_89",
+        "image": [
+            "shapes_count/img/shape_query_89.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_90",
+        "image": [
+            "shapes_count/img/shape_query_90.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    },
+    {
+        "id": "query_91",
+        "image": [
+            "shapes_count/img/shape_query_91.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_92",
+        "image": [
+            "shapes_count/img/shape_query_92.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    },
+    {
+        "id": "query_93",
+        "image": [
+            "shapes_count/img/shape_query_93.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_94",
+        "image": [
+            "shapes_count/img/shape_query_94.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_95",
+        "image": [
+            "shapes_count/img/shape_query_95.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_96",
+        "image": [
+            "shapes_count/img/shape_query_96.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "red"
+    },
+    {
+        "id": "query_97",
+        "image": [
+            "shapes_count/img/shape_query_97.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "yellow"
+    },
+    {
+        "id": "query_98",
+        "image": [
+            "shapes_count/img/shape_query_98.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    },
+    {
+        "id": "query_99",
+        "image": [
+            "shapes_count/img/shape_query_99.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "green"
+    },
+    {
+        "id": "query_100",
+        "image": [
+            "shapes_count/img/shape_query_100.png"
+        ],
+        "question": "Identify the minority in the image.",
+        "feature": "color",
+        "answer": "blue"
+    }
+]

@@ -1,0 +1,1902 @@
+[
+    {
+        "id": 0,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_1/00.png",
+            "data/pororov4/1-shot/sample_1/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Benjamin, wearing a yellow helmet and orange goggles, stands next to Henry, who has a pink body and is wearing a pink dress with a bow. They are positioned in a cozy indoor setting with wooden walls and a staircase in the background. Henry appears to be speaking to Benjamin, who is looking at her attentively.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Benjamin, wearing a yellow helmet and orange goggles, stands at a wooden table looking surprised. He is facing Henry, who is holding a plate with a cake. The background features a kitchen with an oven and various kitchen items on shelves. The overall scene suggests a friendly interaction between the two characters."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_3/00.png",
+            "data/pororov4/1-shot/sample_3/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William, a small orange fox with large ears and a cheerful expression, is standing inside a wooden cabin. He is holding a small object in his paw and smiling. Through the window behind him, snow-covered trees and a winter landscape are visible.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "William, a small orange fox with a white belly, is sitting at a wooden table inside a cozy room. He has a glass in front of him and is smiling happily. To his side, there is a wrapped gift on the table. The room features a wooden door and a window that lets in light, illuminating the stone floor."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_4/00.png",
+            "data/pororov4/1-shot/sample_4/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, William, the polar bear, stands in the center with his arms raised. To his left, Alexander, the green dinosaur, looks up with a curious expression. To William's right, Oliver, the orange fox, smiles brightly. The ground is covered in snow, and there are small snow mounds scattered around them. The sky above is clear and bright.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Alexander, William, and Oliver are standing together, all wearing knight helmets. Alexander, the green character, is positioned on the left, looking up with wide eyes. William, the white bear, is in the center, appearing larger and looking down at the others. Oliver, the orange fox, is on the right, also looking up. The background features a bright blue sky with a few clouds."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_6/00.png",
+            "data/pororov4/1-shot/sample_6/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, a pink bear character, is standing with her back to the viewer, holding a small bag in her right hand. She is positioned in front of a wooden door with a round window. The interior of the space has wooden walls and a green object visible to the right. Outside the door, a snowy landscape with trees can be seen through the window.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Sophia stands on a snowy path in front of a wooden cabin. The background features snow-covered trees and a mountain under a clear blue sky. Sophia has a pink body with a white belly and a cheerful expression, with snowflakes gently falling around."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_11/00.png",
+            "data/pororov4/1-shot/sample_11/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Isabella, wearing a brown aviator hat and orange glasses, stands on the left, looking up at Benjamin, a white bear wearing blue overalls with a \"P\" on them. Lucas, a small green dinosaur, stands on the right, also gazing at Benjamin. Snowflakes are falling around them, and evergreen trees are visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Isabella and Lucas are peeking out from behind a large tree. In the background, Benjamin is visible standing in front of a wooden house with a snow-covered roof. The scene is set outdoors, with a clear blue sky above."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_13/00.png",
+            "data/pororov4/1-shot/sample_13/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Lucas, a white bear wearing blue overalls, stands next to Lucas, a pink bear. They are surrounded by evergreen trees and mountains in the background. Lucas appears to be looking up, while Lucas points in the same direction. The bright blue sky adds to the cheerful atmosphere of the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the scene, Lucas, a large white bear wearing a blue shirt, stands next to Lucas, a small pink bear dressed in a pink outfit. They are inside a cozy room with wooden walls and a clock on the wall. Lucas is looking down at a wooden structure on the floor, while Lucas appears to be observing him with interest. There are framed pictures on the walls, adding to the homey atmosphere."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_14/00.png",
+            "data/pororov4/1-shot/sample_14/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Harper, a pink bear character, is standing in a cozy room holding an open book. There is a blue pot beside Harper, and various colorful paintings are visible on the walls. The setting appears warm and inviting, with wooden elements in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Harper, a pink bear character with a round face and a cheerful expression, stands in a snowy landscape. The background features snow-covered trees and a clear blue sky. Harper has a small tuft of hair on top of his head and a light-colored belly."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_15/00.png",
+            "data/pororov4/1-shot/sample_15/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan and Evelyn are in a cozy room. Ethan, the green dinosaur, is looking at Evelyn, the pink bear, who is smiling. They are standing next to a bucket on the floor. In the background, there is a colorful painting on the wall and a window with a round arch. The room has wooden walls and a warm atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Ethan and Evelyn are sitting together on a green couch. Evelyn, a pink bear with a flower on her head, is pointing at Ethan, who is a green dinosaur wearing a blue shirt. The background features a light-colored wall, adding to the cozy atmosphere of the scene."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_16/00.png",
+            "data/pororov4/1-shot/sample_16/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Mia, the white bear, stands on the left, gesturing with one paw. Next to him, Charlotte, the blue penguin wearing a yellow outfit and goggles, looks up attentively. To the right, Alexander, the pink bear, stands beside a snowman. The background features a cozy wooden house with a sloped roof, surrounded by snow-covered trees and mountains.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a snowy landscape, Mia, a white bear wearing blue overalls, stands on the left. Next to him is Charlotte, a small blue penguin with orange goggles and a brown aviator hat. On the right, Alexander, a pink bear, smiles brightly. The background features snow-covered mountains and evergreen trees under a clear blue sky."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_17/00.png",
+            "data/pororov4/1-shot/sample_17/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, James, a green dinosaur character, is seated in a colorful red toy rocket alongside a monkey character wearing glasses. The background is dark, suggesting a nighttime setting, with a faint light source illuminating the scene. The two characters appear to be engaged in an adventure, with James looking curious and the monkey smiling.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "The image features James, a green dinosaur character with large eyes and a wide smile. He is positioned in a cozy room with wooden walls and a bed in the background. A colorful poster is visible above him, along with a small shelf displaying various items. James appears cheerful and engaged in the scene."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_19/00.png",
+            "data/pororov4/1-shot/sample_19/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan, a small orange fox with large ears and a cheerful expression, is standing among green pine trees under a clear blue sky. He is positioned slightly to the right, with his paw raised as if waving. The background features a snowy landscape, adding to the wintery atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Ethan, a small orange fox with large ears and goggles, is sitting inside a mechanical contraption in a snowy landscape. The background features snow-covered hills and scattered ice formations. Ethan appears cheerful, with his eyes closed and a smile on his face, as he enjoys the moment in his unique vehicle."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_20/00.png",
+            "data/pororov4/1-shot/sample_20/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Ava, a white bear wearing blue overalls, stands next to Amelia, a pink bear. Amelia appears to be looking up, while Ava points in the same direction. The background features snow-covered trees and mountains under a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Ava, a white bear wearing blue overalls, stands next to Amelia, a pink bear with a flower on its head. They are inside a cozy room with wooden walls and shelves filled with potted plants. Amelia is holding a small plant, while Ava appears to be looking down at it. A table is visible in the foreground, adding to the warm atmosphere of the scene."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_28/00.png",
+            "data/pororov4/1-shot/sample_28/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lucas, Isabella, and Ethan are peeking out from behind a snowy structure at night. The scene is illuminated by a starry sky, and the snow-covered landscape surrounds them. Ethan, the white bear, is at the front, while Isabella, the pink bear, and Lucas, the orange fox, are positioned behind him, all looking curiously outward.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Lucas, Ethan, and Isabella are standing together in a snowy landscape, all wearing red Santa hats and festive outfits. The night sky is filled with stars, and snow-covered trees surround them. Lucas is on the right, with his orange fur and white belly, while Isabella, in the middle, has a pink appearance and a cheerful expression. Ethan, on the left, is a white bear with a large black nose, looking content as they all share the festive moment."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_31/00.png",
+            "data/pororov4/1-shot/sample_31/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava stands in a snowy landscape, wearing a pink dress with a bow. She has a cheerful expression, with her arms slightly raised as if she is excited. The background features a clear blue sky and a few green pine trees scattered across the white snow.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Ava stands at a wooden table inside a cozy room, holding a green object in front of her. She has a surprised expression on her face, and a window behind her shows a clear sky with a few clouds. The room features wooden walls and a door on the right, along with a box and some items on the table."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_33/00.png",
+            "data/pororov4/1-shot/sample_33/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy outdoor setting, Michael, a small blue penguin wearing a brown aviator hat and orange goggles, sits at a table covered with a yellow checkered tablecloth. Next to him is Alexander, a green dinosaur with large eyes, looking at a plate of food. On the other side, Charlotte, an orange fox with a white belly, is smiling while holding a utensil. A yellow character, resembling a robot, is also present at the table. The background features snow-covered trees, enhancing the winter atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Michael, Alexander, and Charlotte are gathered around a table inside a cozy room. Michael, the blue penguin wearing a brown aviator hat and orange glasses, is on the left, looking at Alexander. Alexander, the green dinosaur, is in the center with a curious expression. Charlotte, the orange fox, is on the right, appearing thoughtful with his eyes closed. The background features a round window and wooden walls, adding to the warm atmosphere of the scene."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_34/00.png",
+            "data/pororov4/1-shot/sample_34/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia, Ava, and Mia are standing together in a snowy landscape at night. They are all wearing Santa hats and festive red outfits. The sky is dark with stars visible, creating a wintery atmosphere. Ava is in the center, flanked by Mia on the left and Mia on the right.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Mia, Ava, and Mia are standing together in a snowy landscape, all wearing festive red Santa hats. Ava, the polar bear, is in the center, while Mia, the pink bear, is on the left and Mia, the orange fox, is on the right. The night sky is filled with stars, and snow-covered trees are visible in the background."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_37/00.png",
+            "data/pororov4/1-shot/sample_37/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Michael, the white bear, stands on the left, gesturing with one paw. Next to him, Oliver, the blue penguin wearing a yellow outfit and goggles, looks up at him. To the right, Oliver, the pink bear, smiles while standing beside a snowman. The background features a cozy cabin with a sloped roof and snow-covered trees, creating a winter scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a snowy landscape, Michael, a white bear wearing blue overalls, stands on the left. Next to him is Oliver, a small blue penguin with orange goggles and a brown aviator hat. On the right is Oliver, a pink bear with a cheerful expression. The background features snow-covered mountains and evergreen trees, creating a winter scene."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_38/00.png",
+            "data/pororov4/1-shot/sample_38/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, the polar bear, stands in a cozy room wearing blue overalls. He has a thoughtful expression as he looks slightly downward. The background features a wooden shelf filled with books and a window that lets in natural light, illuminating the warm tones of the room.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Sophia is walking through a snowy landscape, surrounded by tall evergreen trees covered in snow. The ground is blanketed in white, and Sophia's figure stands out against the winter scenery as he moves along a path. The scene captures a serene winter day in a forest setting."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_39/00.png",
+            "data/pororov4/1-shot/sample_39/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Amelia, the orange fox with a white belly, is smiling and interacting with Emma, the blue penguin wearing a brown aviator hat and large orange goggles. They are positioned close together, with Amelia appearing cheerful and Emma looking slightly surprised or concerned. The background features a soft, muted color, suggesting an indoor setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Amelia and Emma are standing on a snowy landscape. Amelia, wearing a blue helmet and goggles, is talking to Emma, who is wearing a yellow helmet with a \"P\" on it. In the background, there is a checkered flag and a small orange vehicle. Snow-covered trees are visible in the distance."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_43/00.png",
+            "data/pororov4/1-shot/sample_43/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: James and Mason are sitting side by side in a room. James is wearing a yellow helmet with a \"P\" on it and has large orange glasses. Mason has a pink body and a flower on her head. Both characters have surprised expressions on their faces. The background features a window and a simple interior setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "James, wearing a yellow helmet and blue outfit, is standing outside a wooden cabin in the snow, holding a large sack. Next to him, Mason, a pink bear, is looking at him with an expression of surprise. The background features snow-covered trees and a mailbox near the cabin."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_44/00.png",
+            "data/pororov4/1-shot/sample_44/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, William, the white bear, stands on the left, gesturing with one paw. Next to him, Oliver, the blue penguin wearing a yellow outfit and goggles, looks up at William. To the right, Isabella, the pink bear, stands beside a snowman, smiling. The background features a cozy wooden house with a sloped roof and snow-covered trees.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a snowy landscape, William, a white bear wearing blue overalls, stands on the left. Next to him is Oliver, a small blue penguin with orange glasses and a brown aviator hat. On the right is Isabella, a pink bear with a cheerful expression. The background features snow-covered mountains and evergreen trees, creating a winter scene."
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_45/00.png",
+            "data/pororov4/1-shot/sample_45/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail, a small orange fox, is running playfully on a snowy landscape alongside Mason, a pink bear. Ethan, a white polar bear, is also present, moving in the same direction. The background features snow-covered hills and a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Abigail, a small orange fox, stands on the left, looking serious with his eyes closed. In the center, Ethan, a white bear, stands tall and attentive. On the right, Mason, a pink bear, looks curious and engaged. The background features a snowy landscape with a clear blue sky and distant snow-covered hills."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_46/00.png",
+            "data/pororov4/1-shot/sample_46/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William, a small green dinosaur, stands next to William, a white bear wearing a blue shirt with a paw print. They are outdoors in a snowy area, with a large tree in the background. A pink bird is perched on a branch above them. The ground is covered in snow, and the scene suggests a playful atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "William and William are in a snowy outdoor setting. William, a small green dinosaur, is standing next to a wooden table, looking up at William, who is a white bear wearing a blue shirt. William is seated at the table, which has a scoreboard displaying the numbers \"3\" and \"4.\" Surrounding them are tall green trees, indicating a winter landscape. William appears to be holding a spoon, while William looks focused on the scoreboard."
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_47/00.png",
+            "data/pororov4/1-shot/sample_47/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oliver is sitting on a bed, wearing his signature aviator hat and glasses, while reading a book. James is next to him, looking up with a smile. The room features wooden walls and a shelf with books in the background, along with a poster on the wall. Both characters are under a light-colored blanket.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "James, Oliver are visible in the scene. Oliver stands on the right side of the image, wearing his signature aviator hat and looking towards a green couch. The couch is positioned against a wall with two windows on either side, allowing light to filter into the room. A book is placed on the couch, adding to the cozy atmosphere of the interior."
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_48/00.png",
+            "data/pororov4/1-shot/sample_48/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mason, the polar bear, is smiling and holding his paws close to his face. He has rosy cheeks and is positioned in a cozy interior, with a wooden wall and a window in the background. The scene conveys a sense of warmth and happiness.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Mason stands outside a snowy house, wearing a blue shirt and jeans. He has a small colorful crown on his head. The house features a window with blue shutters and a lantern beside the door. Snow covers the ground, creating a winter scene."
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_52/00.png",
+            "data/pororov4/1-shot/sample_52/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Ava are standing in a forest clearing. Michael, wearing a yellow helmet and blue outfit, is looking at Ava, who is dressed in a pink dress. Ava is holding a mushroom, and they are surrounded by green bushes and trees in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Ava, a pink bear wearing a pink dress, stands on a snowy path, facing Michael, a blue penguin wearing a yellow hat and goggles. The background features snow-covered mountains and evergreen trees under a clear blue sky. Michael appears to be animatedly talking to Ava, who looks slightly displeased."
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_53/00.png",
+            "data/pororov4/1-shot/sample_53/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte, Charlotte, and Henry are gathered on a snowy surface near a set of icy steps. Charlotte, the orange fox, is positioned on the left, while Charlotte, the pink bear, is in the center, and Henry, the white bear, stands on the right. A small, colorful bird is flying above them in the background. The scene is set against a backdrop of snow-covered hills and trees.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Charlotte, a small orange fox, stands on the left with a thoughtful expression. In the center, Henry, a white bear, looks towards Charlotte. On the right, Charlotte, a pink bear, appears cheerful as they all gather in a snowy landscape. The background features a clear blue sky and snow-covered hills, with a few evergreen trees scattered around."
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_55/00.png",
+            "data/pororov4/1-shot/sample_55/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte stands on a snowy surface, wearing a yellow helmet with a blue \"P\" on the front and a blue outfit. He looks down at a broken orange object beside him, surrounded by falling snowflakes. The background features a gray, overcast sky, enhancing the wintery scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Charlotte stands in a snowy landscape, surrounded by tall evergreen trees under a bright blue sky. He has a thoughtful expression, with his finger on his beak, wearing his signature aviator hat and large orange glasses. The snow-covered ground reflects the sunlight, creating a cheerful winter scene."
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_61/00.png",
+            "data/pororov4/1-shot/sample_61/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Evelyn, the blue penguin wearing a brown aviator hat and orange glasses, stands on the left. Next to him is James, the pink bear with a cheerful expression, positioned in the center. On the right, Henry, the orange fox with a white belly, has a mischievous look. The background features snow-covered trees and a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Henry, Evelyn, and James stand together in a snowy landscape. Henry, the orange fox, is on the left, smiling and wearing ski gear. Evelyn, the blue penguin with goggles, is in the center, looking surprised. James, the pink bear, is on the right, also smiling. Snow-covered trees are visible in the background, and the ground is covered in snow."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_62/00.png",
+            "data/pororov4/1-shot/sample_62/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Mason, the polar bear, stands in the center with a raised paw, appearing to wave. To his left, Oliver, a small green dinosaur, looks up at him, while on his right, Ava, an orange fox, stands with a cheerful expression. The background features a clear blue sky and snow-covered ground, with a small igloo-like structure behind them.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the snowy landscape, Mason, the polar bear, stands in the center with his arms raised. To his left, Oliver, the green dinosaur, looks up with a curious expression. On Mason's right, Ava, the orange fox, smiles broadly. The background features soft, white snow mounds and a clear blue sky."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_64/00.png",
+            "data/pororov4/1-shot/sample_64/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael, wearing a yellow helmet and blue outfit, is talking to James, who is wearing goggles and a blue overall. They are standing in a snowy landscape with evergreen trees in the background. The ground is covered in snow, and there is a wooden structure behind them.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "James and Michael are standing on a snowy landscape. Michael is wearing a yellow helmet and blue outfit, while James has on a blue helmet and goggles. In the background, there are snow-covered trees and a checkered flag marking a race start line. A small vehicle is parked nearby, adding to the scene's racing theme."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_65/00.png",
+            "data/pororov4/1-shot/sample_65/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Alexander, wearing his signature goggles and aviator hat, is sitting at a round table with Mason, a small green dinosaur, and Ava, a white bear wearing blue overalls. They are engaged in conversation, with Alexander animatedly speaking while Mason looks on curiously. Ava is positioned to the left, leaning slightly forward. The background features a window showing a view of trees and a bookshelf filled with colorful books. A cup is placed on the table in front of Alexander.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a snowy landscape, Alexander, wearing a blue outfit and goggles, stands beside Mason, a small green dinosaur. They are looking up at Ava, a large white bear dressed in a blue shirt and gray pants. The background features snow-covered trees and a cloudy sky, creating a winter scene."
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_66/00.png",
+            "data/pororov4/1-shot/sample_66/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Lucas, the polar bear, stands in the center holding a basket filled with red apples. Emma, the green dinosaur, is positioned to the left, looking up at Lucas with curiosity. Ethan, the orange fox, is on the right, smiling and looking at Lucas as well. A small pink bird is perched on the edge of Lucas's basket. The background features a simple interior with wooden shelves and a warm color palette.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the snowy landscape, Lucas, the polar bear, stands in the center with his paws raised. To his left, Emma, the green dinosaur, looks up at him, while to his right, Ethan, the orange fox, smiles broadly. The background features soft, white snow mounds and a clear blue sky above."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_67/00.png",
+            "data/pororov4/1-shot/sample_67/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Amelia, a small orange fox with large ears, stands in front of a wooden table inside a cave. On the table, there is a plate with three red apples. Amelia appears to be looking at the apples with interest. The cave walls are brown, and the lighting is warm, creating a cozy atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Amelia, the orange fox character, is holding a piece of paper with a cheerful expression. He is positioned in a room with wooden walls and a light-colored floor. The background features a simple, cozy setting, but no additional objects or characters are visible."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_70/00.png",
+            "data/pororov4/1-shot/sample_70/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma, Emma, and Lucas are standing together in a snowy landscape. Emma, the blue penguin wearing a brown aviator hat and orange goggles, is on the left. Emma, the pink bear, is in the center with a surprised expression. Lucas, the orange fox with a white belly, is on the right. Snow-covered trees are visible in the background, completing the winter scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the snowy landscape, Emma, the blue penguin wearing a brown aviator hat and orange glasses, stands on the left, looking at Emma, the pink bear in the center, who has a surprised expression. On the right, Lucas, the orange fox with a white belly, appears to be frowning. The background features snow-covered trees and a clear blue sky."
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_73/00.png",
+            "data/pororov4/1-shot/sample_73/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte, a small orange fox, stands on the left, looking towards Harper, a pink bear, who is on the right. In the background, Sophia, a white polar bear, stands between them. The scene is set in a snowy landscape with a clear blue sky and snow-covered hills in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Charlotte, Harper, and Sophia are gathered on a snowy surface, with a staircase leading up to an icy structure in the background. Charlotte, the orange fox, is sitting beside Harper, the pink bear, who is smiling. Sophia, the white bear, stands behind them, looking towards the left. A small, colorful bird is flying above them. The scene is set in a winter landscape with snow-covered hills and trees in the distance."
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_74/00.png",
+            "data/pororov4/1-shot/sample_74/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail, a small green dinosaur, stands on the snowy ground, looking up at Ava, a large white bear wearing blue overalls. Ava is gesturing with one paw, while Abigail appears attentive. The background features tall evergreen trees and a clear blue sky, indicating a winter setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Abigail, the green dinosaur, stands next to Ava, the white bear, who is wearing a blue shirt with a paw print. Ava is raising a paw as if speaking, while Abigail looks up at him. The background features a light-colored wall and a window with a view of the outdoors."
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_77/00.png",
+            "data/pororov4/1-shot/sample_77/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael is peeking out from behind a stone pillar in a dimly lit environment. He has a green body and a red hat, with wide eyes focused on something in front of him. The background features gray stone walls and a floor that appears to be made of similar material.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the snowy landscape, Michael is wearing a blue shirt with a red \"P\" on it. He has a wide smile and is waving with his right hand. Surrounding him are tall evergreen trees covered in snow, creating a winter scene. The ground is blanketed in white snow, and the sky is clear with a hint of blue."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_79/00.png",
+            "data/pororov4/1-shot/sample_79/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Benjamin, a pink bear with a bow on her head, stands on the left, holding a small object in her hand. Next to her is Mia, a green dinosaur, who is looking at her with a focused expression. The background features wooden walls and a window with a snowy scene visible outside.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Mia, a green character wearing a blue shirt, is sitting on a couch and looking at Benjamin, a pink character with a red and white striped hat. Benjamin is smiling and holding a tIsabella bear. The background features a window with frost on the glass, suggesting a cold environment outside."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_80/00.png",
+            "data/pororov4/1-shot/sample_80/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma, the polar bear, is sitting with his paws clasped together, looking cheerful. The background features a simple room with a stone wall, a wooden shelf holding various items, and a bed visible to the side. The overall atmosphere suggests a cozy indoor setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Emma is sitting up in bed, looking at a small wooden house placed on a table beside him. The room has a simple wooden cabinet in the background and a cozy bed with a green blanket. The walls appear rocky, suggesting a cave-like environment."
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_81/00.png",
+            "data/pororov4/1-shot/sample_81/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Amelia, a small orange fox with large ears, is standing in a cozy room. He has a big smile on his face and is wearing blue overalls. Above him, a thought bubble shows Mia, a blue penguin wearing a yellow helmet and goggles, smiling back. The background features wooden walls and a window, suggesting a warm indoor setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Amelia and Mia are standing close together in a cozy indoor setting. Amelia, the orange fox with a white belly, has a playful expression, while Mia, the blue penguin wearing a brown aviator hat and orange glasses, appears to be listening intently. The background features soft, warm colors, suggesting a friendly atmosphere."
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_84/00.png",
+            "data/pororov4/1-shot/sample_84/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the scene, Ava, Evelyn, and James are all wearing knight helmets, standing together against a bright blue sky. Ava, the green character, is positioned on the left, looking up with a curious expression. Evelyn, the white bear, stands in the center, appearing larger and more authoritative. James, the orange fox, is on the right, looking slightly concerned. Above them, a small bird is flying in the sky. The background features fluffy clouds, enhancing the playful atmosphere of the scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the snowy landscape, Evelyn, the polar bear, stands in the center, waving with one paw. To his left, Ava, the green dinosaur, looks up at him with wide eyes. On Evelyn's right, James, the orange fox, stands with a cheerful expression. The background features a bright blue sky and snow-covered ground, with a small igloo-like structure behind them."
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_85/00.png",
+            "data/pororov4/1-shot/sample_85/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lucas, Mia, and Lucas are gathered around a wooden table inside a cozy room. Mia, the pink bear, is animatedly speaking, while Lucas, the orange fox, smiles brightly. Lucas, the blue penguin, listens attentively, wearing his signature goggles and hat. The background features a wall with various pictures and shelves filled with books.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Lucas, Lucas, and Mia are standing in a snowy landscape surrounded by evergreen trees. Lucas, the orange fox, is facing Lucas, the blue penguin wearing a brown aviator hat and glasses. Mia, the pink bear, stands to the right of Lucas, looking at the two. The sky is clear with a few clouds, and the ground is covered in snow."
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_86/00.png",
+            "data/pororov4/1-shot/sample_86/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia and Mason are playing with a soccer ball on a snowy surface. Sophia, the orange fox, is holding the ball while Mason, the blue penguin wearing a yellow and blue hat, is positioned nearby, ready to interact. The background features a white, snowy landscape with no other visible objects.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Sophia and Mason are sitting together inside a cozy wooden room. Sophia, the orange fox, has a surprised expression, while Mason, the blue penguin, wears his signature goggles and hat. They are positioned in front of a colorful block structure made from various shapes. The background features wooden walls and shelves filled with books and toys."
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_96/00.png",
+            "data/pororov4/1-shot/sample_96/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Mason, the polar bear, stands next to a small red car, gesturing with his paw. James, the penguin, is positioned in front of Mason, looking up at him. The background features a wooden structure, possibly a cabin or bridge, and snow-covered ground.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the scene, Mason, a white bear, stands with his back facing the viewer, while James, a small blue penguin wearing a brown aviator hat and orange glasses, is positioned in front of him, looking down. The background features a stone wall and shelves filled with books, along with a small cactus on a table. A framed picture hangs on the wall, adding to the cozy atmosphere of the room."
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_101/00.png",
+            "data/pororov4/1-shot/sample_101/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Harper, wearing a yellow hat and blue outfit, stands in front of a wooden cabin. He is facing Charlotte, who is dressed in pink and holding a basket. Harper, the green character, stands to the right of Harper, holding a red object. Snowmen are built nearby, and pine trees are visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a cozy room, Harper, wearing his signature aviator hat and glasses, stands in front of a bowl, looking intently at its contents. Next to him, Harper, the green dinosaur, leans in closely, sharing his curiosity. To the left, Charlotte, the pink bear, watches the scene with a cheerful expression. The wooden walls and furniture create a warm atmosphere in the background."
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_102/00.png",
+            "data/pororov4/1-shot/sample_102/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Mason, wearing a yellow helmet and blue outfit, stands on the left. Next to him is Henry, a green dinosaur, in a blue outfit. On the right is Charlotte, an orange fox, also dressed in blue. The background features snow-covered trees and a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a snowy landscape, Henry, a green dinosaur, stands on the left, looking curiously at Charlotte, an orange fox, who is smiling in the center. Mason, a blue penguin wearing a brown aviator hat and glasses, stands on the right, also smiling. Behind them, there are snow-covered trees and a wooden post. The sky is clear with a few clouds."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_103/00.png",
+            "data/pororov4/1-shot/sample_103/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma stands on a wooden balcony overlooking a snowy landscape filled with evergreen trees and mountains in the background. He is wearing a blue shirt and looking up at a colorful bird perched on a snow-covered tree stump. The sky is bright with a few clouds scattered throughout.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Emma is sitting at a table, holding an open book with a dark blue cover. He has a white fur coat and a large black nose. The background features a wooden cabinet and some framed pictures on the wall, creating a cozy indoor setting."
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_104/00.png",
+            "data/pororov4/1-shot/sample_104/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan, Benjamin, and Abigail are gathered around a table, looking at a stack of pancakes. Benjamin, the pink bear, is smiling excitedly, while Ethan, the green dinosaur, has a curious expression. Abigail, the white bear, is also smiling, and they all have glasses of orange juice in front of them. The background features a cozy wooden interior with a window showing a sunny day outside.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the snowy landscape, Ethan, a green dinosaur, stands on the left, looking up. In the center, Abigail, a white bear wearing blue overalls with a \"P\" on them, stands tall. On the right, Benjamin, a pink bear, smiles brightly. The background features snow-covered trees and a clear blue sky."
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_105/00.png",
+            "data/pororov4/1-shot/sample_105/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy indoor setting, Mia, the blue penguin wearing a brown aviator hat and orange glasses, stands on the left. Next to him is Alexander, the orange fox with a white belly, who is positioned in the center. On the right, Sophia, the white polar bear, stands with a round black nose. They are gathered around a wooden table, which has a small vase with flowers on it. The background features wooden walls and a warm, inviting atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Alexander, the orange fox, and Mia, the blue penguin wearing goggles, are smiling and standing close together in the foreground. Behind them, Sophia, the white bear, is watching from a distance. The background features a snowy landscape with trees and snow-covered ground under a clear blue sky."
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_106/00.png",
+            "data/pororov4/1-shot/sample_106/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma, Henry, and Mason are gathered outside a cozy wooden house in a snowy landscape. Emma, wearing his signature blue outfit and goggles, stands on the left, while Henry, the green dinosaur, is in the center, looking curiously at Mason. Mason, the pink bear, is on the right, wearing a pink dress and smiling as she interacts with her friends. Snow covers the ground, and the house has a rounded entrance, adding to the wintery scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a snowy landscape, Emma, wearing a brown aviator hat and orange goggles, stands at the forefront. Next to him is Mason, a pink bear with a cheerful expression. Henry, a green dinosaur, stands on the other side of Emma. The background features snow-covered trees, creating a winter scene."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_107/00.png",
+            "data/pororov4/1-shot/sample_107/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oliver, a pink bear character with a bow on her head, stands inside a cozy room. The background features wooden cabinets and a warm, inviting atmosphere. Oliver has a concerned expression on her face, suggesting she is engaged in a serious conversation or thought.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Oliver is sitting at a wooden table inside a cozy room, smiling and holding a flower. The background features a clock on the wall and framed pictures, including one of Oliver. There is also a drawing of flowers on an easel nearby."
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_110/00.png",
+            "data/pororov4/1-shot/sample_110/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy interior, Evelyn, an orange fox with a white belly, stands on the left, looking at Abigail, a pink bear wearing a dress. Abigail is positioned on the right, appearing to engage in conversation. In the foreground, a white rabbit is lying on the floor. The background features wooden walls and framed pictures, adding to the homey atmosphere. A yellow character is partially visible in the background, observing the interaction.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Evelyn, the orange fox, is smiling and holding a small brown object in his paws while facing Abigail, the pink bear. Abigail appears cheerful and is looking at Evelyn. The background features a bright blue sky with a few clouds and a snowy landscape, including distant trees."
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_111/00.png",
+            "data/pororov4/1-shot/sample_111/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Michael, a white bear wearing blue overalls with a \"P\" on them, stands in front of a small wooden house. Beside him is Charlotte, a green dinosaur with large eyes. The background features tall evergreen trees and a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Michael, a white bear wearing a blue shirt, stands next to Charlotte, a green dinosaur with large eyes and a scarf. They are inside a cozy room with wooden walls and shelves. Michael appears to be speaking to Charlotte, who is looking up at him. On the wall behind them, there is a poster and some decorative items on the shelves."
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_112/00.png",
+            "data/pororov4/1-shot/sample_112/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan, Charlotte, and Ethan stand together in a snowy landscape. Ethan, the blue penguin wearing a brown aviator hat and orange glasses, is on the left. Charlotte, the pink bear, is in the center with a surprised expression. Ethan, the orange fox with a white belly, is on the right, looking curious. Behind them, there are snow-covered trees and a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Ethan, Ethan, and Charlotte are standing together on a snowy surface, each wearing skis. Ethan is on the left, with a bright orange color and a cheerful expression. Ethan, in the center, is wearing a brown aviator hat and has large round glasses. Charlotte is on the right, with a pink color and a playful smile. The background features a clear blue sky and snow-covered hills."
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_113/00.png",
+            "data/pororov4/1-shot/sample_113/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William, a pink bear, stands outside a snowy house, looking at William, a blue penguin wearing a brown aviator hat and orange goggles. William holds a basket, while William stands in the doorway, smiling. Snow-covered trees are visible in the background under a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "William and William are standing at a wooden table in a snowy outdoor setting. William, a pink bear, is looking at William, who is wearing a yellow helmet and glasses. On the table, there is a small potted plant and a box. In the background, there are wooden structures and snow-covered trees."
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_114/00.png",
+            "data/pororov4/1-shot/sample_114/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Mia, the blue penguin wearing a brown aviator hat and orange goggles, stands next to Alexander, the green dinosaur. They are positioned closely together in a dimly lit environment, with a blue glow illuminating their faces. The background appears to be a cozy interior, possibly a room or a cave.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Alexander, a green dinosaur, and Mia, a blue penguin wearing a yellow helmet, are sitting at a table filled with various dishes, including salads and a large main dish. Both characters have excited expressions as they look at the food in front of them. The background features wooden walls, adding to the cozy atmosphere of the setting."
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_116/00.png",
+            "data/pororov4/1-shot/sample_116/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alexander and William are standing together in a snowy landscape. William is wearing a yellow helmet and blue outfit, while Alexander has on glasses and a blue shirt. Behind them, there are tall evergreen trees and a wooden structure in the background. The ground is covered in snow, creating a winter scene.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the scene, William, wearing a yellow helmet with a blue outfit, stands next to Alexander, who has orange fur and a white belly. Both characters are holding small rolls of paper. In the background, there are snowy mountains and a clear blue sky, along with a few trees. Another character, a green creature, is partially visible on the left side of the image."
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_119/00.png",
+            "data/pororov4/1-shot/sample_119/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Alexander, a small orange fox, is peering into a hole along with Mia, a pink bear, and Abigail, a white bear. The three characters are looking down, their expressions curious. The background shows a clear blue sky, and the edges of the hole are rough and icy, indicating they are in a snowy environment.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Alexander, Abigail, and Mia are standing together in a snowy landscape at night. Each character is wearing a festive red Santa outfit with white trim. The background features snow-covered trees and a starry sky. Alexander is on the right, looking serious, while Abigail and Mia are on the left, appearing cheerful. Snowflakes are gently falling around them."
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_122/00.png",
+            "data/pororov4/1-shot/sample_122/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Abigail, Mia, and Sophia are playing together. Abigail, the green dinosaur, stands to the left, looking excited. Mia, the penguin wearing a brown aviator hat and glasses, is in the center, smiling. Sophia, the orange fox, is on the right, joyfully holding a purple balloon. Snow-covered trees surround them, creating a wintery atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the snowy landscape, Sophia, Abigail, and Mia stand together. Sophia, the orange fox, has a concerned expression, while Abigail, the green dinosaur, looks surprised. Mia, the blue penguin, wears a yellow helmet and appears attentive. All three characters are dressed in blue outfits, and the background features snow-covered trees and a wooden structure."
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_123/00.png",
+            "data/pororov4/1-shot/sample_123/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Isabella are sitting together on a couch in a cozy room. Michael, the green character, has a surprised expression and is holding a blue object in his hands. Isabella, the pink character, is looking at Michael with a slightly annoyed expression while holding a plate of food. The background features a window with a view of the outdoors and a small plant on the windowsill.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Michael and Isabella are standing together in a snowy landscape. Michael, the green dinosaur, is on the right, while Isabella, the pink bear, is on the left. They are surrounded by tall evergreen trees under a clear blue sky. Isabella appears to be smiling and looking at Michael, who is gesturing with one hand."
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_124/00.png",
+            "data/pororov4/1-shot/sample_124/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Charlotte, a small green dinosaur, stands on a snowy ground, looking up at Lucas, a large white bear wearing blue overalls. Lucas is gesturing with one paw, while Charlotte appears attentive. Surrounding them are tall evergreen trees, and the ground is partially covered in snow.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Charlotte, a small green dinosaur, stands next to Lucas, a white bear wearing a blue and white shirt. They are inside a room with shelves filled with various plants in the background. Charlotte appears to be looking at Lucas, who is seated at a wooden table. The setting has a warm, cozy atmosphere with wooden elements and a window visible in the background."
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_126/00.png",
+            "data/pororov4/1-shot/sample_126/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Mia, a white bear wearing blue overalls with a \"P\" on them, stands in front of a wooden cabin. Next to him is Michael, a small green dinosaur with large eyes. The background features tall evergreen trees and a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Michael, a small green character, stands next to Mia, a large white bear, in a cozy room. Michael holds a small object in his hands, looking up at Mia, who is wearing a blue shirt and appears to be speaking. The background features a window with light coming through, shelves filled with books, and a table with colorful gifts on it."
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_127/00.png",
+            "data/pororov4/1-shot/sample_127/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ethan, the orange fox, and Abigail, the blue penguin wearing goggles and a hat, are standing close together, smiling and interacting playfully in a snowy landscape. In the background, Emma, the white bear, watches them with a friendly expression. The scene is set against a clear blue sky and snow-covered hills, with a few evergreen trees visible.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Ethan, a small orange fox, and Abigail, a blue penguin wearing goggles and a pilot hat, are standing close together in a snowy landscape, smiling at each other. Behind them, Emma, a white bear, watches from a short distance. The background features a clear blue sky and several snow-covered hills. Other small white rabbits are scattered around in the scene."
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_129/00.png",
+            "data/pororov4/1-shot/sample_129/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma and Oliver are standing together inside a wooden structure. Emma, a pink bear with a bow on her head, appears to be speaking, while Oliver, a blue penguin wearing a yellow helmet and goggles, is listening. Snow-covered trees are visible outside through the openings in the structure.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Oliver, wearing a yellow helmet with a \"P\" on it, stands next to Emma, who has a pink body and a flower on her head. They both have surprised expressions as they look towards something off-screen. The background features a simple room with a window and light-colored walls."
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_131/00.png",
+            "data/pororov4/1-shot/sample_131/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: James, the orange fox, is dancing joyfully in a cozy room with wooden walls and a large bookshelf filled with colorful books. Isabella, the white bear, stands nearby, watching James with a smile. A window in the background shows a clear blue sky. A round wooden table is positioned in the center of the room.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "James, the orange fox, is standing outside a snowy structure, holding a brown box in front of him. In the background, Isabella, the white bear, is peeking out from the doorway of the structure, looking at James. Snow is visible on the ground and on the roof of the building."
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_134/00.png",
+            "data/pororov4/1-shot/sample_134/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: James and Michael are standing next to a small red car in a snowy outdoor setting. James, the polar bear, is reaching out towards the car, while Michael, the penguin, is looking up at him. In the background, there are snow-covered trees and a wooden structure, indicating a winter environment.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a cozy room, James, the polar bear, stands next to Michael, the penguin, who is wearing a brown aviator hat. The walls are adorned with a clock and a picture, while a wooden table holds a book and a black object. The floor is made of wooden planks, and the overall atmosphere is warm and inviting."
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_136/00.png",
+            "data/pororov4/1-shot/sample_136/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Amelia, Evelyn, and Lucas stand close together. Amelia, the blue penguin wearing a brown aviator hat and orange goggles, is on the left. Evelyn, the pink bear with a cheerful expression, is in the center. Lucas, the orange fox with a white belly, is on the right. Behind them, there are snow-covered trees and a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Lucas, Amelia, and Evelyn are standing together in a snowy landscape. Lucas, the orange fox, is smiling in the center, while Amelia, the blue penguin wearing goggles, is on the left, and Evelyn, the pink bear, is on the right. Snow-covered trees are visible in the background, creating a winter scene."
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_137/00.png",
+            "data/pororov4/1-shot/sample_137/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Benjamin stands at the open door of a cozy cabin, looking out into a snowy landscape. The interior of the cabin is visible, featuring wooden furniture and a warm atmosphere. Snow-covered trees can be seen in the background, indicating a winter setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Benjamin stands inside a cozy room with a wooden interior. She has a frown on her face and a flower on her head. A small pot sits on a table beside her, and a window with a stone arch can be seen in the background."
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_141/00.png",
+            "data/pororov4/1-shot/sample_141/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Mason, a pink bear wearing a dress, stands facing Henry, a green dinosaur in a blue outfit. Henry is seated on a yellow couch, looking at Mason with a surprised expression. Between them, there is a small brown tSophia bear on the floor. The room has a window with a view of the outside, and wooden walls create a warm atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Henry and Mason stand side by side in front of a wooden structure. Henry, the green character, wears a blue outfit and has a curious expression. Mason, the pink character, is dressed in a pink dress with a bow and has a cheerful smile. The background features a bright sky and wooden elements, suggesting an outdoor setting."
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_143/00.png",
+            "data/pororov4/1-shot/sample_143/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Henry, wearing a pilot hat and glasses, sits on the left, looking excited. Oliver, a small green dinosaur, is on the right, observing with wide eyes. In the center, Oliver is dressed in a knight's armor, standing proudly with a confident expression. The background features a wooden interior with a door and a warm atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Henry, Oliver, and Oliver are gathered in a room. Henry, the penguin wearing a brown aviator hat and orange glasses, stands on the left. Oliver, the green dinosaur, is in the center, holding a red object. Oliver, the white bear, is on the right, wearing blue overalls. The background features two wooden chairs and a neutral-colored wall."
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_145/00.png",
+            "data/pororov4/1-shot/sample_145/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Oliver, wearing a party hat and holding a colorful drink, stands on the left. William, the orange fox, smiles at Oliver while standing in the center. Michael, the green dinosaur, stands to the right, looking at the two with wide eyes. Ice formations and evergreen trees are visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, William, the orange fox, is smiling and standing in the snow, while Oliver, the pink bear, is positioned to his left, also smiling. Michael, the green dinosaur, is on the right side, looking at William and Oliver. The background features a snowy landscape with trees and a snowbank."
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_146/00.png",
+            "data/pororov4/1-shot/sample_146/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Charlotte, the white bear, stands at the front, flanked by Henry, the pink bear, and Michael, the orange fox. They are positioned together in a snowy alcove, with evergreen trees visible in the background. A colorful character can be seen flying in the sky above them. The scene captures a moment of camaraderie among the characters in a winter setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Michael, Henry, and Charlotte are gathered on a snowy slope. Charlotte, the polar bear, stands at the back, while Henry, the pink bear, and Michael, the orange fox, sit together in front. In the background, there are icy formations and a bright blue sky. A small pink bird is flying above them."
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_147/00.png",
+            "data/pororov4/1-shot/sample_147/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava and Abigail are standing together in a snowy environment. Abigail, wearing a yellow helmet and blue outfit, is facing Ava, who is wearing glasses and has an orange and white fur coat. In the background, there are tall evergreen trees and a wooden structure, indicating a winter setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Ava and Abigail are in a classroom setting. Abigail, wearing a brown aviator hat and large orange goggles, stands next to Ava, who has orange fur and large ears. They are both looking at a table filled with several test tubes containing colorful liquids. The background features a chalkboard and various drawings on the walls, creating a lively educational atmosphere."
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_149/00.png",
+            "data/pororov4/1-shot/sample_149/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Sophia, wearing a blue outfit and a yellow helmet, is standing next to Evelyn, who has a pink body and a cheerful expression. They are inside a kitchen with a wooden table and a yellow oven in the background. Evelyn is holding a cup, while Sophia looks at her with interest. The setting is warm and cozy, with various kitchen items visible around them.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Evelyn, a pink bear, stands outside a wooden door of a cozy cabin in a snowy landscape. She is facing Sophia, a blue penguin wearing a brown aviator hat and large orange goggles. Snow-covered trees are visible in the background, and a small sign is placed next to the cabin."
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_154/00.png",
+            "data/pororov4/1-shot/sample_154/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Mia and Ava are sitting together on a couch in a cozy room. Mia, the green character, has a surprised expression and is wearing a blue shirt. Ava, the pink character, is holding a plate with food and has a playful look on her face. The background features a window with a view of the outdoors and a small cactus on a shelf.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Mia and Ava stand side by side in a colorful outdoor setting. Mia, the green character, is wearing a blue outfit and has a curious expression. Ava, the pink character, is dressed in a pink dress with a bow on her head and is smiling. Behind them, there is a wooden structure and a bright blue sky."
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_156/00.png",
+            "data/pororov4/1-shot/sample_156/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Ava and James are standing together in a snowy landscape. Ava, a green dinosaur, has a curious expression, while James, a pink bear, is holding a drink and wearing a party hat. In the background, there are ice formations and evergreen trees under a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Ava, a green dinosaur, is standing next to James, a pink bear. They are inside a cozy room with wooden walls. James is smiling and looking at Ava, who appears to be gesturing with his hand. In front of them, there is a gray bucket on the floor. A colorful picture is visible on the wall behind them, adding to the playful atmosphere of the scene."
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_157/00.png",
+            "data/pororov4/1-shot/sample_157/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: William and Mia are standing in a snowy landscape surrounded by evergreen trees. William, a pink bear with a bow on her head, is looking at Mia, who is wearing a yellow helmet and orange glasses. Mia is holding a bowl, and they appear to be sharing food. The bright snow contrasts with their colorful outfits.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "William and Mia are in a snowy landscape surrounded by evergreen trees. William, a pink bear with a bow on her head, is holding a small bowl and offering something to Mia, a blue penguin wearing a yellow helmet and goggles. They are positioned close to each other, engaged in a friendly interaction. The background features a clear blue sky and more snow-covered ground."
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_159/00.png",
+            "data/pororov4/1-shot/sample_159/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Emma, a blue penguin wearing a brown aviator hat and orange glasses, stands next to Evelyn, a green dinosaur. Evelyn is lying on a bed with a light blue blanket, looking up at Emma. The background features wooden walls and a poster of Emma, along with a colorful wall clock and a shelf filled with books.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Evelyn, a green dinosaur wearing a blue shirt and red scarf, is standing inside a cozy room with a circular rug. He is looking towards Emma, a blue penguin with orange glasses and a brown aviator hat, who is standing at the door holding a green gift box. The background features a wooden wall and a couch with light green cushions."
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_160/00.png",
+            "data/pororov4/1-shot/sample_160/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail is sitting on the wooden floor in a cozy room, surrounded by colorful building blocks. He is wearing a blue shirt with red sleeves and has a cheerful expression. Behind him, there is a bed with a blue blanket and a window showing snow outside. A book titled \"Abigail's Adventure\" lies open in front of him.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Abigail stands in a snowy landscape, with a wooden house visible in the background. The ground is covered in snow, and the sky is clear. Abigail has a bright green body and large, expressive eyes, looking directly at the viewer."
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_161/00.png",
+            "data/pororov4/1-shot/sample_161/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Evelyn, wearing goggles and a blue outfit, is standing next to Benjamin, who is wearing a pink dress. They are in a snowy outdoor setting with trees in the background. Evelyn is holding a small red object, while Benjamin appears to be looking at him with a neutral expression. A wooden structure is visible behind them, suggesting they are engaged in an activity together.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Evelyn and Benjamin stand together in a snowy landscape. Benjamin, a pink bear with a round face and a small tuft of hair, looks slightly worried, while Evelyn, an orange fox with large ears and closed eyes, appears calm. The background features snow-covered hills and evergreen trees under a clear blue sky."
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_162/00.png",
+            "data/pororov4/1-shot/sample_162/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Michael and Mia are standing on a snowy landscape during sunset. Michael, the pink bear, is smiling and looking at Mia, who is holding a fishing rod. The background features a gradient of orange and yellow hues in the sky, with snow-covered hills and a few trees visible.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Mia, wearing a yellow helmet and orange goggles, stands at a wooden table looking surprised. He is facing Michael, who is holding a plate of cake. Michael, a pink bear, is smiling and wearing a pink dress. In the background, there is a kitchen setting with an oven and various kitchen items visible on the shelves."
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_163/00.png",
+            "data/pororov4/1-shot/sample_163/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Amelia, the polar bear, is standing in a kitchen with his arms raised as if he is excited or surprised. He is wearing a green sweater with an orange collar. Above him, a small pink bird is perched, looking down at him. The kitchen has a stove and various items on the counters, with a warm, cozy atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Amelia stands in a snowy landscape, surrounded by tall evergreen trees. The sky is bright blue with a few clouds. Amelia is wearing a brown shoulder bag and has a cheerful expression as he looks ahead. Snow covers the ground, creating a winter scene."
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_166/00.png",
+            "data/pororov4/1-shot/sample_166/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Lucas, Mason, and Michael are gathered around a table, looking at a book. Lucas, the green character, is on the left, while Mason, the pink character, is in the center, holding the book. Michael, the orange character, is on the right, smiling as they all engage with the book. The background features a cozy interior with a window and wooden elements.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Lucas, Mason, and Michael are sitting around a wooden table inside a cozy room. Lucas, the green dinosaur, is on the left, looking attentively at Mason, the pink bear, who is in the center, smiling and holding a red object. Michael, the orange fox, is on the right, also engaged in the conversation. A window in the background shows a snowy landscape outside."
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_168/00.png",
+            "data/pororov4/1-shot/sample_168/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Benjamin, a small orange fox with large ears and a white belly, stands inside a cozy wooden cabin. He appears to be thinking or pondering, with his right paw resting on his chin. The cabin has a door behind him and a window to the side, revealing a snowy landscape outside. The interior features wooden walls and a simple, warm atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Benjamin, a small orange fox with large ears and a white belly, stands inside a mechanical robot labeled \"EDDY-1.\" The robot has a metallic body with arms raised, and its face features a simple expression. The background shows a clear blue sky and snowy terrain, with some trees in the distance."
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_171/00.png",
+            "data/pororov4/1-shot/sample_171/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the image, Alexander, the orange fox, is smiling and standing in front of a snowy background. Mason, the pink bear, is positioned to the left, also smiling. Alexander, the green dinosaur, is on the right, looking at Alexander and Mason. Snow-covered hills and a bright blue sky are visible in the background.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Alexander, Mason, and Alexander are sitting around a wooden table inside a cozy room. Alexander, the green dinosaur, is on the left, looking attentively at Mason, the pink bear, who is in the center, smiling and holding a red object. Alexander, the orange fox, is on the right, also engaged in the conversation. A window in the background shows a snowy landscape outside."
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_172/00.png",
+            "data/pororov4/1-shot/sample_172/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, Alexander, and Abigail are standing together in a snowy landscape. Alexander, the polar bear, is wearing blue overalls with a \"P\" on them. Abigail, the penguin, is wearing a brown aviator hat and orange goggles. Sophia, the pink bear, is smiling next to them. The background features snow-covered mountains and evergreen trees.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a snowy landscape, Alexander, the white bear, stands on the left, gesturing with one paw. Next to him, Abigail, the blue penguin wearing a yellow outfit and goggles, looks up at Alexander. To the right, Sophia, the pink bear, stands beside a snowman, smiling. The background features a cozy wooden house with a sloped roof and snow-covered trees."
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_173/00.png",
+            "data/pororov4/1-shot/sample_173/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Amelia, a small orange fox with large ears and a cheerful expression, is sitting in a wooden sled surrounded by snow-covered trees. The sky is bright blue with fluffy white clouds. Amelia appears to be enjoying the moment, with a colorful scarf draped around his neck.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Amelia, a small orange fox with large ears, is shown in profile inside a room filled with potted plants on shelves in the background. The setting appears cozy, with a soft focus around Amelia, highlighting his features and the greenery behind him."
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_176/00.png",
+            "data/pororov4/1-shot/sample_176/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Amelia and Lucas are in a snowy landscape surrounded by evergreen trees. Amelia, a pink bear with a bow on her head, is holding a bowl and looking at Lucas, who is wearing a yellow helmet and orange glasses. Lucas is about to eat something from the bowl that Amelia is offering him. The scene captures a moment of interaction between the two characters in a winter setting.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Lucas and Amelia are peeking out from behind a wooden structure. Lucas, wearing a yellow helmet with a \"P\" on it and round glasses, has a joyful expression. Amelia, with a pink body and a bow on her head, is smiling beside him. The background features a bright blue sky with fluffy clouds and snow-covered trees."
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_177/00.png",
+            "data/pororov4/1-shot/sample_177/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia, a small orange fox, stands on the left with a thoughtful expression. In the center, Isabella, a white bear, looks at Sophia and Alexander, who is on the right. Alexander, a pink bear, has a cheerful demeanor. The background features a snowy landscape with trees and a clear blue sky.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Sophia, a small orange fox, is sliding down a snowy slope with a big smile. Behind him, Alexander, a pink bear, is also sliding down, looking excited. Isabella, a white polar bear, stands at the top of the slope, watching them. In the background, there are snow-covered trees and a bright blue sky. A small bird is flying nearby."
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_178/00.png",
+            "data/pororov4/1-shot/sample_178/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Emma, wearing a yellow helmet and blue outfit, stands next to Amelia, who is dressed in a blue shirt and holding a stick. They are inside a cozy room with a window showing a snowy landscape outside. The background features wooden walls and a few items on a table.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Emma, wearing a pilot hat and goggles, stands on the left, looking surprised as he faces Amelia, who is on the right with a colorful headband and a curious expression. They are inside a cozy room with wooden walls, and a small shelf with various items is visible in the background."
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_180/00.png",
+            "data/pororov4/1-shot/sample_180/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Sophia, the polar bear, stands in the center with a raised paw, looking towards the viewer. To his left, Charlotte, a small green dinosaur, gazes up at him with wide eyes. On Sophia's right, Amelia, an orange fox, stands with a cheerful expression. The background features snow-covered trees and a small igloo-like structure.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the scene, Sophia, wearing a knight's helmet, stands in the center with a serious expression. To his left, Charlotte, also in a helmet, looks up at him with wide eyes. On Sophia's right, Amelia, wearing a similar helmet, appears curious. The background features a bright blue sky with a few clouds, and a small flying character can be seen above them."
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_185/00.png",
+            "data/pororov4/1-shot/sample_185/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Abigail and Ethan are sitting on a yellow couch in a cozy room. Abigail, the green character, is wearing a blue scarf and looking at Ethan, who has a frown and is holding a tWilliam bear. The background features a window with a snowy scene outside, and the walls are a warm beige color.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Abigail and Ethan stand side by side in front of a wooden structure. Ethan, wearing a pink dress with a bow, smiles brightly, while Abigail, dressed in a blue outfit, looks curiously at something off-screen. The background features a clear blue sky and hints of greenery."
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_187/00.png",
+            "data/pororov4/1-shot/sample_187/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In the snowy landscape, Evelyn, Mason, and Amelia stand together. Evelyn, the orange fox, has a concerned expression, while Mason, the green dinosaur, looks curious. Amelia, the blue penguin, wears a yellow helmet and appears attentive. They are all dressed in blue outfits, and the background features snow-covered trees and a wooden structure.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Amelia, Mason, and Evelyn are sitting at a table in a cozy room. They each have a glass in front of them, and there are empty plates on the table. The background features a window with a rounded arch and a shelf with various items. The characters are engaged in conversation, with Amelia wearing his signature blue outfit and goggles, Mason appearing green and curious, and Evelyn looking cheerful with his orange fur."
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_188/00.png",
+            "data/pororov4/1-shot/sample_188/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy forest, Abigail, the orange fox, stands on the left with a cheerful expression, holding a small object in his paw. Next to him, Abigail, the green dinosaur, looks on with a curious gaze. The background features tall evergreen trees dusted with snow, creating a wintery atmosphere.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In a snowy forest setting, Abigail, wearing blue overalls, is joyfully jumping in the air. Next to him, Abigail, an orange fox with a big smile, stands with a cheerful expression. To the left, a yellow robot character looks on with a neutral expression. The background features tall green trees covered in snow, creating a winter atmosphere."
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_193/00.png",
+            "data/pororov4/1-shot/sample_193/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Harper, wearing a bunny costume, stands with a cheerful expression. He is positioned slightly to the left, while Oliver, dressed in a pink outfit with a bow, stands to the right, looking at Harper. The background features a kitchen area with a window, a clock on the wall, and wooden furniture.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Harper, the orange fox, is sitting in bed, looking at Oliver, the pink bear, who is leaning in close. A green character is partially visible in the background. The room has wooden walls and a bookshelf filled with books. Light is coming through a window, illuminating the scene."
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_194/00.png",
+            "data/pororov4/1-shot/sample_194/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Oliver, Henry, and Isabella are gathered around a table inside a cozy room. Oliver, the green character, is on the left, looking curiously at a menu that Henry, the pink character in the center, is holding. Henry has a flower on her head and appears excited. Isabella, the orange character on the right, is also looking at the menu. A window in the background shows a glimpse of the outside scenery.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the scene, Isabella, the orange fox, is smiling and standing in front of a snowy background. Henry, the pink bear, is positioned to the left, also smiling. Oliver, the green dinosaur, is on the right, looking at Isabella and Henry. The snow-covered landscape features a mound of snow behind them, with a few trees visible in the background."
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_195/00.png",
+            "data/pororov4/1-shot/sample_195/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a cozy room, Ethan, Isabella, and Oliver are gathered around a wooden table. Ethan, wearing his signature goggles and a brown aviator hat, stands on the left. Isabella, the orange fox with a white belly, is in the center, looking cheerful. Oliver, the white bear, stands on the right, observing the scene. The background features a warm interior with wooden furniture and a few decorative items.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "Isabella, the orange fox, and Ethan, the blue penguin wearing goggles and a hat, are smiling and posing closely together in the foreground. Behind them, Oliver, the white bear, stands with a cheerful expression. The background features a snowy landscape with trees and ice formations under a clear blue sky."
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_196/00.png",
+            "data/pororov4/1-shot/sample_196/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: In a snowy landscape, Emma, a small blue penguin wearing a yellow helmet and goggles, stands next to Michael, a green dinosaur. They are facing Mia, a large white bear dressed in a blue shirt and pants. Pine trees are visible in the background, and the sky appears overcast, suggesting a cold winter day.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the scene, Mia, a white bear, stands on the left wearing a blue outfit, facing Michael, a green dinosaur, and Emma, a blue penguin with a brown aviator hat and orange glasses. Michael is positioned to the right of Emma, who is slightly in front of him. The background features a window with a view of trees and a round rug on the floor, while a green couch is visible behind Mia."
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "content": "A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.",
+        "task": "0",
+        "image": [
+            "data/pororov4/1-shot/sample_197/00.png",
+            "data/pororov4/1-shot/sample_197/01.png"
+        ],
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image.\nAnswer: Sophia and Isabella are standing together in a room filled with potted plants. Sophia, a small green character, is wearing a blue shirt and is looking up at Isabella, who is a white bear wearing a light blue shirt with a paw print. Isabella is smiling and appears to be interacting with Sophia, who is holding a small object in his hand. The background features shelves lined with various plants, adding to the cozy atmosphere of the space.\n<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the demos and give only the answer.\nAnswer:"
+            },
+            {
+                "from": "gpt",
+                "value": "In the image, Sophia, a small green character, stands next to Isabella, a large white bear. Sophia is wearing a colorful outfit and looking up at Isabella, who is dressed in a blue and white shirt and blue pants. They are inside a cozy room with wooden walls and a window showing daylight. A table in front of them has several wrapped gifts, and there are bookshelves filled with books in the background."
+            }
+        ]
+    }
+]

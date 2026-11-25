@@ -1,0 +1,122 @@
+[
+    {
+        "question_id": 0,
+        "target": "Ethan is in a room talking on the phone.  She has her left elbow resting on the telephone table.",
+        "prediction": "In this image, we see a cartoon character with red hair tied up in a bun. She is wearing a white dress and a necklace. She is holding a phone to her ear and has a surprised expression on her face. The background is a greyish green color.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 1,
+        "target": "Benjamin is standing at the doorway.",
+        "prediction": "In the image, there is a cartoon scene depicting a cave. The cave is depicted with a large, rounded entrance and a rough, rocky interior. The ground is covered in a dark, muddy substance, suggesting a recent rain or spill. \n\nIn the center of the image, there is a caveman standing in the cave. The caveman is wearing a loincloth and has a club in his hand. His expression is one of surprise or shock, as he appears to be looking at something off-screen. His hair is wild and unkempt, and he has a thick beard.\n\nTo the left of the caveman, there is a wooden door with a sign on it. The door is white and has a simple, rustic design. The sign on the door reads \"Caveman's Clubhouse\" in a bold, black font. The door is slightly ajar, and the caveman's club is leaning against it.\n\nIn the background, there are various cave-like features, including stalactites and stalagmites. The overall atmosphere of the image is humorous and playful, with the caveman's expression and the sign on the door adding to the comedic effect.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 2,
+        "target": "Benjamin is looking for Charlotte out the window.",
+        "prediction": "In this image, we can see a cartoon picture. In this picture, we can see a person standing and holding a board. In the background, we can see a rock.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 3,
+        "target": "Benjamin and Charlotte are talking in a pool hall. Benjamin is sitting on a pool table and Charlotte is leaning on it.",
+        "prediction": "In the image, there are two cartoon characters, Fred Flintstone and Barney Rubble, standing at the edge of a cliff. Fred Flintstone, on the left, is wearing a brown shirt and a loincloth, while Barney Rubble, on the right, is wearing a yellow shirt and a loincloth. Both characters have large heads and exaggerated facial features, which is typical of the Flintstones cartoon style. They are looking down at a large, green, rectangular object below them. The object appears to be a pool or a large body of water, as there is a reflection of the sky on its surface. The background of the image shows a rocky, cave-like structure, which is consistent with the Flintstones' prehistoric setting.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 4,
+        "target": "Charlotte is lying on the floor and Benjamin runs up to him while speaking and gesturing with his hands.",
+        "prediction": "In this image we can see a cartoon picture. In this picture we can see two persons. One person is standing and the other person is lying on the ground. In the background we can see a wall, door and a board.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 5,
+        "target": "William is at the office. He is upset.",
+        "prediction": "In the image, there is a cartoon character with a large head and a prominent mustache. The character is wearing a blue shirt and a bow tie. He is standing in front of a wall with a sign that has the number \"39\" on it. The character is looking up at the sign with a surprised expression on his face. The background of the image is a light blue color, and the character's body is outlined in black.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 6,
+        "target": "James and Benjamin are standing in a room while James looks at a James on her finger.",
+        "prediction": "In this image, we can see an animated picture. In this image we can see a woman holding a baby.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 7,
+        "target": "Benjamin is in a room sitting on a bench carving words into a stone tablet as he looks onto the right and talks to someone.",
+        "prediction": "In the image, there is a cartoon character, Fred Flintstone, sitting on a stone bench. He is wearing a loincloth and has a club in his hand. In front of him, there is a stone tablet with a message written on it. The message reads, \"Yabba Dabba Doo!\" The background of the image is a cave, with stone walls and a stone floor.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 8,
+        "target": "Benjamin is standing behind Charlotte in the yard while he is pulling something in front of him. Charlotte is speaking to him angrily.",
+        "prediction": "Fred and Barney are standing in a cave. Fred is holding a club.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 9,
+        "target": "Ethan looks around the doorway.",
+        "prediction": "In this image, we can see a cartoon picture. In this picture, we can see a woman.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 10,
+        "target": "Charlotte is yelling while wearing a fake mustache in his room.",
+        "prediction": "In this image, we can see an animated picture of a man. He is wearing a dress.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 11,
+        "target": "James talks to Benjamin while he reads something in the living room.",
+        "prediction": "In this image, we see a cartoon scene from the Flintstones. The scene is set in a cave, with a stone-age setting. The characters are Fred Flintstone and Wilma Flintstone. Fred is sitting on a stone bench, holding a paper and a pen, while Wilma is standing beside him, looking at him with a stern expression. Fred is wearing a loincloth and a fur vest, while Wilma is wearing a dress made of animal skin. The background shows a cave wall with a stone door and a stone table with a cup on it. The overall style of the image is reminiscent of the classic Flintstones cartoons, with exaggerated features and a humorous tone.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 12,
+        "target": "Benjamin raises his club in the air.",
+        "prediction": "In this image, we see a cartoon character, likely a caveman, standing on a grassy area. The caveman is depicted with a club in his hand, which he is using to hit a golf ball. The caveman is wearing a loincloth and a hat, and he has a determined expression on his face. The background of the image features a stone wall and a few flowers, adding a touch of nature to the scene. The golf ball is in mid-air, suggesting that the caveman has just hit it. The image is likely a humorous take on the sport of golf, as it features a caveman in a modern-day activity.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 13,
+        "target": "Ethan is standing in a room. She is talking on the phone.",
+        "prediction": "In this image, we see a cartoon character with red hair and a white dress. She is holding a white telephone in her right hand. The background is a blue color.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 14,
+        "target": "Charlotte is singing into a microphone and throws his arms wide and leans back as he sings.",
+        "prediction": "In this image we can see a cartoon picture of a man. He is wearing a scarf and a dress.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 15,
+        "target": "Ethan sits in the living room. She talks on the phone.",
+        "prediction": "In the image, there is a cartoon character, likely a woman, depicted in a prehistoric setting. She is wearing a white dress and has red hair tied back in a ponytail. The character is sitting on a large stone, which is part of a pile of stones or rocks. The background shows a cave-like environment, with rough, rocky walls and a dark, shadowy interior. The character appears to be looking at a small, rectangular object, possibly a tablet or a piece of paper, which she is holding in her hands. The image has a humorous and light-hearted tone, typical of cartoons, and the character's expression suggests curiosity or surprise.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 16,
+        "target": "Benjamin is in the backyard. He is carrying a bucket of water.",
+        "prediction": "In this image, we can see a cartoon picture of a man. He is wearing a bag. He is standing on the ground. In the background, we can see the wall and the sky.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 17,
+        "target": "Ethan is standing in a room. She is talking. She doesn't look happy.",
+        "prediction": "In the image, there is a cartoon character with a distinctive appearance. The character has a round, red head with a prominent, curly hairstyle that resembles a beehive. The hair is styled in a way that it is pulled back and secured with a red bow. The character's face is oval-shaped with a small, pointed chin and a wide, expressive mouth. The eyes are large and almond-shaped, giving the character a wide-eyed and surprised expression. The character is wearing a white dress with a high collar and a white necklace with a large, round pendant. The dress has a flowing, A-line skirt that reaches down to the character's ankles. The character's arms are slender and have a slightly elongated shape, with long, white sleeves that extend to the wrists. The character's hands are not visible in the image.\n\nThe background of the image is a solid, dark color, which makes the character stand out prominently. The character's expression and attire suggest that she might be a character from a cartoon or animated series, possibly from the 1960s or 1970s, given the retro style of the character's design. The character's overall appearance is reminiscent of the Flintstones, a popular animated series from the 1960s, where the main female character, Wilma Flintstone, has a similar hairstyle and style of dress.\n\nThe image does not contain any other objects or characters, and there are no text or additional elements present. The focus is solely on the cartoon character, which is the main subject of the image.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 18,
+        "target": "Charlotte is in a room. He is mad with a bottle in his hand.",
+        "prediction": "In this image, we can see a cartoon picture of a man holding a bottle in his hand.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    },
+    {
+        "question_id": 19,
+        "target": "Charlotte is disguised in a dino costume in the living room",
+        "prediction": "In the image, there is a cartoon character standing in a room. The character is wearing a purple dinosaur costume and has a big smile on its face. The character is standing on a blue floor and there is a lamp on the left side of the image. There is also a chair in the background. The character is holding a book in its hand.",
+        "prompt": "<image>\nBased on the image, give a caption about this image. Your caption should provide enough detail about the image to give the viewer a sense of what is happening in the image. Learn from the previous images and captions.\nAnswer:"
+    }
+]

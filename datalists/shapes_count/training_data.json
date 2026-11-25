@@ -1,0 +1,3152 @@
+[
+    {
+        "id": "query_70",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_70.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "yellow"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_7",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "star"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_50",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_50.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "star"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_82",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_82.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "green"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_30",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_30.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "star"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_46",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_46.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "square"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_17",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_17.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "triangle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_20",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_20.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "triangle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_61",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_61.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "red"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_10",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "circle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_34",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_34.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "square"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_60",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_60.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "red"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_79",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_79.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_58",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_58.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "red"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_23",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_23.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "triangle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_47",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_47.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "triangle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_75",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_75.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "red"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_95",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_95.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "green"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_31",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_31.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "circle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_68",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_68.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_84",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_84.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "yellow"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_40",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_40.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "square"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_4",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "star"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_42",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_42.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "star"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_77",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_77.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "red"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_72",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_72.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "black"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_56",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_56.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "black"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_62",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_62.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "blue"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_2",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "star"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_66",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_66.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "yellow"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_91",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_91.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "green"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_73",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_73.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "green"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_89",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_89.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "green"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_35",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_35.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "square"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_22",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_22.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "triangle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_94",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_94.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "yellow"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_67",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_67.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "green"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_74",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_74.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "black"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_1",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "triangle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_15",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "square"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_16",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "circle"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_9",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "square"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_21",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_11.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_21.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "square"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_49",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_5.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_49.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "star"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_12",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: star\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "star"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_88",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_12.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_88.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "yellow"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_87",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_14.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_4.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_2.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: yellow\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_87.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "black"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_36",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: circle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_8.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: triangle\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_shape_1.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: square\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_36.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "square"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_71",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_9.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_16.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_3.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_10.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: blue\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_71.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "green"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "query_96",
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "Learn from the demos and give only the answer to the final question."
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_15.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: green\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_13.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_6.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: red\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_support_color_7.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: black\n"
+                    },
+                    {
+                        "type": "image",
+                        "image": "shapes_count/img/shape_query_96.png"
+                    },
+                    {
+                        "type": "text",
+                        "text": "Question: Identify the minority in the image. Answer: \n"
+                    }
+                ]
+            },
+            {
+                "role": "assistant",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": "red"
+                    }
+                ]
+            }
+        ]
+    }
+]
